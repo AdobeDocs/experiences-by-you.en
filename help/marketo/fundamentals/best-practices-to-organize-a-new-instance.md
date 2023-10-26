@@ -7,6 +7,7 @@ doc-type: Feature Video
 last-substantial-update: 2023-07-11
 jira: KT-13608
 thumbnail: 3421577.jpeg
+feature-set: Marketo Engage
 feature: Getting Started
 ---
 # Best practices to organize a new [!DNL Marketo Engage] instance

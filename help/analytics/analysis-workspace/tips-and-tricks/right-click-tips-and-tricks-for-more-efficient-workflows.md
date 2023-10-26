@@ -1,6 +1,7 @@
 ---
 title: Right-click tips & tricks for more efficient workflows
 description: Here are 7 right-click tips you can use in Analysis Workspace to make your workflows more efficient.
+feature-set: Analytics
 feature: Workspace Basics
 role: User
 level: Beginner

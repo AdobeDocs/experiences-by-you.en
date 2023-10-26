@@ -7,6 +7,7 @@ doc-type: Feature Video
 last-substantial-update: 2023-05-30
 jira: KT-13263
 thumbnail: 3420096.jpeg
+feature-set: Marketo Engage
 feature: Smart Campaigns
 ---
 # Smart Campaigns 101

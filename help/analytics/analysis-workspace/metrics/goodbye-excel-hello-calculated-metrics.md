@@ -1,6 +1,7 @@
 ---
 title: Goodbye Excel, hello calculated metrics
 description: Learn the benefits of using calculated metrics in Adobe Analytics and how they can provide you with a continuous, dynamic view of your data in this article.
+feature-set: Analytics
 feature: Calculated Metrics
 role: User
 level: Experienced

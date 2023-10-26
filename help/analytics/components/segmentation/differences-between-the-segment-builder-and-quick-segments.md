@@ -1,6 +1,7 @@
 ---
 title: Differences between the segment builder and quick segments in Analysis Workspace
 description: Segments can be one of the most powerful tools in your data analysis toolkit. Learn the differences between using the segment builder and quick segments in Analysis Workspace for efficiency.
+feature-set: Analytics
 feature: Segmentation
 role: User
 level: Beginner

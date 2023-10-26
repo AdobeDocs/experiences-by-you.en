@@ -1,6 +1,7 @@
 ---
 title: Unlocking the power of read-only sharing in Analysis Workspace
 description: Learn how sharing Analysis Workspace projects as "read only" can create executive-ready dashboard reports with a clean user interface and predefined filtering options, as well as how the "mobile scorecard" can simplify sharing digital experience KPIs with executives on the go.
+feature-set: Analytics
 feature: Curate and Share
 role: User
 level: Experienced

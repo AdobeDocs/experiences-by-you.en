@@ -7,6 +7,7 @@ doc-type: Feature Video
 last-substantial-update: 2023-05-23
 jira: KT-13258
 thumbnail: 3419622.jpeg
+feature-set: Marketo Engage
 feature: Programs
 ---
 # Event Programs

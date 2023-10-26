@@ -1,6 +1,7 @@
 ---
 title: Translating Adobe Analytics technical language in a non-technical way
 description: With more eyes on the digital world than ever before, there’s a growing need to understand, analyze, and action the rich data available in your Adobe Analytics setup. This increased attention may surface a set of stakeholders who are completely new to the world of props and eVars. As your organization’s Adobe Analytics expert, you’re key to helping your stakeholders understand the technical details and make the most out of your Adobe Analytics investment.
+feature-set: Analytics
 feature: Admin Tools
 topic: Administration
 role: Admin

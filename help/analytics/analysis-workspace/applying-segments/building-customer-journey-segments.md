@@ -1,6 +1,7 @@
 ---
 title: Building Customer Journey Segments
 description: Learn how to create behavioral-based customer journey segments in Adobe Analytics and improve your customers' experience with Adobe Experience Cloud by following this step-by-step guide.
+feature-set: Analytics
 feature: Segmentation
 role: User
 level: Experienced

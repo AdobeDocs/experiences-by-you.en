@@ -1,6 +1,7 @@
 ---
 title: Understanding Adobe Analytics attribution panel and lookback windows
 description: Learn how to use the attribution panel and lookback window to understand customer behavior and customize how dimension items get credit for success events.
+feature-set: Analytics
 feature: Attribution
 role: User
 level: Experienced

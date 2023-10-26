@@ -1,6 +1,7 @@
 ---
 title: Create standardized code templates
 description: For a baseline implementation (i.e. what your company considers the must-have KPIs for all Adobe Analytics sites), your org should have a single implementation method where possible.
+feature-set: Analytics
 feature: Implementation Basics
 topic: Administration
 role: Admin

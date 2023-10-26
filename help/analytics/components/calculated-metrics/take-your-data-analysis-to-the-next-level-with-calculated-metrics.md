@@ -1,6 +1,7 @@
 ---
 title: Take your data analysis to the next level with Calculated Metrics
 description: Learn how a peer expert uses Calculated Metrics to create new metrics without changing their implementation and using the data already collected to help answer complex business questions.
+feature-set: Analytics
 feature: Calculated Metrics
 role: User
 level: Beginner

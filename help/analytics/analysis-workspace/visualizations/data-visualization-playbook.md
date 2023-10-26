@@ -1,6 +1,7 @@
 ---
 title: Adobe Analytics Data Visualization Playbook
 description: Data visualization is both an art and a science, requiring careful consideration of various factors. To help navigate some of these decisions, we have put together the Data Visualization Playbook.
+feature-set: Analytics
 feature: Visualizations
 role: User
 level: Beginner

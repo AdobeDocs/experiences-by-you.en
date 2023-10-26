@@ -1,6 +1,7 @@
 ---
 title: Are you asking the right questions?
 description: All of it. That is one of the most common stakeholder answers to the question - what data do you want to track? It can be more valuable to identify and collect the actionable data points than to record every possible element. Identifying those data points efficiently requires a basic plan and creative discussions with the stakeholders.
+feature-set: Analytics
 feature: Admin Tools
 topic: Administration
 role: Admin
