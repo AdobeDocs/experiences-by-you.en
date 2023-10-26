@@ -37,11 +37,11 @@ Tenderloin turkey chislic burgdoggen frankfurter brisket prosciutto turducken bi
 <table>
 <tr>
   <td>
-    <a href="/analytics/administration/admin-tips/create-a-news-and-announcements-project.md">
+    <a href="/help/analytics/administration/admin-tips/create-a-news-and-announcements-project.md">
       <img alt="Pork belly" src="/help/analytics/assets/33773.jpg" />
     </a>
     <div>
-      <a href="/analytics/administration/admin-tips/create-a-news-and-announcements-project.md">
+      <a href="/help/analytics/administration/admin-tips/create-a-news-and-announcements-project.md">
     <strong>Pork belly</strong>
     </a>
     </div>
@@ -50,11 +50,11 @@ Tenderloin turkey chislic burgdoggen frankfurter brisket prosciutto turducken bi
     <p>
   </td>
   <td>
-    <a href="/analytics/administration/admin-tips/create-a-news-and-announcements-project.md">
+    <a href="/help/analytics/administration/admin-tips/create-a-news-and-announcements-project.md">
       <img alt="Pork belly" src="/help/analytics/assets/33773.jpg" />
     </a>
     <div>
-      <a href="/analytics/administration/admin-tips/create-a-news-and-announcements-project.md">
+      <a href="/help/analytics/administration/admin-tips/create-a-news-and-announcements-project.md">
     <strong>Pork belly</strong>
     </a>
     </div>
@@ -63,11 +63,11 @@ Tenderloin turkey chislic burgdoggen frankfurter brisket prosciutto turducken bi
     <p>
   </td>
   <td>
-    <a href="/analytics/administration/admin-tips/create-a-news-and-announcements-project.md">
+    <a href="/help/analytics/administration/admin-tips/create-a-news-and-announcements-project.md">
       <img alt="Pork belly" src="/help/analytics/assets/33773.jpg" />
     </a>
     <div>
-      <a href="/analytics/administration/admin-tips/create-a-news-and-announcements-project.md">
+      <a href="/help/analytics/administration/admin-tips/create-a-news-and-announcements-project.md">
     <strong>Pork belly</strong>
     </a>
     </div>
