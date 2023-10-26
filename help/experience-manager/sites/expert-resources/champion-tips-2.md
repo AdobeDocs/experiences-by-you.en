@@ -6,7 +6,6 @@ seo-description: Learn how AEM Champion Greg Dimeris leveraged editable template
 role: User
 level: Beginner, Intermediate
 topic: Content Management
-feature: Learn From Your Peers
 ---
 # AEM Champion Tips and Tricks: Session 2
 

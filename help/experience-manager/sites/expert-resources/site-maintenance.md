@@ -5,7 +5,6 @@ role: Admin
 level: Beginner, Intermediate
 topic: Administration
 audience: author, marketer, developer
-feature: Learn From Your Peers
 ---
 # Site Maintenance Tips and Tricks
 

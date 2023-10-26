@@ -55,7 +55,7 @@ breadcrumb-title: Experiences by you
       + [More than words - Using text visualizations and descriptions](analytics/analysis-workspace/visualizations/more-than-words-using-text-visualizations-and-descriptions.md)
 + Campaign {#campaign}
   + Automate with workflow{#automating-with-workflows}
-    + [Workflow best practices](campaign/automating-with-workflows/workflow-best-practices-for-marketers.md)
+    + [Workflow best practices](campaign/workflow-best-practices-for-marketers.md)
   + Strategy & thought leadership{#strategy}
     + [Ten best practices for Adobe Campaign success for marketers](campaign/10-best-practices-for-marketers.md)
 + Experience Manager {#experience-manager}

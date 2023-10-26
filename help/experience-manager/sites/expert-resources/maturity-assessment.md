@@ -5,7 +5,6 @@ audience: author, marketer, developer
 role: Admin
 level: Intermediate
 topic: Administration
-feature: Learn From Your Peers
 ---
 # Your AEM Sites Maturity Assessment Checklist
 
