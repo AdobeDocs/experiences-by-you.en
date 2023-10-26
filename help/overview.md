@@ -15,10 +15,10 @@ Bacon ipsum dolor amet shoulder andouille pastrami, biltong meatball fatback chu
 
 ## What's new
 
-- **[Frankfurter brisket prosciutto](/analytics/administration/admin-tips/create-a-news-and-announcements-project.md)**
+- **[Frankfurter brisket prosciutto](/help/analytics/administration/admin-tips/create-a-news-and-announcements-project.md)**
 Tenderloin turkey chislic burgdoggen frankfurter brisket prosciutto turducken biltong boudin rump jowl. Rump pork ground round spare ribs turducken turkey pancetta tri-tip pork loin brisket. 
 
-- **[Tenderloin turkey chislic burgdoggen (Video)](/analytics/administration/admin-tips/create-a-news-and-announcements-project.md)**
+- **[Tenderloin turkey chislic burgdoggen (Video)](/help/analytics/administration/admin-tips/create-a-news-and-announcements-project.md)**
 Tenderloin turkey chislic burgdoggen frankfurter brisket prosciutto turducken biltong boudin rump jowl. Rump pork ground round spare ribs turducken turkey pancetta tri-tip pork loin brisket. Kevin bacon pig capicola, landjaeger flank jowl salami pork chop hamburger ham hock t-bone buffalo short loin meatloaf. Biltong pork short loin fatback shank chislic.
 
 </div>
