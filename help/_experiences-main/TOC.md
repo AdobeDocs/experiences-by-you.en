@@ -74,7 +74,7 @@ breadcrumb-title: Experiences by you
 + Marketo Engage {#marketo-engage}
   + Fundamentals {#fundamentals}
     + [Navigate the UI](/help/marketo/fundamentals/ui-navigation.md)
-    + [Audit an inherited instance - Tutorial](https://experienceleague.corp.adobe.com/docs/experiences-by-you/experiences-by-you/marketo/auditing-an-inherited-instance/overview.html)
+    + [Audit an inherited instance - Tutorial](https://experienceleague.adobe.com/docs/experiences-by-you/experiences-by-you/marketo/auditing-an-inherited-instance/overview.html)
   + Programs and campaigns {#programs-and-campaigns}
     + [Email programs](/help/marketo/programs/email-programs.md)
     + [Engagement programs](/help/marketo/programs/engagement-programs.md)
