@@ -32,7 +32,7 @@ breadcrumb-title: Experiences by you
     + Segmentation {#segmentation}
       + Applying Segments {#applying-segments}
         + [Building Customer Journey Segments](/help/analytics/analysis-workspace/applying-segments/building-customer-journey-segments.md)
-        + [Building Customer Journey Segments - Part 2]/help/(/help/analytics/analysis-workspace/applying-segments/building-customer-journey-segments-part-two.md)
+        + [Building Customer Journey Segments - Part 2](/help/analytics/analysis-workspace/applying-segments/building-customer-journey-segments-part-two.md)
       + [Differences between the segment builder and quick segments](/help/analytics/components/segmentation/differences-between-the-segment-builder-and-quick-segments.md)
       + [Now just wait a segment… Using segmentation to discover new insights](/help/analytics/components/segmentation/segmentation-to-discover-new-insights.md)
   + Analysis Workspace {#analysis-workspace}
@@ -74,7 +74,7 @@ breadcrumb-title: Experiences by you
 + Marketo Engage {#marketo-engage}
   + Fundamentals {#fundamentals}
     + [Navigate the UI](/help/marketo/fundamentals/ui-navigation.md)
-    + [Audit an inherited instance - Tutorial](/help/marketo-tutorial-inherited-instance/overview.md)
+    + [Audit an inherited instance - Tutorial](https://experienceleague.corp.adobe.com/docs/experiences-by-you/experiences-by-you/marketo/auditing-an-inherited-instance/overview.html)
   + Programs and campaigns {#programs-and-campaigns}
     + [Email programs](/help/marketo/programs/email-programs.md)
     + [Engagement programs](/help/marketo/programs/engagement-programs.md)
