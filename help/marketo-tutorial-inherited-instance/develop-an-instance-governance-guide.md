@@ -1,6 +1,7 @@
 ---
 title: Develop an instance governance guide with documentation
 description: Learn how to establish a robust procedure for creating and maintaining documentation and changelog for your Marketo Engage instance. This will not only save time for your team's knowledge sharing but also enhance the health and efficiency of your instance.
+feature-set: Marketo Engage
 feature: Administration
 role: Admin
 level: Intermediate, Experienced
@@ -45,7 +46,7 @@ A governance guide serves as the source of truth of the instance setup and syste
 
 ### Step 2: Identify the elements to be included in your [!DNL Marketo Engage] Documentation & [!DNL Changelogs]
 
-The format varies from a cloud-based platform to a shared document. You can design the format that caters to your organization's needs. [Here's a simple documentation & changelog excel template](/help/tutorial-inherited-instance/_assets/downloads/Adobe_Marketo_Engage_Inherited_Instance_Documentation-Changlog.xlsx) covering the important elements that you can get started with. These include:  
+The format varies from a cloud-based platform to a shared document. You can design the format that caters to your organization's needs. [Here's a simple documentation & changelog excel template](/help/marketo-tutorial-inherited-instance/_assets/downloads/Adobe_Marketo_Engage_Inherited_Instance_Documentation-Changlog.xlsx) covering the important elements that you can get started with. These include:  
 
 * Documentation
   * Program Template Name 
@@ -87,7 +88,7 @@ Schedule regular reviews of your documentation to ensure it remains accurate and
 
 ## What's Next?
 
-Get Started by downloading this [simple template](/help/tutorial-inherited-instance/_assets/downloads/Adobe_Marketo_Engage_Inherited_Instance_Documentation-Changlog.xlsx). 
+Get Started by downloading this [simple template](/help/marketo-tutorial-inherited-instance/_assets/downloads/Adobe_Marketo_Engage_Inherited_Instance_Documentation-Changlog.xlsx). 
 
 Follow the steps above to develop your governance guide and documentation. As you work through the process, keep these rules of thumb in mind:  
 
@@ -107,9 +108,9 @@ Maintaining comprehensive and up-to-date documentation for your Marketo Engage i
 [!DNL Adobe Marketo Champion] (2018)
 *[!DNL Digital Technology Senior Manager at Accenture]*
 
-![Nick Hajdin](/help/tutorial-inherited-instance/_assets/authors/Customer_Author_Nicholas_Hajdin.png){width="30%"}
+![Nick Hajdin](/help/marketo-tutorial-inherited-instance/_assets/authors/Customer_Author_Nicholas_Hajdin.png){width="30%"}
 
 **Amy Chiu**
 *Adoption & Retention Marketing Manager, Adobe*
 
-![Amy Chiu](/help/tutorial-inherited-instance/_assets/authors/Adobe_Author_Amy_Chiu.png){width=30%}
+![Amy Chiu](/help/marketo-tutorial-inherited-instance/_assets/authors/Adobe_Author_Amy_Chiu.png){width=30%}

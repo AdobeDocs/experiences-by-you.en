@@ -54,10 +54,10 @@ breadcrumb-title: Experiences by you
       + [Unlocking insights with histograms](/help/analytics/analysis-workspace/visualizations/unlocking-insights-with-histograms.md)
       + [More than words - Using text visualizations and descriptions](/help/analytics/analysis-workspace/visualizations/more-than-words-using-text-visualizations-and-descriptions.md)
 + Campaign {#campaign}
-  + Campaign Classic v7 (#campaign-classic-v7)
-    + Automate with workflow{#automating-with-workflows}
+  + Campaign Classic v7 {#campaign-classic-v7}
+    + Automate with workflow {#automate-with-workflows}
       + [Workflow best practices](/help/campaign/ac-v7/workflow-best-practices-for-marketers.md)
-  + Campaign Standard (#campaign-standard)
+  + Campaign Standard {#campaign-standard}
     + [Troubleshooting for Marketers](/help/campaign/acs/troubleshooting-for-marketers.md)
   + Strategy & thought leadership{#strategy}
     + [Ten best practices for Adobe Campaign success for marketers](/help/campaign/10-best-practices-for-marketers.md)

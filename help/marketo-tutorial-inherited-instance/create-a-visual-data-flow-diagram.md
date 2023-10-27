@@ -1,6 +1,7 @@
 ---
 title: Create a visual data flow diagram to understand your marketing tech stack
 description: Learn how to create a diagram of "Lead and data sources" to understand the data universe, to audit and tidy up the instance efficiently.  
+feature-set: Marketo Engage
 feature: Administration
 role: Admin
 level: Intermediate, Experienced
@@ -28,20 +29,20 @@ As an admin who takes over a [!DNL Marketo Engage] instance that has been live f
 
 Create a "Current State" diagram. Here is an example:
 
-![Current state diagram](/help/tutorial-inherited-instance/_assets/data-flow-diagram/Current_State_Lead_Data_Sources_KellyJo_Horton.png){align="center"}
+![Current state diagram](/help/marketo-tutorial-inherited-instance/_assets/data-flow-diagram/Current_State_Lead_Data_Sources_KellyJo_Horton.png){align="center"}
 
 
 ### Step 2: Future State Diagram
 
 Create a "Future State" diagram that can be used when presenting the technology and systems roadmap to non-technical stakeholders. Here is an example:  
 
-![Future state diagram](/help/tutorial-inherited-instance/_assets/data-flow-diagram/Future-State-Lead-Data-Sources-KellyJo-Horton.png){align="center"}
+![Future state diagram](/help/marketo-tutorial-inherited-instance/_assets/data-flow-diagram/Future-State-Lead-Data-Sources-KellyJo-Horton.png){align="center"}
 
 ### Step 3: Technical Version
 
 Create a technical version that shows details like the API username for each integration, a short description of the type of data being pushed to [!DNL Marketo Engage] or pulled from [!DNL Marketo Engage], and a detailed diagram of any middleware flows and triggers.  Here is an example:  
 
-![Technical version](/help/tutorial-inherited-instance/_assets/data-flow-diagram/Lead-Data-Source-Diagram-KellyJo-Horton.png){align="center"}
+![Technical version](/help/marketo-tutorial-inherited-instance/_assets/data-flow-diagram/Lead-Data-Source-Diagram-KellyJo-Horton.png){align="center"}
 
 
 ## What's Next?
@@ -121,9 +122,9 @@ These are a few tools that you can use: draw.io (Google Docs), Adobe XD, Figma, 
 Adobe Marketo Champion (2019)
 *Senior Client Partner at Etumos*
 
- ![Kelly Jo Horton](/help/tutorial-inherited-instance/_assets/authors/Customer_Author_Kelly_Jo_Horton.png){width="30%"}
+ ![Kelly Jo Horton](/help/marketo-tutorial-inherited-instance/_assets/authors/Customer_Author_Kelly_Jo_Horton.png){width="30%"}
 
 **Amy Chiu**
 *Adoption & Retention Marketing Manager, Adobe*
 
-![Amy Chiu](/help/tutorial-inherited-instance/_assets/authors/Adobe_Author_Amy_Chiu.png){width=30%}
+![Amy Chiu](/help/marketo-tutorial-inherited-instance/_assets/authors/Adobe_Author_Amy_Chiu.png){width=30%}

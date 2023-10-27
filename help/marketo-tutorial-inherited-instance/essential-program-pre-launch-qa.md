@@ -1,6 +1,7 @@
 ---
 title: Essential Program Pre-launch Quality Assurance QA Process for Success
 description: Learn how to develop a program pre-launch QA process to help your internal teams build and launch programs more accurately and efficiently.
+feature-set: Marketo Engage
 feature: Administration
 role: Admin
 level: Intermediate, Experienced
@@ -194,7 +195,7 @@ There may be items that are missing or not applicable as your team runs this exe
 
 ## What's Next?
 
-Click [here](/help/tutorial-inherited-instance/_assets/downloads/Adobe_Marketo_Engage_Inherited_Instance_Program_Prelaunch_QA_Checklist.xlsx) to download the editable program pre-launch checklist for you to customize. Remember this should be adapted to suit your organization's workflow. Developing an effective QA process keeps you accountable and limit customer-facing mistakes.
+Click [here](/help/marketo-tutorial-inherited-instance/_assets/downloads/Adobe_Marketo_Engage_Inherited_Instance_Program_Prelaunch_QA_Checklist.xlsx) to download the editable program pre-launch checklist for you to customize. Remember this should be adapted to suit your organization's workflow. Developing an effective QA process keeps you accountable and limit customer-facing mistakes.
 
 ### Authors
 
@@ -202,9 +203,9 @@ Click [here](/help/tutorial-inherited-instance/_assets/downloads/Adobe_Marketo_E
 Adobe Marketo Champion (2021)
 *Director of Client Strategy, APAC Region, Digital Pi, LLC - A Merkle Company*
 
-![Grace Brebner](/help/tutorial-inherited-instance/_assets/authors/Customer_Author_Grace_Brebner.png){width=30%}
+![Grace Brebner](/help/marketo-tutorial-inherited-instance/_assets/authors/Customer_Author_Grace_Brebner.png){width=30%}
 
 **Amy Chiu**
 *Adoption & Retention Marketing Manager, Adobe*
 
-![Amy Chiu](/help/tutorial-inherited-instance/_assets/authors/Adobe_Author_Amy_Chiu.png){width=30%}
+![Amy Chiu](/help/marketo-tutorial-inherited-instance/_assets/authors/Adobe_Author_Amy_Chiu.png){width=30%}
