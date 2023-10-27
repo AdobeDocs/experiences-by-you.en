@@ -1,7 +1,8 @@
 ---
 title: Troubleshooting for Marketers
 description: Knowing the most common errors can help with faster problem-solving and boost your productivity. These troubleshooting tips to help you effectively resolve similar errors as they occur.
-version: Standard
+solution: Standard
+feature-set: Campaign
 feature: Workflows
 role: User
 level: Beginner, Intermediate, Experienced
@@ -28,13 +29,13 @@ In my time using ACS, I've run into errors which can be time consuming and frust
 **Cause:** 
 These types of errors appear in a workflow when you try to reconcile using fields of different data types. For example, when you upload a file using load file which has a string field, and you try to reconcile the string field with a profile field that has data type of int.
 
-![data-type-mismatch-error](/help/assets/kt-13256/data-type-mismatch.png)
+![data-type-mismatch-error](/help/_assets/kt-13256/data-type-mismatch.png)
 
 **Solution:**
  Change the data type of the field in "Load file" activity to the one that you are matching with. Open the "Load File" activity. Move to the "COLUMN DEFINITION" tab and change the data type of the desired field.
 
 
-![data-type-mismatch-solution](/help/assets/kt-13256/data-type-mismatch-solution.png)
+![data-type-mismatch-solution](/help/_assets/kt-13256/data-type-mismatch-solution.png)
 
 ## Delivery Personalization Error    
 
@@ -44,14 +45,14 @@ These types of errors appear in a workflow when you try to reconcile using field
 **Cause:** 
 This error appears when you are sending an email to an address, but the email or any other identifier is not reconciled with a profile. To send an email communication, the email or the identifier should be always linked to a profile.  
 
-![workflow with reconciliation activity](/help/assets/kt-13256/del-persn-error-wf.png)
+![workflow with reconciliation activity](/help/_assets/kt-13256/del-persn-error-wf.png)
 
 **Solution:**
 A common ID must exist from the loaded file with the recipient table. This common key joins the load file to the recipient table within the reconciliation activity. Emails may not be sent to records that do not exist in the recipient table which requires this reconciliation step within the workflow. In doing so, you would reconcile the incoming load file activity with an identifier like email ID from the profile. The `nms:recipient` schema refers to the profile table and reconciling the incoming records with profile makes it available during email preparation. 
 
 Refer to the screenshot for reconciliation activity as shown below. 
 
-![workflow with reconciliation detail](/help/assets/kt-13256/del-persn-error-wf-solution.png)
+![workflow with reconciliation detail](/help/_assets/kt-13256/del-persn-error-wf-solution.png)
 
 Learn more about [reconciliation](https://experienceleague.adobe.com/docs/campaign-standard/using/managing-processes-and-data/data-management-activities/reconciliation.html?lang=en). 
 
@@ -64,7 +65,7 @@ Learn more about [reconciliation](https://experienceleague.adobe.com/docs/campai
 This issue occurs while using the **exclusion activity** in ACS workflows, when performing an exclusion based on the ID, when the Primary set and the excluded set don't have the same field names. 
 
 
-![Common Field Dataset Error](/help/assets/kt-13256/dataset-error.png)
+![Common Field Dataset Error](/help/_assets/kt-13256/dataset-error.png)
 
 **Solution:**
 
@@ -76,7 +77,7 @@ There are two ways to resolve this error:
 
 2. Use the JOINS exclusion method to select the field based on which you want to exclude the records. 
 
-![Common Field Dataset Error - Solution ](/help/assets/kt-13256/dataset-error-solution.png)
+![Common Field Dataset Error - Solution ](/help/_assets/kt-13256/dataset-error-solution.png)
 
 ## Field Name Dropped Error  
 
@@ -87,7 +88,7 @@ There are two ways to resolve this error:
 
 Failure points may occur in an **enrichment activity**. One of the most common is displayed below. 
 
-![Field Name Dropped Error](/help/assets/kt-13256/field-name-dropped-error.png)
+![Field Name Dropped Error](/help/_assets/kt-13256/field-name-dropped-error.png)
 
 This happens when you manually edit an expression name in the activity. The image shows that the expression was modified from `name `to `i__name`. 
 
@@ -109,7 +110,7 @@ You can resolve this error in three ways:
 **Cause:** 
 This is a common error in complicated workflows involving enrichment or other activity. It probably means some of the activity workflows are not correctly saved during multiple changes to the workflow. 
 
-![Temporary Table Dropped Error ](/help/assets/kt-13256/temp-table-dropped-error.png)
+![Temporary Table Dropped Error ](/help/_assets/kt-13256/temp-table-dropped-error.png)
 
 **Solution:**
 There are many ways that this error can occur, so there is not a simple fix. If it is a simple workflow, then it would better to reconfigure the activity. In a complicated workflow, it is better to copy the workflow activities to a new workflow, save, and rerun it.
