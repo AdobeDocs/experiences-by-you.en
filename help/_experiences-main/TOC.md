@@ -50,7 +50,6 @@ breadcrumb-title: Experiences by you
     + Using Panels {#using-panels}
       + [Understanding attribution panel and look-back windows](/help/analytics/analysis-workspace/using-panels/understanding-adobe-analytics-attribution-panel-and-lookback-windows.md)
     + Visualizations {#visualizations}
-      + [Data visualization playbook](/help/analytics/analysis-workspace/visualizations/data-visualization-playbook.md)
       + [Unlocking insights with histograms](/help/analytics/analysis-workspace/visualizations/unlocking-insights-with-histograms.md)
       + [More than words - Using text visualizations and descriptions](/help/analytics/analysis-workspace/visualizations/more-than-words-using-text-visualizations-and-descriptions.md)
 + Campaign {#campaign}
