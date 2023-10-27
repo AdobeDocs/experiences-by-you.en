@@ -1,0 +1,278 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mxfile host="app.diagrams.net" modified="2023-07-11T22:03:42.930Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="nD7QCchuukOLn8-T_DT4" version="21.5.1" type="google">
+  <diagram id="GkX4nGlF2bBM7tNGvfY1" name="Page-1">
+    <mxGraphModel dx="1389" dy="604" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="#FFFFFF" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="2" value="Layer 0" parent="0" />
+        <mxCell id="3" value="&lt;div style=&quot;width: 120.066666px;height:auto;word-break: break-word;&quot;&gt;&lt;div align=&quot;center&quot;&gt;&lt;span style=&quot;font-family: Arial; font-size: 20px; text-decoration: none; line-height: 22.75px; color: #ffffff;&quot;&gt; Marketo Engage&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="shape=cylinder3;boundedLbl=1;backgroundOutline=1;size=9;;shadow=0;strokeWidth=2;fillColor=#674ea7;strokeColor=#333333;gradientColor=#FFF8FF;gradientDirection=north;opacity=100.0;html=1;nl2Br=0;verticalAlign=middle;align=center;spacingLeft=9.466667;spacingRight=6;whiteSpace=wrap;gliffyId=4;" parent="2" vertex="1">
+          <mxGeometry x="655" y="270" width="130" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="4" value="&lt;div style=&#39;width: 1206.6px;height:auto;word-break: break-word;&#39;&gt;&lt;div align=&quot;center&quot;&gt;&lt;span style=&quot;font-family: Arial; font-size: 36px; text-decoration: none; color: #432657; line-height: 0;&quot;&gt;&lt;span style=&quot;text-decoration: none; line-height: 41px;&quot;&gt;Lead Sources&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="shape=rect;shadow=0;strokeWidth=2;fillColor=#b7b7b7;strokeColor=#60327C;gradientColor=#FFFFFF;gradientDirection=north;opacity=100.0;html=1;nl2Br=0;verticalAlign=top;align=center;spacingLeft=31.2;spacingRight=6;spacingTop=1.0;spacingBottom=8;whiteSpace=wrap;gliffyId=10;" parent="2" vertex="1">
+          <mxGeometry x="70" y="10" width="1260" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="5" value="&lt;div style=&#39;width: 137.0px;height:auto;word-break: break-word;&#39;&gt;&lt;div align=&quot;center&quot;&gt;&lt;span style=&quot;font-family: Helvetica; font-size: 13px; font-weight: bold; text-decoration: none; line-height: 13px;&quot;&gt;Native Integrations&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="shape=mxgraph.sitemap.calendar;shadow=0;strokeWidth=2;fillColor=#d9d2e9;strokeColor=#333333;opacity=100.0;html=1;nl2Br=0;verticalAlign=top;align=center;spacingLeft=0.0;spacingRight=0;spacingTop=-1.0;spacingBottom=6;whiteSpace=wrap;gliffyId=21;" parent="2" vertex="1">
+          <mxGeometry x="650" y="70" width="140" height="110.5" as="geometry" />
+        </mxCell>
+        <mxCell id="6" value="&lt;div style=&#39;width: 167.0px;height:auto;word-break: break-word;&#39;&gt;&lt;div align=&quot;center&quot;&gt;&lt;span style=&quot;font-family: Helvetica; font-size: 13px; font-weight: bold; text-decoration: none; line-height: 13px;&quot;&gt;Custom API Integrations&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="shape=mxgraph.sitemap.settings;shadow=0;strokeWidth=2;fillColor=#ffd966;strokeColor=#333333;opacity=100.0;html=1;nl2Br=0;verticalAlign=top;align=center;spacingLeft=0.0;spacingRight=0;spacingTop=-1.0;spacingBottom=6;whiteSpace=wrap;gliffyId=37;" parent="2" vertex="1">
+          <mxGeometry x="353.5" y="70" width="170" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="7" value="&lt;div style=&#39;width: 117.0px;height:auto;word-break: break-word;&#39;&gt;&lt;div align=&quot;center&quot;&gt;&lt;span style=&quot;line-height: normal; font-weight: bold; line-height: normal;&quot;&gt;Manual List Import&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="shape=mxgraph.sitemap.upload;shadow=0;strokeWidth=2;fillColor=#9fc5e8;strokeColor=#333333;opacity=100.0;html=1;nl2Br=0;verticalAlign=top;align=center;spacingLeft=0.0;spacingRight=0;spacingTop=-1.0;spacingBottom=6;whiteSpace=wrap;gliffyId=45;" parent="2" vertex="1">
+          <mxGeometry x="840" y="70" width="120" height="120.25" as="geometry" />
+        </mxCell>
+        <mxCell id="8" value="&lt;div style=&#39;width: 117.0px;height:auto;word-break: break-word;&#39;&gt;&lt;div align=&quot;center&quot;&gt;&lt;span style=&quot;font-family: Helvetica; font-size: 13px; font-weight: bold; text-decoration: none; line-height: 13px;&quot;&gt;Salesperson&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="shape=mxgraph.sitemap.profile;shadow=0;strokeWidth=2;fillColor=#9fc5e8;strokeColor=#333333;opacity=100.0;html=1;nl2Br=0;verticalAlign=top;align=center;spacingLeft=0.0;spacingRight=0;spacingTop=-1.0;spacingBottom=6;whiteSpace=wrap;gliffyId=49;" parent="2" vertex="1">
+          <mxGeometry x="130" y="70" width="120" height="97" as="geometry" />
+        </mxCell>
+        <mxCell id="9" value="&lt;div style=&#39;width: 117.0px;height:auto;word-break: break-word;&#39;&gt;&lt;div align=&quot;center&quot;&gt;&lt;span style=&quot;font-weight: bold; line-height: normal; line-height: normal;&quot;&gt;Marketo Form Embedded on YourDomain.com&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="shape=mxgraph.sitemap.form;shadow=0;strokeWidth=2;fillColor=#b4a7d6;strokeColor=#333333;opacity=100.0;html=1;nl2Br=0;verticalAlign=top;align=center;spacingLeft=0.0;spacingRight=0;spacingTop=-1.0;spacingBottom=6;whiteSpace=wrap;gliffyId=59;" parent="2" vertex="1">
+          <mxGeometry x="1020" y="70" width="120" height="126" as="geometry" />
+        </mxCell>
+        <mxCell id="10" value="&lt;div style=&#39;width: 117.0px;height:auto;word-break: break-word;&#39;&gt;&lt;div align=&quot;center&quot;&gt;&lt;span style=&quot;line-height: normal; font-weight: bold; line-height: normal;&quot;&gt;Marketo Form on Marketo Landing Page&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="shape=mxgraph.sitemap.form;shadow=0;strokeWidth=2;fillColor=#b4a7d6;strokeColor=#333333;opacity=100.0;html=1;nl2Br=0;verticalAlign=top;align=center;spacingLeft=0.0;spacingRight=0;spacingTop=-1.0;spacingBottom=6;whiteSpace=wrap;gliffyId=63;" parent="2" vertex="1">
+          <mxGeometry x="1170" y="70" width="120" height="126" as="geometry" />
+        </mxCell>
+        <mxCell id="11" value="&lt;div style=&#39;width: 1252.9025px;height:auto;word-break: break-word;&#39;&gt;&lt;div align=&quot;center&quot;&gt;&lt;span style=&quot;font-family: Arial; font-size: 36px; text-decoration: none; color: #432657; line-height: 0;&quot;&gt;&lt;span style=&quot;text-decoration: none; line-height: 41px;&quot;&gt;Data Sources&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="shape=rect;shadow=0;strokeWidth=1;fillColor=#d9ead3;strokeColor=#000000;gradientColor=#FFFFFF;gradientDirection=north;opacity=100.0;html=1;nl2Br=0;verticalAlign=bottom;align=center;spacingLeft=8.04878;spacingRight=6;spacingTop=1.0;spacingBottom=8;whiteSpace=wrap;gliffyId=71;" parent="2" vertex="1">
+          <mxGeometry x="60" y="469.5" width="1260" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="12" value="&lt;div style=&#39;width: 120.066666px;height:auto;word-break: break-word;&#39;&gt;&lt;div align=&quot;center&quot;&gt;&lt;span style=&quot;font-family: Arial; font-size: 20px; text-decoration: none; color: #ffffff; line-height: 0;&quot;&gt;&lt;span style=&quot;text-decoration: none; line-height: 22.75px;&quot;&gt;CRM&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="shape=cylinder3;boundedLbl=1;backgroundOutline=1;size=9;;shadow=0;strokeWidth=2;fillColor=#3c78d8;strokeColor=#377c32;gradientColor=#E6FFFF;gradientDirection=north;opacity=100.0;html=1;nl2Br=0;verticalAlign=middle;align=center;spacingLeft=9.466667;spacingRight=6;whiteSpace=wrap;gliffyId=2;" parent="2" vertex="1">
+          <mxGeometry x="350" y="270" width="130" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="13" style="shape=filledEdge;strokeWidth=2;strokeColor=#cc4125;fillColor=none;startArrow=block;startFill=1;startSize=6;endArrow=block;endFill=1;endSize=6;rounded=0;gliffyId=82;edgeStyle=orthogonalEdgeStyle;" parent="2" source="12" target="3" edge="1">
+          <mxGeometry width="202" height="2" relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="480" y="315" />
+              <mxPoint x="655" y="315" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="14" style="shape=filledEdge;strokeWidth=2;strokeColor=#cc0000;fillColor=none;startArrow=block;startFill=1;startSize=6;endArrow=block;endFill=1;endSize=6;rounded=0;curved=1;edgeStyle=orthogonalEdgeStyle;gliffyId=85;edgeStyle=orthogonalEdgeStyle;" parent="2" source="5" target="3" edge="1">
+          <mxGeometry width="134" height="91" relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="720" y="180.5" />
+              <mxPoint x="720" y="210.3333282470703" />
+              <mxPoint x="720" y="240.16665649414062" />
+              <mxPoint x="720" y="270" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="15" style="shape=filledEdge;strokeWidth=2;strokeColor=#666666;fillColor=none;startArrow=none;startFill=0;startSize=6;endArrow=block;endFill=1;endSize=6;rounded=0;curved=1;edgeStyle=orthogonalEdgeStyle;html=1;nl2Br=0;gliffyId=86;edgeStyle=orthogonalEdgeStyle;" parent="2" source="7" target="3" edge="1">
+          <mxGeometry width="245" height="121" relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="900" y="190.25" />
+              <mxPoint x="900" y="296.3603820800781" />
+              <mxPoint x="785" y="296.3603820800781" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="16" value="&lt;div style=&#39;width: 44.3438px;height:auto;word-break: break-word;&#39;&gt;&lt;div align=&quot;center&quot;&gt;&lt;span style=&quot;font-family: Arial; font-size: 12px; color: #432657; line-height: 0;&quot;&gt;&lt;span style=&quot;line-height: 14px;&quot; class=&quot;&quot;&gt;PUSH&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="text;html=1;nl2Br=0;points=[];labelBackgroundColor=#FFFFFF;html=1;nl2Br=0;verticalAlign=middle;align=center;spacingLeft=0.0;spacingRight=0;gliffyId=183;" parent="15" vertex="1">
+          <mxGeometry x="-0.15872957650176966" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="17" style="shape=filledEdge;strokeWidth=2;strokeColor=#cc0000;fillColor=none;startArrow=none;startFill=0;startSize=6;endArrow=block;endFill=1;endSize=6;rounded=0;curved=1;edgeStyle=orthogonalEdgeStyle;html=1;nl2Br=0;gliffyId=87;edgeStyle=orthogonalEdgeStyle;" parent="2" source="9" target="3" edge="1">
+          <mxGeometry width="395" height="111" relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1080" y="196" />
+              <mxPoint x="1080" y="315" />
+              <mxPoint x="785" y="315" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="18" value="&lt;div style=&#39;width: 44.3438px;height:auto;word-break: break-word;&#39;&gt;&lt;div align=&quot;center&quot;&gt;&lt;span style=&quot;font-family: Arial; font-size: 12px; color: #432657; line-height: 0;&quot;&gt;&lt;span style=&quot;line-height: 14px;&quot; class=&quot;&quot;&gt;PUSH&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="text;html=1;nl2Br=0;points=[];labelBackgroundColor=#FFFFFF;html=1;nl2Br=0;verticalAlign=middle;align=center;spacingLeft=0.0;spacingRight=0;gliffyId=271;" parent="17" vertex="1">
+          <mxGeometry x="-0.5634583342126704" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="19" style="shape=filledEdge;strokeWidth=2;strokeColor=#666666;fillColor=none;startArrow=none;startFill=0;startSize=6;endArrow=block;endFill=1;endSize=6;rounded=0;curved=1;edgeStyle=orthogonalEdgeStyle;html=1;nl2Br=0;gliffyId=90;edgeStyle=orthogonalEdgeStyle;" parent="2" source="10" target="3" edge="1">
+          <mxGeometry width="469" height="120" relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1230" y="196" />
+              <mxPoint x="1230" y="315" />
+              <mxPoint x="785" y="315" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="20" value="&lt;div style=&#39;width: 44.3438px;height:auto;word-break: break-word;&#39;&gt;&lt;div align=&quot;center&quot;&gt;&lt;span style=&quot;font-family: Arial; font-size: 12px; color: #432657; line-height: 0;&quot;&gt;&lt;span style=&quot;line-height: 14px;&quot; class=&quot;&quot;&gt;PUSH&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="text;html=1;nl2Br=0;points=[];labelBackgroundColor=#FFFFFF;html=1;nl2Br=0;verticalAlign=middle;align=center;spacingLeft=0.0;spacingRight=0;gliffyId=185;" parent="19" vertex="1">
+          <mxGeometry x="-0.522889234279783" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="21" style="shape=filledEdge;strokeWidth=2;strokeColor=#666666;fillColor=none;startArrow=none;startFill=0;startSize=6;endArrow=block;endFill=1;endSize=6;rounded=0;curved=1;edgeStyle=orthogonalEdgeStyle;html=1;nl2Br=0;gliffyId=94;edgeStyle=orthogonalEdgeStyle;" parent="2" source="6" target="3" edge="1">
+          <mxGeometry width="368" height="94" relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="438.5" y="210" />
+              <mxPoint x="438.5" y="240" />
+              <mxPoint x="693.0761108398438" y="240" />
+              <mxPoint x="693.0761108398438" y="270" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="22" value="&lt;div style=&#39;width: 44.3438px;height:auto;word-break: break-word;&#39;&gt;&lt;div align=&quot;center&quot;&gt;&lt;span style=&quot;font-family: Arial; font-size: 12px; color: #432657; line-height: 0;&quot;&gt;&lt;span style=&quot;line-height: 14px;&quot; class=&quot;&quot;&gt;PUSH&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="text;html=1;nl2Br=0;points=[];labelBackgroundColor=#FFFFFF;html=1;nl2Br=0;verticalAlign=middle;align=center;spacingLeft=0.0;spacingRight=0;gliffyId=186;" parent="21" vertex="1">
+          <mxGeometry x="-0.36033771725957897" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="23" style="shape=filledEdge;strokeWidth=2;strokeColor=#cc0000;fillColor=none;startArrow=none;startFill=0;startSize=6;endArrow=block;endFill=1;endSize=6;rounded=0;curved=1;edgeStyle=orthogonalEdgeStyle;gliffyId=95;edgeStyle=orthogonalEdgeStyle;" parent="2" source="8" target="12" edge="1">
+          <mxGeometry width="192" height="94" relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="190" y="167" />
+              <mxPoint x="190" y="218.5" />
+              <mxPoint x="388.07611083984375" y="218.5" />
+              <mxPoint x="388.07611083984375" y="270" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="24" style="shape=filledEdge;strokeWidth=2;strokeColor=#a61c00;fillColor=none;startArrow=block;startFill=1;startSize=6;endArrow=block;endFill=1;endSize=6;rounded=0;curved=1;edgeStyle=orthogonalEdgeStyle;html=1;nl2Br=0;gliffyId=98;edgeStyle=orthogonalEdgeStyle;" parent="2" source="27" target="3" edge="1">
+          <mxGeometry width="277" height="45" relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="615" y="414.75" />
+              <mxPoint x="615" y="387.375" />
+              <mxPoint x="720" y="387.375" />
+              <mxPoint x="720" y="360" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="25" value="&lt;div style=&#39;width: 82.3594px;height:auto;word-break: break-word;&#39;&gt;&lt;div align=&quot;center&quot;&gt;&lt;span style=&quot;font-family: Arial; font-size: 12px; color: #432657; line-height: 0;&quot;&gt;&lt;span style=&quot;line-height: 14px;&quot;&gt;Bi-Directional&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="text;html=1;nl2Br=0;points=[];labelBackgroundColor=#FFFFFF;html=1;nl2Br=0;verticalAlign=middle;align=center;spacingLeft=0.0;spacingRight=0;gliffyId=273;" parent="24" vertex="1">
+          <mxGeometry x="0.18333223198015425" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="26" value="&lt;div style=&#39;width: 127.0px;height:auto;word-break: break-word;&#39;&gt;&lt;div align=&quot;center&quot;&gt;&lt;span style=&quot;font-family: Arial; font-size: 12px; color: #432657; font-weight: bold; line-height: 14px;&quot;&gt;List of homegrown platforms and custom integrations&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="text;html=1;nl2Br=0;html=1;nl2Br=0;verticalAlign=middle;align=center;spacingLeft=0.0;spacingRight=0;whiteSpace=wrap;gliffyId=122;" parent="2" vertex="1">
+          <mxGeometry x="373.5" y="125.25" width="130" height="42" as="geometry" />
+        </mxCell>
+        <mxCell id="27" value="&lt;div style=&#39;width: 147.0px;height:auto;word-break: break-word;&#39;&gt;&lt;div align=&quot;center&quot;&gt;&lt;span style=&quot;font-family: Helvetica; font-size: 13px; font-weight: bold; text-decoration: none; line-height: 13px;&quot;&gt;Marketo Webhooks&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="shape=mxgraph.sitemap.settings;shadow=0;strokeWidth=2;fillColor=#d9d2e9;strokeColor=#333333;opacity=100.0;html=1;nl2Br=0;verticalAlign=top;align=center;spacingLeft=0.0;spacingRight=0;spacingTop=-1.0;spacingBottom=6;whiteSpace=wrap;gliffyId=130;" parent="2" vertex="1">
+          <mxGeometry x="540" y="414.75" width="150" height="104" as="geometry" />
+        </mxCell>
+        <mxCell id="28" value="&lt;div style=&#39;width: 147.0px;height:auto;word-break: break-word;&#39;&gt;&lt;div align=&quot;center&quot;&gt;&lt;span style=&quot;font-family: Arial; font-size: 12px; font-weight: bold; line-height: 14px;&quot;&gt;List of active webhooks&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="text;html=1;nl2Br=0;html=1;nl2Br=0;verticalAlign=middle;align=center;spacingLeft=0.0;spacingRight=0;whiteSpace=wrap;gliffyId=135;" parent="2" vertex="1">
+          <mxGeometry x="540" y="450.005" width="150" height="14" as="geometry" />
+        </mxCell>
+        <mxCell id="29" value="&lt;div style=&#39;width: 117.0px;height:auto;word-break: break-word;&#39;&gt;&lt;div align=&quot;center&quot;&gt;&lt;span style=&quot;font-family: Arial; font-size: 12px; font-weight: bold; line-height: 14px;&quot;&gt;List of bi-directional platforms&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="text;html=1;nl2Br=0;html=1;nl2Br=0;verticalAlign=middle;align=center;spacingLeft=0.0;spacingRight=0;whiteSpace=wrap;gliffyId=137;" parent="2" vertex="1">
+          <mxGeometry x="660" y="121.125" width="120" height="28" as="geometry" />
+        </mxCell>
+        <mxCell id="30" value="&lt;div style=&#39;width: 135.0px;height:auto;word-break: break-word;&#39;&gt;&lt;div align=&quot;center&quot;&gt;&lt;span style=&quot;font-family: Helvetica; font-size: 13px; font-weight: bold; text-decoration: none; line-height: 13px;&quot;&gt;Native Integrations&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="shape=mxgraph.sitemap.settings;shadow=0;strokeWidth=2;fillColor=#ffd966;strokeColor=#333333;opacity=100.0;html=1;nl2Br=0;verticalAlign=top;align=center;spacingLeft=0.0;spacingRight=0;spacingTop=-1.0;spacingBottom=6;whiteSpace=wrap;gliffyId=151;" parent="2" vertex="1">
+          <mxGeometry x="130" y="422.5" width="138" height="112" as="geometry" />
+        </mxCell>
+        <mxCell id="31" style="shape=filledEdge;strokeWidth=2;strokeColor=#cc0000;fillColor=none;startArrow=block;startFill=1;startSize=6;endArrow=block;endFill=1;endSize=6;rounded=0;curved=1;edgeStyle=orthogonalEdgeStyle;gliffyId=156;edgeStyle=orthogonalEdgeStyle;" parent="2" source="30" target="12" edge="1">
+          <mxGeometry width="167" height="61" relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="199" y="422.5" />
+              <mxPoint x="199" y="391.25" />
+              <mxPoint x="388.07611083984375" y="391.25" />
+              <mxPoint x="388.07611083984375" y="360" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="32" value="&lt;div style=&#39;width: 117.0px;height:auto;word-break: break-word;&#39;&gt;&lt;div align=&quot;center&quot;&gt;&lt;span style=&quot;font-family: Arial; font-size: 12px; font-weight: bold; line-height: 14px;&quot;&gt;Tools and platforms that have a native integration to your CRM&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="text;html=1;nl2Br=0;html=1;nl2Br=0;verticalAlign=middle;align=center;spacingLeft=0.0;spacingRight=0;whiteSpace=wrap;gliffyId=157;" parent="2" vertex="1">
+          <mxGeometry x="140" y="464" width="120" height="56" as="geometry" />
+        </mxCell>
+        <mxCell id="33" value="&lt;div style=&#39;width: 144.0px;height:auto;word-break: break-word;&#39;&gt;&lt;div align=&quot;center&quot;&gt;&lt;span style=&quot;font-family: Helvetica; font-size: 13px; font-weight: bold; text-decoration: none; line-height: 13px;&quot;&gt;Custom Integrations&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="shape=mxgraph.sitemap.settings;shadow=0;strokeWidth=2;fillColor=#ffd966;strokeColor=#333333;opacity=100.0;html=1;nl2Br=0;verticalAlign=top;align=center;spacingLeft=0.0;spacingRight=0;spacingTop=-1.0;spacingBottom=6;whiteSpace=wrap;gliffyId=190;" parent="2" vertex="1">
+          <mxGeometry x="1110.5" y="420.5" width="147" height="111" as="geometry" />
+        </mxCell>
+        <mxCell id="34" value="&lt;div style=&#39;width: 127.0px;height:auto;word-break: break-word;&#39;&gt;&lt;div align=&quot;center&quot;&gt;&lt;span style=&quot;font-family: Arial; font-size: 12px; color: #432657; font-weight: bold; line-height: 14px;&quot;&gt;List of integrations to homegrown solutions and tools with no native integration available&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="text;html=1;nl2Br=0;html=1;nl2Br=0;verticalAlign=middle;align=center;spacingLeft=0.0;spacingRight=0;whiteSpace=wrap;gliffyId=189;" parent="2" vertex="1">
+          <mxGeometry x="1119" y="453.75" width="130" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="35" style="shape=filledEdge;strokeWidth=2;strokeColor=#666666;fillColor=none;startArrow=none;startFill=0;startSize=6;endArrow=block;endFill=1;endSize=6;rounded=0;curved=1;edgeStyle=orthogonalEdgeStyle;html=1;nl2Br=0;gliffyId=195;edgeStyle=orthogonalEdgeStyle;" parent="2" source="33" edge="1">
+          <mxGeometry width="187" height="51" relative="1" as="geometry">
+            <mxPoint x="784.9238891601562" y="332" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1184" y="420.5" />
+              <mxPoint x="1184" y="332" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="36" value="&lt;div style=&#39;width: 44.3438px;height:auto;word-break: break-word;&#39;&gt;&lt;div align=&quot;center&quot;&gt;&lt;span style=&quot;font-family: Arial; font-size: 12px; color: #432657; line-height: 0;&quot;&gt;&lt;span style=&quot;line-height: 14px;&quot; class=&quot;&quot;&gt;PUSH&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="text;html=1;nl2Br=0;points=[];labelBackgroundColor=#FFFFFF;html=1;nl2Br=0;verticalAlign=middle;align=center;spacingLeft=0.0;spacingRight=0;gliffyId=196;" parent="35" vertex="1">
+          <mxGeometry x="-0.03550292971921565" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="37" value="&lt;div style=&#39;width: 147.0px;height:auto;word-break: break-word;&#39;&gt;&lt;div align=&quot;center&quot;&gt;&lt;span style=&quot;font-family: Helvetica; font-size: 13px; font-weight: bold; text-decoration: none; line-height: 13px;&quot;&gt;Native Integrations&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="shape=mxgraph.sitemap.settings;shadow=0;strokeWidth=2;fillColor=#d9d2e9;strokeColor=#333333;opacity=100.0;html=1;nl2Br=0;verticalAlign=top;align=center;spacingLeft=0.0;spacingRight=0;spacingTop=-1.0;spacingBottom=6;whiteSpace=wrap;gliffyId=215;" parent="2" vertex="1">
+          <mxGeometry x="900" y="419.5" width="150" height="120.5" as="geometry" />
+        </mxCell>
+        <mxCell id="38" value="&lt;div style=&#39;width: 127.0px;height:auto;word-break: break-word;&#39;&gt;&lt;div align=&quot;center&quot;&gt;&lt;span style=&quot;font-family: Arial; font-size: 12px; font-weight: bold; line-height: 14px;&quot;&gt;List of all integrated tools that push data to Marketo&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="text;html=1;nl2Br=0;html=1;nl2Br=0;verticalAlign=middle;align=center;spacingLeft=0.0;spacingRight=0;whiteSpace=wrap;gliffyId=214;" parent="2" vertex="1">
+          <mxGeometry x="910" y="466.75" width="130" height="42" as="geometry" />
+        </mxCell>
+        <mxCell id="39" style="shape=filledEdge;strokeWidth=2;strokeColor=#60327C;fillColor=none;startArrow=block;startFill=1;startSize=6;endArrow=none;endFill=0;endSize=6;rounded=0;curved=1;edgeStyle=orthogonalEdgeStyle;html=1;nl2Br=0;gliffyId=221;edgeStyle=orthogonalEdgeStyle;" parent="2" source="3" target="37" edge="1">
+          <mxGeometry width="77" height="58" relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="746.9238891601562" y="360" />
+              <mxPoint x="746.9238891601562" y="389.75" />
+              <mxPoint x="975" y="389.75" />
+              <mxPoint x="975" y="419.5" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="40" value="&lt;div style=&#39;width: 44.3438px;height:auto;word-break: break-word;&#39;&gt;&lt;div align=&quot;center&quot;&gt;&lt;span style=&quot;font-family: Arial; font-size: 12px; color: #432657; line-height: 0;&quot;&gt;&lt;span style=&quot;line-height: 14px;&quot; class=&quot;&quot;&gt;PUSH&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="text;html=1;nl2Br=0;points=[];labelBackgroundColor=#FFFFFF;html=1;nl2Br=0;verticalAlign=middle;align=center;spacingLeft=0.0;spacingRight=0;gliffyId=272;" parent="39" vertex="1">
+          <mxGeometry x="0.1367314803743298" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="41" value="&lt;div style=&#39;width: 120.066666px;height:auto;word-break: break-word;&#39;&gt;&lt;div align=&quot;center&quot;&gt;&lt;span style=&quot;font-family: Arial; font-size: 20px; text-decoration: none; color: #ffffff; line-height: 0;&quot;&gt;&lt;span style=&quot;text-decoration: none; line-height: 22.75px;&quot;&gt;Data Warehouse&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="shape=cylinder3;boundedLbl=1;backgroundOutline=1;size=9;;shadow=0;strokeWidth=2;fillColor=#999999;strokeColor=#666666;gradientColor=#FFFFFF;gradientDirection=north;opacity=100.0;html=1;nl2Br=0;verticalAlign=middle;align=center;spacingLeft=9.466667;spacingRight=6;whiteSpace=wrap;gliffyId=250;" parent="2" vertex="1">
+          <mxGeometry x="250" y="600" width="130" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="42" value="&lt;div style=&#39;width: 467.36584px;height:auto;word-break: break-word;&#39;&gt;&lt;div align=&quot;center&quot;&gt;&lt;span style=&quot;font-family: Arial; font-size: 36px; text-decoration: none; color: #ffffff; line-height: 0;&quot;&gt;&lt;span style=&quot;text-decoration: none; line-height: 41px;&quot;&gt;CDP&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="shape=rect;rounded=1;arcSize=15;absoluteArcSize=1;shadow=0;strokeWidth=2;fillColor=#e69138;strokeColor=#60327C;opacity=100.0;html=1;nl2Br=0;verticalAlign=middle;align=center;spacingLeft=8.317073;spacingRight=6;whiteSpace=wrap;gliffyId=255;" parent="2" vertex="1">
+          <mxGeometry x="500" y="622.5" width="475" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="43" style="shape=filledEdge;strokeWidth=2;strokeColor=#60327C;fillColor=none;startArrow=block;startFill=1;startSize=6;endArrow=none;endFill=0;endSize=6;rounded=0;curved=1;edgeStyle=orthogonalEdgeStyle;gliffyId=258;edgeStyle=orthogonalEdgeStyle;" parent="2" source="42" target="41" edge="1">
+          <mxGeometry width="129" height="2" relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="500" y="645" />
+              <mxPoint x="460" y="645" />
+              <mxPoint x="420" y="645" />
+              <mxPoint x="380" y="645" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="44" style="shape=filledEdge;strokeWidth=2;strokeColor=#60327C;fillColor=none;startArrow=block;startFill=1;startSize=6;endArrow=none;endFill=0;endSize=6;rounded=0;curved=1;edgeStyle=orthogonalEdgeStyle;html=1;nl2Br=0;gliffyId=260;edgeStyle=orthogonalEdgeStyle;" parent="2" source="42" target="33" edge="1">
+          <mxGeometry width="213" height="117" relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="975" y="645" />
+              <mxPoint x="1184" y="645" />
+              <mxPoint x="1184" y="531.5" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="45" value="&lt;div style=&#39;width: 44.3438px;height:auto;word-break: break-word;&#39;&gt;&lt;div align=&quot;center&quot;&gt;&lt;span style=&quot;font-family: Arial; font-size: 12px; color: #432657; line-height: 0;&quot;&gt;&lt;span style=&quot;line-height: 14px;&quot; class=&quot;&quot;&gt;PUSH&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="text;html=1;nl2Br=0;points=[];labelBackgroundColor=#FFFFFF;html=1;nl2Br=0;verticalAlign=middle;align=center;spacingLeft=0.0;spacingRight=0;gliffyId=274;" parent="44" vertex="1">
+          <mxGeometry x="0.3293377243161275" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="46" style="shape=filledEdge;strokeWidth=2;strokeColor=#60327C;fillColor=none;startArrow=block;startFill=1;startSize=6;endArrow=block;endFill=1;endSize=6;rounded=0;curved=1;edgeStyle=orthogonalEdgeStyle;gliffyId=261;edgeStyle=orthogonalEdgeStyle;" parent="2" source="42" target="3" edge="1">
+          <mxGeometry width="52" height="274" relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="500" y="635.68017578125" />
+              <mxPoint x="460" y="635.68017578125" />
+              <mxPoint x="460" y="333.6396179199219" />
+              <mxPoint x="655" y="333.6396179199219" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="47" style="shape=filledEdge;strokeWidth=2;strokeColor=#60327C;fillColor=none;startArrow=block;startFill=1;startSize=6;endArrow=none;endFill=0;endSize=6;rounded=0;curved=1;edgeStyle=orthogonalEdgeStyle;gliffyId=262;edgeStyle=orthogonalEdgeStyle;" parent="2" source="42" target="12" edge="1">
+          <mxGeometry width="75" height="281" relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="500" y="635.68017578125" />
+              <mxPoint x="415" y="635.68017578125" />
+              <mxPoint x="415" y="360" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="48" value="&lt;div style=&#39;width: 453.0px;height:auto;word-break: break-word;&#39;&gt;&lt;div align=&quot;center&quot;&gt;&lt;span style=&quot;font-family: Arial; font-size: 24px; text-decoration: none; color: #ffffff; line-height: 0;&quot;&gt;&lt;span style=&quot;text-decoration: none; line-height: 27px;&quot;&gt;Data Visualization&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="shape=rect;rounded=1;arcSize=15;absoluteArcSize=1;shadow=0;strokeWidth=2;fillColor=#dd7e6b;strokeColor=#60327C;opacity=100.0;html=1;nl2Br=0;verticalAlign=middle;align=center;spacingLeft=15.5;spacingRight=6;whiteSpace=wrap;gliffyId=264;" parent="2" vertex="1">
+          <mxGeometry x="500" y="710" width="475" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="49" style="shape=filledEdge;strokeWidth=2;strokeColor=#60327C;fillColor=none;startArrow=none;startFill=0;startSize=6;endArrow=block;endFill=1;endSize=6;rounded=0;curved=1;edgeStyle=orthogonalEdgeStyle;gliffyId=266;edgeStyle=orthogonalEdgeStyle;" parent="2" source="42" target="48" edge="1">
+          <mxGeometry width="1" height="17" relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="737.5" y="667.5" />
+              <mxPoint x="737.5" y="681.6666870117188" />
+              <mxPoint x="737.5" y="695.8333129882812" />
+              <mxPoint x="737.5" y="710" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="50" value="&lt;div style=&#39;width: 117.0px;height:auto;word-break: break-word;&#39;&gt;&lt;div align=&quot;center&quot;&gt;&lt;span style=&quot;font-family: Arial; font-size: 12px; font-weight: bold; line-height: 14px;&quot;&gt;Manual Input and&lt;/span&gt;&lt;/div&gt;&lt;div align=&quot;center&quot;&gt;&lt;span style=&quot;font-family: Arial; font-size: 12px; font-weight: bold; line-height: 14px;&quot;&gt;List of Prospecting Tools&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="text;html=1;nl2Br=0;html=1;nl2Br=0;verticalAlign=middle;align=center;spacingLeft=0.0;spacingRight=0;whiteSpace=wrap;gliffyId=267;" parent="2" vertex="1">
+          <mxGeometry x="130" y="109.25" width="120" height="42" as="geometry" />
+        </mxCell>
+        <mxCell id="51" value="&lt;div style=&#39;width: 127.0px;height:auto;word-break: break-word;&#39;&gt;&lt;div align=&quot;center&quot;&gt;&lt;span style=&quot;color: rgb(67, 38, 87); font-weight: bold; line-height: normal; line-height: normal;&quot;&gt;i.e. LinkedIn&lt;/span&gt;&lt;/div&gt;&lt;div align=&quot;center&quot;&gt;&lt;span style=&quot;color: rgb(67, 38, 87); font-weight: bold; line-height: normal; line-height: normal;&quot;&gt;Facebook&lt;/span&gt;&lt;/div&gt;&lt;div align=&quot;center&quot;&gt;&lt;span style=&quot;color: rgb(67, 38, 87); font-weight: bold; line-height: normal; line-height: normal;&quot;&gt;Offline Events&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="text;html=1;nl2Br=0;html=1;nl2Br=0;verticalAlign=middle;align=center;spacingLeft=0.0;spacingRight=0;whiteSpace=wrap;gliffyId=268;" parent="2" vertex="1">
+          <mxGeometry x="835" y="125" width="130" height="42" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
