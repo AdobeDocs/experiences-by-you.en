@@ -2,7 +2,7 @@
 user-guide-title: Tutorial - Tips and Tricks for auditing an inherited Marketo Engage instance 
 user-guide-description: Tips and Tricks for auditing an inherited Marketo Engage instance
 breadcrumb-title: Tutorial - Tips and Tricks for auditing an inherited Marketo Engage instance 
-breadcrumb-url: /docs/experiences-by-you/experiences-by-you/marketo/marketo-tutorial-inherited-instance/auditing-an-inherited-instance/overview.html
+breadcrumb-url: /docs/experiences-by-you/experiences-by-you/marketo/marketo-tutorial-inherited-instance/overview.html
 index: no
 role: Admin
 level: Beginner
