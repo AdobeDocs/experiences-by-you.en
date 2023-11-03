@@ -22,17 +22,17 @@ This 'Inherited Instance Audit Tips and Tricks' tutorial, sourced from Adobe Mar
 
 ## Topics and what you will learn
 
-* **[Audit an inherited instance](/help/marketo-tutorial-inherited-instance/audit-an-inherted-instance.md)**
+* **[Audit an inherited instance](./audit-an-inherted-instance.md)**
 *Learn how to audit an existing instance that's new to you. Test the inherited set-up using out-of-the-box tools such as Campaigns Inspectors to gain insights into your instance*
 
-* **[Log CRM sync errors for easy troubleshooting](/help/marketo-tutorial-inherited-instance/log-crm-sync-errors-for-easy-troubleshootig.md)**
+* **[Log CRM sync errors for easy troubleshooting](./log-crm-sync-errors-for-easy-troubleshootig.md)**
 *Learn how to establish an admin routine to review notifications, CRM sync, Launchpoint, and web services and troubleshoot errors timely.* 
 
-* **[Develop an instance governance guide](/help/marketo-tutorial-inherited-instance/develop-an-instance-governance-guide.md)**
+* **[Develop an instance governance guide](./develop-an-instance-governance-guide.md)**
 *Learn how achieve quick efficiency wins to optimize program build, governance, and overall marketing operations*
 
-* **[Map out your marketing tech stack visually](/help/marketo-tutorial-inherited-instance/create-a-visual-data-flow-diagram.md)**
+* **[Map out your marketing tech stack visually](./create-a-visual-data-flow-diagram.md)**
 *Learn how to map out data sources with a visual architecture diagram to understand your tech stack*
 
-* **[Program pre-launch quality assurance (QA) process](/help/marketo-tutorial-inherited-instance/essential-program-pre-launch-qa.md)**
+* **[Program pre-launch quality assurance (QA) process](./essential-program-pre-launch-qa.md)**
 *Learn how to establish an effective program pre-launch QA process to avoid mistakes.*
