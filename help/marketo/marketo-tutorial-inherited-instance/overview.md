@@ -25,7 +25,7 @@ This 'Inherited Instance Audit Tips and Tricks' tutorial, sourced from Adobe Mar
 * **[Audit an inherited instance](/help/marketo/marketo-tutorial-inherited-instance/audit-an-inherted-instance.md)**
 *Learn how to audit an existing instance that's new to you. Test the inherited set-up using out-of-the-box tools such as Campaigns Inspectors to gain insights into your instance*
 
-* **[Log CRM sync errors for easy troubleshooting](/help/marketo/marketo-tutorial-inherited-instance/log-crm-sync-errors-for-easy-troubleshootig.md)**
+* **[Log CRM sync errors for easy troubleshooting](/help/marketo/marketo-tutorial-inherited-instance/log-crm-sync-errors-for-easy-troubleshooting.md)**
 *Learn how to establish an admin routine to review notifications, CRM sync, Launchpoint, and web services and troubleshoot errors timely.* 
 
 * **[Develop an instance governance guide](/help/marketo/marketo-tutorial-inherited-instance/develop-an-instance-governance-guide.md)**
