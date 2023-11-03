@@ -1,5 +1,5 @@
 ---
-title: Experience by you
+title: Experience by You
 description: Customer generated content
 role: User, Developer, Data Engineer, Architect, Data Architect, Admin, Leader
 level: Beginner
@@ -7,9 +7,9 @@ doc-type: overview
 thumbnail:
 ---
 
-# Experiences by you
+# Experiences by You: Resources by users, for users.
 
-Bacon ipsum dolor amet shoulder andouille pastrami, biltong meatball fatback chuck alcatra picanha. Jowl tri-tip prosciutto ham brisket, shank corned beef porchetta beef ribs beef short ribs alcatra chicken filet mignon. Ball tip cupim hamburger burgdoggen, landjaeger pastrami spare ribs flank jowl tongue chuck. Pork belly boudin alcatra andouille. Landjaeger spare ribs capicola chicken doner. Bacon kielbasa boudin cow flank turkey pancetta ball tip rump. Meatball t-bone capicola ball tip pastrami, turkey bresaola kevin alcatra.
+The most powerful thing about Adobe DX solutions? You. The users who take the products, dig into them, and apply them in amazing, innovative ways to create meaningful experiences and outcomes. Experiences by You features content created by everyday users who have attained a level of expertise and influence with their Adobe DX solutions. This peer-to-peer knowledge encourages collaboration and discovery – enabling you – and any other user - to find the inspiration needed to level up your product expertise.  
 
 <div id="whats-new-section">
 
