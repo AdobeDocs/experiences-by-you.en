@@ -12,6 +12,25 @@ breadcrumb-title: Experiences by You
   + Introduction to Analytics {#intro-to-analytics}
     + Transitioning from other platforms {#transitioning-from-other-platforms}
       + [Transitioning from Google Analytics](/help/analytics/intro-to-analytics/transitioning-from-other-platforms/transition-from-google-analytics.md)
+  + Analysis Workspace {#analysis-workspace}
+    + Using Panels {#using-panels}
+      + [Understanding attribution panel and look-back windows](/help/analytics/analysis-workspace/using-panels/understanding-adobe-analytics-attribution-panel-and-lookback-windows.md)
+    + Visualizations {#visualizations}
+      + [Unlocking insights with histograms](/help/analytics/analysis-workspace/visualizations/unlocking-insights-with-histograms.md)
+      + [More than words - Using text visualizations and descriptions](/help/analytics/analysis-workspace/visualizations/more-than-words-using-text-visualizations-and-descriptions.md)
+      + [Use Cohort Analysis to Understand Customer Behavior](/help/analytics/analysis-workspace/visualizations/use-cohort-analysis-to-understand-customer-behavior.md)
+    + Segmentation {#segmentation}
+      + [Building customer journey segments](/help/analytics/analysis-workspace/segmentation/building-customer-journey-segments.md)
+      + [Building customer journey segments - part 2](/help/analytics/analysis-workspace/segmentation/building-customer-journey-segments-part-two.md)
+      + [Differences between the segment builder and quick segments](/help/analytics/analysis-workspace/segmentation/differences-between-the-segment-builder-and-quick-segments.md)
+      + [Now just wait a segment… Using segmentation to discover new insights](/help/analytics/analysis-workspace/segmentation/segmentation-to-discover-new-insights.md)
+    + Metrics {#metrics}
+      + [Goodbye Excel, hello calculated metrics](/help/analytics/analysis-workspace/metrics/goodbye-excel-hello-calculated-metrics.md)
+      + [Take your data analysis to the next level with calculated metrics](/help/analytics/components/calculated-metrics/take-your-data-analysis-to-the-next-level-with-calculated-metrics.md)
+    + Curate and Share Projects {#curate-and-share-projects}
+      + [Unlocking the Power of View-Only Sharing](/help/analytics/analysis-workspace/curate-and-share-projects/unlocking-the-power-of-view-only-sharing.md)
+    + Tips and Tricks {#tips-and-tricks}
+      + [Right-click tips & tricks for more efficient workflows](/help/analytics/analysis-workspace/tips-and-tricks/right-click-tips-and-tricks-for-more-efficient-workflows.md)
   + Administration {#administration} 
     + Key Admin Skills {#key-admin-skills}
       + [Creating an empowered community](/help/analytics/administration/key-admin-skills/empowered-community.md)
@@ -30,25 +49,6 @@ breadcrumb-title: Experiences by You
       + [Create a news & announcements project](/help/analytics/administration/admin-tips/create-a-news-and-announcements-project.md)
       + [Drive success with executive summary dashboards](/help/analytics/administration/admin-tips/driving-success-with-executive-summary-dashboards.md)
       + [Create Operational Dashboards](/help/analytics/administration/admin-tips/create-operational-dashboards.md)
-  + Analysis Workspace {#analysis-workspace}
-    + Segmentation {#segmentation}
-      + [Building Customer Journey Segments](/help/analytics/analysis-workspace/segmentation/building-customer-journey-segments.md)
-      + [Building Customer Journey Segments - Part 2](/help/analytics/analysis-workspace/segmentation/building-customer-journey-segments-part-two.md)
-      + [Differences between the segment builder and quick segments](/help/analytics/analysis-workspace/segmentation/differences-between-the-segment-builder-and-quick-segments.md)
-      + [Now just wait a segment… Using segmentation to discover new insights](/help/analytics/analysis-workspace/segmentation/segmentation-to-discover-new-insights.md)
-    + Curate and Share Projects {#curate-and-share-projects}
-      + [Unlocking the Power of View-Only Sharing](/help/analytics/analysis-workspace/curate-and-share-projects/unlocking-the-power-of-view-only-sharing.md)
-    + Metrics {#metrics}
-      + [Goodbye Excel, hello calculated metrics](/help/analytics/analysis-workspace/metrics/goodbye-excel-hello-calculated-metrics.md)
-      + [Take your data analysis to the next level with calculated metrics](/help/analytics/analysis-workspace/metrics/take-your-data-analysis-to-the-next-level-with-calculated-metrics.md)
-    + Tips and Tricks {#tips-and-tricks}
-      + [Right-click tips & tricks for more efficient workflows](/help/analytics/analysis-workspace/tips-and-tricks/right-click-tips-and-tricks-for-more-efficient-workflows.md)
-    + Using Panels {#using-panels}
-      + [Understanding attribution panel and look-back windows](/help/analytics/analysis-workspace/using-panels/understanding-adobe-analytics-attribution-panel-and-lookback-windows.md)
-    + Visualizations {#visualizations}
-      + [Unlocking insights with histograms](/help/analytics/analysis-workspace/visualizations/unlocking-insights-with-histograms.md)
-      + [More than words - Using text visualizations and descriptions](/help/analytics/analysis-workspace/visualizations/more-than-words-using-text-visualizations-and-descriptions.md)
-      + [Use Cohort Analysis to Understand Customer Behavior](/help/analytics/analysis-workspace/visualizations/use-cohort-analysis-to-understand-customer-behavior.md)
 
 + Campaign by You {#campaign}
   + Campaign Classic v7 {#campaign-classic-v7}
