@@ -1,12 +1,12 @@
 ---
-user-guide-title: Experiences by you
+user-guide-title: Experiences by You
 user-guide-description: Adobe customer generated content
-breadcrumb-title: Experiences by you
+breadcrumb-title: Experiences by You
 ---
 
-# Experiences by you {#experiences-by-you}
+# Experiences by You {#experiences-by-you}
 
-+ [Experiences by you](/help/overview.md)
++ [Experiences by You](/help/overview.md)
 
 + Analytics {#analytics}
   + Introduction to Analytics {#intro-to-analytics}
@@ -39,7 +39,6 @@ breadcrumb-title: Experiences by you
       + [Telling impactful stories with data](/help/analytics/administration/key-admin-skills/telling-impactful-stories-with-data.md)
       + [Translating Adobe Analytics technical language in a non-technical way](/help/analytics/administration/key-admin-skills/translating-adobe-analytics-technical-language.md)
       + [Working cross-functionally](/help/analytics/administration/key-admin-skills/working-cross-functionally.md)
-      + [Are you asking the right questions?](/help/analytics/administration/key-admin-skills/are-you-asking-the-right-questions.md)  
     + Admin Tips and Best Practices {#admin-tips}
       + [Download the implementation playbook](/help/analytics/administration/admin-tips/download-the-adobe-analytics-implementation-playbook.md)
       + [Create standardized naming conventions](/help/analytics/administration/admin-tips/create-standardized-naming-conventions.md)
@@ -50,28 +49,28 @@ breadcrumb-title: Experiences by you
       + [Create a news & announcements project](/help/analytics/administration/admin-tips/create-a-news-and-announcements-project.md)
       + [Drive success with executive summary dashboards](/help/analytics/administration/admin-tips/driving-success-with-executive-summary-dashboards.md)
       + [Create Operational Dashboards](/help/analytics/administration/admin-tips/create-operational-dashboards.md)
-+ Campaign {#campaign}
++ Campaign by You {#campaign}
   + Campaign Classic v7 {#campaign-classic-v7}
-    + Automate with workflow {#automate-with-workflows}
-      + [Workflow best practices](/help/campaign/ac-v7/workflow-best-practices-for-marketers.md)
+    + [Workflow best practices](/help/campaign/ac-v7/workflow-best-practices-for-marketers.md)
   + Campaign Standard {#campaign-standard}
     + [Troubleshooting for Marketers](/help/campaign/acs/troubleshooting-for-marketers.md)
   + Strategy & thought leadership{#strategy}
     + [Ten best practices for Adobe Campaign success for marketers](/help/campaign/10-best-practices-for-marketers.md)
-+ Experience Manager {#experience-manager}
++ Experience Manager by You {#experience-manager}
   + AEM Sites {#sites}
     + [AEM Sites Maturity Assessment](/help/experience-manager/sites/expert-resources/maturity-assessment.md)
-    + [Site Maintenance](/help/experience-manager/sites/expert-resources/site-maintenance.md)
-    + [AEM Champion Tips and Tricks: Session 1](/help/experience-manager/sites/expert-resources/champion-tips-1.md)
-    + [AEM Champion Tips and Tricks: Session 2](/help/experience-manager/sites/expert-resources/champion-tips-2.md)
+    + Best Practices {#sites-best-practices}
+      + [AEM Champion Tips and Tricks: Session 1](/help/experience-manager/sites/expert-resources/champion-tips-1.md)
+      + [AEM Champion Tips and Tricks: Session 2](/help/experience-manager/sites/expert-resources/champion-tips-2.md)
   + AEM as a Cloud Service {#cloud-service}
     + [Cloud Manager Onboarding Playbook](/help/experience-manager/cloud-service/expert-resources/aem-champions/onboarding-playbook.md)
     + [Cloud Manager Environment Types](/help/experience-manager/cloud-service/expert-resources/aem-champions/environment-types.md)
     + [Cloud Manager UI](/help/experience-manager/cloud-service/expert-resources/aem-champions/cloud-manager-ui.md)
-+ Marketo Engage {#marketo-engage}
++ Marketo Engage by You {#marketo-engage}
   + Fundamentals {#fundamentals}
     + [Navigate the UI](/help/marketo/fundamentals/ui-navigation.md)
-    + [Audit an inherited instance - Tutorial](https://experienceleague.adobe.com/docs/experiences-by-you/experiences-by-you/marketo/auditing-an-inherited-instance/overview.html)
+    + [Best practices to organize a new instance](/help/marketo/fundamentals/best-practices-to-organize-a-new-instance.md)
+    + [Audit an inherited instance - Tutorial](https://experienceleague.corp.adobe.com/docs/experiences-by-you/auditing-an-inherited-instance/overview.html)
   + Programs and campaigns {#programs-and-campaigns}
     + [Email programs](/help/marketo/programs/email-programs.md)
     + [Engagement programs](/help/marketo/programs/engagement-programs.md)
