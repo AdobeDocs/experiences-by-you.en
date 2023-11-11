@@ -5,6 +5,7 @@ audience: author, marketer, developer
 role: Admin
 level: Intermediate
 topic: Administration
+last-substantial-update: 2023-11-03
 ---
 # Your AEM Sites Maturity Assessment Checklist
 
