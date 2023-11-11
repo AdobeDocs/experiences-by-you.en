@@ -9,8 +9,8 @@ breadcrumb-title: Experiences by you
 + [Experiences by you](/help/overview.md)
 
 + Analytics {#analytics}
-  + Introduction to Analytics {intro-to-analytics}
-    + Transitioning from other platforms {transitioning-from-other-platforms}
+  + Introduction to Analytics {#intro-to-analytics}
+    + Transitioning from other platforms {#transitioning-from-other-platforms}
       + [Transitioning from Google Analytics](/help/analytics/intro-to-analytics/transitioning-from-other-platforms/transition-from-google-analytics.md)]
   + Analysis Workspace {#analysis-workspace}
     + Using Panels {#using-panels}
