@@ -27,7 +27,7 @@ breadcrumb-title: Experiences by You
       + [Now just wait a segment… Using segmentation to discover new insights](/help/analytics/analysis-workspace/segmentation/segmentation-to-discover-new-insights.md)
     + Metrics {#metrics}
       + [Goodbye Excel, hello calculated metrics](/help/analytics/analysis-workspace/metrics/goodbye-excel-hello-calculated-metrics.md)
-      + [Take your data analysis to the next level with calculated metrics](/help/analytics/components/calculated-metrics/take-your-data-analysis-to-the-next-level-with-calculated-metrics.md)
+      + [Take your data analysis to the next level with calculated metrics](../analytics/analysis-workspace/metrics/take-your-data-analysis-to-the-next-level-with-calculated-metrics.md)
     + Curate and Share Projects {#curate-and-share-projects}
       + [Unlocking the Power of View-Only Sharing](/help/analytics/analysis-workspace/curate-and-share-projects/unlocking-the-power-of-view-only-sharing.md)
     + Tips and Tricks {#tips-and-tricks}
