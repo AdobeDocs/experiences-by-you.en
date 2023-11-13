@@ -8,10 +8,11 @@ breadcrumb-title: Experiences by You
 
 + [Experiences by You](/help/overview.md)
 
-+ Analytics {#analytics}
+
++ Analytics by You {#analytics}
   + Introduction to Analytics {#intro-to-analytics}
     + Transitioning from other platforms {#transitioning-from-other-platforms}
-      + [Transitioning from Google Analytics](/help/analytics/intro-to-analytics/transitioning-from-other-platforms/transition-from-google-analytics.md)]
+      + [Transitioning from Google Analytics](/help/analytics/intro-to-analytics/transitioning-from-other-platforms/transition-from-google-analytics.md)
   + Analysis Workspace {#analysis-workspace}
     + Using Panels {#using-panels}
       + [Understanding attribution panel and look-back windows](/help/analytics/analysis-workspace/using-panels/understanding-adobe-analytics-attribution-panel-and-lookback-windows.md)
@@ -26,7 +27,7 @@ breadcrumb-title: Experiences by You
       + [Now just wait a segment… Using segmentation to discover new insights](/help/analytics/analysis-workspace/segmentation/segmentation-to-discover-new-insights.md)
     + Metrics {#metrics}
       + [Goodbye Excel, hello calculated metrics](/help/analytics/analysis-workspace/metrics/goodbye-excel-hello-calculated-metrics.md)
-      + [Take your data analysis to the next level with calculated metrics](/help/analytics/components/calculated-metrics/take-your-data-analysis-to-the-next-level-with-calculated-metrics.md)
+      + [Take your data analysis to the next level with calculated metrics](../analytics/analysis-workspace/metrics/take-your-data-analysis-to-the-next-level-with-calculated-metrics.md)
     + Curate and Share Projects {#curate-and-share-projects}
       + [Unlocking the Power of View-Only Sharing](/help/analytics/analysis-workspace/curate-and-share-projects/unlocking-the-power-of-view-only-sharing.md)
     + Tips and Tricks {#tips-and-tricks}
@@ -49,6 +50,7 @@ breadcrumb-title: Experiences by You
       + [Create a news & announcements project](/help/analytics/administration/admin-tips/create-a-news-and-announcements-project.md)
       + [Drive success with executive summary dashboards](/help/analytics/administration/admin-tips/driving-success-with-executive-summary-dashboards.md)
       + [Create Operational Dashboards](/help/analytics/administration/admin-tips/create-operational-dashboards.md)
+
 + Campaign by You {#campaign}
   + Campaign Classic v7 {#campaign-classic-v7}
     + [Workflow best practices](/help/campaign/ac-v7/workflow-best-practices-for-marketers.md)
