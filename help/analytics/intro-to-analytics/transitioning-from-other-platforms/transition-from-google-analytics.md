@@ -9,7 +9,7 @@ kt: 9830
 thumbnail: 34749.jpg
 exl-id: b2be6081-a1c0-4435-affb-454ed5a74662
 ---
-# Comprehensive guide for transitioning to [!DNL Adobe] [!DNL Analytics] from Google [!DNL Analytics]{#comprehensive-guide-for-transitioning-to-[!DNL Adobe]-[!DNL Analytics]}
+# Comprehensive guide for transitioning to [!DNL Adobe] [!DNL Analytics] from Google [!DNL Analytics]{#comprehensive-guide-for-transitioning-to-Adobe-!DNL Analytics}
 
 ## 1. Introduction
 
