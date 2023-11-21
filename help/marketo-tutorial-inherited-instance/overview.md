@@ -13,7 +13,7 @@ thumbnail: KT-13890.jpeg
 
 # Tips and Tricks for auditing an inherited [!DNL Marketo Engage] instance - Tutorial Overview
 
-*Source: [!DNL Adobe] Marketo Champions* 
+*Source:  Adobe Marketo Champions* 
 
 If you inherit a live [!DNL Marketo Engage] instance that has been managed by multiple people, you may find yourself making mental notes of everything that seems out of place. It is important to organize the cleanup and optimization work by categorizing the tasks and then prioritizing those tasks that go a long way.
 

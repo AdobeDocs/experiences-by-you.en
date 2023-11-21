@@ -1,6 +1,6 @@
 ---
 user-guide-title: Experiences by You
-user-guide-description: [!DNL Adobe] customer generated content
+user-guide-description:  Adobe customer generated content
 breadcrumb-title: Experiences by You
 ---
 
