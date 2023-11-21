@@ -13,7 +13,7 @@ thumbnail: KT-13216.jpeg
 ---
 # Drive success with executive summary dashboards
 
-_Executives often lack timely and relevant information for their sites and apps, relying on monthly Excel charts or drowning in granular data. The solution: Cloud Managerarketo Engagexecutive summary dashboard._
+_Executives often lack timely and relevant information for their sites and apps, relying on monthly Excel charts or drowning in granular data. The solution: Experience Manager Cloud Managerarketo Engagexecutive summary dashboard._
 
 I want you to imagine driving from Seattle to San Francisco. Direction wise, it's pretty easy. Get on I-5 South for twelve to sixteen hours and you're there. Simple, right? Now, I want you to imagine that I've put a piece of cardboard over your dashboard, and I tell you that at the end
 of your trip, you'll receive a dashboard that tells you your speed, fuel levels, and distance traveled:

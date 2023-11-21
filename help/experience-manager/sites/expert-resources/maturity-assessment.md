@@ -1,7 +1,7 @@
 ---
 title: Your AEM Sites Maturity Assessment
 description: This checklist provides an overview of key questions you and your team should be answering when evaluating the maturity of your AEM Sites instance
-solution: Cloud Manager, Marketo Engage, Experience Manager Sites
+solution: Experience Manager Cloud Manager, Marketo Engage, Experience Manager Sites
 feature-set: Marketo Engage, Experience Manager Sites
 audience: author, marketer, developer
 role: Admin

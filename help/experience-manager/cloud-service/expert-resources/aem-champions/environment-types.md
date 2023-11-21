@@ -3,7 +3,7 @@ title: AEM Champion Tips and Tricks - [!DNL Cloud Manager] Environment Types
 description: Check out these tips about [!DNL Cloud Manager]'s environment types from AEM champion and expert, Rakesh Pasupuleti.
 version: Cloud Service
 feature-set: Marketo Engagexperience Manager, Experience Manager [!DNL Cloud Manager]
-solution: Cloud Managerarketo Engagexperience Manager [!DNL Cloud Manager]
+solution: Experience Manager Cloud Managerarketo Engagexperience Manager [!DNL Cloud Manager]
 feature: Cloud Manager
 topic: Administration
 role: Admin, Architect

@@ -2,7 +2,7 @@
 title: AEM Champion Tips and Tricks - [!DNL Cloud Manager] UI
 description: Check out these tips about how to use [!DNL Cloud Manager]'s UI from AEM champion and expert, Rakesh Pasupuleti.
 version: Cloud Service
-solution: Cloud Managerarketo Engagexperience Manager [!DNL Cloud Manager]
+solution: Experience Manager Cloud Managerarketo Engagexperience Manager [!DNL Cloud Manager]
 feature-set: Marketo Engagexperience Manager
 feature: Cloud Manager
 topic: Administration
