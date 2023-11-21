@@ -79,7 +79,7 @@ There may be items that are missing or not applicable as your team runs this exe
 |6|**Audience**|Have you identified the program's audience?||**Yes:** <br>If you cannot answer this question with a yes, find out before you plan to send.||
 |7|**Tokens**|Have you updated all the required program tokens?|If it's a webinar program, have you updated the event date, event title, descriptions, and calendar file, etc.?|**Yes or not applicable** <br>If you can't answer with a yes, or don't know whether it applies, check your program 'Tokens' tab. See whether the program contains any local tokens that must be updated|[Understanding My Tokens in a Program](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/programs/tokens/understanding-my-tokens-in-a-program.html){target="_blank"}|
 
->[!TAB Web Personalization [!DNL Campaign]s]
+>[!TAB Web Personalization Campaigns]
 
 |#|Review Area|Questions to ask|Acceptance Criteria|Additional Resources|
 |---|---|---|---|---|
@@ -118,7 +118,7 @@ There may be items that are missing or not applicable as your team runs this exe
 |4|**Tracking**|Are hidden UTM fields in place to track sources of submissions to this form? Have these been tested?|**Yes or no:** <br>If answering no, understand that your ability to track what sources directed people to this form is limited.| [Set a Form Field as Hidden](https://experienceleague.adobe.com/docs/marketo/using/product-docs/demand-generation/forms/form-fields/set-a-form-field-as-hidden.html){target="_blank"}<br><br>[Set a Hidden Form Field Value](https://experienceleague.adobe.com/docs/marketo/using/product-docs/demand-generation/forms/form-fields/set-a-hidden-form-field-value.html){target="_blank"}|
 |5|**GDPR/CASL Compliance**|If data is captured through the form, is the opt-in compliant and do you provide a collection statement with a functioning Privacy Policy link?|**Yes:** <br>Know your relevant compliance environment: If you cannot answer this question with a yes, you must update to ensure it is compliant. **If you do not know, seek appropriate advice.**| [Privacy Management](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/miscellaneous/privacy-management.html){target="_blank"}|
 
->[!TAB Smart [!DNL Campaign]s]
+>[!TAB Smart Campaigns]
 
 |#|Review Area|Questions to ask|Acceptance Criteria|Additional Resources|
 |---|---|---|---|---|

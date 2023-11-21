@@ -4,7 +4,7 @@ description: Check out these tips about how to use [!DNL Cloud Manager]'s UI fro
 version: Cloud Service
 solution: Cloud Managerarketo Engagexperience Manager [!DNL Cloud Manager]
 feature-set: Marketo Engagexperience Manager
-feature: [!DNL Cloud Manager]
+feature: Cloud Manager
 topic: Administration
 role: Admin, Architect
 level: Beginner

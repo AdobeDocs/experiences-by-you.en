@@ -4,7 +4,7 @@ description: Check out these tips for [!DNL Cloud Manager] onbarding and the onb
 version: Cloud Service
 solution: Cloud Managerarketo Engagexperience Manager [!DNL Cloud Manager]
 feature-set: Marketo Engagexperience Manager, Experience Manager [!DNL Cloud Manager]
-feature: [!DNL Cloud Manager]
+feature: Cloud Manager
 topic: Administration
 role: Admin, Architect
 level: Beginner
