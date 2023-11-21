@@ -1,8 +1,8 @@
 ---
 title: Create an internal [!DNL Adobe] [!DNL Analytics] site (Confluence or other)
 description: Create a central location where training docs can be shared and consulted by all your users.
-solution: [!DNL Analytics]
-feature-set: [!DNL Analytics]
+solution: Analytics
+feature-set: Analytics
 feature: Implementation Basics
 topic: Administration
 role: Admin

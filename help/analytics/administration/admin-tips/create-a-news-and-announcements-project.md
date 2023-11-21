@@ -1,8 +1,8 @@
 ---
 title: Create a news & announcements project
 description: Create a News & Announcements project within Workspace, which will be mainly text, and be share it with the whole company.
-solution: [!DNL Analytics]
-feature-set: [!DNL Analytics]
+solution: Analytics
+feature-set: Analytics
 feature: Implementation Basics
 topic: Administration
 role: Admin

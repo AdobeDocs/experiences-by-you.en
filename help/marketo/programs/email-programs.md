@@ -4,11 +4,11 @@ description: Learn how to create an email program with an A/B test.
 role: User
 level: Beginner
 doc-type: Feature Video
-solution: [!DNL Marketo Engage]
+solution: Marketo Engage
 last-substantial-update: 2023-05-23
 jira: KT-13257
 thumbnail: 3419440.jpeg
-feature-set: [!DNL Marketo Engage]
+feature-set: Marketo Engage
 feature: Programs
 ---
 # Email Programs

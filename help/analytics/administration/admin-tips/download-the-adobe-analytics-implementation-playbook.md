@@ -1,8 +1,8 @@
 ---
 title: Download the [!DNL Adobe] [!DNL Analytics] implementation playbook
 description: A Business Requirements Doc (commonly referred to as BRD) is a very important piece of documentation that key stakeholders, business users and tech users will want to collaborate on. It is a place for documenting all of your desired KPIs, reporting requirements, any data point you wish to see when your AA implementation is complete.
-solution: [!DNL Analytics]
-feature-set: [!DNL Analytics]
+solution: Analytics
+feature-set: Analytics
 feature: Implementation Basics
 topic: Administration
 role: Admin

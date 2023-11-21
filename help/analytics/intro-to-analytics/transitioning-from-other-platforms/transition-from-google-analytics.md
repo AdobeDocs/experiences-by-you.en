@@ -1,7 +1,7 @@
 ---
 title: Comprehensive guide for transitioning to [!DNL Adobe] [!DNL Analytics] from Google [!DNL Analytics]
 description: Learn about the location of equivalent functionality and how to use it efficiently when transitioning from Google [!DNL Analytics] to [!DNL Adobe] [!DNL Analytics]
-solution: [!DNL Analytics]
+solution: Analytics
 feature: Third-party Integration
 role: User
 level: Beginner

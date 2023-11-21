@@ -1,7 +1,7 @@
 ---
 title: Log CRM Sync Errors for Easy Troubleshooting
 description: Learn how to use a log of CRM Sync errors to investigate CRM sync issues and keep it running smoothly.
-feature-set: [!DNL Marketo Engage]
+feature-set: Marketo Engage
 feature: Administration
 role: Admin
 level: Intermediate, Experienced

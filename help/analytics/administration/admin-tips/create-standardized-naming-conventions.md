@@ -1,8 +1,8 @@
 ---
 title: Create standardized naming conventions
 description: Standardized Naming conventions apply to both the variable name itself when enabled in the AA Admin UI and the values passed into the dimension.
-solution: [!DNL Analytics]
-feature-set: [!DNL Analytics]
+solution: Analytics
+feature-set: Analytics
 feature: Implementation Basics
 topic: Administration
 role: Admin

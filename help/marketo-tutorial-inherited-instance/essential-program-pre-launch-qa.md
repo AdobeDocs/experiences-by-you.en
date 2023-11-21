@@ -1,7 +1,7 @@
 ---
 title: Essential Program Pre-launch Quality Assurance QA Process for Success
 description: Learn how to develop a program pre-launch QA process to help your internal teams build and launch programs more accurately and efficiently.
-feature-set: [!DNL Marketo Engage]
+feature-set: Marketo Engage
 feature: Administration
 role: Admin
 level: Intermediate, Experienced

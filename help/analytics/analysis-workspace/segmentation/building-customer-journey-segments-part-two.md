@@ -1,7 +1,7 @@
 ---
 title: Building customer journey segments - part two
 description: In part two, learn how to build purchase and retention visit intent segments to understand customers' buying journey and personalize content. Using signals like "Book Now" clicks or logins, we identify purchase and retention intent for effective analysis and targeted marketing.
-feature-set: [!DNL Analytics]
+feature-set: Analytics
 feature: Segmentation
 role: User
 level: Experienced

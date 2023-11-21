@@ -2,8 +2,8 @@
 title: AEM Champion Tips and Tricks - [!DNL Cloud Manager] Onboarding Playbook
 description: Check out these tips for [!DNL Cloud Manager] onbarding and the onboarding playbook by AEM champion and expert, Rakesh Pasupuleti.
 version: Cloud Service
-solution: Experience Manager [!DNL Cloud Manager]
-feature-set: Experience Manager, Experience Manager [!DNL Cloud Manager]
+solution: Cloud Managerarketo Engagexperience Manager [!DNL Cloud Manager]
+feature-set: Marketo Engagexperience Manager, Experience Manager [!DNL Cloud Manager]
 feature: [!DNL Cloud Manager]
 topic: Administration
 role: Admin, Architect

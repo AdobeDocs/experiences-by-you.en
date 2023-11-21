@@ -1,8 +1,8 @@
 ---
 title: Gaining a seat at the table
 description: Gaining a seat at the table. This popular phrase has been a hot topic in the business world for years now. But what does it mean? Gaining a seat at the table means that you are included in the high-level decision-making conversions. You're not only invited, but your input is valued and appreciated. I am going to show you how gaining a seat at the table will help your company and your career as an [!DNL Adobe] [!DNL Analytics] Administrator.
-solution: [!DNL Analytics]
-feature-set: [!DNL Analytics]
+solution: Analytics
+feature-set: Analytics
 feature: Admin Tools
 topic: Administration
 role: Admin

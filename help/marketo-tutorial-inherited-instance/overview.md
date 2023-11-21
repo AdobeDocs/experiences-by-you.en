@@ -1,7 +1,7 @@
 ---
 title: Tips and Tricks for auditing an inherited [!DNL Marketo Engage] instance
 description: Learn how to optimize and scale a live [!DNL Marketo Engage] instance that you inherited.
-feature-set: [!DNL Marketo Engage]
+feature-set: Marketo Engage
 feature: Administration
 role: Admin
 level: Beginner

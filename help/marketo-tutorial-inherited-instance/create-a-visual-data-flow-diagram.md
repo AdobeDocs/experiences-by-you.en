@@ -1,7 +1,7 @@
 ---
 title: Create a visual data flow diagram to understand your marketing tech stack
 description: Learn how to create a diagram of "Lead and data sources" to understand the data universe, to audit and tidy up the instance efficiently.  
-feature-set: [!DNL Marketo Engage]
+feature-set: Marketo Engage
 feature: Administration
 role: Admin
 level: Intermediate, Experienced

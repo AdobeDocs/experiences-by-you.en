@@ -1,8 +1,8 @@
 ---
 title: Create Operational Dashboards within Analysis Workspace
 description: Explore how operational dashboards in [!DNL Adobe] [!DNL Analytics] Workspace revolutionize communication and efficiency.
-solution: [!DNL Analytics]
-feature-set: [!DNL Analytics]
+solution: Analytics
+feature-set: Analytics
 feature: Curate and Share
 topic: Administration
 role: User

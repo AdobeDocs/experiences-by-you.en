@@ -1,8 +1,8 @@
 ---
 title: How to create an empowered community
 description: Learn about creating an empowered community. An empowered community is supported by its [!DNL Adobe] [!DNL Analytics] administrators, is knowledgeable on how business requirements are represented within their implementation, and has the means to confidently use analysis for data-driven decision making.
-solution: [!DNL Analytics]
-feature-set: [!DNL Analytics]
+solution: Analytics
+feature-set: Analytics
 feature: Admin Tools
 topic: Administration
 type: Documentation

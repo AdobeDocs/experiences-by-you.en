@@ -1,7 +1,7 @@
 ---
 title: Unlocking insights with histograms; beyond averages in [!DNL Analytics]
 description: Discover the impact of histograms in analytics for insights beyond averages.
-feature-set: [!DNL Analytics]
+feature-set: Analytics
 feature: Visualizations
 role: User
 level: Experienced

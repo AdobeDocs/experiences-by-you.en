@@ -1,7 +1,7 @@
 ---
 title: How to audit an inherited [!DNL Marketo Engage] instance
 description: Inheriting a [!DNL Marketo Engage] instance we recommend you spend time understanding what is in the instance, and creating a plan of action to update the configuration. This tutorial covers the most important sections within [!DNL Marketo Engage], including Admin, Marketing Activities, Design Studio, and Database, and provide you with tips for auditing and optimization along the way.
-feature-set: [!DNL Marketo Engage]
+feature-set: Marketo Engage
 feature: Audit Trail, Administration, Design Studio, Marketing, Database
 role: Admin
 level: Intermediate

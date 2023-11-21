@@ -1,7 +1,7 @@
 ---
 title: Now just wait a segment… Using segmentation to discover new insights in Analysis Workspace
 description: Learn how to use segments in [!DNL Adobe] [!DNL Analytics] to discover new insights from your Analysis Workspace visualizations and freeform tables.
-feature-set: [!DNL Analytics]
+feature-set: Analytics
 feature: Segmentation
 role: User
 level: Beginner

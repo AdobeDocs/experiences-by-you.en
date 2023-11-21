@@ -1,5 +1,5 @@
 ---
-title: [!DNL Analytics] by You
+title: Analytics by You
 description: Customer generated content
 role: User, Developer, Data Engineer, Architect, Data Architect, Admin, Leader
 level: Beginner

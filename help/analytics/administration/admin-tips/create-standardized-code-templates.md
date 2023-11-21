@@ -1,8 +1,8 @@
 ---
 title: Create standardized code templates
 description: For a baseline implementation (i.e. what your company considers the must-have KPIs for all [!DNL Adobe] [!DNL Analytics] sites), your org should have a single implementation method where possible.
-solution: [!DNL Analytics]
-feature-set: [!DNL Analytics]
+solution: Analytics
+feature-set: Analytics
 feature: Implementation Basics
 topic: Administration
 role: Admin

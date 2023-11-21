@@ -1,7 +1,7 @@
 ---
 title: More than words - Using text visualizations and descriptions in Analysis Workspace
 description: Learn how to use Text visualizations and descriptions in projects to create a more polished Analysis Workspace for your end-users.
-feature-set: [!DNL Analytics]
+feature-set: Analytics
 feature: Visualizations
 role: User
 level: Beginner

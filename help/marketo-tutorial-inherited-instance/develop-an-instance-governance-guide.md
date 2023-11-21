@@ -1,7 +1,7 @@
 ---
 title: Develop an instance governance guide with documentation
 description: Learn how to establish a robust procedure for creating and maintaining documentation and changelog for your [!DNL Marketo Engage] instance. This will not only save time for your team's knowledge sharing but also enhance the health and efficiency of your instance.
-feature-set: [!DNL Marketo Engage]
+feature-set: Marketo Engage
 feature: Administration
 role: Admin
 level: Intermediate, Experienced

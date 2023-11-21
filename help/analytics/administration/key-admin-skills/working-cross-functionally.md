@@ -1,8 +1,8 @@
 ---
 title: Working cross-functionally
 description: The journey to [!DNL Adobe] [!DNL Analytics] starts with a good implementation. We all know the saying of “garbage in, garbage out”. To eliminate a “garbage out” implementation, Admins must monitor every detail of the data put into the system. That said, the data collection strategy is influenced by many stakeholders in the organization whom an admin will have to work with day-in and day-out.
-solution: [!DNL Analytics]
-feature-set: [!DNL Analytics]
+solution: Analytics
+feature-set: Analytics
 feature: Admin Tools
 topic: Administration
 role: Admin

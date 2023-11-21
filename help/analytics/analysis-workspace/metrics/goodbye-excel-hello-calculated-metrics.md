@@ -1,7 +1,7 @@
 ---
 title: Goodbye Excel, hello calculated metrics
 description: Learn the benefits of using calculated metrics in [!DNL Adobe] [!DNL Analytics] and how they can provide you with a continuous, dynamic view of your data in this article.
-feature-set: [!DNL Analytics]
+feature-set: Analytics
 feature: Calculated Metrics
 role: User
 level: Experienced
