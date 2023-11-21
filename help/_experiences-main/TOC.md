@@ -59,7 +59,7 @@ breadcrumb-title: Experiences by You
   + Strategy & thought leadership{#strategy}
     + [Ten best practices for Adobe Campaign success for marketers](/help/campaign/10-best-practices-for-marketers.md)
 + Experience Manager by You {#experience-manager}
-  + [Overview](/help/experience-managery/overview.md)
+  + [Overview](/help/experience-manager/overview.md)
   + AEM Sites {#sites}
     + [AEM Sites Maturity Assessment](/help/experience-manager/sites/expert-resources/maturity-assessment.md)
     + Best Practices {#sites-best-practices}
