@@ -1,7 +1,7 @@
 ---
 title: Now just wait a segment… Using segmentation to discover new insights in Analysis Workspace
-description: Learn how to use segments in Adobe Analytics to discover new insights from your Analysis Workspace visualizations and freeform tables.
-feature-set: Analytics
+description: Learn how to use segments in [!DNL Adobe] [!DNL Analytics] to discover new insights from your Analysis Workspace visualizations and freeform tables.
+feature-set: [!DNL Analytics]
 feature: Segmentation
 role: User
 level: Beginner
@@ -12,7 +12,7 @@ thumbnail: KT-13268.jpeg
 ---
 # Now just wait a segment… Using segments to discover new insights in Analysis Workspace
 
-Whether you are a new Adobe Analytics user or a seasoned pro, you will leverage segments quite a bit in your Analysis Workspace projects. As [Adobe Experience League](https://experienceleague.adobe.com/docs/analytics/components/segmentation/seg-overview.html?lang=en) describes, "segments allow you to identify subsets of visitors based on characteristics or website interactions." While the basic outcome of this feature means isolating groups of users, visits, or hits to your site, a sharp-minded analyst such as yourself can get creative with this tool and find new ways to gain insights about your site activity. The list of possible options is vast, so don't hesitate to try creating your own and share it with others at your organization or online in communities like the [Adobe Analytics Community](https://experienceleaguecommunities.adobe.com/t5/adobe-analytics/ct-p/adobe-analytics-community) on Experience League or the [#Measure Slack](https://www.measure.chat/) community.
+Whether you are a new [!DNL Adobe] [!DNL Analytics] user or a seasoned pro, you will leverage segments quite a bit in your Analysis Workspace projects. As [[!DNL Adobe] Experience League](https://experienceleague.adobe.com/docs/analytics/components/segmentation/seg-overview.html?lang=en) describes, "segments allow you to identify subsets of visitors based on characteristics or website interactions." While the basic outcome of this feature means isolating groups of users, visits, or hits to your site, a sharp-minded analyst such as yourself can get creative with this tool and find new ways to gain insights about your site activity. The list of possible options is vast, so don't hesitate to try creating your own and share it with others at your organization or online in communities like the [[!DNL Adobe] [!DNL Analytics] Community](https://experienceleaguecommunities.adobe.com/t5/adobe-analytics/ct-p/adobe-analytics-community) on Experience League or the [#Measure Slack](https://www.measure.chat/) community.
 
 If you need a quick refresher on how to create a segment, please check out the Experience League documentation on using the [Segment Builder](https://experienceleague.adobe.com/docs/analytics/components/segmentation/segmentation-workflow/seg-build.html?lang=en) in Analysis Workspace.
 
@@ -72,7 +72,7 @@ You can even begin to examine how your Key Performance Indicators (KPIs) change 
 
 ![Seg 12](assets/s12.png)
 
-The possibilities for using segments to find new insights are endless! This is simply a starting point. Try a few on your own and let the community know what you discover: [Adobe Analytics Community](https://experienceleaguecommunities.adobe.com/t5/adobe-analytics/ct-p/adobe-analytics-community) on Experience League or the [#Measure Slack](https://www.measure.chat/) community.
+The possibilities for using segments to find new insights are endless! This is simply a starting point. Try a few on your own and let the community know what you discover: [[!DNL Adobe] [!DNL Analytics] Community](https://experienceleaguecommunities.adobe.com/t5/adobe-analytics/ct-p/adobe-analytics-community) on Experience League or the [#Measure Slack](https://www.measure.chat/) community.
 
 Happy segmenting!
 
@@ -82,6 +82,6 @@ This document was written by:
 
 ![Dan Cummings](assets/seg13.png)
 
-**Dan Cummings**, Sr. Product Engineering Analytics Manager at McDonald's Corporation
+**Dan Cummings**, Sr. Product Engineering [!DNL Analytics] Manager at McDonald's Corporation
 
-Adobe Analytics Champion
+[!DNL Adobe] [!DNL Analytics] Champion

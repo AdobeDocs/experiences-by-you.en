@@ -1,8 +1,8 @@
 ---
 title: Tips and tricks on how to simplify and spend less time training users
-description: Ensuring business users within your organization are well-trained on Adobe Analytics is crucial to help build a culture of data-driven decision-making. Users who can easily find information within Adobe Analytics can answer simple business questions on their own, allowing more time for analysts to answer challenging business questions. Sharing your knowledge helps drive data democracy and enables business users to be more independent in making performance-based decisions.
-solution: Analytics
-feature-set: Analytics
+description: Ensuring business users within your organization are well-trained on [!DNL Adobe] [!DNL Analytics] is crucial to help build a culture of data-driven decision-making. Users who can easily find information within [!DNL Adobe] [!DNL Analytics] can answer simple business questions on their own, allowing more time for analysts to answer challenging business questions. Sharing your knowledge helps drive data democracy and enables business users to be more independent in making performance-based decisions.
+solution: [!DNL Analytics]
+feature-set: [!DNL Analytics]
 feature: Admin Tools
 topic: Administration
 type: Documentation
@@ -15,14 +15,14 @@ kt: 9779
 
 >[!VIDEO](https://video.tv.adobe.com/v/340458/?quality=12&learn=on)
 
-Ensuring business users within your organization are well-trained on Adobe Analytics is crucial to help build a culture of data-driven decision-making. Users who can easily find information within Adobe Analytics can answer simple business questions on their own, allowing more time for analysts to answer challenging business questions. Sharing your knowledge helps drive data democracy and enables business users to be more independent in making performance-based decisions. 
+Ensuring business users within your organization are well-trained on [!DNL Adobe] [!DNL Analytics] is crucial to help build a culture of data-driven decision-making. Users who can easily find information within [!DNL Adobe] [!DNL Analytics] can answer simple business questions on their own, allowing more time for analysts to answer challenging business questions. Sharing your knowledge helps drive data democracy and enables business users to be more independent in making performance-based decisions. 
 
-Therefore, it is crucial to spend time setting up a structure to enable continuous training of users, and especially to allow new users to be onboarded on-demand. Creating a small portfolio of training content that can be reused as needed will save you time. The best part is it doesn’t require extra effort. Don’t forget, Adobe also provides classroom and remote-based training, but only you know the nuances of any custom implementation. 
+Therefore, it is crucial to spend time setting up a structure to enable continuous training of users, and especially to allow new users to be onboarded on-demand. Creating a small portfolio of training content that can be reused as needed will save you time. The best part is it doesn’t require extra effort. Don’t forget, [!DNL Adobe] also provides classroom and remote-based training, but only you know the nuances of any custom implementation. 
  
 
 ## Basic Training for all  
 
-First things first, create a standardized basic training session for using Adobe Analytics that will fit in most people’s calendars. This will likely be about one hour and contain everything users need to get started with Adobe Analytics in your organization. 
+First things first, create a standardized basic training session for using [!DNL Adobe] [!DNL Analytics] that will fit in most people’s calendars. This will likely be about one hour and contain everything users need to get started with [!DNL Adobe] [!DNL Analytics] in your organization. 
 
 * Write an agenda to keep your training session moving and so that you do not forget some of the basics, which may not be top of mind to you anymore. 
 * Don’t forget simple things like how to gain access, login, as well as changing passwords or email addresses. 
@@ -46,13 +46,13 @@ Of course, one standard basic training session will not cover every question and
 * Be sure and record these sessions as well and make them available one by one as you create the new content. 
 * Occasionally, as your implementation grows and evolves, you may need to update your training sessions to keep the content current. 
 * Depending on how your implementation and your organization is structured, it might be relevant to create training sessions that target a specific department or group: i.e. providing training to an IT department around browser and operating system usage, demonstrating alerts around site availability versus providing training to a marketing department around referrers, marketing channels and most visited content pages. 
-* You do not need to create all the content yourself. Adobe has some excellent free learning paths and additional training content, which you can offer to your users within [Adobe Experience League](https://experienceleague.adobe.com/docs/analytics.html?lang=en). 
+* You do not need to create all the content yourself. [!DNL Adobe] has some excellent free learning paths and additional training content, which you can offer to your users within [[!DNL Adobe] Experience League](https://experienceleague.adobe.com/docs/analytics.html?lang=en). 
 
  
 
 ## Train your users to train others 
 
-In every department, there is generally one user who is more advanced and knowledgeable in Adobe Analytics. Leverage their expertise and work with them to become an “Adobe Analytics Department Leader.” By creating this support level, you are helping users advance their skill set, getting your organization more invested in Adobe Analytics and preserving your time for more advanced and challenging questions. 
+In every department, there is generally one user who is more advanced and knowledgeable in [!DNL Adobe] [!DNL Analytics]. Leverage their expertise and work with them to become an “[!DNL Adobe] [!DNL Analytics] Department Leader.” By creating this support level, you are helping users advance their skill set, getting your organization more invested in [!DNL Adobe] [!DNL Analytics] and preserving your time for more advanced and challenging questions. 
 
 * Invest time training your department leaders to become advanced users, so they can comfortably answer any questions and help new users in the department. This time invested will pay dividends later.
 * Make sure you set expectations that all the department’s questions should be funneled through the department leader. If they are not able to answer a question, that is when you should be brought in to help. 

@@ -1,8 +1,8 @@
 ---
 title: How to create an empowered community
-description: Learn about creating an empowered community. An empowered community is supported by its Adobe Analytics administrators, is knowledgeable on how business requirements are represented within their implementation, and has the means to confidently use analysis for data-driven decision making.
-solution: Analytics
-feature-set: Analytics
+description: Learn about creating an empowered community. An empowered community is supported by its [!DNL Adobe] [!DNL Analytics] administrators, is knowledgeable on how business requirements are represented within their implementation, and has the means to confidently use analysis for data-driven decision making.
+solution: [!DNL Analytics]
+feature-set: [!DNL Analytics]
 feature: Admin Tools
 topic: Administration
 type: Documentation
@@ -16,7 +16,7 @@ kt: 9780
 
 >[!VIDEO](https://video.tv.adobe.com/v/340457/?quality=12&learn=on)
 
-An empowered community is one that has a few notable characteristics. First, it is supported by its Adobe Analytics administrators. It is knowledgeable on how business requirements are represented within their implementation. Last but not least, it has the means to confidently use analysis for data-driven decision making. Many businesses are benefitting from the structure that an internal Adobe Analytics user group or a more formal community provides.
+An empowered community is one that has a few notable characteristics. First, it is supported by its [!DNL Adobe] [!DNL Analytics] administrators. It is knowledgeable on how business requirements are represented within their implementation. Last but not least, it has the means to confidently use analysis for data-driven decision making. Many businesses are benefitting from the structure that an internal [!DNL Adobe] [!DNL Analytics] user group or a more formal community provides.
 
 You can create an empowered community within your organization. Here's how:
 
@@ -24,11 +24,11 @@ You can create an empowered community within your organization. Here's how:
 
 * Create a user onboarding process:
     
-    What are the requirements and processes associated with Adobe Analytics access for your business? If you don't yet have requirements and a process in place for new user onboarding, creating that infrastructure supports scalability. 
+    What are the requirements and processes associated with [!DNL Adobe] [!DNL Analytics] access for your business? If you don't yet have requirements and a process in place for new user onboarding, creating that infrastructure supports scalability. 
 
 * Implement proper user management and access:
 
-    User access to report suites, metrics, dimensions, tools, reports, and components are foundational to Adobe Analytics and a key part of the [user group management process](https://experienceleague.adobe.com/docs/analytics/admin/admin-console/home.html?lang=en). Proper tool access allows for users to become empowered for self-service within Analysis Workspace and Reports & Analytics.
+    User access to report suites, metrics, dimensions, tools, reports, and components are foundational to [!DNL Adobe] [!DNL Analytics] and a key part of the [user group management process](https://experienceleague.adobe.com/docs/analytics/admin/admin-console/home.html?lang=en). Proper tool access allows for users to become empowered for self-service within Analysis Workspace and Reports & [!DNL Analytics].
 
 * Understand the Implementation:
 
@@ -36,13 +36,13 @@ You can create an empowered community within your organization. Here's how:
 
 * Use report templates:
 
-    Adobe Analytics Report Templates and Projects are key resources for enabling tool users on your business' implementation, reporting use cases, and best practices. These resources should address common business questions, and how they can be best answered within the tool.
+    [!DNL Adobe] [!DNL Analytics] Report Templates and Projects are key resources for enabling tool users on your business' implementation, reporting use cases, and best practices. These resources should address common business questions, and how they can be best answered within the tool.
 
 ## 2. Create a plan for who runs it and who should be involved
 
 * Decide who will run the community:
 
-    An empowered community begins with an infrastructure based around administering and implementing business requirements. Thus, the teams managing a business' Adobe Analytics administration and enablement are typically key to managing a user group or internal community.
+    An empowered community begins with an infrastructure based around administering and implementing business requirements. Thus, the teams managing a business' [!DNL Adobe] [!DNL Analytics] administration and enablement are typically key to managing a user group or internal community.
 
 * Define who is involved, roles, and responsibilities:
 
@@ -52,13 +52,13 @@ You can create an empowered community within your organization. Here's how:
   
   * **Supporting functions responsibilities:** Depending on the size and structure of your organization, it might be beneficial to engage teams like Web Development, Personalization, Testing, and so on.
   
-  * **Tool users:** There is an opportunity for anyone that has the potential to impact data aligned to your business' Adobe Analytics implementation to get involved--regardless of title or role! 
+  * **Tool users:** There is an opportunity for anyone that has the potential to impact data aligned to your business' [!DNL Adobe] [!DNL Analytics] implementation to get involved--regardless of title or role! 
 
 * Remember – “What’s in it for them?” Keeping your community focused on business use cases and priorities helps ensure engagement and success! 
 
 ## 3. Use tools to start building your community
 
-* [Create a project charter](assets/Adobe-Analytics-Empowered-Community-Project-Charter-Template.pptx) (template download):
+* [Create a project charter](assets/[!DNL Adobe]-[!DNL Analytics]-Empowered-Community-Project-Charter-Template.pptx) (template download):
 
   A project charter is often a great way to align your business around the opportunity for an internal, empowered community. By answering the following questions, you have what you need to draft your charter:
 
@@ -78,7 +78,7 @@ You can create an empowered community within your organization. Here's how:
   
   * What teams will be impacted by your community, who is your target audience (for example, executives, managers, frontline analysts)? 
   * What are your key message focuses, what messages are needed, what's in it for your target audience (WIIFM), and what requests do you have?
-  * What communication vehicles should be used (for example, email, Slack, video, meetings, and so on) before or after the community launch? For example, will you send emails through the Adobe Analytics admin tool. Or, should your new user onboarding process now include maintenance of an internal email distribution list that can be utilized for newsletters, and so on?
+  * What communication vehicles should be used (for example, email, Slack, video, meetings, and so on) before or after the community launch? For example, will you send emails through the [!DNL Adobe] [!DNL Analytics] admin tool. Or, should your new user onboarding process now include maintenance of an internal email distribution list that can be utilized for newsletters, and so on?
   * Who will send communication?
   * When? Key to consider both communications before the community launch, as well as that which needs to be provided on an ongoing basis following the launch. 
 
@@ -90,7 +90,7 @@ You can create an empowered community within your organization. Here's how:
 
   * If your business is hosting virtual events, what digital learnings and insights can be shared more broadly?
   * If your website uses interactive tools (such as chatbots, savings calculators, demos, and so on), how is performance data being leveraged? What insights can be gained to better support customers and the customer journey?
-  * How is your business leveraging existing capabilities to enhance and leverage audience insights? For example, is your business using the new Adobe Analytics and Marketo integration? What learnings and insights can be shared more broadly?
+  * How is your business leveraging existing capabilities to enhance and leverage audience insights? For example, is your business using the new [!DNL Adobe] [!DNL Analytics] and Marketo integration? What learnings and insights can be shared more broadly?
 
 * Set expectations – Continue to leverage your project charter and communication plan to set expectations around what your community is and is not. Consistency is key!  
 * Plan for engagement – While your Community is getting started, it may be beneficial to designate someone to monitor and engage teams via the chat during meetings and via your Community vehicles.
@@ -100,12 +100,12 @@ You can create an empowered community within your organization. Here's how:
 
 Setting up and maintaining an empowered community is a lot of work. It is important to step back and realize the benefits that your organization can reap by doing this. Here are some of the benefits I have personally seen:
 
-* Data-driven decision making - An empowered community can [change your business](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/intro-to-analytics/what-can-aa-do-for-me/how-adobe-analysis-workspace-can-change-your-business.html?lang=en), as Adobe Analytics enables data storytelling, predicts outcomes, and prescribes outcomes-in a way that is accessible across the organization to support customer intelligence and data-driven decision making.
+* Data-driven decision making - An empowered community can [change your business](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/intro-to-analytics/what-can-aa-do-for-me/how-adobe-analysis-workspace-can-change-your-business.html?lang=en), as [!DNL Adobe] [!DNL Analytics] enables data storytelling, predicts outcomes, and prescribes outcomes-in a way that is accessible across the organization to support customer intelligence and data-driven decision making.
 
-* Increased expertise and efficiency - Direct correlations can be made between enablement engagement and return on marketing investment! An empowered community up-levels everyone's expertise, facilitating the sharing of insights, best practices, projects, and product updates, encouraging collaboration. It does this while enabling self-sufficiency and greater optimization via Adobe Analytics. This supports marketing channel, page, geolocation, audience, and so one. It also supports experience optimizations, allowing for teams to focus on where they can drive the greatest impact.
+* Increased expertise and efficiency - Direct correlations can be made between enablement engagement and return on marketing investment! An empowered community up-levels everyone's expertise, facilitating the sharing of insights, best practices, projects, and product updates, encouraging collaboration. It does this while enabling self-sufficiency and greater optimization via [!DNL Adobe] [!DNL Analytics]. This supports marketing channel, page, geolocation, audience, and so one. It also supports experience optimizations, allowing for teams to focus on where they can drive the greatest impact.
 
-* Value realization - If your business has invested in a tool as powerful as Adobe Analytics, it is in everyone's best interest that you are realizing the full value of its potential. 
+* Value realization - If your business has invested in a tool as powerful as [!DNL Adobe] [!DNL Analytics], it is in everyone's best interest that you are realizing the full value of its potential. 
 
 * Career development - An empowered community shifts the focus of many analyst teams from being reactive and tactical to being prescriptive and strategic. This opens career development opportunities for your community's administration project team. 
 
-If you have an internal Adobe Analytics user group or more formal "community," or are working to form one, we'd love to hear your story within the [Adobe Experience League](https://experienceleaguecommunities.adobe.com/t5/adobe-analytics-discussions/bd-p/adobe-analytics-discussions)!
+If you have an internal [!DNL Adobe] [!DNL Analytics] user group or more formal "community," or are working to form one, we'd love to hear your story within the [[!DNL Adobe] Experience League](https://experienceleaguecommunities.adobe.com/t5/adobe-analytics-discussions/bd-p/adobe-analytics-discussions)!

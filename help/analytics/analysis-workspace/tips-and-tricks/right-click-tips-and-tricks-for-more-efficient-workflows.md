@@ -1,7 +1,7 @@
 ---
 title: Right-click tips & tricks for more efficient workflows
 description: Here are 7 right-click tips you can use in Analysis Workspace to make your workflows more efficient.
-feature-set: Analytics
+feature-set: [!DNL Analytics]
 feature: Workspace Basics
 role: User
 level: Beginner
@@ -65,7 +65,7 @@ It can make sense to hide certain rows in a Freeform Table. Select only the pert
 
 This shouldn't be used to completely change your data, and you need to be careful not to hide important rows. But it can also be used as an easy way to clean up your data on the fly and to bring users attention back to the big picture. This is a great way to easily remove messy and insignificant details. 
 
-I hope you make great use of these tips, and that they help you to save time and deliver more pertinent reports using Adobe's Analysis Workspace! 
+I hope you make great use of these tips, and that they help you to save time and deliver more pertinent reports using [!DNL Adobe]'s Analysis Workspace! 
 
 ## Author
 
@@ -73,6 +73,6 @@ This document was written by:
 
 ![Christel Guidon](assets/christel-guidon.jpg)
 
-**Christel Guidon**, Digital Analytics Platform Manager at Gen Digital
+**Christel Guidon**, Digital [!DNL Analytics] Platform Manager at Gen Digital
 
-Adobe Analytics Champion
+[!DNL Adobe] [!DNL Analytics] Champion

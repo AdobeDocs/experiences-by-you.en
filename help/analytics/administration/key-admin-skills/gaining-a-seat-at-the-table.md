@@ -1,8 +1,8 @@
 ---
 title: Gaining a seat at the table
-description: Gaining a seat at the table. This popular phrase has been a hot topic in the business world for years now. But what does it mean? Gaining a seat at the table means that you are included in the high-level decision-making conversions. You're not only invited, but your input is valued and appreciated. I am going to show you how gaining a seat at the table will help your company and your career as an Adobe Analytics Administrator.
-solution: Analytics
-feature-set: Analytics
+description: Gaining a seat at the table. This popular phrase has been a hot topic in the business world for years now. But what does it mean? Gaining a seat at the table means that you are included in the high-level decision-making conversions. You're not only invited, but your input is valued and appreciated. I am going to show you how gaining a seat at the table will help your company and your career as an [!DNL Adobe] [!DNL Analytics] Administrator.
+solution: [!DNL Analytics]
+feature-set: [!DNL Analytics]
 feature: Admin Tools
 topic: Administration
 role: Admin
@@ -14,7 +14,7 @@ kt: 10132
 
 >[!VIDEO](https://video.tv.adobe.com/v/342070/?quality=12&learn=on)
 
-“Gaining a seat at the table.” This popular phrase has been a hot topic in the business world for years now. But what does it mean? Gaining a seat at the table means that you are included in the high-level decision-making conversions. You're not only invited, but your input is valued and appreciated. I am going to show you how gaining a seat at the table will help your company and your career as an Adobe Analytics power user, whether your official role is that of an admin, a data analyst, or whatever else your business card says.
+“Gaining a seat at the table.” This popular phrase has been a hot topic in the business world for years now. But what does it mean? Gaining a seat at the table means that you are included in the high-level decision-making conversions. You're not only invited, but your input is valued and appreciated. I am going to show you how gaining a seat at the table will help your company and your career as an [!DNL Adobe] [!DNL Analytics] power user, whether your official role is that of an admin, a data analyst, or whatever else your business card says.
 
 ## Why you need to be at the table
 
@@ -37,7 +37,7 @@ Now that you understand why you need to be included, it’s time to start taking
 * Will this person be a good partner? This is probably the hardest to identify, but it might be the most important. The attributes I look for most are open-mindedness and self-confidence. Do they seriously consider alternative viewpoints when presented with supporting evidence? Do they have the self-confidence required to share the credit for good work? (Remember, if you’re not at the table, this person is likely taking all the credit.) These are a couple of the questions you can ask when looking for a good partner.
 * BONUS - Is this person doing impactful work? Let’s face it, not everyone does impactful work. There are very “successful” people who are not making a noticeable impact in the organization. Find someone making an impact. Your job will be a lot more fulfilling when you can see that the work you do makes a difference.   
 
-The questions above should help narrow the list. By now, you should have one or two people who you can focus on for the next two steps. I’m going to steal the framing of the next two steps from a recent [Analytics Power Hour guest - Cassie Kozyrkov](https://analyticshour.io/2021/12/14/182-making-better-decisions-and-being-useful-with-cassie-kozyrkov/). She laid it out so perfectly when she said that you need to “be useful and be excellent.”  
+The questions above should help narrow the list. By now, you should have one or two people who you can focus on for the next two steps. I’m going to steal the framing of the next two steps from a recent [[!DNL Analytics] Power Hour guest - Cassie Kozyrkov](https://analyticshour.io/2021/12/14/182-making-better-decisions-and-being-useful-with-cassie-kozyrkov/). She laid it out so perfectly when she said that you need to “be useful and be excellent.”  
 
 **Step 2: Be Useful -** The next step is to figure out how you can be as useful as possible to the decision-makers you identified in step one. The key here is to put yourself in their shoes. What do they care about? What are they worried about? What unknowns are you able to shine a light on that will help them do their jobs better? 
 

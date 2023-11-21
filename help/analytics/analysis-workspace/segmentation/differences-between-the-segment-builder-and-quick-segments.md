@@ -1,7 +1,7 @@
 ---
 title: Differences between the segment builder and quick segments in Analysis Workspace
 description: Segments can be one of the most powerful tools in your data analysis toolkit. Learn the differences between using the segment builder and quick segments in Analysis Workspace for efficiency.
-feature-set: Analytics
+feature-set: [!DNL Analytics]
 feature: Segmentation
 role: User
 level: Beginner
@@ -37,7 +37,7 @@ When doing an exploratory analysis, and you want to test different types of segm
 
 The segment builder can be accessed by clicking the + symbol above the list of segments in the left-hand components' menu, or from clicking the components dropdown and selecting 'Create Segment…' Unlike the quick segments, this has all the options available to you. For adding multiple conditions, you can create sequential segments using the 'then' operator. Sequential segments also allow you to use 'logic group' as your level (instead of hit, visit, or visitor). The segment builder will also allow you to add in a description to the segments, which can add context about who built the segment or what type of data it has been built to filter, or even simply add 'tags' to the segment for organizational purposes both of which are not possible within the quick segment builder.
 
-Using the segment builder is essential when your segment is going to have more than 3 conditions, if you need to use containers, or want sequential segments. The full segment builder has a lot more options to make more intricate segments, which can help you break down different customer types, categories, customer journeys, and so on. Once these segments have been created and saved, they are added to the master list of segments, meaning they can be tagged, approved, shared, used in multiple reports, and published to the Experience Cloud. Publishing in the Experience Cloud allows you to utilize the segment in other Adobe products, such as in Adobe Target for personalization targeting. Segments built in the segment builder can't be edited in the quick segments panel, you will need to open the segment builder to make any changes to them. Fortunately, the preview visualization to the right provides a more detailed analysis of the traffic the segment would bring in for the last 90 days, meaning it is easier to be sure the segment is bringing in what you want it to before saving. 
+Using the segment builder is essential when your segment is going to have more than 3 conditions, if you need to use containers, or want sequential segments. The full segment builder has a lot more options to make more intricate segments, which can help you break down different customer types, categories, customer journeys, and so on. Once these segments have been created and saved, they are added to the master list of segments, meaning they can be tagged, approved, shared, used in multiple reports, and published to the Experience Cloud. Publishing in the Experience Cloud allows you to utilize the segment in other [!DNL Adobe] products, such as in [!DNL Adobe] Target for personalization targeting. Segments built in the segment builder can't be edited in the quick segments panel, you will need to open the segment builder to make any changes to them. Fortunately, the preview visualization to the right provides a more detailed analysis of the traffic the segment would bring in for the last 90 days, meaning it is easier to be sure the segment is bringing in what you want it to before saving. 
 
 ![Segment Builder](assets/segment-builder-quick.png)
 
@@ -57,8 +57,8 @@ This document was written by:
 
 **Mandy George**, Digital Analyst III at Best Buy Canada
 
-Adobe Analytics Champion
+[!DNL Adobe] [!DNL Analytics] Champion
 
 ## Download
 
-[![Quick Segments Download](assets/quick-segments-download-small.jpg)](assets/Adobe_Analytics_Segments_Vs_Segment_Builder_Reference_Guide.pdf)
+[![Quick Segments Download](assets/quick-segments-download-small.jpg)](assets/[!DNL Adobe]_[!DNL Analytics]_Segments_Vs_Segment_Builder_Reference_Guide.pdf)

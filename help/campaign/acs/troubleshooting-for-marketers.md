@@ -1,8 +1,8 @@
 ---
 title: Troubleshooting for Marketers
 description: Knowing the most common errors can help with faster problem-solving and boost your productivity. These troubleshooting tips to help you effectively resolve similar errors as they occur.
-solution: Campaign Standard
-feature-set: Campaign
+solution: [!DNL Campaign] Standard
+feature-set: [!DNL Campaign]
 feature: Workflows
 role: User
 level: Beginner, Intermediate, Experienced
@@ -16,7 +16,7 @@ exl-id: 24a6815b-52d1-4bd6-9d27-522720a91f83
 
 By: [Suraj Patra](https://www.linkedin.com/in/suraj-p-51612053/){target="_blank"}, Senior Consultant, Meijer 
 
-As a Senior Engineer and customer expert on Adobe Experience Cloud products for the past five years, I enable business users at [Meijer](https://www.meijer.com/){target="_blank"}, an American supercenter chain founded in 1934, to run complex marketing and transactional campaigns with ACS. A few projects that I've worked on include customized campaigns to store offers and order details for personalization, integrated with Adobe Audience Manager, and customer insight for segment ingestion.  
+As a Senior Engineer and customer expert on [!DNL Adobe] Experience Cloud products for the past five years, I enable business users at [Meijer](https://www.meijer.com/){target="_blank"}, an American supercenter chain founded in 1934, to run complex marketing and transactional campaigns with ACS. A few projects that I've worked on include customized campaigns to store offers and order details for personalization, integrated with [!DNL Adobe] Audience Manager, and customer insight for segment ingestion.  
 
 
 In my time using ACS, I've run into errors which can be time consuming and frustrating to solve. Knowing the most common errors can help with faster problem-solving and boost your productivity. Below are my troubleshooting tips to help you effectively resolve similar errors as they occur. 

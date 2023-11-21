@@ -1,8 +1,8 @@
 ---
 title: Drive success with executive summary dashboards
 description: Executives often lack timely and relevant information for their sites and apps, relying on monthly Excel charts or drowning in granular data. The solution - executive summary dashboard.
-solution: Analytics
-feature-set: Analytics
+solution: [!DNL Analytics]
+feature-set: [!DNL Analytics]
 feature: Admin Tools
 role: User
 level: Experienced
@@ -32,7 +32,7 @@ Such a trip would obviously be miserable, unpredictable, and dangerous. It's no 
 
 So why do so many executives accept this as a reasonable way of running their sites and apps?
 
-Many executives don't have access to ongoing, relevant information needed to take action in a timely manner. Instead, they receive a deck once a month with stats exported from Adobe Analytics into Excel, charted, and then plopped into a PowerPoint. If an inflection point occurs early in the month, they won't know about it until the beginning of the next month, well after they can ask questions or take action. Custom alerts are a great option too, but we all know what an exec's email inbox looks like.
+Many executives don't have access to ongoing, relevant information needed to take action in a timely manner. Instead, they receive a deck once a month with stats exported from [!DNL Adobe] [!DNL Analytics] into Excel, charted, and then plopped into a PowerPoint. If an inflection point occurs early in the month, they won't know about it until the beginning of the next month, well after they can ask questions or take action. Custom alerts are a great option too, but we all know what an exec's email inbox looks like.
 
 You want executives to have enough data to know when their attention is needed right away, not so much that they throw up their hands in frustration. If you walk in to a message from a product owner or marketing manager that an exec wants to know about an anomaly, you're hitting the sweet spot.
 
@@ -48,7 +48,7 @@ Add in historical data for these same three metrics so it's easy to see long ter
 
 Add in a couple of dropdowns for whatever is important to your organization. I find that device type and marketing channel are usually good bets:
 
-![Social Campaigns.png](assets/social-campaigns.png)
+![Social [!DNL Campaign]s.png](assets/social-campaigns.png)
 
 These are both pretty important overall, but as always, make sure that what you choose is relevant to your site or app.
 
@@ -77,4 +77,4 @@ This document was written by:
 
 **Gitai Ben-Ammi**, Principal Consultant at Concentrix Catalyst
 
-Adobe Analytics Champion
+[!DNL Adobe] [!DNL Analytics] Champion

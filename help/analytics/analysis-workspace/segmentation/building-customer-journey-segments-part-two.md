@@ -1,7 +1,7 @@
 ---
 title: Building customer journey segments - part two
 description: In part two, learn how to build purchase and retention visit intent segments to understand customers' buying journey and personalize content. Using signals like "Book Now" clicks or logins, we identify purchase and retention intent for effective analysis and targeted marketing.
-feature-set: Analytics
+feature-set: [!DNL Analytics]
 feature: Segmentation
 role: User
 level: Experienced
@@ -53,7 +53,7 @@ We can think of this as something like a grocery store. If somebody picks up a p
 
 I suggest using pages visited or other explicit purchase intent signals and avoiding other, less direct signals to identify purchase intent. For example, I would not use number of sessions or number of pages in a session or similar. These indirect signals indicate Consideration, not Purchase intent. Remember, the purpose of this segment is to infer the visitor's intent for the visit, not their propensity.
 
-### Using Analytics Workspace to Identify Purchase Intent Signals
+### Using [!DNL Analytics] Workspace to Identify Purchase Intent Signals
 
 The Fallout report is very useful for identifying a good signal that indicates purchase intent. Look for a place that logically indicates intent. You can confirm that the step indicates intent when you see a notable fallout going to that step, often followed by a smaller fallout for the step immediately after.
 
@@ -99,9 +99,9 @@ As with the Purchase Intent segment, we're looking for very explicit indications
 
 I should note that "Retention" is a bit of an awkward name for this visit intent, since the visitor isn't on our site, "so I can be retained as a customer." Retention is our intention for that visit. Just remember to be empathetic to our customers and maintain a customer-first focus!
 
-### Using Analytics Workspace to Identify Retention Intent Signals
+### Using [!DNL Analytics] Workspace to Identify Retention Intent Signals
 
-Again, Analytics Workspace helps us identify Retention Intent. You can use the pages, site section, or custom segment dimensions to categorize your pages. Look for pages with low purchase conversion rates. In our case, we find that Online Check-In and Shore Excursion (Shorex) pages have relatively lower conversion rates than other pages that are more logically associated with shopping and purchase.
+Again, [!DNL Analytics] Workspace helps us identify Retention Intent. You can use the pages, site section, or custom segment dimensions to categorize your pages. Look for pages with low purchase conversion rates. In our case, we find that Online Check-In and Shore Excursion (Shorex) pages have relatively lower conversion rates than other pages that are more logically associated with shopping and purchase.
 
 ![Image 6](assets/Image-6.png)
 
@@ -137,6 +137,6 @@ This document was written by:
 
 ![Aaron Fossum](assets/aaron-headshot.png)
 
-**Aaron Fossum**, Director, Digital Analytics
+**Aaron Fossum**, Director, Digital [!DNL Analytics]
 
-Adobe Analytics Champion
+[!DNL Adobe] [!DNL Analytics] Champion

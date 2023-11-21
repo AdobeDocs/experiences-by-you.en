@@ -1,7 +1,7 @@
 ---
-title: Comprehensive guide for transitioning to Adobe Analytics from Google Analytics
-description: Learn about the location of equivalent functionality and how to use it efficiently when transitioning from Google Analytics to Adobe Analytics
-solution: Analytics
+title: Comprehensive guide for transitioning to [!DNL Adobe] [!DNL Analytics] from Google [!DNL Analytics]
+description: Learn about the location of equivalent functionality and how to use it efficiently when transitioning from Google [!DNL Analytics] to [!DNL Adobe] [!DNL Analytics]
+solution: [!DNL Analytics]
 feature: Third-party Integration
 role: User
 level: Beginner
@@ -9,15 +9,15 @@ kt: 9830
 thumbnail: 34749.jpg
 exl-id: b2be6081-a1c0-4435-affb-454ed5a74662
 ---
-# Comprehensive guide for transitioning to Adobe Analytics from Google Analytics{#comprehensive-guide-for-transitioning-to-Adobe-Analytics}
+# Comprehensive guide for transitioning to [!DNL Adobe] [!DNL Analytics] from Google [!DNL Analytics]{#comprehensive-guide-for-transitioning-to-[!DNL Adobe]-[!DNL Analytics]}
 
 ## 1. Introduction
 
-One of the biggest challenges in transitioning between any tools is learning where to find equivalent functionality and learning how to use it efficiently. This discussion is part of a larger guide to help users transition to Adobe Analytics (either as a new user, or one coming from Google Analytics) easier. An in-depth comparison to GA; as the most likely comparative tool that most users have familiarity with; is provided to help users correlate existing knowledge to the new toolset. When there is no substitute for practice, this helps get you started and reduce frustrations you may encounter during this time.
+One of the biggest challenges in transitioning between any tools is learning where to find equivalent functionality and learning how to use it efficiently. This discussion is part of a larger guide to help users transition to [!DNL Adobe] [!DNL Analytics] (either as a new user, or one coming from Google [!DNL Analytics]) easier. An in-depth comparison to GA; as the most likely comparative tool that most users have familiarity with; is provided to help users correlate existing knowledge to the new toolset. When there is no substitute for practice, this helps get you started and reduce frustrations you may encounter during this time.
 
 We should have a quick terminology comparison:
 
-| **Description** | **Adobe Analytics** | **Google Analytics** |
+| **Description** | **[!DNL Adobe] [!DNL Analytics]** | **Google [!DNL Analytics]** |
 |--------------------------------------------------------------------------------------------------------------------------------|---------------------|----------------------|
 | An event metric that represents a page (or screen on an app) has been viewed | Page View| Pageview |
 | A metric that represents a group of interactions on your website or app that take place in the same time frame | Visit | Session |
@@ -25,7 +25,7 @@ We should have a quick terminology comparison:
 
 ## 2. The Interfaces
 
-When people compare Adobe Analytics and Google Analytics, they comment that Adobe's interface is daunting at first. This is true, but it's also; believe it or not; a strength, not a weakness. Adobe provides a wide range of tools and flexibilities in your data visualization, allowing you much more freedom to build what you need.
+When people compare [!DNL Adobe] [!DNL Analytics] and Google [!DNL Analytics], they comment that [!DNL Adobe]'s interface is daunting at first. This is true, but it's also; believe it or not; a strength, not a weakness. [!DNL Adobe] provides a wide range of tools and flexibilities in your data visualization, allowing you much more freedom to build what you need.
 
 Let's start by looking at the "in-site" reporting.
 
@@ -33,11 +33,11 @@ Let's start by looking at the "in-site" reporting.
 
 #### 2.1.1. Home Screen
 
-Both Adobe Analytics and Google Analytics provide a way to customize the first view a user sees when they log in.
+Both [!DNL Adobe] [!DNL Analytics] and Google [!DNL Analytics] provide a way to customize the first view a user sees when they log in.
 
-##### 2.1.1.1. Workspace / Custom Set Home Screen (Adobe Analytics)
+##### 2.1.1.1. Workspace / Custom Set Home Screen ([!DNL Adobe] [!DNL Analytics])
 
-Adobe Analytics doesn't presume to create a pre-built report for all users to see on login. The default home page takes the user to the Workspace landing screen which shows each user all the workspace reports that they created or were shared with them. Also, each user can set any of these reports as their home screen if they so choose.
+[!DNL Adobe] [!DNL Analytics] doesn't presume to create a pre-built report for all users to see on login. The default home page takes the user to the Workspace landing screen which shows each user all the workspace reports that they created or were shared with them. Also, each user can set any of these reports as their home screen if they so choose.
 
 ![workspace-create-project](assets/ga-to-aa_1.png)
 
@@ -49,9 +49,9 @@ There are more details below regarding workspace later on in this guide. See Sec
 
 
 
-##### 2.1.1.2. Home Screen Insights (Google Analytics)
+##### 2.1.1.2. Home Screen Insights (Google [!DNL Analytics])
 
-* Google Analytics Home Screen has some pre-built visualizations for you. These cover things like:
+* Google [!DNL Analytics] Home Screen has some pre-built visualizations for you. These cover things like:
 * Users, Sessions, Bounce Rate, and Session Duration in the last seven days
 * Users by Time of Day in the last 30 days
 * Current Users Right Now, and Top Active Pages
@@ -65,15 +65,15 @@ GA4 users have more options to customize and add their own reports to the Home S
 
 ![google-analytics-interfaces](assets/ga-to-aa_2.png)
 
-This is probably the one thing that you miss most in Adobe Analytics. There isn't a home screen pre-built for you. However, you can easily set up a custom Workspace to replicate what you need from the above list and set it as your landing screen. There's more on this topic later (or see Section 2.1.2.1 Adobe Workspace).
+This is probably the one thing that you miss most in [!DNL Adobe] [!DNL Analytics]. There isn't a home screen pre-built for you. However, you can easily set up a custom Workspace to replicate what you need from the above list and set it as your landing screen. There's more on this topic later (or see Section 2.1.2.1 [!DNL Adobe] Workspace).
 
 #### 2.1.2. In-Site Report Builders
 
 In addition to the Simple Reports that the analytics tools provided, each tool also provides more powerful tools with which to build out your own custom reports.
 
-##### 2.1.2.1. Adobe Analytics Workspace
+##### 2.1.2.1. [!DNL Adobe] [!DNL Analytics] Workspace
 
-This is the powerhouse of Adobe Analytics, since its introduction in 2017 it has become the go to place for Analytics analysis, and the primary reason why the Reports section is soon-to-be sunset. 
+This is the powerhouse of [!DNL Adobe] [!DNL Analytics], since its introduction in 2017 it has become the go to place for [!DNL Analytics] analysis, and the primary reason why the Reports section is soon-to-be sunset. 
 
 This tool allows you to build out reports with almost complete freedom.
 
@@ -104,7 +104,7 @@ There are a multitude of visualizations available to users:
 * Venn
 
 Each panel and visualization can be titled and have a description applied to it to help give context to what the information is showing.
-In Adobe, segments (essentially filters for data) apply retroactively, and these can be pulled into columns of your freeform tables to compare data side by side. For instance, if a user wanted to compare two different categories on their site for traffic; they could create a segment for "Category A" and a different segment for "Category B".
+In [!DNL Adobe], segments (essentially filters for data) apply retroactively, and these can be pulled into columns of your freeform tables to compare data side by side. For instance, if a user wanted to compare two different categories on their site for traffic; they could create a segment for "Category A" and a different segment for "Category B".
 
 ![analytics-page-views-report](assets/ga-to-aa_3.png)
 
@@ -134,43 +134,43 @@ Another powerful feature of workspaces is the ability to apply interactive modif
 >
 >To read more about using drop-downs  and freeform breakdowns see <https://experienceleaguecommunities.adobe.com/t5/adobe-analytics-discussions/the-power-of-dropdown-filters-and-dimension-breakdowns-in-adobe/td-p/434680> 
 
-##### 2.1.2.2. Google Analytics: Dashboards, Custom Reports, and Saved Reports
+##### 2.1.2.2. Google [!DNL Analytics]: Dashboards, Custom Reports, and Saved Reports
 
 Google has a few tools for creating reports within the interface, but they still follow the same display and limitations of the reports section. 
 
-Now, for those versed in Google Analytics as you read this, you might be saying, "well wait a second, what about Google Data Studio, isn't that a better equivalent to Adobe's Workspace?" Yes, but Data Studio isn't technically a part of the Analytics tool, and it allows for connections to different data sources. This tool is covered later in the "Extended Report Access" section, specifically Section 2.2.3.
+Now, for those versed in Google [!DNL Analytics] as you read this, you might be saying, "well wait a second, what about Google Data Studio, isn't that a better equivalent to [!DNL Adobe]'s Workspace?" Yes, but Data Studio isn't technically a part of the [!DNL Analytics] tool, and it allows for connections to different data sources. This tool is covered later in the "Extended Report Access" section, specifically Section 2.2.3.
 
 Google Dashboards and Custom Reports allow you to pull multiple visualizations together into one report, but unlike Workspace, you are still locked into simple correlations and what data can be placed into what columns. 
 
 In Custom Reports, one of the biggest challenges is when you create a filter, it applies to all tabs of the report. There isn't a way to compare two different filters within the same report.
 
-For surface comparisons, it does the job. These are all similar to the Adobe Legacy Dashboards, Custom Reports, and Bookmarks. Basic tools provided to support your needs, that reside within the report suite.
+For surface comparisons, it does the job. These are all similar to the [!DNL Adobe] Legacy Dashboards, Custom Reports, and Bookmarks. Basic tools provided to support your needs, that reside within the report suite.
 
 #### 2.1.3. Reports
 
-Both Google and Adobe have some navigable reports that are per-built tables and basic timeline graphs based around a dimension.
+Both Google and [!DNL Adobe] have some navigable reports that are per-built tables and basic timeline graphs based around a dimension.
 
-##### 2.1.3.1. Adobe Analytics Reports
+##### 2.1.3.1. [!DNL Adobe] [!DNL Analytics] Reports
 
-Adobe Analytics also has a Reports section, though this is being phased out in favor of Analysis Workspace. In fact, end-of-life has been announced for this interface, since Workspace is a more powerful tool. Most of these tables can be built and modified with more ease. Adobe's sections are far more broken out, and this can be daunting:
+[!DNL Adobe] [!DNL Analytics] also has a Reports section, though this is being phased out in favor of Analysis Workspace. In fact, end-of-life has been announced for this interface, since Workspace is a more powerful tool. Most of these tables can be built and modified with more ease. [!DNL Adobe]'s sections are far more broken out, and this can be daunting:
 
 ![analytics-site-metrics](assets/ga-to-aa_6.png)
 
-With most of the above being accessible via Workspaces, I give a brief overview of these sections and how they relate to Google Analytics, and highlight the reports here that are still relevant.
+With most of the above being accessible via Workspaces, I give a brief overview of these sections and how they relate to Google [!DNL Analytics], and highlight the reports here that are still relevant.
 
-Site Metrics is what you would expect, this covers the standard metrics (page views, unique visitors, visits, and custom events that you have set up). This is similar to the Behavior report GA, but also includes some of what you would find in Audience (since Adobe doesn't split up the metric types). 
+Site Metrics is what you would expect, this covers the standard metrics (page views, unique visitors, visits, and custom events that you have set up). This is similar to the Behavior report GA, but also includes some of what you would find in Audience (since [!DNL Adobe] doesn't split up the metric types). 
 
 In here, you find "Bot" Reports. Traffic from bots is excluded from all your standard reports, however, there are two reports that provide insight into what is happening and which bots are coming to your site. This is especially good if you set up custom Bot Rules to exclude known spammer bots that frequently hit your site. You can get some insight into what those bots are doing without your main reports being flooded but that traffic. Bot reports are currently unavailable through Workspace (but new reporting capabilities coming soon allows users to get this information there as well).
 
-Site Content is a grouping of Adobe standard dimensions: Page Name, Site Sections, Hierarchies, Servers and more. All of these dimensions are available in Workspace.
+Site Content is a grouping of [!DNL Adobe] standard dimensions: Page Name, Site Sections, Hierarchies, Servers and more. All of these dimensions are available in Workspace.
 
 Mobile is a grouping of mobile device-specific data, including devices, device types, and more. These are available in Workspace.
 
 Paths are not available in Workspace. Workspace has a Flow diagram where you can see the In and Out flows for a single page/value. In contrast, Paths allow you to see the most common paths used in your website. By default, Pages is the first path report that is set up for you. However, you can turn this on for custom props such as a "Page Type" value. You could look at pathing within page types. The other thing that I personally like about Paths is the simple way the information is presented… The flow diagram in workspace (depending on how much you are trying to look at) can get overwhelming. I recommend trying both out… they each have a use and value depending on what you are trying to achieve. It should be noted that any dimension can be used in Flows, whereas Pathing must be set up on a Prop in the Admin panel.
 
-Traffic Sources, Campaigns, and Marketing Channels reports are all similar to the Acquisition report at Google's product. Traffic Sources focuses on Actual Referrers, Campaigns Focuses on your Campaign Codes, and Marketing Channels also focuses on Campaign Codes, but also applies extra logic as determined by you on how to process the information. Adobe provides more freedom on how to set up your rules. In contrast, Google does numerous things for you, and this is a shift in thinking. By default, Google's attribution for Campaign Codes is six months. Adobe's attribution is set to one week by default. This can be changed in your admin settings, but in Workspace you can actually apply custom attribution on top of any dimension giving you much more "on-the-fly" flexibility.
+Traffic Sources, [!DNL Campaign]s, and Marketing Channels reports are all similar to the Acquisition report at Google's product. Traffic Sources focuses on Actual Referrers, [!DNL Campaign]s Focuses on your [!DNL Campaign] Codes, and Marketing Channels also focuses on [!DNL Campaign] Codes, but also applies extra logic as determined by you on how to process the information. [!DNL Adobe] provides more freedom on how to set up your rules. In contrast, Google does numerous things for you, and this is a shift in thinking. By default, Google's attribution for [!DNL Campaign] Codes is six months. [!DNL Adobe]'s attribution is set to one week by default. This can be changed in your admin settings, but in Workspace you can actually apply custom attribution on top of any dimension giving you much more "on-the-fly" flexibility.
 
-Visitor Retention and Visitor Profile reports are similar to the Audience reports in Google Analytics. Retention is focused more on the return frequency, while Visitor Profile is focused more on the Geography and Technology of the users. 
+Visitor Retention and Visitor Profile reports are similar to the Audience reports in Google [!DNL Analytics]. Retention is focused more on the return frequency, while Visitor Profile is focused more on the Geography and Technology of the users. 
 
 Custom Conversion and Custom Traffic reports are both custom dimension reports. Conversions are eVars. You can set a custom expiration to the value such as hit, visit, month, and year. This value remains in persistence for a user for the configured time frame unless overwritten. Traffic variables are props. You can also set these up for Pathing Reports or as list items that break apart multiple values based on a delimiter of your choice.
 
@@ -186,9 +186,9 @@ Targets allow people to create a report based on a target within a certain timef
 
 All the reports here allowed for multiple metric columns and dimension breakdowns. However, the simplicity of the visualizations and some of the logic behind what elements could be correlated could be frustrating at times.
 
-##### 2.1.3.2. Google Analytics Reports
+##### 2.1.3.2. Google [!DNL Analytics] Reports
 
-Google Analytics splits these reports into the following sections: Realtime, Audience, Acquisition, Behavior, and Conversations (in GA3) and into Lifecycle (with the subsections: Acquisition, Engagement, Monetization, Retention) and User (with the subsections: Demographics and Tech).
+Google [!DNL Analytics] splits these reports into the following sections: Realtime, Audience, Acquisition, Behavior, and Conversations (in GA3) and into Lifecycle (with the subsections: Acquisition, Engagement, Monetization, Retention) and User (with the subsections: Demographics and Tech).
 
 ![google-analytics-interface-compare](assets/ga-to-aa_7.png)
 
@@ -202,44 +202,44 @@ These are good for quick analytical data, but if you really need to dig deep, th
 
 In addition to "In-Site Reporting", most tools offer extended functionality that allows you to take your analysis outside of the tools and build something a little more customized.
 
-#### 2.2.1. Adobe Analytics Report Builder (Microsoft&reg; Excel Extension)
+#### 2.2.1. [!DNL Adobe] [!DNL Analytics] Report Builder (Microsoft&reg; Excel Extension)
 
 Workspace is a great tool, but sometimes you need to get your data into a customized spreadsheet, possibly so that you can stitch together multiple sources of data. This is where Report Builder comes into play.
 
-Report Builder is a plug-in for Microsoft&reg; Excel that allows you to create connections to your Adobe Analytics data to pull in tabular data that you can manipulate within Excel. Generally to use this efficiently you would pull the data into some raw data tabs, then use excel cell references to pull data from these tabs into a single consolidated report, then create graphs and visualizations.
+Report Builder is a plug-in for Microsoft&reg; Excel that allows you to create connections to your [!DNL Adobe] [!DNL Analytics] data to pull in tabular data that you can manipulate within Excel. Generally to use this efficiently you would pull the data into some raw data tabs, then use excel cell references to pull data from these tabs into a single consolidated report, then create graphs and visualizations.
 
 >[!NOTE]
 >
 >Report Builder has a special permission that needs to be applied to your users to access this plugin. This should be granted to users who have learned how to use the tool properly.
 
-#### 2.2.2. Adobe Analytics API Connection
+#### 2.2.2. [!DNL Adobe] [!DNL Analytics] API Connection
 
-If you need Adobe Analytics data to be digested by something other than Excel, and you want the processed data including the bot rule exclusions, use Adobe's API to pull the data directly. Then, process the data using a script or add it to a database for use with another system.
+If you need [!DNL Adobe] [!DNL Analytics] data to be digested by something other than Excel, and you want the processed data including the bot rule exclusions, use [!DNL Adobe]'s API to pull the data directly. Then, process the data using a script or add it to a database for use with another system.
 
 It should be noted that the API still pulls in correlation data applying the breakdowns and segments as are specified in the pull request. 
 
-Adobe's Workspace (Section 2.1.2.1) uses the API to build the reports, and if you enable debug mode in Workspace, it shows you the exact API calls used. This is a quick way to build out your API calls. By using Workspace to build and validate the data you want to pull, you then use those API calls to get the data out to your own processing.
+[!DNL Adobe]'s Workspace (Section 2.1.2.1) uses the API to build the reports, and if you enable debug mode in Workspace, it shows you the exact API calls used. This is a quick way to build out your API calls. By using Workspace to build and validate the data you want to pull, you then use those API calls to get the data out to your own processing.
 
 
-#### 2.2.3. Google Analytics Data Studio
+#### 2.2.3. Google [!DNL Analytics] Data Studio
 
-If you have been reading along, you already know from above that I mentioned Data Studio as being an equivalent to Adobe's Workspace. Data Studio allows you to pull in Google Analytics data, but also data from other sources. This is nice if you want to consolidate your analytics data with other collected data. However, with Google Analytics, the same type of visualization limitations are present. The way the rows and columns are formed is still limited. 
+If you have been reading along, you already know from above that I mentioned Data Studio as being an equivalent to [!DNL Adobe]'s Workspace. Data Studio allows you to pull in Google [!DNL Analytics] data, but also data from other sources. This is nice if you want to consolidate your analytics data with other collected data. However, with Google [!DNL Analytics], the same type of visualization limitations are present. The way the rows and columns are formed is still limited. 
 
 It's still a powerful tool, and I wouldn't dissuade people from using it in any way. My personal experience is that I find the rigid behavior quite limiting.
 
 
 #### 2.2.4. Google Spreadsheet Extension
 
-For my own uses, when I need to pull data in an extended manner from Google Analytics, my personal tool of choice is the Google Spreadsheet Extension. Even though I need to make multiple connections to my GA tables, I can reference the cells from the raw data and build out the reports I need. Then, I visualize them using the graphing capabilities of Google Spreadsheet.
+For my own uses, when I need to pull data in an extended manner from Google [!DNL Analytics], my personal tool of choice is the Google Spreadsheet Extension. Even though I need to make multiple connections to my GA tables, I can reference the cells from the raw data and build out the reports I need. Then, I visualize them using the graphing capabilities of Google Spreadsheet.
 
 
 ## 3. Raw Data Exports
 
-When you really need raw data, both Adobe and Google offer the capabilities to pull information in this manner.
+When you really need raw data, both [!DNL Adobe] and Google offer the capabilities to pull information in this manner.
 
-### 3.1. Adobe Data Feed
+### 3.1. [!DNL Adobe] Data Feed
 
-In Section 2.2.2, I mentioned that the Adobe Analytics API pulled from "processed data". The Raw Data feed pulls data processed by the "Processing Rules" that have been set up in the admin panel, but this raw data includes all the data that is excluded everywhere else.
+In Section 2.2.2, I mentioned that the [!DNL Adobe] [!DNL Analytics] API pulled from "processed data". The Raw Data feed pulls data processed by the "Processing Rules" that have been set up in the admin panel, but this raw data includes all the data that is excluded everywhere else.
 
 This means that all your Bot exclusions, internal IP filtered data, and other excluded data are in the raw data feeds. There are flags to identify this data, so if you build a data lake, the engineering team can create logic to process this data accordingly.
 
@@ -250,22 +250,22 @@ The feeds can be sent directly to FTP, SFTP, or S3.
 
 ### 3.2. Google Big Query
 
-Unfortunately, this is one Google tool I have not had any experience using. In theory, it should be similar to Adobe's Data Feed, allowing your engineering team to access raw data from your Google Analytics account.
+Unfortunately, this is one Google tool I have not had any experience using. In theory, it should be similar to [!DNL Adobe]'s Data Feed, allowing your engineering team to access raw data from your Google [!DNL Analytics] account.
 
 However, rather than providing a full dump of raw data, it allows your engineers to access the data via SQL queries to pull targeted raw data or all columns of raw data. 
 
 ## 4. Conclusion
 
-Like any system, practice is needed to get comfortable with the tool. Hopefully, this guide helps you get started or provides tips to improve your use of Adobe Analytics. 
+Like any system, practice is needed to get comfortable with the tool. Hopefully, this guide helps you get started or provides tips to improve your use of [!DNL Adobe] [!DNL Analytics]. 
 
-I will, however, stress that I would recommend using both Adobe Analytics and Google Analytics in your implementation strategy (even if the Google Analytics is only the free version). This allows you to have a backup system to ensure you have data, as no system is infallible.
+I will, however, stress that I would recommend using both [!DNL Adobe] [!DNL Analytics] and Google [!DNL Analytics] in your implementation strategy (even if the Google [!DNL Analytics] is only the free version). This allows you to have a backup system to ensure you have data, as no system is infallible.
 
 There are many resources available to you beyond this guide that can help improve your strategy:
 
-* [Adobe Experience League](https://experienceleague.adobe.com/#home) - Contains tutorials, videos, documentation, and community forums
-* [Adobe User Groups](https://analytics-augs.adobe.com/) - A hub of community-run events to help users connect with each other and improve their implementations.
-* [Adobe Analytics User Groups YouTube Channel](https://www.youtube.com/channel/UCQOHnCs7KZgsuFHVzwboQuA) - Couldn't make an Adobe Analytics user group session? Rewatch previous user group sessions across the globe to learn more about how your peers are using the tool.
-* [Measure Chat Slack channel](https://www.measure.chat/) - Connect with Adobe Analytics users across the world and share industry learnings, ask questions of your peers, and join measurement focused interest groups.
+* [[!DNL Adobe] Experience League](https://experienceleague.adobe.com/#home) - Contains tutorials, videos, documentation, and community forums
+* [[!DNL Adobe] User Groups](https://analytics-augs.adobe.com/) - A hub of community-run events to help users connect with each other and improve their implementations.
+* [[!DNL Adobe] [!DNL Analytics] User Groups YouTube Channel](https://www.youtube.com/channel/UCQOHnCs7KZgsuFHVzwboQuA) - Couldn't make an [!DNL Adobe] [!DNL Analytics] user group session? Rewatch previous user group sessions across the globe to learn more about how your peers are using the tool.
+* [Measure Chat Slack channel](https://www.measure.chat/) - Connect with [!DNL Adobe] [!DNL Analytics] users across the world and share industry learnings, ask questions of your peers, and join measurement focused interest groups.
 * and more!
 
 ## Author
@@ -274,7 +274,7 @@ This document was written by:
 
 ![Jennifer Dungan](assets/Jennifer_Dungan_Headshot150.png)
 
-Jennifer Dungan, Optimization Manager Analytics at Torstar
+Jennifer Dungan, Optimization Manager [!DNL Analytics] at Torstar
 
-Adobe Analytics Champion
+[!DNL Adobe] [!DNL Analytics] Champion
 

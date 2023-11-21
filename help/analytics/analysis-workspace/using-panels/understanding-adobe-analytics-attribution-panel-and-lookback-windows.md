@@ -1,7 +1,7 @@
 ---
-title: Understanding Adobe Analytics attribution panel and lookback windows
+title: Understanding [!DNL Adobe] [!DNL Analytics] attribution panel and lookback windows
 description: Learn how to use the attribution panel and lookback window to understand customer behavior and customize how dimension items get credit for success events.
-feature-set: Analytics
+feature-set: [!DNL Analytics]
 feature: Attribution
 role: User
 level: Experienced
@@ -10,13 +10,13 @@ last-substantial-update: 2023-06-20
 jira: KT-13181
 thumbnail: KT-13181.jpeg
 ---
-# Understanding Adobe Analytics attribution panel and lookback windows
+# Understanding [!DNL Adobe] [!DNL Analytics] attribution panel and lookback windows
 
 When I first thought about the [attribution panel](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-workspace/panels/attribution.html?lang=en) and **lookback window**, I was immediately reminded of the concept of '*time travel'*; then, of course, I was also reminded our typical response to many new tools like these is to simply put off trying to use it, because they look so complicated.
 
 I mean honestly, just look at all those options, switches, panels, readouts, and knobs.  And seriously, let's talk about those complicated flashing lights, hoses, gauges…. WAIT!!  This is not the time to get distracted talking about time machines, we just don't have the time… or do we?
 
-I will admit the **attribution panel** is a fairly complex tool; however, our typical job as analysts, day in and day out, is to use another one of our favorite and highly complex tools to also take a look at what happened in the past. That tool is called ***Adobe Analytics***!  So yes, to answer our very relevant question, I believe these two things say we have plenty of time.
+I will admit the **attribution panel** is a fairly complex tool; however, our typical job as analysts, day in and day out, is to use another one of our favorite and highly complex tools to also take a look at what happened in the past. That tool is called ***[!DNL Adobe] [!DNL Analytics]***!  So yes, to answer our very relevant question, I believe these two things say we have plenty of time.
 
 Therefore, why should we allow something like a little fear to stand in the way of such amazing, sophisticated, and powerful tools like these that literally allow us to look *backward* in time, each and every single day?
 
@@ -37,7 +37,7 @@ Now that we're all excited about time travel, let's take a deep breath, step bac
 
 In **attribution**, simply consider how events/actions might be caused by an individual, several individuals, or one of any number of different events over time.
 
-According to [Adobe](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-workspace/attribution/overview.html?lang=en), *attribution* gives analysts the ability to customize how *Dimension* items receive credit for *success events*.
+According to [[!DNL Adobe]](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-workspace/attribution/overview.html?lang=en), *attribution* gives analysts the ability to customize how *Dimension* items receive credit for *success events*.
 
 
 >[!WARNING]
@@ -87,10 +87,10 @@ To make this even more interesting, let's talk about turning back the clock!
 
 Now it's time to start taking your mind to the next level.  This is where we literally add the time travel element to our analysis - and again, we are beginning with the basics.
 
-***Adobe*** defines ❹ **lookback windows** as "the amount of time a conversion should look back to include touch points. Attribution models that give more credit to first interactions see larger differences when viewing different lookback windows."
+***[!DNL Adobe]*** defines ❹ **lookback windows** as "the amount of time a conversion should look back to include touch points. Attribution models that give more credit to first interactions see larger differences when viewing different lookback windows."
 
 
-In other words, **lookback windows** determine the time period during which *conversions* are considered and provide *context* to the attribution analysis. ***Adobe Analytics*** offers three types of **lookback windows**:
+In other words, **lookback windows** determine the time period during which *conversions* are considered and provide *context* to the attribution analysis. ***[!DNL Adobe] [!DNL Analytics]*** offers three types of **lookback windows**:
 
 - **Visit lookback window:** Looks back to the beginning of a ***visit*** when a conversion happened, providing insights into the immediate interactions leading up to conversions.
 
@@ -115,7 +115,7 @@ Now that you've got the concepts down, imagine you're running a marketing campai
 Now that you've seen what it can do, don't be fooled or intimidated by the seemingly complex features of the attribution panel.  **Face it**.  *Embrace* it.  **Understand** it.
 BUT MOST OF ALL - *Use it to your advantage.* The **attribution panel** and **lookback window** are the keys to unlocking a deeper understanding of your customers and their journey with your brand.
 
-Now, we can travel "[back in time](https://youtu.be/gVryJmZNFdU)" with confidence and use the power of our trusty time machine (a.k.a. ***Adobe Analytics***) to make data-driven decisions.
+Now, we can travel "[back in time](https://youtu.be/gVryJmZNFdU)" with confidence and use the power of our trusty time machine (a.k.a. ***[!DNL Adobe] [!DNL Analytics]***) to make data-driven decisions.
 
 ## Author
 
@@ -123,6 +123,6 @@ This document was written by:
 
 ![Jeff Bloomer](assets/jeff-headshot.png)
 
-**Jeff Bloomer**, Manager, Digital Analytics at Kroger Personal Finance
+**Jeff Bloomer**, Manager, Digital [!DNL Analytics] at Kroger Personal Finance
 
-Adobe Analytics Champion
+[!DNL Adobe] [!DNL Analytics] Champion

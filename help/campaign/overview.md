@@ -1,5 +1,5 @@
 ---
-title: Campaign by You
+title: [!DNL Campaign] by You
 description: Customer generated content
 role: User, Developer, Data Engineer, Architect, Data Architect, Admin, Leader
 level: Beginner
@@ -7,9 +7,9 @@ doc-type: overview
 thumbnail:
 ---
 
-# Campaign by You: Resources by users, for users.
+# [!DNL Campaign] by You: Resources by users, for users.
 
-The most powerful thing about Adobe DX solutions? You. The users who take the products, dig into them, and apply them in amazing, innovative ways to create meaningful experiences and outcomes. Experiences by You features content created by everyday users who have attained a level of expertise and influence with their Adobe DX solutions. This peer-to-peer knowledge encourages collaboration and discovery – enabling you – and any other user - to find the inspiration needed to level up your product expertise.  
+The most powerful thing about [!DNL Adobe] DX solutions? You. The users who take the products, dig into them, and apply them in amazing, innovative ways to create meaningful experiences and outcomes. Experiences by You features content created by everyday users who have attained a level of expertise and influence with their [!DNL Adobe] DX solutions. This peer-to-peer knowledge encourages collaboration and discovery – enabling you – and any other user - to find the inspiration needed to level up your product expertise.  
 
 <div id="recs-overview-body-1"></div>
 <div id="recs-overview-body-2"></div>
@@ -26,11 +26,11 @@ The most powerful thing about Adobe DX solutions? You. The users who take the pr
 <tr>
   <td>
     <a href="/help/analytics/analysis-workspace/tips-and-tricks/right-click-tips-and-tricks-for-more-efficient-workflows.md">
-      <img alt="Adobe Analytics Tips and Tricks" src="https://video.tv.adobe.com/v/3417736?format=jpeg" />
+      <img alt="[!DNL Adobe] [!DNL Analytics] Tips and Tricks" src="https://video.tv.adobe.com/v/3417736?format=jpeg" />
     </a>
     <div>
       <a href="/help/analytics/analysis-workspace/tips-and-tricks/right-click-tips-and-tricks-for-more-efficient-workflows.md">
-    <strong>Adobe Analytics</strong>
+    <strong>[!DNL Adobe] [!DNL Analytics]</strong>
     </a>
     </div>
     <p>
@@ -39,11 +39,11 @@ The most powerful thing about Adobe DX solutions? You. The users who take the pr
   </td>
   <td>
     <a href="/help/marketo/programs/email-programs.md">
-      <img alt="Marketo Engage Email Programs" src="https://video.tv.adobe.com/v/3419440?format=jpeg" />
+      <img alt="[!DNL Marketo Engage] Email Programs" src="https://video.tv.adobe.com/v/3419440?format=jpeg" />
     </a>
     <div>
       <a href="/help/marketo/programs/email-programs.md">
-    <strong>Marketo Engage</strong>
+    <strong>[!DNL Marketo Engage]</strong>
     </a>
     </div>
     <p>

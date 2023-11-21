@@ -1,7 +1,7 @@
 ---
 title: Use Cohort Analysis to Understand Customer Behavior
 description: To improve customer experience and revenue, businesses must understand customer behavior. Cohort analysis can help comprehend engagement and retention, leading to actions like improving account creation and creating campaigns for high-volume months.
-feature-set: Analytics
+feature-set: [!DNL Analytics]
 feature: Cohort Analysis
 role: User
 level: Experienced
@@ -128,7 +128,7 @@ Investigate site user experience for getting users to create an account during C
 
 ## Part 4: Custom Dimension Cohort
 
-Custom Dimension Cohort: Create cohorts based on the selected dimension, rather than time-based cohorts (default). Many customers want to analyze their cohorts by something other than time and the new Custom Dimension Cohort feature provides you with the flexibility to build cohorts based on dimensions of their choosing. Use dimensions such as marketing channel, campaign, product, page, region, or any other dimension in Adobe Analytics to show how retention changes based on the different values of these dimensions. The
+Custom Dimension Cohort: Create cohorts based on the selected dimension, rather than time-based cohorts (default). Many customers want to analyze their cohorts by something other than time and the new Custom Dimension Cohort feature provides you with the flexibility to build cohorts based on dimensions of their choosing. Use dimensions such as marketing channel, campaign, product, page, region, or any other dimension in [!DNL Adobe] [!DNL Analytics] to show how retention changes based on the different values of these dimensions. The
 
 Custom Dimension Cohort segment definition applies the dimension item only as part of the inclusion period, not as part of the return definition.
 
@@ -166,4 +166,4 @@ This document was written by:
 
 **Jennifer Yacenda**, Senior Director at Marriott
 
-Adobe Analytics Champion
+[!DNL Adobe] [!DNL Analytics] Champion

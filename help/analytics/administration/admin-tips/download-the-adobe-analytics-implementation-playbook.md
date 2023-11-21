@@ -1,8 +1,8 @@
 ---
-title: Download the Adobe Analytics implementation playbook
+title: Download the [!DNL Adobe] [!DNL Analytics] implementation playbook
 description: A Business Requirements Doc (commonly referred to as BRD) is a very important piece of documentation that key stakeholders, business users and tech users will want to collaborate on. It is a place for documenting all of your desired KPIs, reporting requirements, any data point you wish to see when your AA implementation is complete.
-solution: Analytics
-feature-set: Analytics
+solution: [!DNL Analytics]
+feature-set: [!DNL Analytics]
 feature: Implementation Basics
 topic: Administration
 role: Admin
@@ -11,13 +11,13 @@ doc-type: article
 thumbnail: 10530.jpg
 kt: 10530
 ---
-# Download the Adobe Analytics implementation playbook
+# Download the [!DNL Adobe] [!DNL Analytics] implementation playbook
 
 Before getting started, [download the playbook](assets/aa-implementation-playbook.xlsx).
 
 ## Business Requirements tab
 
-**WHAT:** A Business Requirements Doc (commonly referred to as BRD) is a very important piece of documentation that key stakeholders, business users and tech users will want to collaborate on. It is a place for documenting all of your desired KPIs, reporting requirements, and any data point you wish to see when your Adobe Analytics (AA) implementation is complete.
+**WHAT:** A Business Requirements Doc (commonly referred to as BRD) is a very important piece of documentation that key stakeholders, business users and tech users will want to collaborate on. It is a place for documenting all of your desired KPIs, reporting requirements, and any data point you wish to see when your [!DNL Adobe] [!DNL Analytics] (AA) implementation is complete.
 
 **WHY:** This serves as a jumping off point for the documentation that follows (SDR, tech spec, etc.) and is a common source of truth for an agreed upon end state of AA. This document organizes thoughts across teams within the org to form one guiding direction to move forward with building out or enhancing your implementation.
 
@@ -42,7 +42,7 @@ And lastly, the Implementation Status column will serve as a status check as you
 * For anyone new to your implementation (new hire, business owner looking to better understand the reporting available, etc.) this document gives the best view of all variables implemented and what their purpose is so individuals can self-serve in terms of learning your AA setup.
 * For the AA product owner/tech user, this document will serve as a reminder of how other variables are set up and which variables are available for use when adding a new dimension.
 
-**HOW:** Begin by listing all Adobe out-of-the-box variables (page, product, geo, etc.), as well as eVars, props, events, and list variables in an Excel doc. This should have one tab per site/report suite. 
+**HOW:** Begin by listing all [!DNL Adobe] out-of-the-box variables (page, product, geo, etc.), as well as eVars, props, events, and list variables in an Excel doc. This should have one tab per site/report suite. 
 For each of those dimensions, I add the following columns:
 * **Name:** Provide a simple and short name that can be understood by most. This should be intuitive enough that a new user can pick it up and understand what the variable is intended to capture.
 * **Description:** More detail around what the variable is used for and what data it tracks. I keep this short and simple and have it match the description used in the interface. Ideally, I don't want my users to ever need to consult the tagging doc. So, when a new dimension is set up on the admin backend, I add the same description there. This way, the user can hit the information icon directly in Workspace to understand what a dimension is - no need to pull up an Excel doc!
@@ -77,24 +77,24 @@ This way your data is always clean, and you have a clear idea of your junk.
 
 ## Properties Tab
 
-**WHAT:** A properties document should list all your digital properties - websites, mobile apps, other tools (chat, feedback, etc.), whether those properties are tagged with Adobe Analytics or not. This should serve as a centralized, living document across business and tech users.
+**WHAT:** A properties document should list all your digital properties - websites, mobile apps, other tools (chat, feedback, etc.), whether those properties are tagged with [!DNL Adobe] [!DNL Analytics] or not. This should serve as a centralized, living document across business and tech users.
 
-**WHY:** This will give you a clear view of your user's journey across all your digital properties, and what Adobe Analytics does and doesn't cover so you can begin to prioritize adding tagging to any properties where it is missing. By laying out your digital ecosystem in this manner, you can identify potential opportunities in tagging strategy to gain a full view of your user's journey. For example - do you need a global report suite to track across multiple domains/sites? Is there a visitor ID handoff needed between domains or app to hybrid experience? Do internal URL filters need to be updated for cross-domain tracking?
+**WHY:** This will give you a clear view of your user's journey across all your digital properties, and what [!DNL Adobe] [!DNL Analytics] does and doesn't cover so you can begin to prioritize adding tagging to any properties where it is missing. By laying out your digital ecosystem in this manner, you can identify potential opportunities in tagging strategy to gain a full view of your user's journey. For example - do you need a global report suite to track across multiple domains/sites? Is there a visitor ID handoff needed between domains or app to hybrid experience? Do internal URL filters need to be updated for cross-domain tracking?
 
 **HOW:** Identify an owner of the doc to provide governance and a single source of responsibility for managing updates. 
 List the following on the properties tab:
 * **Property name:** This can be a domain, sub-domain, app name, etc. Even within the same domain, if some parts of it are managed separately (like by a different team, or a different technology), these should be separated out.
 * **Link (URL)** to property where available 
 * **Owner & Contacts:** List the main owner or contacts for the property
-* **Tag method:** Many of us have different code methods and implementations in place (Launch, JS files, AEP, etc.). You can break this down further if needed (like by code version or tag management system), but this is meant to keep track of all your different code methods and versions, where code needs to be updated, and how it needs to be maintained. If you are using Adobe Launch, list the Launch property name.
+* **Tag method:** Many of us have different code methods and implementations in place (Launch, JS files, AEP, etc.). You can break this down further if needed (like by code version or tag management system), but this is meant to keep track of all your different code methods and versions, where code needs to be updated, and how it needs to be maintained. If you are using [!DNL Adobe] Launch, list the Launch property name.
 
-Remember to include all digital properties, even if they are not tagged with Adobe Analytics. This will help you to understand your digital landscape and how your users interact with all your properties.
+Remember to include all digital properties, even if they are not tagged with [!DNL Adobe] [!DNL Analytics]. This will help you to understand your digital landscape and how your users interact with all your properties.
 
-It's recommended to keep this doc as simple as possible and not bog it down with too much info so that it remains easy to interpret by different parts of the organization. Analytics teams often understand the digital landscape better than any other team, so this doc is often used by other teams and executives to provide a thorough overview.
+It's recommended to keep this doc as simple as possible and not bog it down with too much info so that it remains easy to interpret by different parts of the organization. [!DNL Analytics] teams often understand the digital landscape better than any other team, so this doc is often used by other teams and executives to provide a thorough overview.
 
 >[!TIP]
 >
->Create a site name/property dimension in Adobe Analytics. Having a dedicated dimension (usually an eVar) in Adobe Analytics that identifies the site name/app name will allow for segmenting, troubleshooting, virtual report suite creation, etc. The benefits are endless, especially when combining multiple sites in one (global) report suite. The key is making sure that your dev teams always set this value in the properties dimension, including all page loads (s.t calls/trackState) and all custom events (s.tl calls/trackAction). Processing rules may be a valuable tool to help you set these values properly and consistently.
+>Create a site name/property dimension in [!DNL Adobe] [!DNL Analytics]. Having a dedicated dimension (usually an eVar) in [!DNL Adobe] [!DNL Analytics] that identifies the site name/app name will allow for segmenting, troubleshooting, virtual report suite creation, etc. The benefits are endless, especially when combining multiple sites in one (global) report suite. The key is making sure that your dev teams always set this value in the properties dimension, including all page loads (s.t calls/trackState) and all custom events (s.tl calls/trackAction). Processing rules may be a valuable tool to help you set these values properly and consistently.
 
 [Watch this video by Doug Moore](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/implementation/implementation-basics/creating-a-business-requirements-document.html){target="_blank"} for more information on filling out the implementation playbook.
 
@@ -104,9 +104,9 @@ This document was co-written by:
 
 ![Christel Guidon](assets/Christel-Headshot-150.png)
 
-Christel Guidon, Digital Analytics Platform Manager at NortonLifeLock
-Adobe Analytics Champion
+Christel Guidon, Digital [!DNL Analytics] Platform Manager at NortonLifeLock
+[!DNL Adobe] [!DNL Analytics] Champion
 
 ![Rachel Fenwick](assets/Rachel-Fenwick-150.png)
 
-Rachel Fenwick, Senior Consultant at Adobe
+Rachel Fenwick, Senior Consultant at [!DNL Adobe]

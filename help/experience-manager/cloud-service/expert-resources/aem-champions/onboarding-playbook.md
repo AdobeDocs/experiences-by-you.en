@@ -1,10 +1,10 @@
 ---
-title: AEM Champion Tips and Tricks - Cloud Manager Onboarding Playbook
-description: Check out these tips for Cloud Manager onbarding and the onboarding playbook by AEM champion and expert, Rakesh Pasupuleti.
+title: AEM Champion Tips and Tricks - [!DNL Cloud Manager] Onboarding Playbook
+description: Check out these tips for [!DNL Cloud Manager] onbarding and the onboarding playbook by AEM champion and expert, Rakesh Pasupuleti.
 version: Cloud Service
-solution: Experience Manager Cloud Manager
-feature-set: Experience Manager, Experience Manager Cloud Manager
-feature: Cloud Manager
+solution: Experience Manager [!DNL Cloud Manager]
+feature-set: Experience Manager, Experience Manager [!DNL Cloud Manager]
+feature: [!DNL Cloud Manager]
 topic: Administration
 role: Admin, Architect
 level: Beginner
@@ -12,7 +12,7 @@ doc-type: Value Video
 last-substantial-update: 2023-05-11
 jira: KT-13228
 ---
-# AEM Champion Tips and Tricks - Cloud Manager Onboarding Playbook
+# AEM Champion Tips and Tricks - [!DNL Cloud Manager] Onboarding Playbook
 
 The onboarding playbook will help you take charge as a new administrator and developer for AEM as a Cloud Service. In the downloadable spreadsheet, we'll walk you through the activities you should do your first three weeks on the job as you start your onboarding journey.
 
@@ -20,7 +20,7 @@ The onboarding playbook will help you take charge as a new administrator and dev
 >
 >Download the [onboarding playbook here.](./assets/Cloud-Manager-for-AEM-as-a-Cloud-Service.xlsx)
 
-Check out these tips from your fellow technical lead, Rakesh Pasupuleti. Rakesh is an Adobe Experience Manager champion, and he shares ideas about how to use the onboarding playbook.  
+Check out these tips from your fellow technical lead, Rakesh Pasupuleti. Rakesh is an [!DNL Adobe] Experience Manager champion, and he shares ideas about how to use the onboarding playbook.  
 
 >[!VIDEO](https://video.tv.adobe.com/v/3419299?quality=12&learn=on)
 

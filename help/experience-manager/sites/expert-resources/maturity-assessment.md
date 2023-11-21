@@ -28,6 +28,6 @@ Each one of these best practice areas above also includes further best practices
 
 In most cases, the AEM maturity assessment will help to perform a diagnostic review of AEM best practices and will result in a roadmap for proactively discovering, resolving and preventing potential issues. It is recommended that assessments are completed with the teams that were also part of the AEM implementation discovery phase (pre-AEM migration). Roles that should be involved could include: Application owners, site owners, development teams, tech leads, security/infrastructure teams, SEO teams and support teams (e.g. content authors, admins).
 
-Recommended AEM maturity assessment areas of focus: Design and Architecture, Product management and strategy, Digital Asset Management and Delivery, Analytics, Testing and Security. 
+Recommended AEM maturity assessment areas of focus: Design and Architecture, Product management and strategy, Digital Asset Management and Delivery, [!DNL Analytics], Testing and Security. 
 
 Huge shoutout to AEM Champion Greg Dimeris for aggregating this information from multiple Experience League articles as well as his own best practices!

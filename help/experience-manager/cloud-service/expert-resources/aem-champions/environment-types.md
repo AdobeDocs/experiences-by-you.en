@@ -1,10 +1,10 @@
 ---
-title: AEM Champion Tips and Tricks - Cloud Manager Environment Types
-description: Check out these tips about Cloud Manager's environment types from AEM champion and expert, Rakesh Pasupuleti.
+title: AEM Champion Tips and Tricks - [!DNL Cloud Manager] Environment Types
+description: Check out these tips about [!DNL Cloud Manager]'s environment types from AEM champion and expert, Rakesh Pasupuleti.
 version: Cloud Service
-feature-set: Experience Manager, Experience Manager Cloud Manager
-solution: Experience Manager Cloud Manager
-feature: Cloud Manager
+feature-set: Experience Manager, Experience Manager [!DNL Cloud Manager]
+solution: Experience Manager [!DNL Cloud Manager]
+feature: [!DNL Cloud Manager]
 topic: Administration
 role: Admin, Architect
 level: Beginner
@@ -12,9 +12,9 @@ doc-type: Value Video
 last-substantial-update: 2023-05-11
 jira: KT-13229
 ---
-# AEM Champion Tips and Tricks - Cloud Manager Environment Types
+# AEM Champion Tips and Tricks - [!DNL Cloud Manager] Environment Types
 
-Check out these tips from your fellow technical lead, Rakesh Pasupuleti. Rakesh is an Adobe Experience Manager champion, and he explains how to understand Cloud Manager's environment types.
+Check out these tips from your fellow technical lead, Rakesh Pasupuleti. Rakesh is an [!DNL Adobe] Experience Manager champion, and he explains how to understand [!DNL Cloud Manager]'s environment types.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3419297?quality=12&learn=on)
 

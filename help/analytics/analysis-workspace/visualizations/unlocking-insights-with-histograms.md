@@ -1,7 +1,7 @@
 ---
-title: Unlocking insights with histograms; beyond averages in Analytics
+title: Unlocking insights with histograms; beyond averages in [!DNL Analytics]
 description: Discover the impact of histograms in analytics for insights beyond averages.
-feature-set: Analytics
+feature-set: [!DNL Analytics]
 feature: Visualizations
 role: User
 level: Experienced
@@ -10,9 +10,9 @@ last-substantial-update: 2023-08-18
 jira: KT-13833
 thumbnail: KT-13833.jpeg
 ---
-# Unlocking insights with histograms: beyond averages in Analytics
+# Unlocking insights with histograms: beyond averages in [!DNL Analytics]
 
-_Discover the impact of histograms in analytics for insights beyond averages. Histograms reveal data patterns in customer behavior, visitor engagement, technical performance, and form errors, enabling deeper insights and informed decisions in Adobe Workspace._
+_Discover the impact of histograms in analytics for insights beyond averages. Histograms reveal data patterns in customer behavior, visitor engagement, technical performance, and form errors, enabling deeper insights and informed decisions in [!DNL Adobe] Workspace._
 
 Let's jump right in. You should be using [histograms](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/histogram.html). I'm going to explain why, but I want to answer your first question: What in the world is a histogram? I get it. Most of the time, when you see a bunch of bars going up, you might think it's a bar graph. Yes, histograms do look similar, but I assure you, they are different. A bar chart compares things, whereas a histogram shows you how often a variable occurred. Take a look. Here's a bar chart:
 
@@ -62,7 +62,7 @@ You may ask, how does this differ from just having a calculated metric? Hey, I l
 
     ![Histogram 4](assets/histogram-4.png)
 
-As you can see, histograms not only have their own uses, but they also deepen the insight you gain from an average. They're an out-of-the-box visualization in Adobe Analytics and easy to create. Hopefully, these use cases are helpful to you or spark some inspiration. Happy visualizing!
+As you can see, histograms not only have their own uses, but they also deepen the insight you gain from an average. They're an out-of-the-box visualization in [!DNL Adobe] [!DNL Analytics] and easy to create. Hopefully, these use cases are helpful to you or spark some inspiration. Happy visualizing!
 
 ## Author
 
@@ -72,4 +72,4 @@ This document was written by:
 
 **Gitai Ben-Ammi**, Principal Consultant at Concentrix Catalyst 
 
-Adobe Analytics Champion
+[!DNL Adobe] [!DNL Analytics] Champion
