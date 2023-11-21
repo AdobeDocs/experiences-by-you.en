@@ -4,9 +4,9 @@ solution: Experience Manager Cloud Manager, Marketo Engage, Experience Cloud
 product: experience cloud
 type: Documentation
 mini-toc-levels: 2
-git-repo: https://github.com/[!DNL Adobe]Docs/experiences-by-you.en
-hide: yes
-feature-set: Advertising, Analytics, Audience Manager, Campaign, Commerce, Customer Journey Analytics, Experience Cloud Services, Experience Manager, Experience Manager Assets, Experience Manager [!DNL Cloud Manager], Experience Manager Forms, Experience Manager Guides, Experience Manager Screens, Experience Manager Sites, Experience Platform, Journey Optimizer, Journey Orchestration, [!DNL Marketo Engage], Workfront
+git-repo: https://github.com/adobedocs/experiences-by-you.en
+index: yes
+feature-set: Advertising, Analytics, Audience Manager, Campaign, Commerce, Customer Journey Analytics, Experience Cloud Services, Experience Manager, Experience Manager Assets, Experience Manager Cloud Manager, Experience Manager Forms, Experience Manager Guides, Experience Manager Screens, Experience Manager Sites, Experience Platform, Journey Optimizer, Journey Orchestration, Marketo Engage, Workfront
 ---
 
 # Metadata for internal use
