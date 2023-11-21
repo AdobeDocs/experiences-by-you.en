@@ -1,8 +1,8 @@
 ---
 title: Troubleshooting for Marketers
 description: Knowing the most common errors can help with faster problem-solving and boost your productivity. These troubleshooting tips to help you effectively resolve similar errors as they occur.
-solution: [!DNL Campaign] Standard
-feature-set: [!DNL Campaign]
+solution: Campaign Standard
+feature-set: Campaign
 feature: Workflows
 role: User
 level: Beginner, Intermediate, Experienced

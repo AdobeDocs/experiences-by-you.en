@@ -2,8 +2,8 @@
 title: Ten best practices for [!DNL Adobe] [!DNL Campaign] success for marketers
 description: Learn the ten best practices to help [!DNL Adobe] [!DNL Campaign] practitioners unlock and accelerate the digital consumer transformation and a better experience for their customers.
 doc-type: article
-solution: [!DNL Campaign]
-feature-set: [!DNL Campaign]
+solution: Campaign
+feature-set: Campaign
 feature: Personalization, [!DNL Campaign]s, Subscriptions, Deliverability
 role: User
 level: Beginner
