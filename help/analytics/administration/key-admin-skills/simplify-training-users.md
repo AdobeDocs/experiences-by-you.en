@@ -1,6 +1,7 @@
 ---
 title: Tips and tricks on how to simplify and spend less time training users
 description: Ensuring business users within your organization are well-trained on Adobe Analytics is crucial to help build a culture of data-driven decision-making. Users who can easily find information within Adobe Analytics can answer simple business questions on their own, allowing more time for analysts to answer challenging business questions. Sharing your knowledge helps drive data democracy and enables business users to be more independent in making performance-based decisions.
+solution: Analytics
 feature-set: Analytics
 feature: Admin Tools
 topic: Administration

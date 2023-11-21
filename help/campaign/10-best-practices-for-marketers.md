@@ -2,6 +2,7 @@
 title: Ten best practices for Adobe Campaign success for marketers
 description: Learn the ten best practices to help Adobe Campaign practitioners unlock and accelerate the digital consumer transformation and a better experience for their customers.
 doc-type: article
+solution: Campaign
 feature-set: Campaign
 feature: Personalization, Campaigns, Subscriptions, Deliverability
 role: User

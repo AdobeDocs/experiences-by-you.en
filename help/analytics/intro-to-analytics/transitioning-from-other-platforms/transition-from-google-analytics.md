@@ -1,6 +1,7 @@
 ---
 title: Comprehensive guide for transitioning to Adobe Analytics from Google Analytics
 description: Learn about the location of equivalent functionality and how to use it efficiently when transitioning from Google Analytics to Adobe Analytics
+solution: Analytics
 feature: Third-party Integration
 role: User
 level: Beginner

@@ -1,6 +1,7 @@
 ---
 title: Drive success with executive summary dashboards
 description: Executives often lack timely and relevant information for their sites and apps, relying on monthly Excel charts or drowning in granular data. The solution - executive summary dashboard.
+solution: Analytics
 feature-set: Analytics
 feature: Admin Tools
 role: User

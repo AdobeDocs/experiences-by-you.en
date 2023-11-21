@@ -4,6 +4,7 @@ description: Learn how to navigate the user interface and get familiar with your
 role: User
 level: Beginner
 doc-type: Feature Video
+solution: Marketo Engage
 last-substantial-update: 2023-05-08
 jira: KT-13202
 thumbnail: 3419131.jpeg

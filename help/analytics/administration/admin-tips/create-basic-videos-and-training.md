@@ -1,6 +1,7 @@
 ---
 title: Create basic recorded training sessions & short videos
 description: Create some simple and short training videos that cover a range of basic and advanced topics, so as new users are ramping up with the tool, you aren't delivering the same content via a meeting every time.
+solution: Analytics
 feature-set: Analytics
 feature: Implementation Basics
 topic: Administration

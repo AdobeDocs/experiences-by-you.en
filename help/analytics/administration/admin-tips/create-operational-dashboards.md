@@ -1,6 +1,7 @@
 ---
 title: Create Operational Dashboards within Analysis Workspace
 description: Explore how operational dashboards in Adobe Analytics Workspace revolutionize communication and efficiency.
+solution: Analytics
 feature-set: Analytics
 feature: Curate and Share
 topic: Administration

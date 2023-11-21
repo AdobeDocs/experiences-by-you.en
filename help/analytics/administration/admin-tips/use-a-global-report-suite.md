@@ -1,6 +1,7 @@
 ---
 title: Use a global report suite
 description: Having a single global report suite can help in many ways, and really simplify your implementation.
+solution: Analytics
 feature-set: Analytics
 feature: Implementation Basics
 topic: Administration

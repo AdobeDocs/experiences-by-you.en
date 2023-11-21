@@ -1,6 +1,7 @@
 ---
 title: Create an internal Adobe Analytics site (Confluence or other)
 description: Create a central location where training docs can be shared and consulted by all your users.
+solution: Analytics
 feature-set: Analytics
 feature: Implementation Basics
 topic: Administration

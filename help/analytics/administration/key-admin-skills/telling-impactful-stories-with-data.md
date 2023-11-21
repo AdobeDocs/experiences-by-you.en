@@ -1,6 +1,7 @@
 ---
 title: Telling impactful stories with data
 description: Data storytelling is where art and science come together using data, visualization, and narrative.  By leveraging these components, there are three parts to crafting an impactful data story. By effectively telling a story with data, Analytics can become more approachable to a wider audience and you can increase the value you bring to your organization through data-driven decision making.
+solution: Analytics
 feature-set: Analytics
 feature: Admin Tools
 topic: Administration

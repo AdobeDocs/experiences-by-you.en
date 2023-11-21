@@ -3,6 +3,8 @@ title: AEM Champion Tips and Tricks - Cloud Manager UI
 description: Check out these tips about how to use Cloud Manager's UI from AEM champion and expert, Rakesh Pasupuleti.
 version: Cloud Service
 solution: Experience Manager Cloud Manager
+feature-set: Experience Manager
+feature: Cloud Manager
 topic: Administration
 role: Admin, Architect
 level: Beginner
