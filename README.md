@@ -10,7 +10,7 @@ This project has adopted the [[!DNL Adobe] Open Source Code of Conduct](code-of-
 
 **If you are not an [!DNL Adobe] employee** you can submit an external community contribution. Community contributions are imported to our internal systems and are edited and merged in the public repo. The public repo is then synced with the latest changes and merged in the private repository.
 
-**If you are an [!DNL Adobe] employee**, you can contribute directly to the private [[!DNL Adobe] GitHub repository](https://git.corp.adobe.com/[!DNL Adobe]Docs/). For details, see the [!DNL Adobe] Experience League Authoring Guide for [!DNL Adobe] employees.
+**If you are an [!DNL Adobe] employee**, you can contribute directly to the private [[!DNL Adobe] GitHub repository](https://git.corp.adobe.com/adobedocs). For details, see the [!DNL Adobe] Experience League Authoring Guide for [!DNL Adobe] employees.
 
 ## External contributors
 
@@ -40,7 +40,7 @@ See the [[!DNL Adobe] Docs Contributor Guide](https://experienceleague.adobe.com
 
 ## Internal contributors
 
-If you are a technical writer, program manager, or developer from the product team for an [!DNL Adobe] Experience Cloud solution and it's your job to contribute to or author technical articles, use the [private repository](https://git.corp.adobe.com/[!DNL Adobe]Docs). 
+If you are a technical writer, program manager, or developer from the product team for an [!DNL Adobe] Experience Cloud solution and it's your job to contribute to or author technical articles, use the [private repository](https://git.corp.adobe.com/adobedocs). 
 
 ## Format your topic
 
