@@ -9,7 +9,7 @@ solution: Experience Manager
 
 # Experience Manager by You: Resources by users, for users.
 
-The most powerful thing about [!DNL Adobe] Experience Cloud solutions? You. The users who take the products, dig into them, and apply them in amazing, innovative ways to create meaningful experiences and outcomes. Experiences by You features content created by everyday users who have attained a level of expertise and influence with their [!DNL Adobe] Experience Cloud solutions. This peer-to-peer knowledge encourages collaboration and discovery – enabling you – and any other user - to find the inspiration needed to level up your product expertise. 
+The most powerful thing about [!DNL Adobe] Experience Cloud solutions? You. The users who take the products, dig into them, and apply them in amazing, innovative ways to create meaningful experiences and outcomes. Experiences by You features content created by everyday users who have attained a level of expertise and influence with their [!DNL Adobe] Experience Cloud solutions. This peer-to-peer knowledge encourages collaboration and discovery - enabling you - and any other user - to find the inspiration needed to level up your product expertise. 
 
 <div id="recs-overview-body-1"></div>
 <div id="recs-overview-body-2"></div>
@@ -73,4 +73,4 @@ The most powerful thing about [!DNL Adobe] Experience Cloud solutions? You. The 
 * [Experience Manager Communities](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-manager/ct-p/adobe-experience-manager-community)
 * [Experience Manager Documentation](https://experienceleague.adobe.com/docs/experience-manager-cloud-service.html)
 * [Experience Manager Tutorials](https://experienceleague.adobe.com/docs/experience-manager-learn/aem-tutorials/overview.html)
-* [Expereience Manager product information](https://business.adobe.com/products/experience-manager/adobe-experience-manager.html)
+* [Experience Manager product information](https://business.adobe.com/products/experience-manager/adobe-experience-manager.html)

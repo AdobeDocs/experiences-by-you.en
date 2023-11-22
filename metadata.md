@@ -1,6 +1,6 @@
 ---
 cloud: Experience Cloud
-solution: Experience Manager Cloud Manager, Marketo Engage, Experience Cloud
+solution: Experience Cloud, Experience Manager, Experience Manager Cloud Manager, Marketo Engage
 product: experience cloud
 type: Documentation
 mini-toc-levels: 2
