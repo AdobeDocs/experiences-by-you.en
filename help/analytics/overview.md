@@ -4,11 +4,12 @@ description: Customer generated content
 role: User, Developer, Data Engineer, Architect, Data Architect, Admin, Leader
 level: Beginner
 doc-type: overview
+solution: Analytics
 ---
 
 # [!DNL Analytics] by You: Resources by users, for users.
 
-The most powerful thing about [!DNL Adobe] DX solutions? You. The users who take the products, dig into them, and apply them in amazing, innovative ways to create meaningful experiences and outcomes. Experiences by You features content created by everyday users who have attained a level of expertise and influence with their [!DNL Adobe] DX solutions. This peer-to-peer knowledge encourages collaboration and discovery – enabling you – and any other user - to find the inspiration needed to level up your product expertise.  
+The most powerful thing about [!DNL Adobe] Experience Cloud solutions? You. The users who take the products, dig into them, and apply them in amazing, innovative ways to create meaningful experiences and outcomes. Experiences by You features content created by everyday users who have attained a level of expertise and influence with their [!DNL Adobe] Experience Cloud solutions. This peer-to-peer knowledge encourages collaboration and discovery – enabling you – and any other user - to find the inspiration needed to level up your product expertise.  
 
 <div id="recs-overview-body-1"></div>
 <div id="recs-overview-body-2"></div>
@@ -25,11 +26,11 @@ The most powerful thing about [!DNL Adobe] DX solutions? You. The users who take
 <tr>
   <td>
     <a href="/help/analytics/analysis-workspace/tips-and-tricks/right-click-tips-and-tricks-for-more-efficient-workflows.md">
-      <img alt="[!DNL Adobe] [!DNL Analytics] Tips and Tricks" src="https://video.tv.adobe.com/v/3417736?format=jpeg" />
+      <img alt="[!DNL Adobe Analytics] Tips and Tricks" src="https://video.tv.adobe.com/v/3417736?format=jpeg" />
     </a>
     <div>
       <a href="/help/analytics/analysis-workspace/tips-and-tricks/right-click-tips-and-tricks-for-more-efficient-workflows.md">
-    <strong>[!DNL Adobe] [!DNL Analytics]</strong>
+    <strong>[!DNL Adobe Analytics] Tips and Tricks</strong>
     </a>
     </div>
     <p>
@@ -38,28 +39,28 @@ The most powerful thing about [!DNL Adobe] DX solutions? You. The users who take
   </td>
   <td>
     <a href="/help/marketo/programs/email-programs.md">
-      <img alt="[!DNL Marketo Engage] Email Programs" src="https://video.tv.adobe.com/v/3419440?format=jpeg" />
+      <img alt="Translating [!DNL Adobe Analytics] technical language in a non-technical way" src="https://video.tv.adobe.com/v/342066?format=jpeg" />
     </a>
     <div>
-      <a href="/help/marketo/programs/email-programs.md">
-    <strong>[!DNL Marketo Engage]</strong>
+      <a href="/help/analytics/administration/key-admin-skills/translating-adobe-analytics-technical-language.md">
+    <strong>Translating [!DNL Adobe Analytics] technical language in a non-technical way</strong>
     </a>
     </div>
     <p>
-    <em>Step-by-step tutorial to learn how to create an email program with an A/B test.</em>
+    <em>Helpful tips when communicating with stakeholders to understand the technical language of Adobe Analytics.</em>
     <p>
   </td>
   <td>
-    <a href="/help/experience-manager/cloud-service/expert-resources/aem-champions/onboarding-playbook.md">
-      <img alt="AEM as a Cloud Service Onboarding playbook" src="https://video.tv.adobe.com/v/3419299?format=jpeg" />
+    <a href="/help/analytics/administration/admin-tips/create-standardized-naming-conventions.md">
+      <img alt="Create standardized naming conventions" src="https://cdn.experienceleague.adobe.com/thumb/10531.jpg" />
     </a>
     <div>
-      <a href="/help/experience-manager/cloud-service/expert-resources/aem-champions/onboarding-playbook.md">
-    <strong>AEM as a Cloud Service</strong>
+      <a href="/help/analytics/administration/admin-tips/create-standardized-naming-conventions.md">
+    <strong>Create standardized naming conventions</strong>
     </a>
     </div>
     <p>
-    <em>The onboarding playbook will help you take charge as a new administrator and developer for AEM as a Cloud Service.</em>
+    <em>Simple tips to create naming conventions and standards.</em>
     <p>
   </td>
 </tr>
@@ -69,7 +70,7 @@ The most powerful thing about [!DNL Adobe] DX solutions? You. The users who take
   
 ## Additional resources
 
-* [Experience League Communities](https://experienceleaguecommunities.adobe.com/)
-* [Experience Cloud Documentation](https://experienceleague.adobe.com/docs/)
-* [Experience Cloud Tutorials](https://experienceleague.adobe.com/docs/home-tutorials.html)
-* [business.adobe.com](https://business.adobe.com)
+* [Experience League Adobe Analytics Community](https://experienceleaguecommunities.adobe.com/t5/adobe-analytics/ct-p/adobe-analytics-community)
+* [Adobe Analytics Documentation](https://experienceleague.adobe.com/docs/analytics.html)
+* [Adobe Analytics Tutorials](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/overview.html)
+* [Adobe Analytics product information](https://business.adobe.com/products/analytics/adobe-analytics.html)

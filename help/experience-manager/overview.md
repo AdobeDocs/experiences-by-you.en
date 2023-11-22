@@ -1,15 +1,15 @@
 ---
-title: Experience by You
+title: Experience Manager by You
 description: Customer generated content
 role: User, Developer, Data Engineer, Architect, Data Architect, Admin, Leader
 level: Beginner
 doc-type: overview
-thumbnail:
+solution: Experience Manager
 ---
 
-# Experiences by You: Resources by users, for users.
+# Experience Manager by You: Resources by users, for users.
 
-The most powerful thing about [!DNL Adobe] DX solutions? You. The users who take the products, dig into them, and apply them in amazing, innovative ways to create meaningful experiences and outcomes. Experiences by You features content created by everyday users who have attained a level of expertise and influence with their [!DNL Adobe] DX solutions. This peer-to-peer knowledge encourages collaboration and discovery – enabling you – and any other user - to find the inspiration needed to level up your product expertise.  
+The most powerful thing about [!DNL Adobe] Experience Cloud solutions? You. The users who take the products, dig into them, and apply them in amazing, innovative ways to create meaningful experiences and outcomes. Experiences by You features content created by everyday users who have attained a level of expertise and influence with their [!DNL Adobe] Experience Cloud solutions. This peer-to-peer knowledge encourages collaboration and discovery – enabling you – and any other user - to find the inspiration needed to level up your product expertise. 
 
 <div id="recs-overview-body-1"></div>
 <div id="recs-overview-body-2"></div>
@@ -25,42 +25,42 @@ The most powerful thing about [!DNL Adobe] DX solutions? You. The users who take
 <table>
 <tr>
   <td>
-    <a href="/help/analytics/analysis-workspace/tips-and-tricks/right-click-tips-and-tricks-for-more-efficient-workflows.md">
-      <img alt="[!DNL Adobe] [!DNL Analytics] Tips and Tricks" src="https://video.tv.adobe.com/v/3417736?format=jpeg" />
+    <a href="/help/experience-manager/sites/expert-resources/champion-tips-1.md">
+      <img alt="Tips and Tricks - Editable Templates" src="https://video.tv.adobe.com/v/3409424?format=jpeg" />
     </a>
     <div>
-      <a href="/help/analytics/analysis-workspace/tips-and-tricks/right-click-tips-and-tricks-for-more-efficient-workflows.md">
-    <strong>[!DNL Adobe] [!DNL Analytics]</strong>
+      <a href="/help/experience-manager/sites/expert-resources/champion-tips-1.md">
+    <strong>Tips and Tricks</strong>
     </a>
     </div>
     <p>
-    <em>Tips you can use in Analysis Workspace to make your workflows more efficient.</em>
-    <p>
-  </td>
-  <td>
-    <a href="/help/marketo/programs/email-programs.md">
-      <img alt="[!DNL Marketo Engage] Email Programs" src="https://video.tv.adobe.com/v/3419440?format=jpeg" />
-    </a>
-    <div>
-      <a href="/help/marketo/programs/email-programs.md">
-    <strong>[!DNL Marketo Engage]</strong>
-    </a>
-    </div>
-    <p>
-    <em>Step-by-step tutorial to learn how to create an email program with an A/B test.</em>
+    <em>Editable Templates</em>
     <p>
   </td>
   <td>
     <a href="/help/experience-manager/cloud-service/expert-resources/aem-champions/onboarding-playbook.md">
-      <img alt="AEM as a Cloud Service Onboarding playbook" src="https://video.tv.adobe.com/v/3419299?format=jpeg" />
+      <img alt="Cloud Manager Onboarding Playbook" src="https://video.tv.adobe.com/v/3419299?format=jpeg" />
     </a>
     <div>
       <a href="/help/experience-manager/cloud-service/expert-resources/aem-champions/onboarding-playbook.md">
-    <strong>AEM as a Cloud Service</strong>
+    <strong>Cloud Manager Onboarding Playbook</strong>
     </a>
     </div>
     <p>
     <em>The onboarding playbook will help you take charge as a new administrator and developer for AEM as a Cloud Service.</em>
+    <p>
+  </td>
+  <td>
+    <a href="/help/experience-manager/sites/expert-resources/champion-tips-2.md">
+      <img alt="Tips and Tricks" src="https://video.tv.adobe.com/v/3409427?format=jpeg" />
+    </a>
+    <div>
+      <a href="/help/experience-manager/sites/expert-resources/champion-tips-2.md">
+    <strong>Tips and Tricks</strong>
+    </a>
+    </div>
+    <p>
+    <em>Editable Templates - Session 2</em>
     <p>
   </td>
 </tr>
@@ -70,7 +70,7 @@ The most powerful thing about [!DNL Adobe] DX solutions? You. The users who take
   
 ## Additional resources
 
-* [Experience League Communities](https://experienceleaguecommunities.adobe.com/)
-* [Experience Cloud Documentation](https://experienceleague.adobe.com/docs/)
-* [Experience Cloud Tutorials](https://experienceleague.adobe.com/docs/home-tutorials.html)
-* [business.adobe.com](https://business.adobe.com)
+* [Experience Manager Communities](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-manager/ct-p/adobe-experience-manager-community)
+* [Experience Manager Documentation](https://experienceleague.adobe.com/docs/experience-manager-cloud-service.html)
+* [Experience Manager Tutorials](https://experienceleague.adobe.com/docs/experience-manager-learn/aem-tutorials/overview.html)
+* [Expereience Manager product information](https://business.adobe.com/products/experience-manager/adobe-experience-manager.html)

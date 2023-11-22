@@ -4,7 +4,7 @@ description: Customer generated content
 role: User, Developer, Data Engineer, Architect, Data Architect, Admin, Leader
 level: Beginner
 doc-type: overview
-thumbnail:
+solution: Experience Cloud
 ---
 
 # Experiences by You: Resources by users, for users.
