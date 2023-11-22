@@ -27,7 +27,7 @@ The most powerful thing about [!DNL Adobe] Experience Cloud solutions? You. The 
 <tr>
   <td>
     <a href="/help/campaign/ac-v7/workflow-best-practices-for-marketers.md">
-      <img alt="Top 5 Workflow Best Practices for Marketers" src="https://video.tv.adobe.com/v/3417736?format=jpeg" />
+      <img alt="Top 5 Workflow Best Practices for Marketers" src="https://video.tv.adobe.com/v/3410837?format=jpeg" />
     </a>
     <div>
       <a href="/help/campaign/ac-v7/workflow-best-practices-for-marketers.md">
