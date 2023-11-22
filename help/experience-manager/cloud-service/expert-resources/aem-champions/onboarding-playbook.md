@@ -11,6 +11,7 @@ level: Beginner
 doc-type: Value Video
 last-substantial-update: 2023-05-11
 jira: KT-13228
+exl-id: 3ee98846-35ff-4de1-af4b-b65376572dfe
 ---
 # AEM Champion Tips and Tricks - [!DNL Cloud Manager] Onboarding Playbook
 

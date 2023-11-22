@@ -10,8 +10,8 @@ doc-type: Tutorial
 last-substantial-update: 2023-10-16
 jira: KT-13890
 thumbnail: KT-13890.jpeg
+exl-id: 3125e813-7d39-4403-922f-5a55bcbbbf95
 ---
-
 # Tips and Tricks for auditing an inherited [!DNL Marketo Engage] instance - Tutorial Overview
 
 *Source:  Adobe Marketo Champions* 

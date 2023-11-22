@@ -10,6 +10,7 @@ level: Beginner
 doc-type: article
 thumbnail: 10534.jpg
 kt: 10534
+exl-id: 2fc27a2c-15e0-432e-a435-d7e4793ce670
 ---
 # Create an internal [!DNL Adobe] [!DNL Analytics] site (Confluence or other)
 

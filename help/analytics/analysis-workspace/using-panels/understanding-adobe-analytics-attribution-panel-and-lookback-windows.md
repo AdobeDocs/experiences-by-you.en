@@ -9,6 +9,7 @@ doc-type: Article
 last-substantial-update: 2023-06-20
 jira: KT-13181
 thumbnail: KT-13181.jpeg
+exl-id: 2a62e563-bad9-424f-94ca-2af68d4a83b5
 ---
 # Understanding [!DNL Adobe] [!DNL Analytics] attribution panel and lookback windows
 

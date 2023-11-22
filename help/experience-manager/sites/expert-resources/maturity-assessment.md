@@ -8,6 +8,7 @@ role: Admin
 level: Intermediate
 topic: Administration
 last-substantial-update: 2023-11-03
+exl-id: 65a12916-27bb-4761-a1d3-da8ff4c51ef8
 ---
 # Your AEM Sites Maturity Assessment Checklist
 

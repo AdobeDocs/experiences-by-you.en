@@ -5,8 +5,8 @@ role: User, Developer, Data Engineer, Architect, Data Architect, Admin, Leader
 level: Beginner
 doc-type: overview
 solution: Experience Manager
+exl-id: f6aa9dbd-fb4f-40fa-b607-174755a1ca9f
 ---
-
 # Experience Manager by You: Resources by users, for users.
 
 The most powerful thing about [!DNL Adobe] Experience Cloud solutions? You. The users who take the products, dig into them, and apply them in amazing, innovative ways to create meaningful experiences and outcomes. Experiences by You features content created by everyday users who have attained a level of expertise and influence with their [!DNL Adobe] Experience Cloud solutions. This peer-to-peer knowledge encourages collaboration and discovery - enabling you - and any other user - to find the inspiration needed to level up your product expertise. 

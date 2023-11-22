@@ -10,6 +10,7 @@ role: User
 level: Beginner, Intermediate
 topic: Content Management
 audience: author, marketer
+exl-id: 882d2330-1598-4d86-b1d6-9ef38498ccf3
 ---
 # AEM Champion Tips and Tricks: Editable Templates
 

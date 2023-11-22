@@ -9,6 +9,7 @@ feature: Editable Templates
 role: User
 level: Beginner, Intermediate
 topic: Content Management
+exl-id: 6aaf36de-9b45-4b5d-9d59-ff9e18f840fe
 ---
 # AEM Champion Tips and Tricks: Session 2
 

@@ -8,6 +8,7 @@ level: Beginner
 doc-type: feature video
 thumbnail: Workspace Basics.jpeg
 kt: KT-13087
+exl-id: 2bd7a828-5bb0-43bf-8802-310edd444d62
 ---
 # 7 Right-click tips & tricks for more efficient workflows
 

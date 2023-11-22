@@ -9,6 +9,7 @@ doc-type: Article
 last-substantial-update: 2023-05-16
 jira: KT-13213
 thumbnail: KT-13213.jpeg
+exl-id: 79392eea-a8b6-4ae2-98ef-6ebbd11d88a0
 ---
 # Use Cohort Analysis to Understand Customer Behavior
 

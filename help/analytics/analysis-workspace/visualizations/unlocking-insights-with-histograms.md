@@ -9,6 +9,7 @@ doc-type: Article
 last-substantial-update: 2023-08-18
 jira: KT-13833
 thumbnail: KT-13833.jpeg
+exl-id: 46a9dab2-17f8-435e-949c-45d4a60343f0
 ---
 # Unlocking insights with histograms: beyond averages in [!DNL Analytics]
 

@@ -10,6 +10,7 @@ level: Beginner
 doc-type: article
 thumbnail: 10536.jpg
 kt: 10536
+exl-id: f133d049-9a24-4153-88c5-40ec480d1e4e
 ---
 # Use a global report suite
 

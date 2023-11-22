@@ -1,13 +1,13 @@
 ---
-title:  Campaign by You
+title: Campaign by You
 description: Customer generated content
 role: User, Developer, Data Engineer, Architect, Data Architect, Admin, Leader
 level: Beginner
 doc-type: overview
 solution: Campaign
-thumbnail:
+thumbnail: null
+exl-id: cb9a03bd-8ce1-4681-929f-68f6ff435f6c
 ---
-
 # [!DNL Campaign] by You: Resources by users, for users.
 
 The most powerful thing about [!DNL Adobe] Experience Cloud solutions? You. The users who take the products, dig into them, and apply them in amazing, innovative ways to create meaningful experiences and outcomes. Experiences by You features content created by everyday users who have attained a level of expertise and influence with their [!DNL Adobe] Experience Cloud solutions. This peer-to-peer knowledge encourages collaboration and discovery - enabling you - and any other user - to find the inspiration needed to level up your product expertise.

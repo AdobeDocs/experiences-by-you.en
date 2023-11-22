@@ -9,6 +9,7 @@ role: User
 level: Beginner
 jira: KT-11772
 last-substantial-update: 2023-01-31
+exl-id: add6ed84-892d-4901-9dd2-b0cba0c57290
 ---
 # Ten best practices for [!DNL [!DNL Adobe] [!DNL Campaign]] success for marketers
 

@@ -10,6 +10,7 @@ role: Admin
 level: Experienced
 thumbnail: 340458.jpg
 kt: 9779
+exl-id: 9ceef641-3509-4e5e-8c44-bc76502e389b
 ---
 # Tips and tricks on how to simplify and spend less time training users
 

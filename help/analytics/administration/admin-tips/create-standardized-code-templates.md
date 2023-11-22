@@ -10,6 +10,7 @@ level: Beginner
 doc-type: article
 thumbnail: 10532.jpg
 kt: 10532
+exl-id: edd3df73-6d1a-4a26-a984-810cc7dd382f
 ---
 # Create standardized code templates
 

@@ -11,6 +11,7 @@ level: Beginner
 doc-type: Value Video
 last-substantial-update: 2023-05-11
 jira: KT-13230
+exl-id: c977d316-5e5d-43b9-ba10-a11433d33ca5
 ---
 # AEM Champion Tips and Tricks - [!DNL Cloud Manager] UI
 

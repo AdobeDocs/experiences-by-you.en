@@ -10,8 +10,8 @@ last-substantial-update: 2023-10-16
 jira: KT-13875
 thumbnail: KT-13875.jpeg
 hide: no
+exl-id: 6a38f5dd-5d25-43d8-a1d3-e75ab396e555
 ---
-
 # Log CRM Sync Errors for Easy Troubleshooting
 
 As a [!DNL Marketo Engage] administrator, checking if your instance is in sync with your CRM should be a key part of your [daily routine](https://nation.marketo.com/t5/champion-program-blogs/my-marketo-morning-routine-tips-for-driving-marketing-operation/ba-p/247508){target="_blank"}. While the [Notifications section](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/miscellaneous/notification-types.html){target="_blank"} (find it on the top right corner of your [!DNL Marketo Engage] interface) is where you will start to find and investigate frequent syncing issues, there is a pro tip that could help you manage the instance health in an organized manner. [!DNL Adobe] Marketo Champion (2019-2022), Amy Goldfine recommends admin users keep a log of CRM Sync errors to make troubleshooting easier.
@@ -56,4 +56,3 @@ Before you get started, download the [CRM Sync Errors Log template](/help/market
 *Adoption & Retention Marketing Manager at [!DNL Adobe]* 
 
 ![Amy Chiu](/help/marketo-tutorial-inherited-instance/_assets/authors/[!DNL Adobe]_Author_Amy_Chiu.png){width="25%"}
- 

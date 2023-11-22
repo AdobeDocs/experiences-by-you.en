@@ -11,6 +11,7 @@ level: Beginner
 doc-type: Value Video
 last-substantial-update: 2023-05-11
 jira: KT-13229
+exl-id: 682c97c0-d563-4cfa-be6b-0eb22c675d21
 ---
 # AEM Champion Tips and Tricks - [!DNL Cloud Manager] Environment Types
 

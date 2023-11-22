@@ -10,6 +10,7 @@ level: Beginner
 doc-type: article
 thumbnail: 10533.jpg
 kt: 10533
+exl-id: f615c9af-9920-4a10-a55a-c750b39d5aea
 ---
 # Create basic recorded training sessions & short videos
 

@@ -10,6 +10,7 @@ level: Beginner
 doc-type: article
 thumbnail: 10531.jpg
 kt: 10531
+exl-id: 79cec21e-2b52-4e7b-88ad-db137a8cef4e
 ---
 # Create standardized naming conventions
 

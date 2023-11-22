@@ -10,8 +10,8 @@ last-substantial-update: 2023-10-16
 jira: KT-13762
 thumbnail: 3422473.jpeg
 hide: no
+exl-id: e691d38f-34c2-4e46-908e-c96f82eb1399
 ---
-
 # How to audit an inherited [!DNL Marketo Engage] instance
 
 Inheriting a [!DNL Marketo Engage] instance can be a stressful time, whether you are an experienced Admin or whether you are a newer Admin it can be difficult to know where to start cleaning up. To start off, we recommend you spend time understanding what is in the instance you just inherited today and creating a plan of action to update the configuration.

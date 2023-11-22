@@ -10,6 +10,7 @@ level: Beginner
 doc-type: article
 thumbnail: 10530.jpg
 kt: 10530
+exl-id: 42679c86-e08f-4dda-8e47-f9880409bad6
 ---
 # Download the [!DNL Adobe] [!DNL Analytics] implementation playbook
 

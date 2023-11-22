@@ -11,6 +11,7 @@ role: Admin
 level: Experienced
 thumbnail: 340457.jpg
 kt: 9780
+exl-id: 0e45d8ba-a08d-4b5d-8a12-326e01c29505
 ---
 # Creating an empowered community
 

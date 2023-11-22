@@ -9,6 +9,7 @@ role: Admin
 level: Experienced
 thumbnail: impactful-stories.jpg
 kt: 10157
+exl-id: bbbe8514-95d2-4e18-aaa2-6c3bd94816a1
 ---
 # Telling impactful stories with data
 

@@ -10,6 +10,7 @@ level: Beginner
 doc-type: article
 thumbnail: 10535.jpg
 kt: 10535
+exl-id: 59944fab-11f8-4af5-92ed-00dcd4205eda
 ---
 # Create a news & announcements project
 

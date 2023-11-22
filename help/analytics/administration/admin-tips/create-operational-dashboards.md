@@ -11,6 +11,7 @@ doc-type: Article
 last-substantial-update: 2023-08-18
 jira: KT-13829
 thumbnail: KT-13829.jpeg
+exl-id: 8df9e88f-e564-4a8e-b624-026c873d3f19
 ---
 # Creating Operational Dashboards within Analysis Workspace
 

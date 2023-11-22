@@ -12,6 +12,7 @@ team: TM
 role: User
 level: Beginner
 last-substantial-update: 2022-11-03
+exl-id: 1c83cfef-c363-4cdc-838d-19e7110d4fd8
 ---
 # Top 5 Workflow Best Practices for Marketers from LoyaltyOne
 

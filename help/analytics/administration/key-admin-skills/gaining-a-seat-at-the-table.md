@@ -9,6 +9,7 @@ role: Admin
 level: Experienced
 thumbnail: 342070.jpg
 kt: 10132
+exl-id: fa3190e3-836e-4391-9de6-0b733d55825f
 ---
 # Gaining a seat at the table
 

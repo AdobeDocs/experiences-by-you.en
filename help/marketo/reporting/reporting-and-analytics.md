@@ -10,6 +10,7 @@ jira: KT-13219
 thumbnail: 3419295.jpeg
 feature-set: Marketo Engage
 feature: Reporting
+exl-id: d45b2757-bc7f-4085-b374-ea8c1caf1774
 ---
 # Reporting and analytics
 

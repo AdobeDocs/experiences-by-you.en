@@ -9,6 +9,7 @@ role: Admin
 level: Experienced
 thumbnail: 342066.jpg
 kt: 10128
+exl-id: b26f8b1e-e57d-4684-86c2-7a13f67521e6
 ---
 # Translating [!DNL Adobe] [!DNL Analytics] technical language in a non-technical way
 

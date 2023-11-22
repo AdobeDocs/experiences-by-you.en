@@ -9,6 +9,7 @@ doc-type: Article
 last-substantial-update: 2023-05-02
 jira: KT-13178
 thumbnail: KT-13178.jpeg
+exl-id: b233d6d0-2e89-473e-b700-9977b402af39
 ---
 # Goodbye Excel, hello calculated metrics
 

@@ -10,6 +10,7 @@ doc-type: Article
 last-substantial-update: 2023-05-15
 jira: KT-13216
 thumbnail: KT-13216.jpeg
+exl-id: ea446e58-d9f2-4a21-aa9b-71aa548016e2
 ---
 # Drive success with executive summary dashboards
 

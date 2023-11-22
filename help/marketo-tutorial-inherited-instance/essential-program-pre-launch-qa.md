@@ -10,8 +10,8 @@ last-substantial-update: 2023-10-16
 jira: KT-13888
 thumbnail: KT-13888.jpeg
 hide: no
+exl-id: c377fe5f-2d77-4fd0-9ac4-5ad65506f582
 ---
-
 # Essential program pre-launch quality assurance process for success
 
 If you are a [!DNL [!DNL Marketo Engage]] administrator or on the Marketing Operation team, reviewing the program configuration properly is crucial to avoid customer-facing mistakes. Though you can learn from your mistakes along the way to limit mistakes, it is not a scalable process. Learn how to design and run a program pre-launch quality assurance (QA) process between builders and power users/reviewers helps save you time, prevent errors, and train your internal users more quickly.
