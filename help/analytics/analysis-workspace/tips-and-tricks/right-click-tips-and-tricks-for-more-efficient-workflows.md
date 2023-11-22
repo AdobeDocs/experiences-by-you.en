@@ -76,4 +76,4 @@ This document was written by:
 
 **Christel Guidon**, Digital [!DNL Analytics] Platform Manager at Gen Digital
 
-[!DNL Adobe] [!DNL Analytics] Champion
+[!DNL Adobe Analytics] Champion

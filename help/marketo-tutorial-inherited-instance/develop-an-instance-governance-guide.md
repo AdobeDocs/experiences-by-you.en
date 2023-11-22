@@ -113,4 +113,4 @@ Maintaining comprehensive and up-to-date documentation for your [!DNL Marketo En
 **Amy Chiu**
 *Adoption & Retention Marketing Manager, [!DNL Adobe]*
 
-![Amy Chiu](/help/marketo-tutorial-inherited-instance/_assets/authors/[!DNL Adobe]_Author_Amy_Chiu.png){width=30%}
+![Amy Chiu](/help/marketo-tutorial-inherited-instance/_assets/authors/Adobe_Author_Amy_Chiu.png){width=30%}

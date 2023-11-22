@@ -26,11 +26,11 @@ The most powerful thing about [!DNL Adobe] digital experience (DX) solutions? Yo
 <tr>
   <td>
     <a href="/help/analytics/analysis-workspace/tips-and-tricks/right-click-tips-and-tricks-for-more-efficient-workflows.md">
-      <img alt="[!DNL Adobe] [!DNL Analytics] Tips and Tricks" src="https://video.tv.adobe.com/v/3417736?format=jpeg" />
+      <img alt="[!DNL Adobe Analytics] Tips and Tricks" src="https://video.tv.adobe.com/v/3417736?format=jpeg" />
     </a>
     <div>
       <a href="/help/analytics/analysis-workspace/tips-and-tricks/right-click-tips-and-tricks-for-more-efficient-workflows.md">
-    <strong>[!DNL Adobe] [!DNL Analytics]</strong>
+    <strong>[!DNL Adobe Analytics]</strong>
     </a>
     </div>
     <p>

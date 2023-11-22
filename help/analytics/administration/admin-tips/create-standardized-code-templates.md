@@ -1,6 +1,6 @@
 ---
 title: Create standardized code templates
-description: For a baseline implementation (i.e. what your company considers the must-have KPIs for all [!DNL Adobe] [!DNL Analytics] sites), your org should have a single implementation method where possible.
+description: For a baseline implementation (i.e. what your company considers the must-have KPIs for all [!DNL Adobe Analytics] sites), your org should have a single implementation method where possible.
 solution: Analytics
 feature-set: Analytics
 feature: Implementation Basics
@@ -14,7 +14,7 @@ exl-id: edd3df73-6d1a-4a26-a984-810cc7dd382f
 ---
 # Create standardized code templates
 
-**WHAT:** For a "baseline" implementation (i.e. what your company considers the must-have KPIs for all [!DNL Adobe] [!DNL Analytics] sites), your org should have a single implementation method where possible. For instance, use the same data layer structure across sites and leveraging the same tag manager rule/custom code to capture things like internal searches or visitor profile information.
+**WHAT:** For a "baseline" implementation (i.e. what your company considers the must-have KPIs for all [!DNL Adobe Analytics] sites), your org should have a single implementation method where possible. For instance, use the same data layer structure across sites and leveraging the same tag manager rule/custom code to capture things like internal searches or visitor profile information.
 
 **WHY:** Having a repeatable and scalable baseline implementation makes adding new elements or new sites/apps a streamlined, low effort endeavor while also keeping your implementation clean and easy to troubleshoot. Using a uniform method also makes it easier for new admins/developers to come online and understand what they are working with.
 
@@ -39,7 +39,7 @@ This document was co-written by:
 ![Christel Guidon](assets/Christel-Headshot-150.png)
 
 Christel Guidon, Digital [!DNL Analytics] Platform Manager at NortonLifeLock
-[!DNL Adobe] [!DNL Analytics] Champion
+[!DNL Adobe Analytics] Champion
 
 ![Rachel Fenwick](assets/Rachel-Fenwick-150.png)
 

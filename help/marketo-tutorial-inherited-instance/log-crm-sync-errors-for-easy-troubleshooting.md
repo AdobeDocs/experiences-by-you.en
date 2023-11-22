@@ -24,7 +24,7 @@ By logging the CRM Sync errors, [!DNL Marketo Engage] admins can review the issu
 
 ## How to keep a log of CRM Sync Errors 
 
-Before you get started, download the [CRM Sync Errors Log template](/help/marketo-tutorial-inherited-instance/_assets/downloads/[!DNL Adobe]-Marketo-Engage_CRM-Sync-Error-Log-Template.xlsx). 
+Before you get started, download the [CRM Sync Errors Log template](/help/marketo-tutorial-inherited-instance/_assets/downloads/Adobe-Marketo-Engage_CRM-Sync-Error-Log-Template.xlsx).
 
 **Step 1:** Go to the *[!UICONTROL Admin] section* in [!DNL Marketo Engage]. Under *[!UICONTROL Integration]*, click *[!DNL Salesforce]*, *[!DNL Microsoft Dynamics]*, or *[!DNL Veeva]*, depending on which [!DNL CRM] you use, then the *[!UICONTROL Sync Errors]* tab. 
 
@@ -55,4 +55,4 @@ Before you get started, download the [CRM Sync Errors Log template](/help/market
 **Amy Chiu**
 *Adoption & Retention Marketing Manager at [!DNL Adobe]* 
 
-![Amy Chiu](/help/marketo-tutorial-inherited-instance/_assets/authors/[!DNL Adobe]_Author_Amy_Chiu.png){width="25%"}
+![Amy Chiu](/help/marketo-tutorial-inherited-instance/_assets/authors/Adobe_Author_Amy_Chiu.png){width="25%"}

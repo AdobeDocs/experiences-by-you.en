@@ -140,4 +140,4 @@ This document was written by:
 
 **Aaron Fossum**, Director, Digital [!DNL Analytics]
 
-[!DNL Adobe] [!DNL Analytics] Champion
+[!DNL Adobe Analytics] Champion

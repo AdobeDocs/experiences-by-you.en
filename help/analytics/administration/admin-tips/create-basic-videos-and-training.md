@@ -24,7 +24,7 @@ exl-id: f615c9af-9920-4a10-a55a-c750b39d5aea
 * How to understand page performance 
 * How to create visualizations in Workspace
 * All about segments and calculated metrics
-* Top 5 tips in [!DNL Adobe] [!DNL Analytics] (ex: how to create drop-downs)
+* Top 5 tips in [!DNL Adobe Analytics] (ex: how to create drop-downs)
 * How to use Attribution IQ
 
 You can then easily point users to these instead of writing lengthy emails or having yet another meeting. For more tips and tricks on training users, check out [[!DNL Adobe] Champion Thomas Edward Buckley's article](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/administration/key-admin-skills/simplify-training-users.html?lang=en){target="_blank"} all about simplifying and spending less time training users.
@@ -38,7 +38,7 @@ This document was co-written by:
 ![Christel Guidon](assets/Christel-Headshot-150.png)
 
 Christel Guidon, Digital [!DNL Analytics] Platform Manager at NortonLifeLock
-[!DNL Adobe] [!DNL Analytics] Champion
+[!DNL Adobe Analytics] Champion
 
 ![Rachel Fenwick](assets/Rachel-Fenwick-150.png)
 
