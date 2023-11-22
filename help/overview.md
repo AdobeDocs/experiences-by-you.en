@@ -1,7 +1,7 @@
 ---
 title: Experiences by You
 description: Learn from fellow Adobe customers about how they use Experience Cloud applications and features.
-role: User, Developer, Admin, Architect
+role: User, Developer, Admin, Data Architect
 level: Beginner
 doc-type: overview
 solution: Experience Cloud
