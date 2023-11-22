@@ -65,7 +65,6 @@ The most powerful thing about [!DNL Adobe] DX solutions? You. The users who take
   </td>
 </tr>
 </table>
-
 </div>
   
 ## Additional resources
