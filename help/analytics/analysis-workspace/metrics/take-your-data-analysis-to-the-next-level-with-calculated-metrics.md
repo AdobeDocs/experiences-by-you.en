@@ -13,9 +13,9 @@ exl-id: 301ee179-b154-4cf2-b27e-77f38a8945a0
 ---
 # Take your data analysis to the next level with Calculated Metrics
 
-Most new users of [!DNL Adobe] [!DNL Analytics] are familiar with Segments as a way to slice and dice their data. Today, I want to introduce you to calculated metrics, the next best tool in your analyst toolbox.
+Most new users of [!DNL Adobe Analytics] are familiar with Segments as a way to slice and dice their data. Today, I want to introduce you to calculated metrics, the next best tool in your analyst toolbox.
 
-As an advanced feature of [!DNL Adobe] [!DNL Analytics], calculated metrics let you create new metrics without changing your implementation using the data you've already collected. The Calculated Metrics Builder can use a lot of different mathematical and statistical functions, so you can create metrics that answer even the most complex business questions.
+As an advanced feature of [!DNL Adobe Analytics], calculated metrics let you create new metrics without changing your implementation using the data you've already collected. The Calculated Metrics Builder can use a lot of different mathematical and statistical functions, so you can create metrics that answer even the most complex business questions.
 
 ## Getting Started with Calculated Metrics
 
@@ -94,7 +94,7 @@ Knowing this, we can optimize page layout, product placements, and promotional m
 
 **So - calculated metrics, both simple and complex, are super valuable for analysts!** 
 
-However, these metrics are not available in all areas of [!DNL Adobe] [!DNL Analytics]. You can't use calculated metrics in:
+However, these metrics are not available in all areas of [!DNL Adobe Analytics]. You can't use calculated metrics in:
 
 - Fallout in Analysis Workspace
 - Cohort Analysis in Analysis Workspace
@@ -108,7 +108,7 @@ However, these metrics are not available in all areas of [!DNL Adobe] [!DNL Anal
 
 Now that you know how valuable calculated metrics can be, let's take a look at some best practices in building them.
 
-1. **Check your formula syntax.** Make sure the formula syntax is both correct and follows the [!DNL Adobe] [!DNL Analytics] syntax to make sure you get meaningful information.
+1. **Check your formula syntax.** Make sure the formula syntax is both correct and follows the [!DNL Adobe Analytics] syntax to make sure you get meaningful information.
 1. **Verify the order of operations.** Make sure to use containers carefully and put things in proper mathematical order of operations.
 1. **Don't double-count data**. You can avoid double-counting data by ensuring that the formula used in the calculated metric doesn't count the same data multiple times. This is often achieved by combining *Include* and *Exclude* conditions in the calculated metric or through the use of segments.
 1. **Check time granularity.** Make sure the calculated metric has the same time granularity as the source metrics used in the formula.
@@ -116,7 +116,7 @@ Now that you know how valuable calculated metrics can be, let's take a look at s
 
 ## Custom Segment Best Practices
 
-When creating segments in [!DNL Adobe] [!DNL Analytics], keep these best practices in mind:
+When creating segments in [!DNL Adobe Analytics], keep these best practices in mind:
 
 1. **Keep it simple.** Avoid overcomplicating the segment. Keep it as simple as possible and use only the conditions necessary to ensure accuracy.
 1. **Use the correct container types**. Make sure to use the correct container type - visitor, visit, or hit - in the segment definition to avoid getting incorrect results.
@@ -130,7 +130,7 @@ When creating segments in [!DNL Adobe] [!DNL Analytics], keep these best practic
 
 ## Key Takeaways
 
-Combining segments and calculated metrics in [!DNL Adobe] [!DNL Analytics] can absolutely lead to more robust and effective data analysis. By slicing and dicing your data and building calculations for comparison, you can gain deeper insights into customer behavior that you can use to optimize your marketing campaigns and create tailored dashboards and reports. However, remember that calculated metrics aren't available in all areas of [!DNL Adobe] [!DNL Analytics], and make sure to follow best practices to ensure you're getting accurate and useful data.
+Combining segments and calculated metrics in [!DNL Adobe Analytics] can absolutely lead to more robust and effective data analysis. By slicing and dicing your data and building calculations for comparison, you can gain deeper insights into customer behavior that you can use to optimize your marketing campaigns and create tailored dashboards and reports. However, remember that calculated metrics aren't available in all areas of [!DNL Adobe Analytics], and make sure to follow best practices to ensure you're getting accurate and useful data.
 
 
 ## Author
@@ -139,6 +139,6 @@ This document was written by:
 
 ![Debbie Kern](assets/calc13.jpeg)
 
-**Debbie Kern**, Senior [!DNL Adobe] [!DNL Analytics] Manager at Adswerve
+**Debbie Kern**, Senior [!DNL Adobe Analytics] Manager at Adswerve
 
 ![Adswerve](assets/calc14.png)

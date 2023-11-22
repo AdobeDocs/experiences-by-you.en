@@ -58,7 +58,7 @@ This document was written by:
 
 **Mandy George**, Digital Analyst III at Best Buy Canada
 
-[!DNL Adobe] [!DNL Analytics] Champion
+[!DNL Adobe Analytics] Champion
 
 ## Download
 

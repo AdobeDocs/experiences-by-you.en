@@ -1,6 +1,6 @@
 ---
 title: Gaining a seat at the table
-description: Gaining a seat at the table. This popular phrase has been a hot topic in the business world for years now. But what does it mean? Gaining a seat at the table means that you are included in the high-level decision-making conversions. You're not only invited, but your input is valued and appreciated. I am going to show you how gaining a seat at the table will help your company and your career as an [!DNL Adobe] [!DNL Analytics] Administrator.
+description: Gaining a seat at the table. This popular phrase has been a hot topic in the business world for years now. But what does it mean? Gaining a seat at the table means that you are included in the high-level decision-making conversions. You're not only invited, but your input is valued and appreciated. I am going to show you how gaining a seat at the table will help your company and your career as an [!DNL Adobe Analytics] Administrator.
 solution: Analytics
 feature-set: Analytics
 feature: Admin Tools
@@ -15,7 +15,7 @@ exl-id: fa3190e3-836e-4391-9de6-0b733d55825f
 
 >[!VIDEO](https://video.tv.adobe.com/v/342070/?quality=12&learn=on)
 
-“Gaining a seat at the table.” This popular phrase has been a hot topic in the business world for years now. But what does it mean? Gaining a seat at the table means that you are included in the high-level decision-making conversions. You're not only invited, but your input is valued and appreciated. I am going to show you how gaining a seat at the table will help your company and your career as an [!DNL Adobe] [!DNL Analytics] power user, whether your official role is that of an admin, a data analyst, or whatever else your business card says.
+“Gaining a seat at the table.” This popular phrase has been a hot topic in the business world for years now. But what does it mean? Gaining a seat at the table means that you are included in the high-level decision-making conversions. You're not only invited, but your input is valued and appreciated. I am going to show you how gaining a seat at the table will help your company and your career as an [!DNL Adobe Analytics] power user, whether your official role is that of an admin, a data analyst, or whatever else your business card says.
 
 ## Why you need to be at the table
 

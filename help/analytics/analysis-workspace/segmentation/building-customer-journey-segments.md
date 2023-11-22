@@ -1,6 +1,6 @@
 ---
 title: Building Customer Journey Segments
-description: Learn how to create behavioral-based customer journey segments in [!DNL Adobe] [!DNL Analytics] and improve your customers' experience with [!DNL Adobe] Experience Cloud by following this step-by-step guide.
+description: Learn how to create behavioral-based customer journey segments in [!DNL Adobe Analytics] and improve your customers' experience with [!DNL Adobe] Experience Cloud by following this step-by-step guide.
 feature-set: Analytics
 feature: Segmentation
 role: User
@@ -13,13 +13,13 @@ exl-id: 34f42d7e-e849-420e-9b3d-f3dcc1882b23
 ---
 # Building Customer Journey Segments
 
-Learn how to create behavioral-based customer journey segments in [!DNL Adobe] [!DNL Analytics] and improve your customers' experience with [!DNL Adobe] Experience Cloud by following this step-by-step guide.
+Learn how to create behavioral-based customer journey segments in [!DNL Adobe Analytics] and improve your customers' experience with [!DNL Adobe] Experience Cloud by following this step-by-step guide.
 
-Let's create better customer journey segments! In this series, we'll use [!DNL Adobe] [!DNL Analytics] to define behavioral-based segments, estimate audience sizes, and track user movement. By the end, you'll be able to personalize media and improve your customers' experience with [!DNL Adobe] Experience Cloud. Keep in mind that these segments are living and should be updated as you learn more about your customers. Although reporting may present some challenges, don't worry, I'll guide you through it! Let's start by creating our first set of Customer Journey segments, beginning with the "One Hit Wonders" segment.
+Let's create better customer journey segments! In this series, we'll use [!DNL Adobe Analytics] to define behavioral-based segments, estimate audience sizes, and track user movement. By the end, you'll be able to personalize media and improve your customers' experience with [!DNL Adobe] Experience Cloud. Keep in mind that these segments are living and should be updated as you learn more about your customers. Although reporting may present some challenges, don't worry, I'll guide you through it! Let's start by creating our first set of Customer Journey segments, beginning with the "One Hit Wonders" segment.
 
-Today, we'll create placeholders for our first set of Customer Journey segments, build an [!DNL Adobe] [!DNL Analytics] Workspace to help us define our segments, and define our very first segment, "One Hit Wonders."
+Today, we'll create placeholders for our first set of Customer Journey segments, build an [!DNL Adobe Analytics] Workspace to help us define our segments, and define our very first segment, "One Hit Wonders."
 
-By the end of this series, you'll be able to create customer journey segments in [!DNL Adobe] [!DNL Analytics] based on behavioral signals. You'll be able to estimate the size of each audience at each stage in the journey and understand at what rate users move between those stages. And you'll be able to export those customer journey audiences to [!DNL Adobe] Experience Cloud to enable personalization and media targeting.
+By the end of this series, you'll be able to create customer journey segments in [!DNL Adobe Analytics] based on behavioral signals. You'll be able to estimate the size of each audience at each stage in the journey and understand at what rate users move between those stages. And you'll be able to export those customer journey audiences to [!DNL Adobe] Experience Cloud to enable personalization and media targeting.
 
 Each business is different, and that means that your customer journey segments will look different than mine. So rather than prescribe specific formulas for your segments, suggest some things to look at and an overall process for building them. 
 
@@ -91,7 +91,7 @@ After defining this segment, you'll begin to see your Visit Intent Workspace tak
 
 ![More segment definitions](assets/more-segment-defs.png)
 
-Building customer journey segments using [!DNL Adobe] [!DNL Analytics] is a challenging but rewarding process. By creating behavioral-based segments, estimating audience sizes, and tracking user movements, businesses can personalize media and improve customer experience. Each business is unique, and there are no specific formulas for creating segments, but guidelines and a process to follow. Segments should be updated as businesses learn more about their customers, which presents reporting challenges. By following the process of building Visit Intent segments, businesses can improve overall customer experience.
+Building customer journey segments using [!DNL Adobe Analytics] is a challenging but rewarding process. By creating behavioral-based segments, estimating audience sizes, and tracking user movements, businesses can personalize media and improve customer experience. Each business is unique, and there are no specific formulas for creating segments, but guidelines and a process to follow. Segments should be updated as businesses learn more about their customers, which presents reporting challenges. By following the process of building Visit Intent segments, businesses can improve overall customer experience.
 
 ## Author
 
@@ -101,4 +101,4 @@ This document was written by:
 
 **Aaron Fossum**, Director, Digital [!DNL Analytics]
 
-[!DNL Adobe] [!DNL Analytics] Champion
+[!DNL Adobe Analytics] Champion

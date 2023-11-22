@@ -30,7 +30,7 @@ Here are the advantages/disadvantages of having a single report suite to help yo
 * CONS:
     * If you have very separate properties where users don't cut over from one to the other and are never expected to do so, you may want to maintain separate report suites. 
     * If your properties have vastly different tagging and reporting needs, it can make sense to set up separate report suites in the interest of variable efficiency. Having separate report suites will give you more flexibility in using custom variables (more eVars).
-    * Uniques exceeded: The [!DNL Adobe] [!DNL Analytics] interface only allows you to see 500,000 unique values within a single dimension for a given time period. Once you exceed this, values will be grouped as 'uniques exceeded' or 'low traffic' in the interface. These values do remain available to you on the backend (i.e. Data Warehouse, Data Feeds), but cannot be visualized within the interface. If you have very granular data (such as User ID, PSN, etc.), it's easy to reach this level. Having separate report suites can help with this issue.
+    * Uniques exceeded: The [!DNL Adobe Analytics] interface only allows you to see 500,000 unique values within a single dimension for a given time period. Once you exceed this, values will be grouped as 'uniques exceeded' or 'low traffic' in the interface. These values do remain available to you on the backend (i.e. Data Warehouse, Data Feeds), but cannot be visualized within the interface. If you have very granular data (such as User ID, PSN, etc.), it's easy to reach this level. Having separate report suites can help with this issue.
 
 **HOW:** Starting with a new AA implementation and using one global report suite is simple and straightforward. You would just need to create the global report suite (one for Dev and one for Prod) in the AA admin UI and apply the same report suite ID (RSID) values across all of your properties. 
 
@@ -48,7 +48,7 @@ This document was co-written by:
 ![Christel Guidon](assets/Christel-Headshot-150.png)
 
 Christel Guidon, Digital [!DNL Analytics] Platform Manager at NortonLifeLock
-[!DNL Adobe] [!DNL Analytics] Champion
+[!DNL Adobe Analytics] Champion
 
 ![Rachel Fenwick](assets/Rachel-Fenwick-150.png)
 

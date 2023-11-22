@@ -1,6 +1,6 @@
 ---
 title: Create Operational Dashboards within Analysis Workspace
-description: Explore how operational dashboards in [!DNL Adobe] [!DNL Analytics] Workspace revolutionize communication and efficiency.
+description: Explore how operational dashboards in [!DNL Adobe Analytics] Workspace revolutionize communication and efficiency.
 solution: Analytics
 feature-set: Analytics
 feature: Curate and Share
@@ -15,10 +15,10 @@ exl-id: 8df9e88f-e564-4a8e-b624-026c873d3f19
 ---
 # Creating Operational Dashboards within Analysis Workspace
 
-_Explore how operational dashboards in [!DNL Adobe] [!DNL Analytics] Workspace revolutionize communication and efficiency. Discover how to create FAQs, News & Announcements, and Bugs & Features dashboards for streamlined information, improved user experience, and enhanced engagement._
+_Explore how operational dashboards in [!DNL Adobe Analytics] Workspace revolutionize communication and efficiency. Discover how to create FAQs, News & Announcements, and Bugs & Features dashboards for streamlined information, improved user experience, and enhanced engagement._
 
 
-Like a lot of admins, I run an internal info hub (Confluence or similar) for [!DNL Adobe] [!DNL Analytics]. Over time, I got sick of answering the same questions on repeat and needed a smoother way to reach my users without feeling like I was pinging and annoying them all the time. I needed repositories for info that was less static.
+Like a lot of admins, I run an internal info hub (Confluence or similar) for [!DNL Adobe Analytics]. Over time, I got sick of answering the same questions on repeat and needed a smoother way to reach my users without feeling like I was pinging and annoying them all the time. I needed repositories for info that was less static.
 
 I noticed users often ignored my referrals to the Confluence site, with reasons like "My VPN is off," or "I can't read it now," etc. Basically, "I'll read that doc later" means that it will never get read, and the same question will be asked again next week. 
 
@@ -26,7 +26,7 @@ I noticed users often ignored my referrals to the Confluence site, with reasons 
 
 I went ahead and created operational dashboards to share company wide. So far, they have kept users informed, centralized info, and cut down on frustration. This has been an easy, evolving process that boosts efficiency over time.
 
-People have been able to get a lot of good info without me, understand areas of the site, see how cool [!DNL Adobe] [!DNL Analytics] is, and (important for me 😊) ask me fewer questions and take less of my time. 
+People have been able to get a lot of good info without me, understand areas of the site, see how cool [!DNL Adobe Analytics] is, and (important for me 😊) ask me fewer questions and take less of my time. 
 
 **I highly recommend that you create dashboards for all your properties or main areas of your site.** They should give an overview of the property/site/app/flow and have basic information and quick insights. They should be shared with the whole company, allowing all users to get an understanding of the property without any handholding. For me, these dashboards usually answer 80% of the questions I get and save me valuable time.
 
@@ -47,7 +47,7 @@ Just create [text visualizations](https://experienceleague.adobe.com/docs/analyt
 
 Instead of writing long emails or rediscovering old explanations, update your FAQ dashboard. Start now and expand over time. Use hyperlinks to reference other dashboards or related FAQs within reports. Provide complex context when needed by linking from other dashboards to FAQs.
 
-For Gen Digital, our FAQs focus on customized [!DNL Adobe] [!DNL Analytics] use, not basics. Email specific FAQ links by right-clicking, selecting 'get visualization link,' and sharing the vanity URL. This highlights the exact content for users. Use freeform tables for data illustration, adding more explanations with 'edit description.'
+For Gen Digital, our FAQs focus on customized [!DNL Adobe Analytics] use, not basics. Email specific FAQ links by right-clicking, selecting 'get visualization link,' and sharing the vanity URL. This highlights the exact content for users. Use freeform tables for data illustration, adding more explanations with 'edit description.'
 
 Once your FAQs feel comprehensive, share them with the company for collective access and learning. Keep enhancing as needed.
 
@@ -72,7 +72,7 @@ Since these dashboards are seen company-wide, updates rise to the top immediatel
 - Office Hours schedule
 - List of all Overview Dashboards & Cool Reports to Check Out
 
-It covers our new functionalities, tracking, and vital dashboards. Hyperlinks in text reports (or atop other reports via right-click & edit description) let you link to other dashboards in [!DNL Adobe] [!DNL Analytics] or [!DNL Adobe]'s feature release page.
+It covers our new functionalities, tracking, and vital dashboards. Hyperlinks in text reports (or atop other reports via right-click & edit description) let you link to other dashboards in [!DNL Adobe Analytics] or [!DNL Adobe]'s feature release page.
 
 Here is what my News and Announcement dashboard looks like: 
 
@@ -96,7 +96,7 @@ Here is an example of what your log can look like:
 
 ![Screenshot 3](assets/screenshot-3.png)
 
-Creating operational dashboards in [!DNL Adobe] [!DNL Analytics] Workspace has been a game-changer for me. Like many admins, I managed an internal hub and struggled with duplication of answers and effective user communication. The need for dynamic repositories led to the realization that Workspace's versatility could revolutionize engagement. I hope you embrace the power of operational dashboards in [!DNL Adobe] [!DNL Analytics] Workspace. Enhance your users' experience, save time, and enjoy a more organized environment. Your journey begins now, and these dashboards are your keys to efficiency and user-friendliness.
+Creating operational dashboards in [!DNL Adobe Analytics] Workspace has been a game-changer for me. Like many admins, I managed an internal hub and struggled with duplication of answers and effective user communication. The need for dynamic repositories led to the realization that Workspace's versatility could revolutionize engagement. I hope you embrace the power of operational dashboards in [!DNL Adobe Analytics] Workspace. Enhance your users' experience, save time, and enjoy a more organized environment. Your journey begins now, and these dashboards are your keys to efficiency and user-friendliness.
 
 ## Author
 
@@ -106,4 +106,4 @@ This document was written by:
 
 **Christel Guidon**, Digital [!DNL Analytics] Platform Manager at Gen
 
-[!DNL Adobe] [!DNL Analytics] Champion
+[!DNL Adobe Analytics] Champion

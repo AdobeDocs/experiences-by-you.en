@@ -1,6 +1,6 @@
 ---
-title: Comprehensive guide for transitioning to [!DNL Adobe] [!DNL Analytics] from Google [!DNL Analytics]
-description: Learn about the location of equivalent functionality and how to use it efficiently when transitioning from Google [!DNL Analytics] to [!DNL Adobe] [!DNL Analytics]
+title: Comprehensive guide for transitioning to [!DNL Adobe Analytics] from Google [!DNL Analytics]
+description: Learn about the location of equivalent functionality and how to use it efficiently when transitioning from Google [!DNL Analytics] to [!DNL Adobe Analytics]
 solution: Analytics
 feature: Third-party Integration
 role: User
@@ -9,15 +9,15 @@ kt: 9830
 thumbnail: 34749.jpg
 exl-id: b2be6081-a1c0-4435-affb-454ed5a74662
 ---
-# Comprehensive guide for transitioning to [!DNL Adobe] [!DNL Analytics] from Google [!DNL Analytics]{#comprehensive-guide-for-transitioning-to-adobe-analytics}
+# Comprehensive guide for transitioning to [!DNL Adobe Analytics] from Google [!DNL Analytics]{#comprehensive-guide-for-transitioning-to-adobe-analytics}
 
 ## 1. Introduction
 
-One of the biggest challenges in transitioning between any tools is learning where to find equivalent functionality and learning how to use it efficiently. This discussion is part of a larger guide to help users transition to [!DNL Adobe] [!DNL Analytics] (either as a new user, or one coming from Google [!DNL Analytics]) easier. An in-depth comparison to GA; as the most likely comparative tool that most users have familiarity with; is provided to help users correlate existing knowledge to the new toolset. When there is no substitute for practice, this helps get you started and reduce frustrations you may encounter during this time.
+One of the biggest challenges in transitioning between any tools is learning where to find equivalent functionality and learning how to use it efficiently. This discussion is part of a larger guide to help users transition to [!DNL Adobe Analytics] (either as a new user, or one coming from Google [!DNL Analytics]) easier. An in-depth comparison to GA; as the most likely comparative tool that most users have familiarity with; is provided to help users correlate existing knowledge to the new toolset. When there is no substitute for practice, this helps get you started and reduce frustrations you may encounter during this time.
 
 We should have a quick terminology comparison:
 
-| **Description** | **[!DNL Adobe] [!DNL Analytics]** | **Google [!DNL Analytics]** |
+| **Description** | **[!DNL Adobe Analytics]** | **Google [!DNL Analytics]** |
 |--------------------------------------------------------------------------------------------------------------------------------|---------------------|----------------------|
 | An event metric that represents a page (or screen on an app) has been viewed | Page View| Pageview |
 | A metric that represents a group of interactions on your website or app that take place in the same time frame | Visit | Session |
@@ -25,7 +25,7 @@ We should have a quick terminology comparison:
 
 ## 2. The Interfaces
 
-When people compare [!DNL Adobe] [!DNL Analytics] and Google [!DNL Analytics], they comment that [!DNL Adobe]'s interface is daunting at first. This is true, but it's also; believe it or not; a strength, not a weakness. [!DNL Adobe] provides a wide range of tools and flexibilities in your data visualization, allowing you much more freedom to build what you need.
+When people compare [!DNL Adobe Analytics] and Google [!DNL Analytics], they comment that [!DNL Adobe]'s interface is daunting at first. This is true, but it's also; believe it or not; a strength, not a weakness. [!DNL Adobe] provides a wide range of tools and flexibilities in your data visualization, allowing you much more freedom to build what you need.
 
 Let's start by looking at the "in-site" reporting.
 
@@ -33,11 +33,11 @@ Let's start by looking at the "in-site" reporting.
 
 #### 2.1.1. Home Screen
 
-Both [!DNL Adobe] [!DNL Analytics] and Google [!DNL Analytics] provide a way to customize the first view a user sees when they log in.
+Both [!DNL Adobe Analytics] and Google [!DNL Analytics] provide a way to customize the first view a user sees when they log in.
 
-##### 2.1.1.1. Workspace / Custom Set Home Screen ([!DNL Adobe] [!DNL Analytics])
+##### 2.1.1.1. Workspace / Custom Set Home Screen ([!DNL Adobe Analytics])
 
-[!DNL Adobe] [!DNL Analytics] doesn't presume to create a pre-built report for all users to see on login. The default home page takes the user to the Workspace landing screen which shows each user all the workspace reports that they created or were shared with them. Also, each user can set any of these reports as their home screen if they so choose.
+[!DNL Adobe Analytics] doesn't presume to create a pre-built report for all users to see on login. The default home page takes the user to the Workspace landing screen which shows each user all the workspace reports that they created or were shared with them. Also, each user can set any of these reports as their home screen if they so choose.
 
 ![workspace-create-project](assets/ga-to-aa_1.png)
 
@@ -65,15 +65,15 @@ GA4 users have more options to customize and add their own reports to the Home S
 
 ![google-analytics-interfaces](assets/ga-to-aa_2.png)
 
-This is probably the one thing that you miss most in [!DNL Adobe] [!DNL Analytics]. There isn't a home screen pre-built for you. However, you can easily set up a custom Workspace to replicate what you need from the above list and set it as your landing screen. There's more on this topic later (or see Section 2.1.2.1 [!DNL Adobe] Workspace).
+This is probably the one thing that you miss most in [!DNL Adobe Analytics]. There isn't a home screen pre-built for you. However, you can easily set up a custom Workspace to replicate what you need from the above list and set it as your landing screen. There's more on this topic later (or see Section 2.1.2.1 [!DNL Adobe] Workspace).
 
 #### 2.1.2. In-Site Report Builders
 
 In addition to the Simple Reports that the analytics tools provided, each tool also provides more powerful tools with which to build out your own custom reports.
 
-##### 2.1.2.1. [!DNL Adobe] [!DNL Analytics] Workspace
+##### 2.1.2.1. [!DNL Adobe Analytics] Workspace
 
-This is the powerhouse of [!DNL Adobe] [!DNL Analytics], since its introduction in 2017 it has become the go to place for [!DNL Analytics] analysis, and the primary reason why the Reports section is soon-to-be sunset. 
+This is the powerhouse of [!DNL Adobe Analytics], since its introduction in 2017 it has become the go to place for [!DNL Analytics] analysis, and the primary reason why the Reports section is soon-to-be sunset. 
 
 This tool allows you to build out reports with almost complete freedom.
 
@@ -150,9 +150,9 @@ For surface comparisons, it does the job. These are all similar to the [!DNL Ado
 
 Both Google and [!DNL Adobe] have some navigable reports that are per-built tables and basic timeline graphs based around a dimension.
 
-##### 2.1.3.1. [!DNL Adobe] [!DNL Analytics] Reports
+##### 2.1.3.1. [!DNL Adobe Analytics] Reports
 
-[!DNL Adobe] [!DNL Analytics] also has a Reports section, though this is being phased out in favor of Analysis Workspace. In fact, end-of-life has been announced for this interface, since Workspace is a more powerful tool. Most of these tables can be built and modified with more ease. [!DNL Adobe]'s sections are far more broken out, and this can be daunting:
+[!DNL Adobe Analytics] also has a Reports section, though this is being phased out in favor of Analysis Workspace. In fact, end-of-life has been announced for this interface, since Workspace is a more powerful tool. Most of these tables can be built and modified with more ease. [!DNL Adobe]'s sections are far more broken out, and this can be daunting:
 
 ![analytics-site-metrics](assets/ga-to-aa_6.png)
 
@@ -202,19 +202,19 @@ These are good for quick analytical data, but if you really need to dig deep, th
 
 In addition to "In-Site Reporting", most tools offer extended functionality that allows you to take your analysis outside of the tools and build something a little more customized.
 
-#### 2.2.1. [!DNL Adobe] [!DNL Analytics] Report Builder (Microsoft&reg; Excel Extension)
+#### 2.2.1. [!DNL Adobe Analytics] Report Builder (Microsoft&reg; Excel Extension)
 
 Workspace is a great tool, but sometimes you need to get your data into a customized spreadsheet, possibly so that you can stitch together multiple sources of data. This is where Report Builder comes into play.
 
-Report Builder is a plug-in for Microsoft&reg; Excel that allows you to create connections to your [!DNL Adobe] [!DNL Analytics] data to pull in tabular data that you can manipulate within Excel. Generally to use this efficiently you would pull the data into some raw data tabs, then use excel cell references to pull data from these tabs into a single consolidated report, then create graphs and visualizations.
+Report Builder is a plug-in for Microsoft&reg; Excel that allows you to create connections to your [!DNL Adobe Analytics] data to pull in tabular data that you can manipulate within Excel. Generally to use this efficiently you would pull the data into some raw data tabs, then use excel cell references to pull data from these tabs into a single consolidated report, then create graphs and visualizations.
 
 >[!NOTE]
 >
 >Report Builder has a special permission that needs to be applied to your users to access this plugin. This should be granted to users who have learned how to use the tool properly.
 
-#### 2.2.2. [!DNL Adobe] [!DNL Analytics] API Connection
+#### 2.2.2. [!DNL Adobe Analytics] API Connection
 
-If you need [!DNL Adobe] [!DNL Analytics] data to be digested by something other than Excel, and you want the processed data including the bot rule exclusions, use [!DNL Adobe]'s API to pull the data directly. Then, process the data using a script or add it to a database for use with another system.
+If you need [!DNL Adobe Analytics] data to be digested by something other than Excel, and you want the processed data including the bot rule exclusions, use [!DNL Adobe]'s API to pull the data directly. Then, process the data using a script or add it to a database for use with another system.
 
 It should be noted that the API still pulls in correlation data applying the breakdowns and segments as are specified in the pull request. 
 
@@ -239,7 +239,7 @@ When you really need raw data, both [!DNL Adobe] and Google offer the capabiliti
 
 ### 3.1. [!DNL Adobe] Data Feed
 
-In Section 2.2.2, I mentioned that the [!DNL Adobe] [!DNL Analytics] API pulled from "processed data". The Raw Data feed pulls data processed by the "Processing Rules" that have been set up in the admin panel, but this raw data includes all the data that is excluded everywhere else.
+In Section 2.2.2, I mentioned that the [!DNL Adobe Analytics] API pulled from "processed data". The Raw Data feed pulls data processed by the "Processing Rules" that have been set up in the admin panel, but this raw data includes all the data that is excluded everywhere else.
 
 This means that all your Bot exclusions, internal IP filtered data, and other excluded data are in the raw data feeds. There are flags to identify this data, so if you build a data lake, the engineering team can create logic to process this data accordingly.
 
@@ -256,16 +256,16 @@ However, rather than providing a full dump of raw data, it allows your engineers
 
 ## 4. Conclusion
 
-Like any system, practice is needed to get comfortable with the tool. Hopefully, this guide helps you get started or provides tips to improve your use of [!DNL Adobe] [!DNL Analytics]. 
+Like any system, practice is needed to get comfortable with the tool. Hopefully, this guide helps you get started or provides tips to improve your use of [!DNL Adobe Analytics]. 
 
-I will, however, stress that I would recommend using both [!DNL Adobe] [!DNL Analytics] and Google [!DNL Analytics] in your implementation strategy (even if the Google [!DNL Analytics] is only the free version). This allows you to have a backup system to ensure you have data, as no system is infallible.
+I will, however, stress that I would recommend using both [!DNL Adobe Analytics] and Google [!DNL Analytics] in your implementation strategy (even if the Google [!DNL Analytics] is only the free version). This allows you to have a backup system to ensure you have data, as no system is infallible.
 
 There are many resources available to you beyond this guide that can help improve your strategy:
 
 * [[!DNL Adobe] Experience League](https://experienceleague.adobe.com/#home) - Contains tutorials, videos, documentation, and community forums
 * [[!DNL Adobe] User Groups](https://analytics-augs.adobe.com/) - A hub of community-run events to help users connect with each other and improve their implementations.
-* [[!DNL Adobe] [!DNL Analytics] User Groups YouTube Channel](https://www.youtube.com/channel/UCQOHnCs7KZgsuFHVzwboQuA) - Couldn't make an [!DNL Adobe] [!DNL Analytics] user group session? Rewatch previous user group sessions across the globe to learn more about how your peers are using the tool.
-* [Measure Chat Slack channel](https://www.measure.chat/) - Connect with [!DNL Adobe] [!DNL Analytics] users across the world and share industry learnings, ask questions of your peers, and join measurement focused interest groups.
+* [[!DNL Adobe Analytics] User Groups YouTube Channel](https://www.youtube.com/channel/UCQOHnCs7KZgsuFHVzwboQuA) - Couldn't make an [!DNL Adobe Analytics] user group session? Rewatch previous user group sessions across the globe to learn more about how your peers are using the tool.
+* [Measure Chat Slack channel](https://www.measure.chat/) - Connect with [!DNL Adobe Analytics] users across the world and share industry learnings, ask questions of your peers, and join measurement focused interest groups.
 * and more!
 
 ## Author
@@ -276,5 +276,5 @@ This document was written by:
 
 Jennifer Dungan, Optimization Manager [!DNL Analytics] at Torstar
 
-[!DNL Adobe] [!DNL Analytics] Champion
+[!DNL Adobe Analytics] Champion
 

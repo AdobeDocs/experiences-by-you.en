@@ -1,6 +1,6 @@
 ---
 title: Goodbye Excel, hello calculated metrics
-description: Learn the benefits of using calculated metrics in [!DNL Adobe] [!DNL Analytics] and how they can provide you with a continuous, dynamic view of your data in this article.
+description: Learn the benefits of using calculated metrics in [!DNL Adobe Analytics] and how they can provide you with a continuous, dynamic view of your data in this article.
 feature-set: Analytics
 feature: Calculated Metrics
 role: User
@@ -13,13 +13,13 @@ exl-id: b233d6d0-2e89-473e-b700-9977b402af39
 ---
 # Goodbye Excel, hello calculated metrics
 
-Learn the benefits of using calculated metrics in [!DNL Adobe] [!DNL Analytics] and how they can provide you with a continuous, dynamic view of your data in this article.
+Learn the benefits of using calculated metrics in [!DNL Adobe Analytics] and how they can provide you with a continuous, dynamic view of your data in this article.
 
-Hey! Why are you in Excel right now? I mean, I know why. You've got reporting to get to the right people. You're busy entering data from [!DNL Adobe] [!DNL Analytics] and calculating conversion rates, charting them, and preparing to put them all into a PowerPoint that's heading off to decision-makers. I really hope you're at least using Report Builder to do it, but I know that some of you are manually copying and pasting data from a Workspace to Excel.
+Hey! Why are you in Excel right now? I mean, I know why. You've got reporting to get to the right people. You're busy entering data from [!DNL Adobe Analytics] and calculating conversion rates, charting them, and preparing to put them all into a PowerPoint that's heading off to decision-makers. I really hope you're at least using Report Builder to do it, but I know that some of you are manually copying and pasting data from a Workspace to Excel.
  
 Why?
  
-Why go through a manual process every month? Why present a static view once a month instead of a continuous, dynamic view? Why copy that into PowerPoint? Why not create Calculated Metrics in [!DNL Adobe] [!DNL Analytics] directly?
+Why go through a manual process every month? Why present a static view once a month instead of a continuous, dynamic view? Why copy that into PowerPoint? Why not create Calculated Metrics in [!DNL Adobe Analytics] directly?
  
 ## Calculated Metrics are Powerful
  
@@ -27,7 +27,7 @@ Calculated Metrics are powerful, but even the basic mathematical functions are r
  
 1. **Calculated Metrics are Current and Dynamic**
  
-    When you export numbers from [!DNL Adobe] [!DNL Analytics], they're locked in a point in time. You absolutely need to know how your site or app performed the month before, but how do decision makers keep track of how things are going mid-month? If your conversion rate plunges for one day and then reverts to the mean by the end of the month, will you know? That plunge could be valuable data that reveals an important telemetry issue, or even more vital, a change in visitor behavior. With a calculated metric, you can chart this and see it the day it happens, leaving you ready to respond. 
+    When you export numbers from [!DNL Adobe Analytics], they're locked in a point in time. You absolutely need to know how your site or app performed the month before, but how do decision makers keep track of how things are going mid-month? If your conversion rate plunges for one day and then reverts to the mean by the end of the month, will you know? That plunge could be valuable data that reveals an important telemetry issue, or even more vital, a change in visitor behavior. With a calculated metric, you can chart this and see it the day it happens, leaving you ready to respond. 
  
 1. **Calculated Metrics Save You Time**
  
@@ -75,4 +75,4 @@ This document was written by:
 
 **Gitai Ben-Ammi**, Principal Consultant at Concentrix Catalyst
 
-[!DNL Adobe] [!DNL Analytics] Champion
+[!DNL Adobe Analytics] Champion

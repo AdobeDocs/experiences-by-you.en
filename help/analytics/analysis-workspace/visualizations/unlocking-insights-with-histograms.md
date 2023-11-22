@@ -63,7 +63,7 @@ You may ask, how does this differ from just having a calculated metric? Hey, I l
 
     ![Histogram 4](assets/histogram-4.png)
 
-As you can see, histograms not only have their own uses, but they also deepen the insight you gain from an average. They're an out-of-the-box visualization in [!DNL Adobe] [!DNL Analytics] and easy to create. Hopefully, these use cases are helpful to you or spark some inspiration. Happy visualizing!
+As you can see, histograms not only have their own uses, but they also deepen the insight you gain from an average. They're an out-of-the-box visualization in [!DNL Adobe Analytics] and easy to create. Hopefully, these use cases are helpful to you or spark some inspiration. Happy visualizing!
 
 ## Author
 
@@ -73,4 +73,4 @@ This document was written by:
 
 **Gitai Ben-Ammi**, Principal Consultant at Concentrix Catalyst 
 
-[!DNL Adobe] [!DNL Analytics] Champion
+[!DNL Adobe Analytics] Champion

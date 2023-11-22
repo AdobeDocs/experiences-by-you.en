@@ -13,7 +13,7 @@ exl-id: ddcffb53-bcfb-4fc4-858a-ae191285fe66
 ---
 # More than words - Using text visualizations and descriptions in Analysis Workspace
 
-As an [!DNL Adobe] [!DNL Analytics] Analysis Workspace user, it's natural that your focus will often go to your data and data visualizations - anyone can type a summary, right? However, overlooking features in Analysis Workspace like the Text visualization or the visualization descriptions may mean missing a valuable opportunity to combine your insights with valuable text, images, gifs, and links. By giving references and more context to inform your users about what your data means, it can make it more effective and impactful.
+As an [!DNL Adobe Analytics] Analysis Workspace user, it's natural that your focus will often go to your data and data visualizations - anyone can type a summary, right? However, overlooking features in Analysis Workspace like the Text visualization or the visualization descriptions may mean missing a valuable opportunity to combine your insights with valuable text, images, gifs, and links. By giving references and more context to inform your users about what your data means, it can make it more effective and impactful.
 
 First, let's make sure you know where you can find these features:
 
@@ -60,4 +60,4 @@ This document was written by:
 
 **Dan Cummings**, Sr. Product Engineering [!DNL Analytics] Manager at McDonald's Corporation
 
-[!DNL Adobe] [!DNL Analytics] Champion
+[!DNL Adobe Analytics] Champion

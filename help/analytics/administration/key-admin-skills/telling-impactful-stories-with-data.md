@@ -36,7 +36,7 @@ Create simple, easy to read visuals that align with the type of data you’re sh
 
 Communicate the recommended action and what it may take to get there.  Be sure to provide enough details so that stakeholders can make an informed decision, for example, cost implications or required resources needed to make a change. The most effective way to do this is to quantify the possible impact through at least one critical KPI. 
 
-**[!DNL Adobe] Workspace Tip:** Leverage tools such as classifications and/or calculated metrics to quantify (think Net Profit or CLV, for example) the possible impact directly within [!DNL Adobe] [!DNL Analytics] and use summary numbers or changes within [!DNL Adobe] Workspace to end on a high note!
+**[!DNL Adobe] Workspace Tip:** Leverage tools such as classifications and/or calculated metrics to quantify (think Net Profit or CLV, for example) the possible impact directly within [!DNL Adobe Analytics] and use summary numbers or changes within [!DNL Adobe] Workspace to end on a high note!
 
 ## Author
 
@@ -46,4 +46,4 @@ This document was written by:
 
 Amy Ard, Director of [!DNL Analytics] at Levelwing
 
-[!DNL Adobe] [!DNL Analytics] Champion
+[!DNL Adobe Analytics] Champion
