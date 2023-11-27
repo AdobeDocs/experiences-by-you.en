@@ -1,6 +1,6 @@
 ---
 title: Campaign by You
-description: Customer generated content
+description: Campaign by You features user generated content created by everyday users who have attained a level of expertise and influence with their knowledge of Adobe Campaign.
 role: User, Developer, Data Engineer, Architect, Data Architect, Admin, Leader
 level: Beginner
 doc-type: overview

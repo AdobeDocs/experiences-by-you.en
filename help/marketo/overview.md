@@ -1,6 +1,6 @@
 ---
 title: Marketo by You
-description: Customer generated content
+description: Marketo by You features user generated content created by everyday users who have attained a level of expertise and influence with their knowledge of Adobe Marketo.
 role: User, Developer, Data Engineer, Architect, Data Architect, Admin, Leader
 level: Beginner
 doc-type: overview
