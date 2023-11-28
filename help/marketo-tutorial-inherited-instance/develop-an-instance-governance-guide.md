@@ -46,7 +46,7 @@ A governance guide serves as the source of truth of the instance setup and syste
 
 ### Step 2: Identify the elements to be included in your [!DNL [!DNL Marketo Engage]] Documentation & [!DNL Changelogs]
 
-The format varies from a cloud-based platform to a shared document. You can design the format that caters to your organization's needs. [Here's a simple documentation & changelog excel template](/help/marketo-tutorial-inherited-instance/_assets/downloads/[!DNL Adobe]_Marketo_Engage_Inherited_Instance_Documentation-Changlog.xlsx) covering the important elements that you can get started with. These include:  
+The format varies from a cloud-based platform to a shared document. You can design the format that caters to your organization's needs. [Here's a simple documentation & changelog excel template](/help/marketo-tutorial-inherited-instance/_assets/downloads/Adobe_Marketo_Engage_Inherited_Instance_Documentation-Changlog.xlsx) covering the important elements that you can get started with. These include:  
 
 * Documentation
   * Program Template Name 
@@ -88,7 +88,7 @@ Schedule regular reviews of your documentation to ensure it remains accurate and
 
 ## What's Next?
 
-Get Started by downloading this [simple template](/help/marketo-tutorial-inherited-instance/_assets/downloads/[!DNL Adobe]_Marketo_Engage_Inherited_Instance_Documentation-Changlog.xlsx). 
+Get Started by downloading this [simple template](/help/marketo-tutorial-inherited-instance/_assets/downloads/Adobe_Marketo_Engage_Inherited_Instance_Documentation-Changlog.xlsx). 
 
 Follow the steps above to develop your governance guide and documentation. As you work through the process, keep these rules of thumb in mind:  
 
