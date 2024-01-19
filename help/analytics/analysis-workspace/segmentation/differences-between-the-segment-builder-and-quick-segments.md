@@ -54,11 +54,11 @@ Overall, both the quick segments and the segment builder are excellent tools to 
 
 This document was written by:
 
-![Mandy George](assets/mandy-george.jpg)
+![Mandy George](assets/mandy-george-2.png)
 
 **Mandy George**, Digital Analyst III at Best Buy Canada
 
-[!DNL Adobe Analytics] Champion
+Adobe Analytics Champion
 
 ## Download
 
