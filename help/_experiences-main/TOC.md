@@ -69,6 +69,8 @@ breadcrumb-title: Experiences by You
     + [[!DNL Cloud Manager] Onboarding Playbook](/help/experience-manager/cloud-service/expert-resources/aem-champions/onboarding-playbook.md)
     + [[!DNL Cloud Manager] Environment Types](/help/experience-manager/cloud-service/expert-resources/aem-champions/environment-types.md)
     + [[!DNL Cloud Manager] UI](/help/experience-manager/cloud-service/expert-resources/aem-champions/cloud-manager-ui.md)
+    + Best Practices {#cloud-manager-best-practices}
+      + [Using Logs in Cloud Manager](/help/experience-manager/cloud-service/expert-resources/aem-champions/cloud-manager-using-logs.md)
 + [!DNL Marketo Engage] by You {#marketo-engage}
   + [Overview](/help/marketo/overview.md)
   + Fundamentals {#fundamentals}
