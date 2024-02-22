@@ -1,5 +1,5 @@
 ---
-title: #Tags - Your Personal Assistant
+title: Tags - your personal assistant
 description: Discover how #TAGS can streamline your digital analytics, serving as your personal assistant to find what you need efficiently. Jeff Bloomer, Adobe Analytics Champion, shares expert insights on maximizing the tool's potential for your benefit.
 feature: Dimensions, Projects
 role: User
@@ -23,20 +23,20 @@ The best part was when we were the ones who either made it back to base (tag) or
 
 The important part is whether the game was tag or hide and seek, we were playing a fun activity where everyone was found again and again.
 
-When we turn to our daily jobs, searching for things appears to become a lot less adventurous and a lot more tedious; however, it does not have to be if we are willing to put in just a little bit of work on the front end.  A phrase known well known by my family is, "Most pain is self-inflicted," but a more famous phrase, though it may seem a little old-fashioned these days, that is also highly relevant here is, "A stitch in time saves nine." - Benjamin Franklin
+When we turn to our daily jobs, searching for things appears to become a lot less adventurous and a lot more tedious. However, it does not have to be if we are willing to put in just a little bit of work on the front end.  A phrase known well known by my family is, "Most pain is self-inflicted," but a more famous phrase, though it may seem a little old-fashioned these days, that is also highly relevant here is, "A stitch in time saves nine." - Benjamin Franklin
 
 Now that I have your attention, let me begin by a question:
 
 
 ![Hand Outline](assets/hand-outline.png) ![How Many of you](assets/how-many-of-you.png)
 
-How many of you have done this?  You've started to search for a **dimension**, **date range**, **segment**, or **calculated metric**, and you get flooded with this giant list (see **Figure 1**) of everything you do NOT want.  ***Analysis** **Workspace*** thinks it is trying to be helpful, but in all actuality, it has only succeeded in not being very helpful at all.  Pretty janky, am I right?
+How many of you have done this?  You've started to search for a **dimension**, **date range**, **segment**, or **calculated metric**, and you get flooded with this giant list (see **Figure 1**) of everything you do NOT want.  ***Analysis** **Workspace*** thinks it is trying to be helpful, but in all actuality, it has only succeeded in not being helpful at all.  Pretty janky, am I right?
 
 ![figure 1 search for year](assets/figure-1-search-for-year.png)
 
 *Figure 1 - Search for "year"*
 
-Better yet, you've gone and created some *new* **date ranges** and **segments**, and because they are "so new," you would think at least these items should be quick and easy to find the next time you came into ***Adobe Workspace***, am I right?
+Better yet, you've gone and created some *new* **date ranges** and **segments**, and because they are "so new," you would think at least these items should be quick and easy to find the next time you came into ***Adobe Workspace***. Am I right?
 
 I hate to burst your bubble, but just try leaving ***Adobe Analytics*** after you have just created all of your newest "little friends," and when you return, the majority of them have simply run away.  If you are lucky, *maybe* one of them stayed behind to wait for you, but the rest are already long gone and playing hide and seek.
 
