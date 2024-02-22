@@ -32,6 +32,7 @@ breadcrumb-title: Experiences by You
       + [Unlocking the Power of View-Only Sharing](/help/analytics/analysis-workspace/curate-and-share-projects/unlocking-the-power-of-view-only-sharing.md)
     + Tips and Tricks {#tips-and-tricks}
       + [Right-click tips & tricks for more efficient workflows](/help/analytics/analysis-workspace/tips-and-tricks/right-click-tips-and-tricks-for-more-efficient-workflows.md)
+      + [#Tags - your personal assistant](/help/analytics/analysis-workspace/tips-and-tricks/tags-your-personal-assistant.md)
   + Administration {#administration} 
     + Key Admin Skills {#key-admin-skills}
       + [Creating an empowered community](/help/analytics/administration/key-admin-skills/empowered-community.md)
