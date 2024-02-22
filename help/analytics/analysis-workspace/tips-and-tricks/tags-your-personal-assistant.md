@@ -23,7 +23,7 @@ The best part was when we were the ones who either made it back to base (tag) or
 
 The important part is whether the game was tag or hide and seek, we were playing a fun activity where everyone was found again and again.
 
-When we turn to our daily jobs, searching for things appears to become a lot less adventurous and a lot more tedious. However, it does not have to be if we are willing to put in just a little bit of work on the front end.  A phrase known well known by my family is, "Most pain is self-inflicted," but a more famous phrase, though it may seem a little old-fashioned these days, that is also highly relevant here is, "A stitch in time saves nine." - Benjamin Franklin
+When we turn to our daily jobs, searching for things appears to become a lot less adventurous and a lot more tedious. However, it does not have to be if we are willing to put in just a little bit of work on the front end.  A phrase well known by my family is, "Most pain is self-inflicted," but a more famous phrase, though it may seem a little old-fashioned these days that is also highly relevant here is, "A stitch in time saves nine." - Benjamin Franklin
 
 Now that I have your attention, let me begin by a question:
 
