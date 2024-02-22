@@ -101,18 +101,18 @@ Want some more real-world examples? Consider these:
 
 1. For instance, how about an easy way to find your **segments** and your **date ranges** for **all quarters** in **2023**?
 
-![Real world 1](assets/real-world-1.png)
+    ![Real world 1](assets/real-world-1.png)
 
    *An extra tip*: That little square off to the right will even let you change your sorted order to *alphabetical*!
 
 
-2. Of course, everyone uses **campaign tracking codes** to some extent.  If you would like to keep a clear view of just *your* toys, consider adding **#tag**s to just the core items you really need to see and filter out all the other noise:
+1. Of course, everyone uses **campaign tracking codes** to some extent.  If you would like to keep a clear view of just *your* toys, consider adding **#tag**s to just the core items you really need to see and filter out all the other noise:
 
 ![Real world 2](assets/real-world-2.png)
 
 Sure, hide and seek was fun as a kid, but now we're adults.  We don't have time to be constantly searching for the important things, so make sure to do yourself a favor and don't waste any more time fighting the tool.  Rewrite the rules and make the tool work for you.
 
-##Tag, you're it!
+## Tag, you're it!
 
 
 ## Author
