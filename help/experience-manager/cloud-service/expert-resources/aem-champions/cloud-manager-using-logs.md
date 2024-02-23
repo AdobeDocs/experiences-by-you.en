@@ -19,4 +19,4 @@ thumbnail: 3427314.jpeg
 
 Check out these tips from your fellow AEM champion, Rami EL Gamal. In this video, Rami will walk you through how to download logs in Cloud Manager, while sharing best practice tips along the way.
 
->[!VIDEO](https://video.tv.adobe.com/v/3427314/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3427492/?learn=on)
