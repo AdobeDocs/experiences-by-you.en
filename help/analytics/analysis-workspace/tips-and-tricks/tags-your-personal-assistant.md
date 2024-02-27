@@ -44,7 +44,7 @@ Well, I hate to burst your bubble, but just try leaving ***Adobe Analytics*** af
 
 So, that's been the game since day one, but what if we could change the rules?
 
-In fact, what if we could create our own personal assistant to switch those roles for good?  
+In fact, what if we could create our own personal assistant to switch those rules for good?  
 
 Seriously, what we are talking about here, is TAGS!  That's right!!  It's our friend the hashtag, formerly known as the "number" and "pound sign," just as we have seen it on our telephones.  Those of us musicians out there even call it a "sharp."
 
