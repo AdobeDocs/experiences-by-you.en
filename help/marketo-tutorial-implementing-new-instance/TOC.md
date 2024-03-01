@@ -11,5 +11,5 @@ auto-video-transcripts: true
 
 # Tutorial - Implementing a new [!DNL Marketo Engage] instance {#implenting-new-instance}
 
-+ [Tutorial - Overview](../marketo-tutorial-implementing-new-instance/overview.md)
++ [Tutorial - Overview](/help/marketo-tutorial-implementing-new-instance/overview.md)
 + [Developing internal onboarding and training roadshow](../marketo-tutorial-implementing-new-instance/internal-training-roadshow.md)
