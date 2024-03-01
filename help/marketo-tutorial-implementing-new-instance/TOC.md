@@ -9,7 +9,7 @@ level: Beginner
 auto-video-transcripts: true
 ---
 
-# Tutorial - Implementing a new [!DNL Marketo Engage] instance {#auditing-an-inherited-instance}
+# Tutorial - Implementing a new [!DNL Marketo Engage] instance {#implenting-new-instance}
 
 + [Tutorial - Overview](/help/marketo-tutorial-inherited-instance/overview.md)
 + [Creating a successful implementation plan with Admin Implementation Checklists](../marketo/overview.md)
