@@ -58,18 +58,18 @@ Here's a sample of training curriculum suggested by Naomi Liu for you to customi
  
 ## What's Next? 
 
-* Download the ![sample training curriculum](_assets/adobe-marketo-engage-internal-training-roadshows.xlsx){_target="blank"} spreadsheet to develop your internal training modules.
+* Download the [sample training curriculum](assets/adobe-marketo-engage-internal-training-roadshows.xlsx){_target="blank"} spreadsheet to develop your internal training modules.
 * Fill in the teams that are right for the session topic.  
 * Select the method(s) that you'd like to use to create training materials.
 
 ### Authors
 
-![Naomi Liu](_assets/naomi-liu.png)
+![Naomi Liu](assets/naomi-liu.png){width=150px}
 *Naomi Liu* 
 
 Director, Global Marketing Operations, Electronics for Imaging (EFI)
 
-![Amy Chiu](_assets/amy-chiu.png)
+![Amy Chiu](assets/amy-chiu.png){width=150px}
 *Amy Chiu* 
 
 Adoption & Retention Marketing Manager, Adobe
