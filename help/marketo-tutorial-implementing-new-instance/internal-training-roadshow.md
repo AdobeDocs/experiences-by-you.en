@@ -53,7 +53,7 @@ Here's a sample of training curriculum suggested by Naomi Liu for you to customi
 |Conversation automation + Chatbot Solution Integration | <ul><li>Activating Chat as a new marketing channel</li><li>Dynamic Chat – installing chatbot snippet, creating and publishing automated Dialogues</li></ul>|Recorded video of creating Dialogues and developing audience criteria, review of stream designer |1h|
 |Marketo Sales Insight|<ul><li>Sending and tracking emails from Marketo Sales Insight</li><li>MSI Outlook Plugin</li></ul>|Recorded video of end-to-end process for easy distribution to new employees  |1h  |
 |Reporting and Analytics  |<ul><li>Reporting walkthrough</li><li>Email, landing page and program performance</li><li>Building your own reports</li><li>Email and performance Insights</li></ul>  |Ongoing training, recorded videos for important sessions, regular reviews  |2h  |
-|Content AI  |<ul><li>Review Content AI functionality</li><li>Review assets eligible for Content AI</li><li>Map out process (when/where) to use</li></ul> |Live session, walkthrough to review and how it works  |1h  |
+|Content AI  |<ul><li>Review Content AI functionality</li><li>Review assets eligible for Content AI (i.e., landing page, email, and dialogue)</li><li>Map out process (when/where) to use</li></ul> |Live session, walkthrough to review and how it works  |1h  |
 
  
 ## What's Next? 
@@ -65,11 +65,9 @@ Here's a sample of training curriculum suggested by Naomi Liu for you to customi
 ### Authors
 
 ![Naomi Liu](assets/naomi-liu.png){width=150px}
-*Naomi Liu* 
 
-Director, Global Marketing Operations, Electronics for Imaging (EFI)
+**Naomi Liu**, Director, Global Marketing Operations, Electronics for Imaging (EFI)
 
 ![Amy Chiu](assets/amy-chiu.png){width=150px}
-*Amy Chiu* 
 
-Adoption & Retention Marketing Manager, Adobe
+**Amy Chiu**, Adoption & Retention Marketing Manager, Adobe
