@@ -10,6 +10,7 @@ doc-type: Article
 last-substantial-update: 2023-05-18
 jira: KT-13256
 thumbnail: KT-13256.jpeg
+exl-id: 1f27e284-73e3-4f28-988e-51163775eec8
 ---
 # Troubleshooting for Marketers: 5 Common Workflow and Delivery Errors 
 

@@ -7,6 +7,7 @@ role: User
 level: Beginner
 kt: 9830
 thumbnail: 34749.jpg
+exl-id: 646bdc8f-c95e-40be-b2f7-8e4ba5653d91
 ---
 # Comprehensive guide for transitioning to [!DNL Adobe Analytics] from Google [!DNL Analytics]{#comprehensive-guide-for-transitioning-to-adobe-analytics}
 
@@ -276,4 +277,3 @@ This document was written by:
 Jennifer Dungan, Optimization Manager [!DNL Analytics] at Torstar
 
 [!DNL Adobe Analytics] Champion
-

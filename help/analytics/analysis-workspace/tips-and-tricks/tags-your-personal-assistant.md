@@ -1,6 +1,6 @@
 ---
 title: Tags - your personal assistant
-description: Discover how #TAGS can streamline your digital analytics, serving as your personal assistant to find what you need efficiently. Jeff Bloomer, Adobe Analytics Champion, shares expert insights on maximizing the tool's potential for your benefit.
+description: Discover how
 feature: Dimensions, Projects
 role: User
 level: Beginner, Intermediate, Experienced
@@ -9,8 +9,8 @@ duration: 36000
 last-substantial-update: 2024-02-22
 jira: KT-14963
 thumbnail: KT-14963.jpeg
+exl-id: 563941cc-30a2-45d2-8634-0bde3b539ffd
 ---
-
 # Tags - your personal assistant
 
 _Discover how #TAGS can streamline your digital analytics, serving as your personal assistant to find what you need efficiently. Jeff Bloomer, Adobe Analytics Champion, shares expert insights on maximizing the tool's potential for your benefit._
@@ -131,10 +131,3 @@ This document was written by:
 **Jeff Bloomer**, Manager, Digital Analytics at Kroger Personal Finance
 
 Adobe Analytics Champion
-
-
-
-
-
-
-
