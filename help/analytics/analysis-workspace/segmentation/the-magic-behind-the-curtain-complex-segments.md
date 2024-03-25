@@ -9,8 +9,8 @@ duration: 36000
 last-substantial-update: 2024-03-25
 jira: KT-15200
 thumbnail: KT-15200.jpeg
+exl-id: 1da85e88-64b3-49e5-9bf6-76126ac9f6ad
 ---
-
 # The magic behind the curtain: Complex segments: excludes, containers, and attribution
 
 _Uncover the intricacies of complex data segmentation, exploring excludes, containers, and attribution models. Like a magician's sleight of hand, mastering these techniques empowers analysts to perform data magic, transforming insights with precision and finesse._
