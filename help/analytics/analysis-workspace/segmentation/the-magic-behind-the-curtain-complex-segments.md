@@ -344,6 +344,7 @@ There are so many ways to combine the logic to get into very detailed scenarios,
 Like any great magician, the true power is in inspiring the up-and-coming generation to build on the basics, to re-imagine the learnings into something new and wonderful! I look forward to seeing what you all come up with!
 
 ## Author
+
 This document was written by:
 
 ![Jen Headshot](assets/jen-headshot.png)
