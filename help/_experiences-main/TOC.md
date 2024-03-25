@@ -25,6 +25,7 @@ breadcrumb-title: Experiences by You
       + [Building customer journey segments - part 2](/help/analytics/analysis-workspace/segmentation/building-customer-journey-segments-part-two.md)
       + [Differences between the segment builder and quick segments](/help/analytics/analysis-workspace/segmentation/differences-between-the-segment-builder-and-quick-segments.md)
       + [Now just wait a segment… Using segmentation to discover new insights](/help/analytics/analysis-workspace/segmentation/segmentation-to-discover-new-insights.md)
+      + [The magic behind the curtain - Complex segments](/help/analytics/analysis-workspace/segmentation/the-magic-behind-the-curtain-complex-segments.md)
     + Metrics {#metrics}
       + [Goodbye Excel, hello calculated metrics](/help/analytics/analysis-workspace/metrics/goodbye-excel-hello-calculated-metrics.md)
       + [Take your data analysis to the next level with calculated metrics](../analytics/analysis-workspace/metrics/take-your-data-analysis-to-the-next-level-with-calculated-metrics.md)
