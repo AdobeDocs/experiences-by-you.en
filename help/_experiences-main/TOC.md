@@ -74,6 +74,7 @@ breadcrumb-title: Experiences by You
     + Best Practices {#cloud-manager-best-practices}
       + [Using Logs in Cloud Manager](/help/experience-manager/cloud-service/expert-resources/aem-champions/cloud-manager-using-logs.md)
       + [Planning a migration to AEM as a Cloud Service](/help/experience-manager/cloud-service/expert-resources/aem-champions/migration.md)
+      + [Post migration strategies and tips](/help/experience-manager/cloud-service/expert-resources/aem-champions/post-migration.md)
       + [Using the Best Practice Analyzer](/help/experience-manager/cloud-service/expert-resources/aem-champions/best-practice-analyzer.md)
       + [Addressing challenges when migrating to AEM as a Cloud Service](/help/experience-manager/cloud-service/expert-resources/aem-champions/migration-challenges.md)
 + [!DNL Marketo Engage] by You {#marketo-engage}
