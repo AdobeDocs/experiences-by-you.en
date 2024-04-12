@@ -391,3 +391,4 @@ This document was written by:
 Jennifer Dungan, Optimization Manager Analytics at Torstar
 
 Adobe Analytics Champion
+ 
