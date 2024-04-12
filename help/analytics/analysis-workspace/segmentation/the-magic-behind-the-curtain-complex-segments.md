@@ -196,7 +196,7 @@ Let's spend a little time to unpack this, as there's a lot going on.
 
 First, instead of showing a daily breakdown, I am showing a page breakdown, as I think this will help illustrate the two segments better.
 
-<table border="0">
+<table style="border: 0;">
     <tr>
         <td width="352" style="border: 0;">The first three columns (Page views, visits and unique visitors) are unsegmented, and thus show all pages within the site. Note that I did not include orders here, since orders is tracked on an action, and therefore not part of the scope of the page dimension.</td>
         <td style="border: 0;"><img src="assets/segment-example-3/segment3c-comparison-table-detail1.png" width="352"
@@ -204,7 +204,7 @@ First, instead of showing a daily breakdown, I am showing a page breakdown, as I
     </tr>
 </table>
 
-<table border="0">
+<table style="border: 0;">
     <tr>
         <td width="352" style="border: 0;">Next, I am showing the result of the simple segment, looking only at <strong>hits</strong> on the two specified pages. You will notice that the other pages in the breakdown all result in 0, as expected.</td>
         <td style="border: 0;"><img src="assets/segment-example-3/segment3c-comparison-table-detail2.png" width="352"
@@ -212,7 +212,7 @@ First, instead of showing a daily breakdown, I am showing a page breakdown, as I
     </tr>
 </table>
 
-<table border="0">
+<table style="border: 0;">
     <tr>
         <td width="352" style="border: 0;">Now, here is a little bonus tip, before I show the result of the advanced segment, I used another simple segment of "Orders Exists" (at a HIT level scope), and I paired it with unique visitors. This will return me the total UVs that made orders in my report period, as well as the UVs that hit each of those pages... this will help to illustrate the next set of columns better.</td>
         <td style="border: 0;"><img src="assets/segment-example-3/segment3c-comparison-table-detail3.png" width="352"
@@ -220,7 +220,7 @@ First, instead of showing a daily breakdown, I am showing a page breakdown, as I
     </tr>
 </table>
 
-<table>
+<table style="border: 0;">
     <tr>
         <td width="352" style="border: 0;">The final set of columns are stacked with my complex segment. The overall UVs with orders matches the simple "Orders Exists" segment at each page, but you will notice that the total is significantly different; since this set of data explicitly restricts the data set only to visitors that made orders AND hit the pages, I am explicitly interested in.</td> <td style="border: 0;"><img src="assets/segment-example-3/segment3c-comparison-table-detail4.png" width="352">
         </td>
@@ -327,14 +327,14 @@ Let's change things up and start by looking at the comparisons, then we'll dig i
 
 ![Segment5A-TableComparison](assets/segment-example-5/segment5a-table-comparison.png)
 
-<table>
+<table style="border: 0;">
     <tr>
         <td width="352" style="border: 0;">The first 4 columns are unsegmented and should be easy to understand. Note that *"Entries"* is basically a calculated value based on where visitors start the session. I've added it here to show that this doesn't return the information we are looking for, as users may enter the site through multiple marketing channels (through looking at social media, doing searches, clicking on marketing emails, etc. all within the same visit / session).</td> <td style="border: 0;"><img src="assets/segment-example-5/segment5a-table-comparison-detail1.png" width="352">
         </td>
     </tr>
 </table>
 
-<table>
+<table style="border: 0;">
     <tr>
         <td width="352" style="border: 0;">The next set of columns uses a "Standard Hit Segment", basically looking at hits where the marketing channel is "paid search". However, this will return ALL hits based on the Marketing Channel attribution, it won't isolate the actual "Paid Search" click-throughs. Therefore, this won't return the data we need.</td> <td style="border: 0;"><img src="assets/segment-example-5/segment5a-table-comparison-detail2.png" width="352">
         </td>
@@ -344,7 +344,7 @@ Let's change things up and start by looking at the comparisons, then we'll dig i
 
 ![Segment5A-PaidSearchHit](assets/segment-example-5/segment5a-paid-search-hit.png)
 
-<table>
+<table style="border: 0;">
     <tr>
         <td width="352" style="border: 0;">Now, the next two sets of data look identical, and in fact, these will return the same data in two different ways. But now I am specifically looking the <i>instances</i> where the marketing channel was <strong>set</strong> to "Paid Search".</td> <td style="border: 0;"><img src="assets/segment-example-5/segment5a-table-comparison-detail3.png" width="352">
         </td>
