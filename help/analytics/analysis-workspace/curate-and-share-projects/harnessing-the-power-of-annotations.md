@@ -9,8 +9,8 @@ duration: 72000
 last-substantial-update: 2024-04-17
 jira: KT-15331
 thumbnail: KT-15331.jpeg
+exl-id: a7e06ac7-cc06-47e5-a4d7-834a5a7f8351
 ---
-
 # Unlocking analytical insight; harnessing the power of annotations
 
 The Annotations data component is one of the simplest, yet in the long-term, one of the most time-saving functionalities offered in Adobe Analysis Workspace. Unlike any other functionality within Workspace, it serves as a narrative historical memory for you and your fellow Workspace users. 
