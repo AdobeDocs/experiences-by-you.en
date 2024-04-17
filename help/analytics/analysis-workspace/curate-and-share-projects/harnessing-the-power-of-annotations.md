@@ -78,4 +78,3 @@ This document was written by:
 ![thomas-headshot](assets/thomas-headshot.png)
 
 Thomas Edward Buckley, Manager Data Warehouse & Business Intelligence at Miles & More (Lufthansa Group)
-
