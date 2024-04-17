@@ -19,7 +19,7 @@ The Annotations data component is one of the simplest, yet in the long-term, one
 
 Simply put, Annotations are short description texts that can be added to date trended data within Adobe Workspace. Annotations offers context to everyone who uses Analysis Workspace in understanding your company's data history, helps more quickly analyze performance and gives all your reports a highly customized feel.
 
-**Use Cases**
+## Use Cases
 
 There are multiple situations where Annotations are particularly handy:
 
@@ -31,7 +31,7 @@ There are multiple situations where Annotations are particularly handy:
 
 - **Gaps & Errors** - you should be using the Alerts feature to warn you of potential data collection issues, but even the most seasoned team unfortunately experiences some form of data collection errors or temporary gaps from time to time. Annotations is a great way to minimize the impact by letting users know that data is missing or incomplete.
 
-**How-to**
+## How-to
 
 Creating and editing Annotations is intuitive and almost self-explanatory. Either right-click on a data point within a date trended visualization or freeform table and choose "Annotate selection" to create an annotation or use the main navigation to "Components > Annotations" to create and edit annotations.
 
@@ -40,7 +40,7 @@ Creating and editing Annotations is intuitive and almost self-explanatory. Eithe
 
 For all the details of how Annotations work, be sure to see the [video tutorial on Experience League](https://experienceleague.adobe.com/en/docs/analytics-learn/tutorials/analysis-workspace/navigating-workspace-projects/annotations-in-analysis-workspace).
 
-**Tips & Tricks to Get You Started**
+## Tips & Tricks to Get You Started
 
 Finally, here are some useful tips to get you started using annotations right away.  Using these suggestions will help make your annotations effective, clear and informative for all users.
 
@@ -72,6 +72,7 @@ Finally, here are some useful tips to get you started using annotations right aw
 For detailed documentation, please visit [Annotations overview](https://experienceleague.adobe.com/en/docs/analytics/analyze/analysis-workspace/components/annotations/overview) and surrounding articles.
 
 ## Author
+
 This document was written by:
 
 ![thomas-headshot](assets/thomas-headshot.png)
