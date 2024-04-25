@@ -74,7 +74,7 @@ executives on how to use the dashboard, they can make informed decisions and ask
 
 This document was written by:
 
-![Gitai Ben-Ammi](assets/gitai-ben-ammi.png)
+![Gitai Ben-Ammi](assets/gitai-headshot-150.jpg)
 
 **Gitai Ben-Ammi**, Principal Consultant at Concentrix Catalyst
 
