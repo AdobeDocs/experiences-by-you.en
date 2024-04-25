@@ -8,7 +8,8 @@ level: Experienced
 doc-type: Article
 duration: 72000
 last-substantial-update: 2024-04-25
-jira: KT-15338thumbnail: KT-15338.jpeg
+jira: KT-15338
+thumbnail: KT-15338.jpeg
 ---
 
 # Building data culture and a better solution design reference
