@@ -10,8 +10,8 @@ duration: 72000
 last-substantial-update: 2024-04-25
 jira: KT-15338
 thumbnail: KT-15338.jpeg
+exl-id: 99fcf68f-5698-4270-9055-ab224e6323a1
 ---
-
 # Building data culture and a better solution design reference
 
 **Revolutionize your data strategy and empower your team to create a solid solution design reference (SDR) document. Eliminate measurement gaps and foster a collaborative data culture through step-by-step methodologies.**
@@ -106,4 +106,3 @@ This document was written by:
 Gitai Ben-Ammi, Business Architecture Associate Manager at Accenture
 
 Adobe Analytics Champion
-
