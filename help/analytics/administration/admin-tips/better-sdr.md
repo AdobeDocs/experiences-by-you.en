@@ -16,7 +16,7 @@ thumbnail: KT-15338.jpeg
 
 **Revolutionize your data strategy and empower your team to create a solid solution design reference (SDR) document. Eliminate measurement gaps and foster a collaborative data culture through step-by-step methodologies.**
 
-It's finally time. You put together a solid Solution Design Reference (SDR). This is the guide you use to implement your metrics and dimensions, what they're called, when they fire, and your devs loved it. You went through the entire process of deployment, writing acceptance criteria, going through your sprints, QAing the entire thing, and it's done! It was a lot of work, and now it's done. Your instance of Adobe Analytics should be getting marketing and product jumping up and down as they dig into the data, get new revelations about your customers, and find all the areas of success and, well, areas of less success. But you're not hearing the accolades you were expecting. 
+It's finally time. You put together a solid Solution Design Reference (SDR). This is the guide that you use to implement your metrics and dimensions, what they're called, when they fire, and your devs loved it. You went through the entire process of deployment, writing acceptance criteria, going through your sprints, QAing the entire thing, and it's done! It was a lot of work, and now it's done. Your instance of Adobe Analytics should be getting marketing and product jumping up and down as they dig into the data, get new revelations about your customers, and find all the areas of success and, well, areas of less success. But you're not hearing the accolades that you were expecting. 
 
 From one camp, you hear complaints.
 
@@ -24,7 +24,7 @@ From one camp, you hear complaints.
 
 "Why isn't there a metric for this?"
 
-"I need way more detail about this! A metric alone isn't enough. There are at least three different dimensions I need to understand performance. Why didn't you put them in?"
+"I need way more detail about this! A metric alone isn't enough. There are at least three different dimensions that I need in order to understand performance. Why didn't you put them in?"
 
 But it's the other camp that's an even bigger cause of concern. From them, you don't hear anything at all. But much worse, you see charts that were very clearly taken from your old analytics solution, you know, the one that's no longer being maintained, and every day is falling further into a swamp of decrepitude and dirty data. A sense of dread fills you as you think about the decisions that might be made with that mess.
 
