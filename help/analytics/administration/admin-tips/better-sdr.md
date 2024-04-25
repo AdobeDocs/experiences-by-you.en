@@ -107,4 +107,3 @@ Gitai Ben-Ammi, Business Architecture Associate Manager at Accenture
 
 Adobe Analytics Champion
 
-
