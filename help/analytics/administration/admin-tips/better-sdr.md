@@ -101,7 +101,7 @@ This isn't the quickest way of getting an SDR together. It's a lot of work and r
 
 This document was written by: 
 
-![gitai-headshot](assets/gitai-headshot.png)
+![gitai-headshot](assets/gitai-headshot-150.jpg)
 
 Gitai Ben-Ammi, Business Architecture Associate Manager at Accenture
 
