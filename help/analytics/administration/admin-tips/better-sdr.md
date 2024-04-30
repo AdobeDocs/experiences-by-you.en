@@ -55,7 +55,7 @@ I'll start by letting you off the hook a little bit. There's *always* going to b
 ***The Preview Dashboards***
 
 1. Using the Funnel Map as a guide, create mockup dashboards.
-1. There should be an overall view, such as an Executive Summary Dashboard, and dashboards for each of the funnels.
+1. There should be an overall view, such as an [Executive Summary Dashboard](driving-success-with-executive-summary-dashboards.md), and dashboards for each of the funnels.
 1. There will also be some more specific to your site or app, such as product performance or content performance.
 1. Distribute these to the relevant stakeholders and get feedback on the design.
 1. Make any updates requested and if new metrics or dimensions are needed, add them to your SDR.
