@@ -55,7 +55,6 @@ Here's a sample of training curriculum suggested by Naomi Liu for you to customi
 |Reporting and Analytics  |<ul><li>Reporting walkthrough</li><li>Email, landing page and program performance</li><li>Building your own reports</li><li>Email and performance Insights</li></ul>  |Ongoing training, recorded videos for important sessions, regular reviews  |2h  |
 |Content AI  |<ul><li>Review Content AI functionality</li><li>Review assets eligible for Content AI (i.e., landing page, email, and dialogue)</li><li>Map out process (when/where) to use</li></ul> |Live session, walkthrough to review and how it works  |1h  |
 
- 
 ## What's Next? 
 
 * Download the [sample training curriculum](assets/adobe-marketo-engage-internal-training-roadshows.xlsx){_target="blank"} spreadsheet to develop your internal training modules.
@@ -64,10 +63,6 @@ Here's a sample of training curriculum suggested by Naomi Liu for you to customi
 
 ### Authors
 
-![Naomi Liu](assets/naomi-liu.png){width=150px}
+{{naomi-liu}}
 
-**Naomi Liu**, Director, Global Marketing Operations, Electronics for Imaging (EFI)
-
-![Amy Chiu](assets/amy-chiu.png){width=150px}
-
-**Amy Chiu**, Adoption & Retention Marketing Manager, Adobe
+{{amy-chiu}}
