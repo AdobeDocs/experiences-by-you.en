@@ -228,8 +228,8 @@ With these in mind, we will apply these tips to the following assets and create 
 
 ## What’s Next?
 
-- Download the Worksheet: [Marketo Engage Organization and Naming Conventions](experienceleague.adobe.com) **LINK TO DOWNLOADABLE FILE** to support the creation of the folder structure and naming conventions.
-- Once you determine the necessary components in your standard naming convention, consider building formulas into a Google Sheet or Microsoft Excel. For future use, simply input your values in the spreadsheet to generate your Program names.
+* Download the Worksheet: [Marketo Engage Organization and Naming Conventions](experienceleague.adobe.com) **LINK TO DOWNLOADABLE FILE** to support the creation of the folder structure and naming conventions.
+* Once you determine the necessary components in your standard naming convention, consider building formulas into a Google Sheet or Microsoft Excel. For future use, simply input your values in the spreadsheet to generate your Program names.
 
 ### Authors
 
