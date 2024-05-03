@@ -29,10 +29,10 @@ The first step to organizing your instance is to [set-up a folder structure](htt
 
 Here are some quick tips when structuring the folders in tree:
 
-- Maintain a flat folder structure for discoverability.
-- Structure your folders to reflect your organization’s team structure (e.g. Region or Team) or initiatives (e.g. Newsletters).
-- Include time-based labels to enable searchability and signal appropriate timing for archiving (e.g. 2024).
-  - Administrators are recommended to archive folders at least once a year. Using an annual folder name, you can easily deactivate live Smart Campaigns and archive the entire folder at the end of the year.
+* Maintain a flat folder structure for discoverability.
+* Structure your folders to reflect your organization’s team structure (e.g. Region or Team) or initiatives (e.g. Newsletters).
+* Include time-based labels to enable searchability and signal appropriate timing for archiving (e.g. 2024).
+  * Administrators are recommended to archive folders at least once a year. Using an annual folder name, you can easily deactivate live Smart Campaigns and archive the entire folder at the end of the year.
 
 Below are folder examples of putting these tips into practice.
 
@@ -132,10 +132,10 @@ Now, let’s apply the folder structure at the program level. As a best practice
 
 Once you have the folder structure in Tree, you will want to name the programs and assets consistently. This is when standardizing naming conventions would be helpful to scale up the naming process internally. Here are a few components that you can use to establish naming convention to ensure searchability:
 
-- Program Type Abbreviation - Email, Content, Nurture, Webinar, etc.
-- Category - Type of Program - Standalone Email, Newsletter, etc.
-- Dates - Program launch date
-- Short Description - Brief description about the Program
+* Program Type Abbreviation - Email, Content, Nurture, Webinar, etc.
+* Category - Type of Program - Standalone Email, Newsletter, etc.
+* Dates - Program launch date
+* Short Description - Brief description about the Program
 
 Now, let’s put the values into the formula and generate the program names for various program types.
 
@@ -166,10 +166,10 @@ Now, let’s put the values into the formula and generate the program names for 
 
 Going one level down to naming assets, it’s best that you do not repeat the Program name and use short and generic identifiers for future cloning use. Here are a few quick tips for you to keep in mind:
 
-- Number the assets based on their sequence in the program process.
-- Use “-” (hyphen) to separate the naming components instead of “.”(dot) or “\_”(underscore).
-  - Why? Marketo Engage uses a dot to separate the Program Name from the Campaign Name. Using "\_" will prevent you from seeing it when the asset is hyperlinked.
-- Use standard acronyms in the asset names to shorten the reference and still allow easy recognition.
+* Number the assets based on their sequence in the program process.
+* Use “-” (hyphen) to separate the naming components instead of “.”(dot) or “\_”(underscore).
+* Why? Marketo Engage uses a dot to separate the Program Name from the Campaign Name. Using "\_" will prevent you rom seeing it when the asset is hyperlinked.
+* Use standard acronyms in the asset names to shorten the reference and still allow easy recognition.
 
 With these in mind, we will apply these tips to the following assets and create formulas to generate names:
 
