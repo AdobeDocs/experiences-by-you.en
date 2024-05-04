@@ -119,12 +119,12 @@ Example 3a – Signals in global and local markets:
 
 **Step 2**: Define your scoring matrix for local markets:
 
-- Set up a different matrix for demographic and behavior elements.
-- Determine the topics of priorities for you to ask for the local team's input on.
-- Define the number of values used to rate within your topics.
-- Assign individual values by aligning relative worth with global scores.
-- Consider defining common scenarios when prospects interact with your brand and test your overall scoring for them.
-  - For example, a common prospect journey you see would be for a person to enter your website on a content page, then click through to a product page and download a brochure. You would target them with a webinar invitation, and they respond to it by registering, but not attending. Consider if your sales already want to speak with this person or not and evaluate if your scoring model gets these prospects to the right overall score to reflect that level of interest.
+* Set up a different matrix for demographic and behavior elements.
+* Determine the topics of priorities for you to ask for the local team's input on.
+* Define the number of values used to rate within your topics.
+* Assign individual values by aligning relative worth with global scores.
+* Consider defining common scenarios when prospects interact with your brand and test your overall scoring for them.
+  * For example, a common prospect journey you see would be for a person to enter your website on a content page, then click through to a product page and download a brochure. You would target them with a webinar invitation, and they respond to it by registering, but not attending. Consider if your sales already want to speak with this person or not and evaluate if your scoring model gets these prospects to the right overall score to reflect that level of interest.
 
 **Example 3b – Demographic scoring matrix:**
 
