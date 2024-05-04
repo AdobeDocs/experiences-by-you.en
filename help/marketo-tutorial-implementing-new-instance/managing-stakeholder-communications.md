@@ -90,7 +90,7 @@ Here are the highlights of our success:
 * Conversion Rate: [Percentage or specific outcomes achieved]
 * Key Learnings: [Share any insights or lessons learned from the campaign]
 
-2. Streamlined Lead Nurturing Workflow
+1. Streamlined Lead Nurturing Workflow
 * Program Name: [Workflow Name]
 * Objective: [Briefly describe the workflow's purpose, e.g., nurturing leads through the sales funnel, automating follow-ups, etc.]
 * Results:
