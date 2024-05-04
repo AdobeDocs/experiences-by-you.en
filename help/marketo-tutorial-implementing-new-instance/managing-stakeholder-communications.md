@@ -1,6 +1,6 @@
 ---
 title: Managing stakeholders to implement Marketo Engage
-description:Learn strategies for managing stakeholders effectively during the implementation of your Marketo Engage instance. This tutorial provides actionable tips to uncover your stakeholders’ needs, gain leadership buy-in, and communicate cross-functionally to seek implementation support.
+description: Learn strategies for managing stakeholders effectively during the implementation of your Marketo Engage instance. This tutorial provides actionable tips to uncover your stakeholders needs, gain leadership buy-in, and communicate cross-functionally to seek implementation support.
 role: Admin
 level: Beginner
 doc-type: Article
@@ -11,8 +11,6 @@ thumbnail: KT-13284.jpeg
 ---
 
 # Manage stakeholders to implement Marketo Engage
-
-<ul><li>[Why Automation is Essential to Any Marketing Strategy](https://business.adobe.com/blog/basics/5-benefits-marketing-automation)</li><li>[Tips for Building a Marketing Automation Roadmap](https://nation.marketo.com/t5/champion-program-blogs/tips-for-building-a-marketing-automation-roadmap/ba-p/325345)</li></ul> 
 
 Implementing Marketo Engage is a critical moment of growing your MarTech stack. It could involve various stakeholders that you need to bring along from marketing to sales to IT. Learn how to get support from your organization for your new Marketo Engage instance by asking the right questions and communicating updates and support needed regularly. Use the tutorial and templates (with downloadable versions) to guide your internal communications throughout implementation and user onboarding.
 
