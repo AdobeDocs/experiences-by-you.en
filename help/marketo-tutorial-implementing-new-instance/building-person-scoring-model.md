@@ -218,7 +218,7 @@ Example 3a – Signals in global and local markets:
 
 ## What's Next?
 
-* Download the [person scoring exercise sheet]() **LINK TO BE PROVIDED** to develop your scoring model offline.
+* Download the [person scoring exercise sheet](https://experienceleague.adobe.com) **LINK TO BE PROVIDED** to develop your scoring model offline.
 * Build out your person scoring in Marketo Engage. Check this [tutorial](https://experienceleague.adobe.com/en/docs/marketo-learn/tutorials/lead-and-data-management/lead-scoring-watch) and [demo](https://experienceleague.adobe.com/en/docs/events/marketo-and-mochas-recordings/2023/lead-scoring) to get started. You can import a lead/person scoring program [template](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/core-marketo-concepts/programs/working-with-programs/import-a-program) from the Marketo Engage Reference Library to accelerate the program build.
 * Create two versions of the scoring program:
   * A central program that runs all scoring that cannot be updated locally.

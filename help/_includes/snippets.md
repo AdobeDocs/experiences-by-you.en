@@ -32,3 +32,10 @@ Adobe Marketo Engage Champion (2017, 2018, 2020, 2021)
 
 **Katja Keesom**, Principal B2B Marketing Automation Consultant, Chapman Bright
 Adobe Marketo Engage Champion (2023)
+
+## Julz James (#julz-james)
+
+![Julz James](/help/marketo-tutorial-implementing-new-instance/assets/julz-james.png){width=150px}
+
+**Julz James**, Sr Marketing Operations Manager, 6sense
+Adobe Marketo Engage Champion (2015)

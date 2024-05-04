@@ -174,7 +174,7 @@ By following these actionable tips and referencing the templates, you will be be
 
 ## What's Next?
 
-Download and use the [Onboarding Internal Communications Guide and Template}() [LINK TO DOWNLOADABLE FILE] craft regular updates and report progress for stakeholders. Include key metrics, achievements, and upcoming milestones to keep them informed and engaged.
+Download and use the [Onboarding Internal Communications Guide and Template](https://experienceleague.adobe.com) **LINK TO BE PROVIDED** craft regular updates and report progress for stakeholders. Include key metrics, achievements, and upcoming milestones to keep them informed and engaged.
 
 ### Authors
 

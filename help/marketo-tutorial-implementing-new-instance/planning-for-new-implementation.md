@@ -1,13 +1,13 @@
 ---
-title- Planning for your Marketo Engage implementation 
-description- Learn more about the essential planning and cross-functional team collaboration for successfully implementing a new Marketo Engage instance. This tutorial provides sample milestones, team engagements, and resource allocations for a seamless Marketo Engage implementation.
-role- Admin
-level- Beginner
-doc-type- Article
-duration- 0
-last-substantial-update- 2024-05-01
-jira- KT-14808
-thumbnail- KT-14808.jpeg
+title: Planning for your Marketo Engage implementation 
+description: Learn more about the essential planning and cross-functional team collaboration for successfully implementing a new Marketo Engage instance. This tutorial provides sample milestones, team engagements, and resource allocations for a seamless Marketo Engage implementation.
+role: Admin
+level: Beginner
+doc-type: Article
+duration: 0
+last: substantial-update- 2024-05-01
+jira: KT-14808
+thumbnail: KT-14808.jpeg
 ---
 
 # Planning for new Marketo Engage implementation
@@ -35,7 +35,7 @@ In this tutorial, we will dive into the specific milestones, team engagements, a
 - Setting up Segmentation and Personalization rules
 - Creating initial campaigns for lead generation and nurturing
 
-### Phase 4- Training and user adoption
+### Phase 4 - Training and user adoption
 
 - Conducting training sessions and/or materials for Users
 - Establishing instance governance policies and best practices

@@ -18,26 +18,24 @@ This ‘Implementing A New Instance Tips and Tricks’ series is sourced Adobe [
 
 ## Topics and what you will learn
 
-* **[Creating a successful implementation plan with Admin Implementation Checklists](../marketo/overview.md)**
+* [Creating a successful implementation plan with Admin Implementation Checklists](../marketo/overview.md)
 *[LINK TO PRODUCT DOC ONCE KEITH GLUCK PUBLISHED THE CONTENT]*
 
-* **[Managing communications with stakeholders to support implementation](../marketo/overview.md)**
-*[LINK TO KT-14808]*
+* [Managing communications with stakeholders to support implementation](./managing-stakeholder-communications.md)
 
-* **[Developing internal onboarding and training roadshow](../marketo-tutorial-implementing-new-instance/internal-training-roadshow.md)**
-*Learn how to establish a robust procedure for creating and maintaining documentation and changelog for your Marketo Engage instance. This will not only save time for your team’s knowledge sharing but also enhance the health and efficiency of your instance.*
+* [Developing internal onboarding and training roadshow](./internal-training-roadshow.md)
+Learn how to establish a robust procedure for creating and maintaining documentation and changelog for your Marketo Engage instance. This will not only save time for your team’s knowledge sharing but also enhance the health and efficiency of your instance.
 
-* **[Building sales and marketing alignment with lead/person scoring model](../marketo/overview.md)**
-*[LINK TO KT-14808]*
+* [Building sales and marketing alignment with lead/person scoring model](./planning-for-new-implementation.md)
 
-* **[Orchestrating marketing and sales activities with CRM integration](../marketo/overview.md)**
-*[LINK TO KT-14812]*
+* [Orchestrating marketing and sales activities with CRM integration](./field-mapping-for-crm-integration.md)
+Learn how to streamline your initial CRM integration by strategically selecting the essential CRM fields for Marketo Engage to use. Use our field mapping worksheet to map the necessary fields accurately for a smooth CRM sync that helps sales and marketing teams stay aligned.
 
-* **[Building instance organization with folder and naming best practices](../marketo/overview.md)**
-*[LINK TO KT-14813]*
+* [Building instance organization with folder and naming best practices](./organizing-new-instance.md)
+Learn how to set up a good organization within your Marketo Engage instance, allowing future marketers within your organization to easily navigate through the programs, modify the assets, and pull reports.
 
-* **[Implementing key use cases for automated conversation engagement](../marketo/overview.md)**
+* [Implementing key use cases for automated conversation engagement](../marketo/overview.md)
 *[LINK TO KT-14814]*
 
-* **[Creating governance guide and documenting instance setup](../marketo/overview.md)**
+* [Creating governance guide and documenting instance setup](../marketo/overview.md)
 *[LINK TO KT-14815]*
