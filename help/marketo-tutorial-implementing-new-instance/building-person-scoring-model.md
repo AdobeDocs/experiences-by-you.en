@@ -232,7 +232,7 @@ Example 3a – Signals in global and local markets:
 * Test the Smart Campaign once you’ve finished building your program. For example, go to your demo form, fill it out with a test email, and check your test person’s score in [Marketo Engage database](https://experienceleague.adobe.com/en/docs/marketo/using/getting-started-with-marketo/quick-wins/simple-scoring#step-view-the-person-info).
 * After you build your model, consider setting up an alert to go out to sales once the person’s score has reached your sales handoff threshold. Learn more about setting up an alert with this [tutorial](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/send-alert).
 
-### H3 Authors
+### Authors
 
 {{christina-zuniga}}
 

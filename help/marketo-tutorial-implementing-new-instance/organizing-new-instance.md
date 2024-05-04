@@ -13,7 +13,7 @@ thumbnail: KT-14813.jpeg
 
 As an administrator implementing a new Marketo Engage instance, you are laying down the groundwork allowing future marketers within the organization to easily navigate through the instance.
 
-Getting familiar with the tree folder structure and naming conventions will keep your instance tidy and set up for long-term success. This tutorial encompasses examples recommended by Adobe and Marketo Engage Champion alumnus, Natalie Kremer [Keep Marketo Engage Organized with Folders and Naming Conventions](https://nation.marketo.com/t5/champion-program-blogs/keep-marketo-engage-organized-with-folders-and-naming/ba-p/245630) and [Get started with Adobe Marketo Engage program templates_ LINK TO <https://business.adobe.com/blog/how-to/get-started-with-marketo-engage-program-templates\>] to help you organize the folders and name assets consistently.
+Getting familiar with the tree folder structure and naming conventions will keep your instance tidy and set up for long-term success. This tutorial encompasses examples recommended by Adobe and Marketo Engage Champion alumnus, Natalie Kremer [Keep Marketo Engage Organized with Folders and Naming Conventions](https://nation.marketo.com/t5/champion-program-blogs/keep-marketo-engage-organized-with-folders-and-naming/ba-p/245630) and [Get started with Adobe Marketo Engage program templates](https://business.adobe.com/blog/how-to/get-started-with-marketo-engage-program-templates) to help you organize the folders and name assets consistently.
 
 ## Why is structuring folders and applying naming conventions necessary?
 
@@ -38,7 +38,7 @@ Below are folder examples of putting these tips into practice.
 
 >[!NOTE]
 >
->See the NOTE blocks in step 2 that reference the table options.  I will make this table match whatever you decide for step 2.
+>**FOR THE BELOW TABLE** --> Please see the NOTE blocks in step 2 that reference the table options.  I will make this table match whatever you decide for step 2.
 
 | **Folder Name in Tree** |     |     |     |     |     |     | **Description** |
 | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -106,7 +106,7 @@ Now, let’s apply the folder structure at the program level. As a best practice
 
 >[!NOTE]
 >
->Tables are very problematic and not easy to replicate from MS Word to HTML.  These are 2 options for the below content.  It doesn't appear that this content 'needs' to be in a table and seems to format clearly as a list.  However, if a table is required, I included a compromise table option.  Will use which ever one you prefer.
+>**PLEASE READ - we have options here** --> Tables are very problematic and not easy to replicate from MS Word to HTML.  These are 2 options for the below content.  It doesn't appear that this content 'needs' to be in a table and seems to format clearly as a list.  However, if a table is required, I included a compromise table option.  Will use which ever one you prefer.
 
 **Folder Name inside Programs**
 * Campaigns - Folder for all campaigns managing interactions and status tracking.
@@ -126,7 +126,7 @@ Now, let’s apply the folder structure at the program level. As a best practice
 
 >[!NOTE]
 >
->Tables are very problematic and not easy to replicate from MS Word to HTML.  These are 2 options for the above content.  It doesn't appear that this content 'needs' to be in a table and seems to format clearly as a list.  However, if a table is required, I included a compromise table option.  Will use which ever one you prefer.
+>**PLEASE READ - we have options here** --> Tables are very problematic and not easy to replicate from MS Word to HTML.  These are 2 options for the above content.  It doesn't appear that this content 'needs' to be in a table and seems to format clearly as a list.  However, if a table is required, I included a compromise table option.  Will use which ever one you prefer.
 
 ### Step 3 - Create naming conventions for your programs and assets
 
