@@ -12,4 +12,9 @@ auto-video-transcripts: true
 # Tutorial - Implementing a new [!DNL Marketo Engage] instance {#implenting-new-instance}
 
 + [Tutorial - Overview](/help/marketo-tutorial-implementing-new-instance/overview.md)
-+ [Developing internal onboarding and training roadshow](../marketo-tutorial-implementing-new-instance/internal-training-roadshow.md)
++ [Managing stakeholders to implement Marketo Engage](./managing-stakeholder-communications.md)
++ [Developing internal onboarding and training roadshow](./internal-training-roadshow.md)
++ [Planning for your Marketo Engage implementation](./planning-for-new-implementation.md)
++ [Mapping fields for CRM integration](./field-mapping-for-crm-integration.md)
++ [Organizing a new instance and establishing naming conventions](./organizing-new-instance.md)
++ [Building person scoring models for Marketo Engage programs](./building-person-scoring-model.md)
