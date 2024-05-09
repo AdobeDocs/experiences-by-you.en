@@ -1,6 +1,6 @@
 ---
 title: Building person scoring models for Marketo Engage programs
-description: Adobe Marketo Engage allows you to build your scoring model(s) from the ground up. Before you jump right in Marketo Engage to build your scoring programs, you will have to set up the essential score fields such as Demographic Score, Behavioral Score, and Total Person Score. Learn more about the strategies used by Marketo Engage Champions for developing Scoring Models that your business needs.
+description: [!DNLAdobe Marketo Engage] allows you to build your scoring model(s) from the ground up. Before you jump right in Marketo Engage to build your scoring programs, you will have to set up the essential score fields such as Demographic Score, Behavioral Score, and Total Person Score. Learn more about the strategies used by Marketo Engage Champions for developing Scoring Models that your business needs.
 role: Admin
 level: Beginner
 doc-type: Article
