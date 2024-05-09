@@ -18,3 +18,4 @@ auto-video-transcripts: true
 + [Mapping fields for CRM integration](./field-mapping-for-crm-integration.md)
 + [Organizing a new instance and establishing naming conventions](./organizing-new-instance.md)
 + [Building person scoring models for Marketo Engage programs](./building-person-scoring-model.md)
++ [Getting started on instance governance and documentation](./documenting-your-instance.md)
