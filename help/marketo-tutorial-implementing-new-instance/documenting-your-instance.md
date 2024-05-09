@@ -43,21 +43,21 @@ Guide your governance and documentation plan by starting with the sample outline
 1. Purpose of this Documentation
 1. The Process to Maintain/Make Changes to the Governance Guide
 1. Administrative Setup
-* Subscription(s)
-* Workspaces and Partitions (if apply)
-* Technical Setup (DKIM/SPF/Munchkin)
-* Roles and Responsibilities\*
-* Users\*
-* Smart Campaign/Email/Program Settings
-* Communication Limits
-* Security
-* Channels
-* Tags
+   * Subscription(s)
+   * Workspaces and Partitions (if apply)
+   * Technical Setup (DKIM/SPF/Munchkin)
+   * Roles and Responsibilities
+   * Users
+   * Smart Campaign/Email/Program Settings
+   * Communication Limits
+   * Security
+   * Channels
+   * Tags
 1. Data Structure
-    * Field Structure
+   * Field Structure
 1. Operational Programs
-    * Person Scoring
-    * Person Lifecycle
+   * Person Scoring
+   * Person Lifecycle
 1. Building In Marketo Engage Instance
    * Center of Excellence (COE)
    * Folder Structure
@@ -70,9 +70,9 @@ Guide your governance and documentation plan by starting with the sample outline
    * Archiving policies
    * Subscription Center
 1. CRM Integration
-    * How does the sync work
-    * Campaign Sync
-    * Data Dictionary
+   * How does the sync work
+   * Campaign Sync
+   * Data Dictionary
 1. Other Integrations
 1. GDPR & Compliance
 
@@ -93,9 +93,9 @@ Another critical way of instance governance is to create a Changelog and enforce
 
 ## What’s Next?
 
-Download the sample documentation and Changelog **HERE insert the downloadable links** and adapt them based on your organization’s needs.
-Store the documentation in an accessible platform where your organization prefers to reference and update regularly. For example, some Marketo Engage Champions use Confluence (by Atlassian) or Excel Spreadsheet.
-Ensure every rule you make for governance has an owner to enforce it and adapt the documentation, keeping it up to date over time.  
+* Download the sample documentation and Changelog **HERE insert the downloadable links** and adapt them based on your organization’s needs.
+* Store the documentation in an accessible platform where your organization prefers to reference and update regularly. For example, some Marketo Engage Champions use Confluence (by Atlassian) or Excel Spreadsheet.
+* Ensure every rule you make for governance has an owner to enforce it and adapt the documentation, keeping it up to date over time.  
 
 ### Authors
 
