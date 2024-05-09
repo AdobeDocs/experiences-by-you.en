@@ -1,6 +1,6 @@
 ---
-title: Building person scoring models for [!DNL Marketo Engage] programs
-description: [!DNL Adobe Marketo Engage] allows you to build your scoring model(s) from the ground up. Before you jump right in Marketo Engage to build your scoring programs, you will have to set up the essential score fields such as Demographic Score, Behavioral Score, and Total Person Score. Learn more about the strategies used by Marketo Engage Champions for developing Scoring Models that your business needs.
+title: Building person scoring models for Marketo Engage programs
+description: Adobe Marketo Engage allows you to build your scoring model(s) from the ground up. Before you jump right in Marketo Engage to build your scoring programs, you will have to set up the essential score fields such as Demographic Score, Behavioral Score, and Total Person Score. Learn more about the strategies used by Marketo Engage Champions for developing Scoring Models that your business needs.
 role: Admin
 level: Beginner
 doc-type: Article
@@ -25,12 +25,12 @@ By scoring people in your Marketo Engage database, you can measure how qualified
 
 Behavioral scoring is giving a numerical value to trackable actions a prospect takes that indicate interest in your products and services and intent to buy. For example, visiting the website shows interest, and visiting the pricing page may show intent. In contrast, visiting the careers page may indicate the person is not going to purchase.
 
-**Step 1**: Make a list of prospect activities that matter to your sales process or are valuable to your organization. It can be helpful to work with your sales team to determine which activities indicate a lead has the intent to purchase, helping you align the criteria with sales and prioritize based on their observations of closed deals. Here are a few suggested questions that you can ask your sales team:
+**Step 1** - Make a list of prospect activities that matter to your sales process or are valuable to your organization. It can be helpful to work with your sales team to determine which activities indicate a lead has the intent to purchase, helping you align the criteria with sales and prioritize based on their observations of closed deals. Here are a few suggested questions that you can ask your sales team:
 
 * Which activities indicate a good or bad lead to you?
 * What type of content consumed by a lead has a stronger intent to purchase?
 
-**Step 2**: List actions that indicate a prospect is not interested in your product. Be sure to list activities that are trackable through Marketo Engage.
+**Step 2** - List actions that indicate a prospect is not interested in your product. Be sure to list activities that are trackable through Marketo Engage.
 
 **Example 1a - Activities indicating intent to buy**
 
@@ -42,7 +42,7 @@ Behavioral scoring is giving a numerical value to trackable actions a prospect t
 | Download white paper |     |
 | Fill out request demo form |     |
 
-**Step 3**: Analyze and choose a sales handoff threshold score.
+**Step 3** - Analyze and choose a sales handoff threshold score.
 
 * Once a lead indicates enough interest by performing some of the activities you defined in Step 1 and the total score surpasses this threshold, you will hand them off to sales. This threshold will simply be a number that helps set a benchmark for the scores you assign to individual behaviors.
 * Your threshold number should be large enough so that a person needs to complete multiple interactions with your brand to meet it. For example, one email open is unlikely to be a sufficient qualifier. If you just started, try working with a threshold of 100 and building out your person scoring from there.
@@ -54,7 +54,7 @@ Behavioral scoring is giving a numerical value to trackable actions a prospect t
 | --- | --- |
 | Threshold for sales handoff | 50  |
 
-**Step 4**: Assign a score to each activity listed in ‘Example 1a - Activities indicating intent to buy’.
+**Step 4** - Assign a score to each activity listed in ‘Example 1a - Activities indicating intent to buy’.
 
 * Use a positive behavior score for the activities that indicate interest to boost a prospect’s overall lead score, and a negative score to indicate disinterest.
 * Using your threshold from ‘Example 1b – Threshold for sales handoff’ as a benchmark, determine your behavior scores relative to the importance of their actions. For example, prospects who request a demo should go straight to sales. Assigning that action a point value equal to your prospect handoff threshold will make the most sense. Meanwhile, downloading a white paper is not as strong an indicator of buying interest and therefore should be worth fewer points.
@@ -69,13 +69,13 @@ Behavioral scoring is giving a numerical value to trackable actions a prospect t
 | Download a white paper | +5  |
 | Visit us at a tradeshow | +15 |
 
-**Step 5**: Keep in mind that scoring is an iterative process! You will want to revisit and tweak the scores and threshold over time as you have more data points for analysis over time.
+**Step 5** - Keep in mind that scoring is an iterative process! You will want to revisit and tweak the scores and threshold over time as you have more data points for analysis over time.
 
 ## Exercise 2 - Identifying the right fit with Demographic Scores
 
 Now that you have defined the activities indicating buying intent, you should complete the scoring model with your Ideal Prospect Profiles. To identify whether a prospect is the right fit for further sales conversation, it’s important to assign demographic scores in addition to behavioral scores so that the model helps determine the best leads in terms of fit and intent.
 
-**Step 1**: Make a list of characteristics for your ideal prospects.
+**Step 1** - Make a list of characteristics for your ideal prospects.
 
 * Consider listing attributes such as their industry, company, department, and role. Be sure that these characteristics correspond to available demographic fields in your Marketo Engage instance.
 * Work with your sales team to determine which leads respond most to sales inquiries and are key contacts during sales opportunities.
@@ -95,7 +95,7 @@ Now that you have defined the activities indicating buying intent, you should co
 | Job title | Director, Vice President, C-Level |
 | Department | HR  |
 
-**Step 2**: Assign a score to each characteristic according to its relevance in your ideal prospect profile. Use positive scores for desirable traits and negative scores for traits that make the lead less of a fit for your product.
+**Step 2** - Assign a score to each characteristic according to its relevance in your ideal prospect profile. Use positive scores for desirable traits and negative scores for traits that make the lead less of a fit for your product.
 
 **Example 2b – Assigning scores to ideal and undesirable prospect characteristics**
 
@@ -111,13 +111,13 @@ Now that you have defined the activities indicating buying intent, you should co
 
 With the basic behavioral and demographic scoring models you have completed, you could take it to the next level by allowing local flexibility. Business values may vary in different markets when an organization operates globally. In the following exercise, you will learn how to apply scores to reflect the real business value of the lead activities or characteristics in different situations.
 
-**Step 1**: Take the activities and characteristics from exercises 1 and 2 and determine for each item whether they vary by location or product line.
+**Step 1** - Take the activities and characteristics from exercises 1 and 2 and determine for each item whether they vary by location or product line.
 
 Example 3a – Signals in global and local markets:
 
 <table><tbody><tr><th><p><strong>Signal</strong></p></th><th><p><strong>Global</strong></p></th><th><p><strong>Local</strong></p></th></tr><tr><td><p>Activities</p></td><td><ul><li>Filled out “Request a demo” form</li><li>No interaction in last 90 days (about 3 months)</li></ul></td><td><ul><li>Visit us at tradeshow</li><li>Download a white paper</li></ul></td></tr><tr><td><p>Characteristics</p></td><td><ul><li>Department</li><li>Job title</li></ul></td><td><ul><li>Industry</li><li>Company size</li></ul></td></tr></tbody></table>
 
-**Step 2**: Define your scoring matrix for local markets:
+**Step 2** - Define your scoring matrix for local markets:
 
 * Set up a different matrix for demographic and behavior elements.
 * Determine the topics of priorities for you to ask for the local team's input on.
@@ -134,7 +134,7 @@ Example 3a – Signals in global and local markets:
 | Medium values | 10  points | 7  points | 3  points |
 | Low values | 5  points | 3  points | 1 point |
 
-**Step 3**: Collect input from your local or regional sales teams to develop a holistic view. You will notice that no individual scores are included in example 3c. This allows the sales team to focus on the relative worth of the different topics during the review process. However, you should have your full model documented as background materials for other Marketo Engage administrators.
+**Step 3** - Collect input from your local or regional sales teams to develop a holistic view. You will notice that no individual scores are included in example 3c. This allows the sales team to focus on the relative worth of the different topics during the review process. However, you should have your full model documented as background materials for other Marketo Engage administrators.
 
 * Lock down what cannot be adjusted for global consistency (here in row 1).
 * Mark (here in grey) what can be adjusted for local influences.
