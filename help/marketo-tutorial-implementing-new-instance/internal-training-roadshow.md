@@ -14,7 +14,7 @@ thumbnail: KT-14809.jpeg
 
 As you bring a new [!DNL Marketo Engage] instance live, it's time to bring the relevant teams up to speed to leverage [!DNL Marketo Engage] for their jobs.
 
-These internal onboarding and training best practices were provided by Adobe [!DNL Marketo Engage] Champion alumnus, Naomi Liu, drawing takeaways from her implementation for global teams. Follow her thought process to help you develop a training plan for internal teams.
+These internal onboarding and training best practices were provided by Naomi Liu, an Adobe Marketo Engage customer, shares [internal onboarding](https://nation.marketo.com/t5/employee-blogs/peer-perspective-orchestrating-onboarding-across-global-teams/ba-p/244931) and [training best practices](https://nation.marketo.com/t5/employee-blogs/peer-perspective-how-to-train-internal-users-on-marketo-engage/ba-p/245237) derived from her experience implementing a new instance for Electronics for Imaging's global teams. Follow her insights to craft an effective training plan for your internal teams.
 
 ## Why develop an internal onboarding plan as you implement the new instance?  
 

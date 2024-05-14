@@ -13,11 +13,13 @@ thumbnail: KT-14813.jpeg
 
 As an administrator implementing a new Marketo Engage instance, you are laying down the groundwork allowing future marketers within the organization to easily navigate through the instance.
 
+This tutorial encompasses examples recommended by Adobe and Marketo Engage Champion(2019-2020), Natalie Kremer, to help you [organize the folders and name assets consistently](https://nation.marketo.com/t5/champion-program-blogs/keep-marketo-engage-organized-with-folders-and-naming/ba-p/245630){target="_blank"}.
+
 Getting familiar with the tree folder structure and naming conventions will keep your instance tidy and set up for long-term success. This tutorial encompasses examples recommended by Adobe and Marketo Engage Champion alumnus, Natalie Kremer [Keep Marketo Engage Organized with Folders and Naming Conventions](https://nation.marketo.com/t5/champion-program-blogs/keep-marketo-engage-organized-with-folders-and-naming/ba-p/245630) and [Get started with Adobe Marketo Engage program templates](https://business.adobe.com/blog/how-to/get-started-with-marketo-engage-program-templates) to help you organize the folders and name assets consistently.
 
 ## Why is structuring folders and applying naming conventions necessary?
 
-Staying organized in your instance makes it easy for you and your colleagues to keep track of campaigns, programs, and assets and report program performance. To organize the navigation tree in your instance and build at scale, it is recommended to use folders, standard naming conventions, and features such as cloning.
+Staying organized in your instance makes it easy for you and your colleagues to keep track of campaigns, programs, and assets and report program performance. To organize the navigation tree in your instance and build at scale, it is recommended to use [folders](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/core-marketo-concepts/miscellaneous/understanding-folders){target="_blank"}, standard naming conventions(https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/core-marketo-concepts/programs/working-with-programs/best-practice-how-to-organize-your-programs#naming-schemes){target="_blank"}, and features such as cloning(https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/core-marketo-concepts/programs/working-with-programs/best-practice-how-to-organize-your-programs#cloning){target="_blank"}.
 
 ## How to organize a Marketo Engage instance
 
@@ -168,14 +170,14 @@ Going one level down to naming assets, it’s best that you do not repeat the Pr
 
 * Number the assets based on their sequence in the program process.
 * Use “-” (hyphen) to separate the naming components instead of “.”(dot) or “\_”(underscore).
-* Why? Marketo Engage uses a dot to separate the Program Name from the Campaign Name. Using "\_" will prevent you rom seeing it when the asset is hyperlinked.
+  * Why? Marketo Engage uses a dot to separate the Program Name from the Campaign Name. Using "\_" will prevent you rom seeing it when the asset is hyperlinked.
 * Use standard acronyms in the asset names to shorten the reference and still allow easy recognition.
 
 With these in mind, we will apply these tips to the following assets and create formulas to generate names:
 
 ##### Name the assets based on sequence in program process
 
-| **Sequence in Program Process** | **\-** | **Description** |
+| **Sequence<p>in<p>Program<p>Process** | **\-** | **Description** |
 | --- | --- | --- |
 | 01  | \-  | Description |
 | 02  | \-  | Description |
@@ -220,17 +222,22 @@ With these in mind, we will apply these tips to the following assets and create 
 | CS - Case Study | Content Description | \-  | CS  | .   | pdf |
 | DS - Data Sheet | Content Description | \-  | DS  | .   | pdf |
 
-| **Examples: Downloadable PDF files (DO NOT USE SPACES, avoid underscores "\_")** |
+| **Examples: Downloadable PDF files** |
 | --- |
 | XYZ-Gadget-DS.pdf |
 | Acme-Company-CS.pdf |
 | How-XYZ-Gadgets-make-life-easier-WP.pdf |
 
-## What’s Next?
+> [!CAUTION]
+>
+>  When naming files in the above examples, do not use spaces and avoid the use of underscores "\_"
 
-* Download the Worksheet: [Marketo Engage Organization and Naming Conventions](https://experienceleague.adobe.com) **LINK TO DOWNLOADABLE FILE** to support the creation of the folder structure and naming conventions.
+## What’s Next?c
+
+* Download the Worksheet: [Marketo Engage Organization and Naming Conventions](./assets/adobe-marketo-engage-organization-and-naming-conventions.xlsx) to support the creation of the folder structure and naming conventions.
 * Once you determine the necessary components in your standard naming convention, consider building formulas into a Google Sheet or Microsoft Excel. For future use, simply input your values in the spreadsheet to generate your Program names.
-
+* Once you align on an overall folder structure, it is time to think through the templates you need based on the most frequent use cases and the most common requests your team receives. Then start building your first program template. Read on to get started with [Adobe Marketo Engage program templates](https://business.adobe.com/blog/how-to/get-started-with-marketo-engage-program-templates).
+  
 ### Authors
 
 {{natalie-kremer}}
