@@ -10,8 +10,8 @@ duration: 72000
 last-substantial-update: 2024-05-14
 jira: KT-15488
 thumbnail: KT-15488.jpeg
+exl-id: b0719779-f260-45b7-bdd6-1a3145bcb251
 ---
-
 # A strategic guide to implementing Web SDK
 
 Download our strategic guide to implementing Web SDK for optimized web performance, efficient tag management, Adobe-side processing, server-side third-party tag integration, support for cookie-less environments, and improved data quality in today's digital landscape.
@@ -31,5 +31,4 @@ This document was written by:
 
 **Meghan Powers**
 
-Senior Manager of Data Governance, Strategy & Analytics at CarMax and Adobe Analytics Champion 
-
+Senior Manager of Data Governance, Strategy & Analytics at CarMax and Adobe Analytics Champion
