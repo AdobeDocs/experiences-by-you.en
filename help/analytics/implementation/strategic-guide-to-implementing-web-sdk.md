@@ -20,7 +20,7 @@ In today's digital landscape, optimizing web performance and harnessing data eff
 
 Despite these benefits, the idea of implementing Web SDK can be daunting, if not completely overwhelming. That's why I've created this strategic guide to help you embark on this journey to implement Web SDK.
 
-Download the [strategic guide to implementing Web SDK](https://www.adobe.com/content/dam/www/us/en/digital-experience/in-product/images/Final%20WebSDK%20Playbook.pdf)
+Download the [strategic guide to implementing Web SDK](https://www.adobe.com/content/dam/www/us/en/digital-experience/in-product/images/Final%20WebSDK%20Playbook.pdf){target="_blank"}.
 
 
 ## Author
