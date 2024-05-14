@@ -228,9 +228,9 @@ With these in mind, we will apply these tips to the following assets and create 
 | Acme-Company-CS.pdf |
 | How-XYZ-Gadgets-make-life-easier-WP.pdf |
 
-> [!CAUTION]
+>[!CAUTION]
 >
->  When naming files in the above examples, do not use spaces and avoid the use of underscores "\_"
+>When naming files in the above examples, do not use spaces and avoid the use of underscores "\_"
 
 ## What’s Next?c
 
