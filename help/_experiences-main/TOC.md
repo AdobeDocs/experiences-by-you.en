@@ -54,6 +54,8 @@ breadcrumb-title: Experiences by You
       + [Drive success with executive summary dashboards](../analytics/administration/admin-tips/driving-success-with-executive-summary-dashboards.md)
       + [Create Operational Dashboards](../analytics/administration/admin-tips/create-operational-dashboards.md)
       + [Building data culture and a better solution design reference](../analytics/administration/admin-tips/better-sdr.md)
+  + Implementation {#implementation}
+    + [A strategic guide to implementing Web SDK](../analytics/implementation/strategic-guide-to-implementing-web-sdk.md)
 + [!DNL Campaign] by You {#campaign}
   + [Overview](/help/campaign/overview.md)
   + [!DNL Campaign Classic v7] {#campaign-classic-v7}
