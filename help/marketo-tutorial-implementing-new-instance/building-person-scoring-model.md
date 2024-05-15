@@ -117,7 +117,7 @@ With the basic behavioral and demographic scoring models you have completed, you
 
 | **Signal** | **Global** | **Local** |
 | --- | --- | --- |
-| Activities | <ul><li>Filled out “Request a demo” form</li><li>No interaction in last 90 days (about 3 months)</li></ul> | <ul><li>Visit us at tradeshow</li><li>Download a white paper</li></ul>
+| Activities | <ul><li>Filled out “Request a demo” form</li><li>No interaction in last 90 days (about 3 months)</li></ul> | <ul><li>Visit us at tradeshow</li><li>Download a white paper</li></ul> |
 | Characteristics | <ul><li>Department</li><li>Job title</li></ul> | <ul><li>Industry</li><li>Company size</li></ul> |
 
 **Step 2** - Define your scoring matrix for local markets:
