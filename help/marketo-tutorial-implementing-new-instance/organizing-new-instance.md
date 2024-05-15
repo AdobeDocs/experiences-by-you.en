@@ -11,15 +11,11 @@ thumbnail: KT-14813.jpeg
 ---
 # Organizing a new instance and establishing naming conventions
 
-As an administrator implementing a new Marketo Engage instance, you are laying down the groundwork allowing future marketers within the organization to easily navigate through the instance.
-
-This tutorial encompasses examples recommended by Adobe and Marketo Engage Champion(2019-2020), Natalie Kremer, to help you [organize the folders and name assets consistently](https://nation.marketo.com/t5/champion-program-blogs/keep-marketo-engage-organized-with-folders-and-naming/ba-p/245630){target="_blank"}.
-
-Getting familiar with the tree folder structure and naming conventions will keep your instance tidy and set up for long-term success. This tutorial encompasses examples recommended by Adobe and Marketo Engage Champion alumnus, Natalie Kremer [Keep Marketo Engage Organized with Folders and Naming Conventions](https://nation.marketo.com/t5/champion-program-blogs/keep-marketo-engage-organized-with-folders-and-naming/ba-p/245630) and [Get started with Adobe Marketo Engage program templates](https://business.adobe.com/blog/how-to/get-started-with-marketo-engage-program-templates) to help you organize the folders and name assets consistently.
+As an administrator implementing a new Marketo Engage instance, you are laying down the groundwork allowing future marketers within the organization to easily navigate through the instance. Getting familiar with the tree folder structure and naming conventions will keep your instance tidy and set up for long-term success. This tutorial encompasses examples recommended by Adobe and Marketo Engage Champion(2019-2020), Natalie Kremer, to help you [organize the folders and name assets consistently](https://nation.marketo.com/t5/champion-program-blogs/keep-marketo-engage-organized-with-folders-and-naming/ba-p/245630){target="_blank"}. 
 
 ## Why is structuring folders and applying naming conventions necessary?
 
-Staying organized in your instance makes it easy for you and your colleagues to keep track of campaigns, programs, and assets and report program performance. To organize the navigation tree in your instance and build at scale, it is recommended to use [folders](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/core-marketo-concepts/miscellaneous/understanding-folders){target="_blank"}, standard naming conventions(https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/core-marketo-concepts/programs/working-with-programs/best-practice-how-to-organize-your-programs#naming-schemes){target="_blank"}, and features such as cloning(https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/core-marketo-concepts/programs/working-with-programs/best-practice-how-to-organize-your-programs#cloning){target="_blank"}.
+Staying organized in your instance makes it easy for you and your colleagues to keep track of campaigns, programs, and assets and report program performance. To organize the navigation tree in your instance and build at scale, it is recommended to use [folders](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/core-marketo-concepts/miscellaneous/understanding-folders){target="_blank"}, [standard naming conventions](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/core-marketo-concepts/programs/working-with-programs/best-practice-how-to-organize-your-programs#naming-schemes){target="_blank"}, and features such as [cloning](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/core-marketo-concepts/programs/working-with-programs/best-practice-how-to-organize-your-programs#cloning){target="_blank"}.
 
 ## How to organize a Marketo Engage instance
 
@@ -40,95 +36,90 @@ Below are folder examples of putting these tips into practice.
 
 >[!NOTE]
 >
->**FOR THE BELOW TABLE** --> Please see the NOTE blocks in step 2 that reference the table options.  I will make this table match whatever you decide for step 2.
+>**FOR THE BELOW TABLE** --> Please see the NOTE blocks in step 2 that reference the table options.  I will make this table match whatever you decide for step 2.spot
 
-| **Folder Name in Tree** |     |     |     |     |     |     | **Description** |
-| --- | --- | --- | --- | --- | --- | --- | --- |
-| **Marketing Activities** |     |     |     |     |
-|     | Active Marketing Programs |     |     | Programs that are currently interacting with your audience or are currently being built to do so. |
-|     |     | Emails |     |     |
-|     |     | Events |     |     |
-|     |     |     | Live Events / Roadshows |     |
-|     |     |     | Trade Shows |     |
-|     |     |     | Webinars |     |
-|     |     | Newsletters |     |     |
-|     |     | Nurture |     |     |
-|     |     | Web Content |     |     |
-|     |     | Web Forms |     |     |
-|     | Program Template Library |     |     |     |
-|     | Operational |     |     | This folder is a centralized location for any of your on-going operational programs such as scoring, person source, etc. |
-|     |     | Data Management |     | Program with campaigns that normalize data or fix data issues. |
-|     |     | Lead Lifecycle |     | Program to track the progress of leads in the funnel. |
-|     |     | Scoring |     | Program to score leads on behavior and demographic attributes. |
-|     | Sales Insight |     |     |     |
-|     |     | Interesting Moments |     | Marketo Interesting Moment Program and Campaigns. |
-|     |     | Sales Request |     | Program with Campaigns that sales can add a lead or contact to. |
-|     |     | Sales Email |     | Program with Emails that sales can send through Sales Insight. |
-|     | \_Archive |     |     | Place where Programs got deactivated reside, after they are no longer interacting with your audience. |
-|     |     | \_Learning |     | Place where all Training Exercises would be stored - if you want to keep them. |
-|     |     | \_Testing |     | Place where the administrators can test and learn new things and all Test Programs would be stored - if you want to keep them. |
-|     |     | \_2022 |     |     |
-|     |     | \_2023 |     |     |
-| **Design Studio** |     |     |     |     |
-|     | Landing Pages |     |     |     |
-|     |     | Landing Page Templates |     |     |
-|     |     |     | \_Archive | Place for landing page templates that are no longer in use. |
-|     |     | Global Landing Pages |     | Place for landing pages that are used in multiple programs or not associated with programs. |
-|     |     | \_Archive |     | Place for global landing pages that are no longer in use. |
-|     | Forms |     |     |     |
-|     |     | Global Forms |     | Place for forms that are used in multiple programs or not associated with programs. |
-|     |     | \_Archive |     | Place for global forms that are no longer in use. |
-|     | Emails |     |     |     |
-|     |     | Email Templates |     |     |
-|     |     |     | \_Archive | Place for email templates that are no longer in use |
-|     |     | Global Emails |     | Place for emails that are used in multiple programs or not associated with programs |
-|     |     | \_Archive |     | Place for global emails that are no longer in use |
-|     | Snippets |     |     |     |
-|     | Images and Files |     |     |     |
-|     |     | Template Graphics |     |     |
-|     |     | Logos |     |     |
-|     |     | Downloadable Assets |     |     |
-|     |     |     | Case Studies |     |
-|     |     |     | Product Literature |     |
-|     |     |     | Whitepapers |     |
-| **Database** |     |     |     |     |
-|     | System Smart Lists |     |     |     |
-|     | Group Smart Lists |     |     |     |
-|     |     | Exclusion Lists |     |     |
-|     |     | Operational Lists |     |     |
-|     |     |     | Email Deliverability |     |
-|     |     | \_Archive |     | Place for Smart Lists that are no longer in use |
-|     | Group Lists |     |     |     |
-|     |     | Internal Lists |     |     |
-|     |     | \_Archive |     | Place for Static Lists that are no longer in use |
+**Folder Name in Tree**
+
+**Marketing Activities**
+
+* Active Marketing Programs - *Programs that are currently interacting with your audience or are currently being built to do so.*
+  * Emails
+  * Events
+    * Live Events / Roadshows
+    * Trade Shows
+    * Webinars
+    * Newsletters
+    * Nurture
+    * Web Content
+    * Web Forms
+* Program Template Library
+* Operational - *This folder is a centralized location for any of your on-going operational programs such as scoring, person source, etc.*
+  * Data Management - *Program with campaigns that normalize data or fix data issues.*
+  * Lead Lifecycle - *Program to track the progress of leads in the funnel.*
+  * Scoring - *Program to score leads on behavior and demographic attributes.*
+* Sales Insight
+  * Interesting Moments - *Marketo Interesting Moment Program and Campaigns.*
+  * Sales Request - *Program with Campaigns that sales can add a lead or contact to.*
+  * Sales Email - *Program with Emails that sales can send through Sales Insight.*
+\_Archive - *Place where Programs got deactivated reside, after they are no longer interacting with your audience.*
+  * \_Learning - *Place where all Training Exercises would be stored - if you want to keep them.*
+  * \_Testing - *Place where the administrators can test and learn new things and all Test Programs would be stored - if you want to keep them.*
+  * \_2022
+  * \_2023
+
+**Design Studio**
+
+* Landing Pages
+  * Landing Page Templates
+      * \_Archive - *Place for landing page templates that are no longer in use.*
+  * Global Landing Pages - *Place for landing pages that are used in multiple programs or not associated with programs.*
+  * \_Archive - *Place for global landing pages that are no longer in use.*
+* Forms
+  * Global Forms - *Place for forms that are used in multiple programs or not associated with programs.*
+  * \_Archive - *Place for global forms that are no longer in use.*
+* Emails
+  * Email Templates
+    * \_Archive - *Place for email templates that are no longer in use*
+  * Global Emails - *Place for emails that are used in multiple programs or not associated with programs*
+  * \_Archive - *Place for global emails that are no longer in use*
+
+* Snippets
+
+* Images and Files
+
+* Template Graphics
+
+* Logos
+
+* Downloadable Assets
+    * Case Studies
+    * Product Literature
+    * Whitepapers
+
+**Database**
+  * System Smart Lists
+  * Group Smart Lists
+    * Exclusion Lists
+    * Operational Lists
+      * Email Deliverability
+    * \_Archive - *Place for Smart Lists that are no longer in use*
+  * Group Lists
+    * Internal Lists
+    * \_Archive - *Place for Static Lists that are no longer in use*
 
 ### Step 2 - Building folders within the programs
 
 Now, let’s apply the folder structure at the program level. As a best practice, housing the local assets in sub-folders will help you keep the programs tidy and allow internal users to modify or report on the programs efficiently. Common sub-folders include emails, landing pages, Smart Campaigns, Lists, Reports, etc.
 
->[!NOTE]
->
->**PLEASE READ - we have options here** --> Tables are very problematic and not easy to replicate from MS Word to HTML.  These are 2 options for the below content.  It doesn't appear that this content 'needs' to be in a table and seems to format clearly as a list.  However, if a table is required, I included a compromise table option.  Will use which ever one you prefer.
-
 **Folder Name inside Programs**
-* Campaigns - Folder for all campaigns managing interactions and status tracking.
-* Local Assets - Folder for all assets that are specific to this Program
+* Campaigns - *Folder for all campaigns managing interactions and status tracking.*
+* Local Assets - *Folder for all assets that are specific to this Program*
   * Emails
   * Landing Pages
   * Smart Campaigns
   * Lists - Only needed when there are Program specific Lists.
   * Forms - Only needed when there are Program specific Forms; most Forms are Global Assets.
   * Reports - Only needed when there are Program specific Reports.
-
-| Folder Name inside Programs | Description |
-| --- | --- |
-| Campaigns | Folder for all campaigns managing interactions and status tracking. |
-|Local Assets | Folder for all assets that are specific to this Program |
-|<ul><li>Emails</li><li>Landing Pages</li><li>Smart Campaigns</li><li>Lists - Only needed when there are Program specific Lists.</li><li>Forms - Only needed when there are Program specific Forms; most Forms are Global Assets.</li><li>Reports - Only needed when there are Program specific Reports.</li></ul>| |
-
->[!NOTE]
->
->**PLEASE READ - we have options here** --> Tables are very problematic and not easy to replicate from MS Word to HTML.  These are 2 options for the above content.  It doesn't appear that this content 'needs' to be in a table and seems to format clearly as a list.  However, if a table is required, I included a compromise table option.  Will use which ever one you prefer.
 
 ### Step 3 - Create naming conventions for your programs and assets
 
@@ -177,7 +168,7 @@ With these in mind, we will apply these tips to the following assets and create 
 
 ##### Name the assets based on sequence in program process
 
-| **Sequence<p>in<p>Program<p>Process** | **\-** | **Description** |
+| **Sequence in Program Process** | **\-** | **Description** |
 | --- | --- | --- |
 | 01  | \-  | Description |
 | 02  | \-  | Description |
@@ -232,11 +223,11 @@ With these in mind, we will apply these tips to the following assets and create 
 >
 >When naming files in the above examples, do not use spaces and avoid the use of underscores "\_"
 
-## What’s Next?c
+## What’s Next?
 
-* Download the Worksheet: [Marketo Engage Organization and Naming Conventions](./assets/adobe-marketo-engage-organization-and-naming-conventions.xlsx) to support the creation of the folder structure and naming conventions.
+* Download the Worksheet: [Marketo Engage Organization and Naming Conventions](./assets/adobe-marketo-engage-organization-and-naming-conventions.xlsx){target="_blank"} to support the creation of the folder structure and naming conventions.
 * Once you determine the necessary components in your standard naming convention, consider building formulas into a Google Sheet or Microsoft Excel. For future use, simply input your values in the spreadsheet to generate your Program names.
-* Once you align on an overall folder structure, it is time to think through the templates you need based on the most frequent use cases and the most common requests your team receives. Then start building your first program template. Read on to get started with [Adobe Marketo Engage program templates](https://business.adobe.com/blog/how-to/get-started-with-marketo-engage-program-templates).
+* Once you align on an overall folder structure, it is time to think through the templates you need based on the most frequent use cases and the most common requests your team receives. Then start building your first program template. Read on to get started with [Adobe Marketo Engage program templates](https://business.adobe.com/blog/how-to/get-started-with-marketo-engage-program-templates){target="_blank"}.
   
 ### Authors
 

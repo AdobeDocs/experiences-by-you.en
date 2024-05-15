@@ -69,7 +69,7 @@ Behavioral scoring is giving a numerical value to trackable actions a prospect t
 | Download a white paper | +5  |
 | Visit us at a tradeshow | +15 |
 
-**Step 5** - Keep in mind that scoring is an iterative process! You will want to revisit and tweak the scores and threshold over time as you have more data points for analysis over time.
+**Step 5** - Remember, scoring is an iterative process! Continuously review and adjust scores and thresholds as you gather more data for analysis.
 
 ## Exercise 2 - Identifying the right fit with Demographic Scores
 
@@ -113,9 +113,12 @@ With the basic behavioral and demographic scoring models you have completed, you
 
 **Step 1** - Take the activities and characteristics from exercises 1 and 2 and determine for each item whether they vary by location or product line.
 
-Example 3a – Signals in global and local markets:
+**Example 3a – Signals in global and local markets:**
 
-<table><tbody><tr><th><p><strong>Signal</strong></p></th><th><p><strong>Global</strong></p></th><th><p><strong>Local</strong></p></th></tr><tr><td><p>Activities</p></td><td><ul><li>Filled out “Request a demo” form</li><li>No interaction in last 90 days (about 3 months)</li></ul></td><td><ul><li>Visit us at tradeshow</li><li>Download a white paper</li></ul></td></tr><tr><td><p>Characteristics</p></td><td><ul><li>Department</li><li>Job title</li></ul></td><td><ul><li>Industry</li><li>Company size</li></ul></td></tr></tbody></table>
+| **Signal** | **Global** | **Local** |
+| --- | --- | --- |
+| Activities | <ul><li>Filled out “Request a demo” form</li><li>No interaction in last 90 days (about 3 months)</li></ul> | <ul><li>Visit us at tradeshow</li><li>Download a white paper</li></ul>
+| Characteristics | <ul><li>Department</li><li>Job title</li></ul> | <ul><li>Industry</li><li>Company size</li></ul> |
 
 **Step 2** - Define your scoring matrix for local markets:
 
@@ -136,8 +139,8 @@ Example 3a – Signals in global and local markets:
 
 **Step 3** - Collect input from your local or regional sales teams to develop a holistic view. You will notice that no individual scores are included in example 3c. This allows the sales team to focus on the relative worth of the different topics during the review process. However, you should have your full model documented as background materials for other Marketo Engage administrators.
 
-* Lock down what cannot be adjusted for global consistency (here in row 1).
-* Mark (here in grey) what can be adjusted for local influences.
+* Lock down what cannot be adjusted for global consistency (here in the “Implement topic?” column). 
+* Mark (here in "Priority" and "Score" columns) what can be adjusted for local influences.
 
 **Example 3c – Relative worth of scoring topics:**
 
@@ -145,7 +148,7 @@ Example 3a – Signals in global and local markets:
  <tr>
     <th>#</th>
     <th>Implement topic</th>
-    <th>Demographic/Behavioral</th>
+    <th>Demographic / Behavioral</th>
     <th>Topic</th>
     <th>Priority</th>
     <th>Values</th>
@@ -204,7 +207,7 @@ Example 3a – Signals in global and local markets:
     <td rowspan=3>Page visits on your website</td>
     <td rowspan=3>2</td>
     <td>>Product information pages</td>
-    <td>High</td>
+    <td>Low</td>
   </tr>
   <tr>
     <td>Pricing pages</td>
@@ -212,14 +215,14 @@ Example 3a – Signals in global and local markets:
   </tr>
   <tr>
     <td>Demo request page</td>
-    <td>Low</td>
+    <td>High</td>
   </tr>
 </table>
 
 ## What's Next?
 
-* Download the [person scoring exercise sheet](https://experienceleague.adobe.com) **LINK TO BE PROVIDED** to develop your scoring model offline.
-* Build out your person scoring in Marketo Engage. Check this [tutorial](https://experienceleague.adobe.com/en/docs/marketo-learn/tutorials/lead-and-data-management/lead-scoring-watch) and [demo](https://experienceleague.adobe.com/en/docs/events/marketo-and-mochas-recordings/2023/lead-scoring) to get started. You can import a lead/person scoring program [template](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/core-marketo-concepts/programs/working-with-programs/import-a-program) from the Marketo Engage Reference Library to accelerate the program build.
+* Download the [person scoring exercise sheet](./assets/build-person-scoring-model-and-local-flexibility-in-adobe-marketo-engage.docx){target="_blank} to develop your scoring model offline.
+* Build out your person scoring in Marketo Engage. Check this [tutorial](https://experienceleague.adobe.com/en/docs/marketo-learn/tutorials/lead-and-data-management/lead-scoring-watch){target="_blank} and [demo](https://experienceleague.adobe.com/en/docs/events/marketo-and-mochas-recordings/2023/lead-scoring){target="_blank} to get started. You can import a lead/person scoring program [template](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/core-marketo-concepts/programs/working-with-programs/import-a-program){target="_blank} from the Marketo Engage Reference Library to accelerate the program build.
 * Create two versions of the scoring program:
   * A central program that runs all scoring that cannot be updated locally.
   * A local copy with the scoring elements that are configurable.
@@ -229,8 +232,8 @@ Example 3a – Signals in global and local markets:
   * Determine which demographics and behavioral activities should only score once (i.e. Industry) and which should score every time a prospect qualifies (i.e. Attended a webinar). This ensures potential contacts triggered by the data value change are relevant for sales.
   * Make sure your choices are mutually exclusive.
   * Make your updates in both flow steps so the Person Score is updated in an identical way to the Demographic Score. That way, the Person Score stays in line with the combination of behavior score and demographic score.
-* Test the Smart Campaign once you’ve finished building your program. For example, go to your demo form, fill it out with a test email, and check your test person’s score in [Marketo Engage database](https://experienceleague.adobe.com/en/docs/marketo/using/getting-started-with-marketo/quick-wins/simple-scoring#step-view-the-person-info).
-* After you build your model, consider setting up an alert to go out to sales once the person’s score has reached your sales handoff threshold. Learn more about setting up an alert with this [tutorial](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/send-alert).
+* Test the Smart Campaign once you’ve finished building your program. For example, go to your demo form, fill it out with a test email, and check your test person’s score in [Marketo Engage database](https://experienceleague.adobe.com/en/docs/marketo/using/getting-started-with-marketo/quick-wins/simple-scoring#step-view-the-person-info){target="_blank}.
+* After you build your model, consider setting up an alert to go out to sales once the person’s score has reached your sales handoff threshold. Learn more about setting up an alert with this [tutorial](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/send-alert){target="_blank}.
 
 ### Authors
 

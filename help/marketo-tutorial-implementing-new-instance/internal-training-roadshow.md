@@ -14,7 +14,7 @@ thumbnail: KT-14809.jpeg
 
 As you bring a new [!DNL Marketo Engage] instance live, it's time to bring the relevant teams up to speed to leverage [!DNL Marketo Engage] for their jobs.
 
-These internal onboarding and training best practices were provided by Naomi Liu, an Adobe Marketo Engage customer, shares [internal onboarding](https://nation.marketo.com/t5/employee-blogs/peer-perspective-orchestrating-onboarding-across-global-teams/ba-p/244931) and [training best practices](https://nation.marketo.com/t5/employee-blogs/peer-perspective-how-to-train-internal-users-on-marketo-engage/ba-p/245237) derived from her experience implementing a new instance for Electronics for Imaging's global teams. Follow her insights to craft an effective training plan for your internal teams.
+These internal onboarding and training best practices were provided by Naomi Liu, an Adobe Marketo Engage customer, shares [internal onboarding](https://nation.marketo.com/t5/employee-blogs/peer-perspective-orchestrating-onboarding-across-global-teams/ba-p/244931){target="_blank} and [training best practices](https://nation.marketo.com/t5/employee-blogs/peer-perspective-how-to-train-internal-users-on-marketo-engage/ba-p/245237){target="_blank} derived from her experience implementing a new instance for Electronics for Imaging's global teams. Follow her insights to craft an effective training plan for your internal teams.
 
 ## Why develop an internal onboarding plan as you implement the new instance?  
 
@@ -41,7 +41,7 @@ As an administrator, you should start by immersing yourself in [!DNL Marketo Eng
 
 ## Sample Curriculum: Internal Training Roadshows
 
-Here's a sample of training curriculum suggested by Naomi Liu for you to customize for your marketing business partners. Download the sample training curriculum for your offline customization [LINK TO DOWNLOADABLE FILE].  
+Here's a sample of training curriculum suggested by Naomi Liu for you to customize for your marketing business partners. Download the [sample training curriculum](assets/adobe-marketo-engage-internal-training-roadshows.xlsx){_target="blank"} for your offline customization.  
 
 |Session Title  |Objectives  |Training Methods |Time Allocation  |
 |--- |--- |--- |--- |
