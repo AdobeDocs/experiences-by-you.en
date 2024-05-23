@@ -20,7 +20,7 @@ By understanding the importance of documentation and governance, this tutorial d
 
 ## Why Documenting changes and decisions during instance implementation is essential
 
-Approach your Marketo Engage documentation as if you're guiding a new employee unfamiliar with the technology to onboard to the instance. It's easy to overlook fundamental knowledge once you gained experience with Marketo Engage. As an administrator, you should ensure your enablement and governance documents cater to beginners. To facilitate new users’ learning, a practical method is incorporating definitions and best practices directly into your training materials.
+Approach your Marketo Engage documentation as if you're guiding a new employee unfamiliar with the technology to onboard to the instance. It's easy to overlook fundamental knowledge once you gained experience with Marketo Engage. As an administrator, you should ensure your enablement and governance documents cater to beginners. To facilitate new users' learning, a practical method is incorporating definitions and best practices directly into your training materials.
 
 Creating instance documentation during instance setup offers several benefits:
 
@@ -46,24 +46,27 @@ Guide your governance and documentation plan by starting with the sample outline
    * Subscription(s)
    * Workspaces and Partitions (if apply)
    * Technical Setup (DKIM/SPF/Munchkin)
-   * Roles and Responsibilities
-   * Users
+   * Roles* and Responsibilities
+   * Users*
    * Smart Campaign/Email/Program Settings
    * Communication Limits
    * Security
-   * Channels
+   * Channels*
    * Tags
 1. Data Structure
    * Field Structure
+   * Custom Objects
 1. Operational Programs
    * Person Scoring
    * Person Lifecycle
+   * Data Management
 1. Building In Marketo Engage Instance
-   * Center of Excellence (COE)
+   * [Center of Excellence (COE)](https://business.adobe.com/blog/perspectives/center-of-excellence-top-10-questions-to-ask-yourself)
    * Folder Structure
    * Naming Conventions
    * Program Organization
-   * Program Templates
+   * Program Templates*
+   * Design Studio Assets (email templates, landing page templates, snippets, forms)
    * Standardized Processes
    * Checklists
    * Segmentations
@@ -80,7 +83,7 @@ At minimum, your documentation should include the details of users and roles, pr
 
 ### Step 2 - Create a Changelog
 
-Another critical way of instance governance is to create a Changelog and enforce using it. Any time you change a setting in the ‘Admin’ section or an Operational program, your team should note it in a centralized place such as a shared spreadsheet. This can help you remember why you made a change and what it was like before. Fields you should document in the Changelog include:
+Another critical way of instance governance is to create a Changelog and enforce using it. Any time you change a setting in the 'Admin' section or an Operational program, your team should note it in a centralized place such as a shared spreadsheet. This can help you remember why you made a change and what it was like before. Fields you should document in the Changelog include:
 
 1. Date
 1. Program name
@@ -91,9 +94,9 @@ Another critical way of instance governance is to create a Changelog and enforce
 1. Reason for the change
 1. Who made the change
 
-## What’s Next?
+## What's Next?
 
-* Download the sample documentation and Changelog **HERE insert the downloadable links** and adapt them based on your organization’s needs.
+* Download the [sample documentation and Changelog](/help/marketo-tutorial-implementing-new-instance/assets/template-adobe-marketo-engage-instance-documentation.xlsx) and adapt them based on your organization's needs.
 * Store the documentation in an accessible platform where your organization prefers to reference and update regularly. For example, some Marketo Engage Champions use Confluence (by Atlassian) or Excel Spreadsheet.
 * Ensure every rule you make for governance has an owner to enforce it and adapt the documentation, keeping it up to date over time.  
 
