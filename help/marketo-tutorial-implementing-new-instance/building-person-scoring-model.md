@@ -54,17 +54,17 @@ Behavioral scoring is giving a numerical value to trackable actions a prospect t
 | --- | --- |
 | Threshold for sales handoff | 50  |
 
-**Step 4** - Assign a score to each activity listed in ‘Example 1a - Activities indicating intent to buy’.
+**Step 4** - Assign a score to each activity listed in 'Example 1a - Activities indicating intent to buy'.
 
-* Use a positive behavior score for the activities that indicate interest to boost a prospect’s overall lead score, and a negative score to indicate disinterest.
-* Using your threshold from ‘Example 1b – Threshold for sales handoff’ as a benchmark, determine your behavior scores relative to the importance of their actions. For example, prospects who request a demo should go straight to sales. Assigning that action a point value equal to your prospect handoff threshold will make the most sense. Meanwhile, downloading a white paper is not as strong an indicator of buying interest and therefore should be worth fewer points.
+* Use a positive behavior score for the activities that indicate interest to boost a prospect's overall lead score, and a negative score to indicate disinterest.
+* Using your threshold from 'Example 1b – Threshold for sales handoff' as a benchmark, determine your behavior scores relative to the importance of their actions. For example, prospects who request a demo should go straight to sales. Assigning that action a point value equal to your prospect handoff threshold will make the most sense. Meanwhile, downloading a white paper is not as strong an indicator of buying interest and therefore should be worth fewer points.
 
 **Example 1c – Scoring activities indicating intent to buy:**
 
 | Threshold for sales handoff = 50 points |     |
 | --- | --- |
 | Activity | Score |
-| Filled out “request a demo form” | +50 |
+| Filled out "request a demo form" | +50 |
 | No interaction in last 90 days | \-10 |
 | Download a white paper | +5  |
 | Visit us at a tradeshow | +15 |
@@ -73,7 +73,7 @@ Behavioral scoring is giving a numerical value to trackable actions a prospect t
 
 ## Exercise 2 - Identifying the right fit with Demographic Scores
 
-Now that you have defined the activities indicating buying intent, you should complete the scoring model with your Ideal Prospect Profiles. To identify whether a prospect is the right fit for further sales conversation, it’s important to assign demographic scores in addition to behavioral scores so that the model helps determine the best leads in terms of fit and intent.
+Now that you have defined the activities indicating buying intent, you should complete the scoring model with your Ideal Prospect Profiles. To identify whether a prospect is the right fit for further sales conversation, it's important to assign demographic scores in addition to behavioral scores so that the model helps determine the best leads in terms of fit and intent.
 
 **Step 1** - Make a list of characteristics for your ideal prospects.
 
@@ -111,13 +111,15 @@ Now that you have defined the activities indicating buying intent, you should co
 
 With the basic behavioral and demographic scoring models you have completed, you could take it to the next level by allowing local flexibility. Business values may vary in different markets when an organization operates globally. In the following exercise, you will learn how to apply scores to reflect the real business value of the lead activities or characteristics in different situations.
 
+[Video]
+
 **Step 1** - Take the activities and characteristics from exercises 1 and 2 and determine for each item whether they vary by location or product line.
 
 **Example 3a – Signals in global and local markets:**
 
 | **Signal** | **Global** | **Local** |
 | --- | --- | --- |
-| Activities | <ul><li>Filled out “Request a demo” form</li><li>No interaction in last 90 days (about 3 months)</li></ul> | <ul><li>Visit us at tradeshow</li><li>Download a white paper</li></ul> |
+| Activities | <ul><li>Filled out "Request a demo" form</li><li>No interaction in last 90 days (about 3 months)</li></ul> | <ul><li>Visit us at tradeshow</li><li>Download a white paper</li></ul> |
 | Characteristics | <ul><li>Department</li><li>Job title</li></ul> | <ul><li>Industry</li><li>Company size</li></ul> |
 
 **Step 2** - Define your scoring matrix for local markets:
@@ -139,7 +141,7 @@ With the basic behavioral and demographic scoring models you have completed, you
 
 **Step 3** - Collect input from your local or regional sales teams to develop a holistic view. You will notice that no individual scores are included in example 3c. This allows the sales team to focus on the relative worth of the different topics during the review process. However, you should have your full model documented as background materials for other Marketo Engage administrators.
 
-* Lock down what cannot be adjusted for global consistency (here in the “Implement topic?” column). 
+* Lock down what cannot be adjusted for global consistency (here in the "Implement topic" column). 
 * Mark (here in "Priority" and "Score" columns) what can be adjusted for local influences.
 
 **Example 3c – Relative worth of scoring topics:**
@@ -156,66 +158,66 @@ With the basic behavioral and demographic scoring models you have completed, you
  </tr>
  <tr>
     <td rowspan=6>1</td>
-    <td rowspan=6>REQUIRED</td>
+    <td rowspan=6><b>REQUIRED</b></td>
     <td rowspan=6>Demographic</td>
     <td rowspan=6>Industry</td>
-    <td rowspan=6>2</td>
+    <td rowspan=6><b>2</b></td>
     <td>Technology</td>
-    <td>High</td>
+    <td><b>High</b></td>
   </tr>
   <tr>
     <td>Fashion</td>
-    <td>High</td>
+    <td><b>High</b></td>
   </tr>
   <tr>
     <td>Retail</td>
-    <td>Medium</td>
+    <td><b>Medium</b></td>
   </tr>  
   <tr>
     <td>Manufacturing</td>
-    <td>Medium</td>
+    <td><b>Medium</b></td>
   </tr>
   <tr>
     <td>Healthcare</td>
-    <td>Low</td>
+    <td><b>Low</b></td>
   </tr>
   <tr>
     <td>...</td>
-    <td>Low</td>
+    <td><b>Low</b></td>
   </tr>
 <tr>
     <td rowspan=3>2</td>
-    <td rowspan=3>Yes</td>
+    <td rowspan=3><b>Yes</td>
     <td rowspan=3>Demographic</td>
     <td rowspan=3>Company size (employees)</td>
-    <td rowspan=3>3</td>
+    <td rowspan=3><b>3</td>
     <td>>1000 employees</td>
-    <td>High</td>
+    <td><b>High</td>
   </tr>
   <tr>
     <td>250-999 employees</td>
-    <td>Medium</td>
+    <td><b>Medium</td>
   </tr>
   <tr>
     <td>1-249 employees</td>
-    <td>Low</td>
+    <td><b>Low</td>
   </tr>  
 <tr>
     <td rowspan=3>3</td>
-    <td rowspan=3>No</td>
+    <td rowspan=3><b>No</b></td>
     <td rowspan=3>Behavioral</td>
     <td rowspan=3>Page visits on your website</td>
-    <td rowspan=3>2</td>
+    <td rowspan=3><b>2</b></td>
     <td>>Product information pages</td>
-    <td>Low</td>
+    <td><b>Low</b></td>
   </tr>
   <tr>
     <td>Pricing pages</td>
-    <td>Medium</td>
+    <td><b>Medium</b></td>
   </tr>
   <tr>
     <td>Demo request page</td>
-    <td>High</td>
+    <td><b>High</b></td>
   </tr>
 </table>
 
@@ -232,8 +234,8 @@ With the basic behavioral and demographic scoring models you have completed, you
   * Determine which demographics and behavioral activities should only score once (i.e. Industry) and which should score every time a prospect qualifies (i.e. Attended a webinar). This ensures potential contacts triggered by the data value change are relevant for sales.
   * Make sure your choices are mutually exclusive.
   * Make your updates in both flow steps so the Person Score is updated in an identical way to the Demographic Score. That way, the Person Score stays in line with the combination of behavior score and demographic score.
-* Test the Smart Campaign once you’ve finished building your program. For example, go to your demo form, fill it out with a test email, and check your test person’s score in [Marketo Engage database](https://experienceleague.adobe.com/en/docs/marketo/using/getting-started-with-marketo/quick-wins/simple-scoring#step-view-the-person-info){target="_blank}.
-* After you build your model, consider setting up an alert to go out to sales once the person’s score has reached your sales handoff threshold. Learn more about setting up an alert with this [tutorial](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/send-alert){target="_blank}.
+* Test the Smart Campaign once you've finished building your program. For example, go to your demo form, fill it out with a test email, and check your test person's score in [Marketo Engage database](https://experienceleague.adobe.com/en/docs/marketo/using/getting-started-with-marketo/quick-wins/simple-scoring#step-view-the-person-info){target="_blank}.
+* After you build your model, consider setting up an alert to go out to sales once the person's score has reached your sales handoff threshold. Learn more about setting up an alert with this [tutorial](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/send-alert){target="_blank}.
 
 ### Authors
 

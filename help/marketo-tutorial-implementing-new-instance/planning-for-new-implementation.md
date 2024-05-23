@@ -1,5 +1,5 @@
 ---
-title: Planning for your Marketo Engage implementation 
+title: Planning for a new Marketo Engage implementation
 description: Learn more about the essential planning and cross-functional team collaboration for successfully implementing a new Marketo Engage instance. This tutorial provides sample milestones, team engagements, and resource allocations for a seamless Marketo Engage implementation.
 role: Admin
 level: Beginner
@@ -10,7 +10,7 @@ jira: KT-14808
 thumbnail: KT-14808.jpeg
 ---
 
-# Planning for new Marketo Engage implementation
+# Planning for a new Marketo Engage implementation
 
 Implementing a new Marketo Engage instance involves meticulous planning, collaboration across teams, and continuous optimization. While there's no perfect recipe for implementing a new instance, most Marketo Engage administrators who have gone through it can agree that planning ahead will make the process a lot smoother.
 
@@ -25,13 +25,13 @@ In this tutorial, we will dive into the specific milestones, team engagements, a
 
 ### Phase 2 - Technical setup and configuration
 
-- Integrating Marketo Engage with CRM system(s)
+- Configuring admin settings including CNAMEs and Munchkin Code.
 - Configuring lead management processes
 - Testing automation workflows and data sync
 
 ### Phase 3 - Program library creation and campaign setup
 
-- Developing email templates and landing pages
+- Developing email templates and landing pages. Starting with [importing starter programs](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/core-marketo-concepts/programs/working-with-programs/import-a-program) from the [Program Import Library](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/core-marketo-concepts/programs/program-library/program-import-library-overview).
 - Setting up Segmentation and Personalization rules
 - Creating initial campaigns for lead generation and nurturing
 
@@ -49,25 +49,73 @@ In this tutorial, we will dive into the specific milestones, team engagements, a
 
 ## Stakeholders engagement and resources needed
 
-### Marketing Operations Team
+Implementing a new instance requires careful planning and execution to maximize its benefits. Getting the right stakeholders involved at the beginning will help tailor the implementation to your organization's overall needs. Reference the sample of key stakeholders and their potential role(s) in the project below to help you find the right internal partners to implement Marketo Engage.   
 
-- Project manager
-- Marketo Engage administrators
-- Content Creators and Designers
-- Data analysis for reporting and analytics
-
-### IT/Services Integration Team
-
-- IT System administrators
-- CRM System administrators
-- Developers for custom services integration work
-- Data engineers for data mapping and migration
-
-### Sales and Marketing Teams
-
-- Collaborating on lead management processes
-- Providing feedback on campaign effectiveness
-- Aligning marketing and sales strategies with Marketo Engage implementation
+<table>
+ <thead>
+    <tr>
+        <th>Stakeholder</th>
+        <th>Potential Role(s) and Responsibilities  </th>
+    </tr>
+ </thead>    
+ <tbody>
+    <tr>
+        <td>Marketing Operations Director/Manager</td>
+        <td>
+        <li>Main point-of-contact on project</li>
+        <li>Instance governance rules</li> 
+        <li>Data analysis for reporting and analytics </li> 
+        </td>
+    </tr>
+    <tr>
+        <td>CRM Admin</td>
+        <td>
+        <li>CRM Sync </li>
+        <li>Lead flow</li> 
+        </td>
+    </tr>
+     <tr>
+        <td>IT Admin</td>
+        <td>
+        <li>Munchkin</li>
+        <li>SPF/DKIM </li> 
+        <li>Web domain setup</li> 
+        <li>CNAMEs</li> 
+        <li>Email Deliverability</li>
+        </td>
+    </tr>
+    <tr>
+        <td>Engineering</td>
+        <td>
+        <li>Development for custom services integration work </li>
+        <li>Data engineering for data mapping and migration</li> 
+        </td>
+    </tr>
+     <tr>
+        <td>Marketing </td>
+        <td>
+        <li>Program templates creation and design</li>
+        <li>Channels </li>
+        <li>Lead/person scoring and lifecycle</li> 
+        <li>Reporting and feedback for program effectiveness</li> 
+        </td>
+    </tr>
+     <tr>
+        <td>Sales</td>
+        <td>
+        <li>Lead/person scoring modeling</li>
+        <li>Lead flow/routing</li>  
+        <li>Lifecycle Service Level Agreements (SLAs)</li> 
+        </td>
+    </tr>
+     <tr>
+        <td>C-Suite</td>
+        <td>
+        <li>Overall project direction  </li>
+        <li>High-level implementation goals</li> 
+        </td>
+    </tr>
+</table>
 
 ## Peer perspective - Marketo Engage implementation
 
@@ -79,7 +127,7 @@ Hear Marketo Engage Champion (2019), Kyle McCormick, about his onboarding and im
 
 Create a new implementation project plan and timeline. Below is a sample project timeline including sections for sample milestones, tasks, responsible teams, deadlines, and dependencies. Use it to streamline your Marketo Engage implementation journey and ensure a successful rollout across the organization.
 
-You can also download the example for editing and tracking specific milestone tasks HERE *LINK TO DOWNLOADABLE WORKSHEET*.
+You can also download the example for editing and tracking specific milestone tasks [HERE](/help/marketo-tutorial-implementing-new-instance/assets/adobe-marketo-engage-implementation-milestones-project-management-template.xlsx).
 
 <table>
  <thead>
@@ -107,18 +155,18 @@ You can also download the example for editing and tracking specific milestone ta
         <td bgcolor="c6f0cf">Complete</td>
         <td>9/5/24</td>
         <td>9/12/24</td>
-        <td>None</td>
+        <td>Web Development team</td>
     </tr>
     <tr>
-        <td><em>EXAMPLE -</em> Set up Domain Keys Identified Mail (DKIM) for deliverability</td>
+        <td><em>EXAMPLE -</em> Set up Domain Keys Identified Mail (DKIM) and 2 separate CNAMEs for deliverability and email tracking links.</td>
         <td bgcolor="c6f0cf">Complete</td>
         <td>9/15/24</td>
         <td>9/18/24</td>
-        <td>Support and guidance from IT Team</td>
+        <td>Support and setup from the IT Team</td>
     </tr>
     <tr>
         <td rowspan=4>Adobe Admin Console & Admin Setup</td>
-        <td><em>EXAMPLE -</em> Create Marketo Engage users</td>
+        <td><em>EXAMPLE -</em> Create Marketo Engage users and roleso</td>
         <td bgcolor="c6f0cf">Complete</td>
         <td>8/27/24</td>
         <td>9/15/24</td>
@@ -166,14 +214,14 @@ You can also download the example for editing and tracking specific milestone ta
         <td bgcolor="ffc7cf">Not Started</td>
         <td>11/9/24</td>
         <td>N/A</td>
-        <td>Support from Sales Ops team to determine a data management strategy</td>
+        <td>Support from the Sales Ops and CRM teams to determine a data management strategy.</td>
     </tr>
     <tr>
         <td><em>EXAMPLE -</em> Create an email subscription center</td>
         <td bgcolor="ffc7cf">Not Started</td>
         <td>11/19/24</td>
         <td>N/A</td>
-        <td>Input from the marketing teams on segmentation for mailing lists.</td>
+        <td>Input from the marketing teams on content types and segmentation for mailing lists.</td>
     <tr>
         <td rowspan=2>First Marketing Program Build</td>
         <td><em>EXAMPLE -</em> Set up basic email program</td>
@@ -187,7 +235,7 @@ You can also download the example for editing and tracking specific milestone ta
         <td bgcolor="ffc7cf">Not Started</td>
         <td>11/30/24</td>
         <td>N/A</td>
-        <td>Content from marketing team for newsletter email.</td>
+        <td>Content from marketing team for newsletter email and creative assets/content from the design team.</td>
     </tr>
     <tr>
         <td rowspan=2>LaunchPoint Integration Setup</td>
@@ -198,11 +246,11 @@ You can also download the example for editing and tracking specific milestone ta
         <td>Scope out the services needed for the new instance with the marketing teams.</td>
     </tr>
     <tr>
-        <td><em>EXAMPLE -</em> Create a custom service for Google AdWords</td>
+        <td><em>EXAMPLE -</em> Create a custom service for Google Ads</td>
         <td bgcolor="ffc7cf">Not Started</td>
         <td>12/7/24</td>
         <td>   </td>
-        <td>Support from Web and Paid Media teams to authenticate Marketo Engage to access Google Adwords.</td>
+        <td>Support from Web and Paid Media teams to authenticate Marketo Engage to access Google Ads.</td>
         <td>
     </tr>
     <tr>
@@ -211,7 +259,7 @@ You can also download the example for editing and tracking specific milestone ta
         <td bgcolor="ffc7cf">Not Started</td>
         <td>12/2/24</td>
         <td>N/A</td>
-        <td>Budget from team to contract this project out</td>
+        <td>Create a Marketo Engage governance team to build supporting governance documentation or budget to contract the governance project out.</td>
     <tr>
         <td><em>EXAMPLE -</em> Train 4 users and provide them with Standard Marketo User access</td>
         <td bgcolor="ffc7cf">Not Started</td>
@@ -224,17 +272,22 @@ You can also download the example for editing and tracking specific milestone ta
         <td bgcolor="ffc7cf">Not Started</td>
         <td>12/9/24</td>
         <td>N/A</td>
-        <td>None</td>
+        <td>Marketing Operations team to QA, schedule, and send.</td>
     </tr>
     <tr>
         <td><em>EXAMPLE -</em> Pull first Email Metrics Report</td>
         <td bgcolor="ffc7cf">Not Started</td>
         <td>12/16/24</td>
         <td>N/A</td>
-        <td>None</td>
+        <td>Marketing Operations team to QA, schedule, and send.</td>
     </tr>
  </tbody>    
 </table>
+
+>[!NOTE]
+>Examples provided are not based on a real implementation timeline. Do not rely on these as a standard timeline for your onboarding with Marketo Engage, as every implementation is unique with different milestones and requirements according to your organization's needs.
+
+For hand-in-hand assistance in implementing and customizing your Marketo Engage for your instance, please contact the Adobe Account Team or reach out to Adobe Professional Services. 
 
 ### Author
 
