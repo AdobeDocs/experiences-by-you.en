@@ -82,21 +82,20 @@ I'm excited to share some fantastic news regarding our Marketo Engage implementa
 Here are the highlights of our success:
 
 1. Targeted Email Campaign Success
-* Program Name: <i>[Campaign Name]</i>
-* Objective: <i>[Briefly describe the campaign objective, e.g., increasing webinar sign-ups, promoting a new product, etc.]</i>
-* Results:
-* Open Rate: <i>[Percentage]</i>
-* Click-through Rate: <i>[Percentage]</i>
-* Conversion Rate: <i>[Percentage or specific outcomes achieved]</i>
-* Key Learnings: <i>[Share any insights or lessons learned from the campaign]</i>
-
+   * Program Name: <i>[Campaign Name]</i>
+   * Objective: <i>[Briefly describe the campaign objective, e.g., increasing webinar sign-ups, promoting a new product, etc.]</i>
+   * Results:
+   * Open Rate: <i>[Percentage]</i>
+   * Click-through Rate: <i>[Percentage]</i>
+   * Conversion Rate: <i>[Percentage or specific outcomes achieved]</i>
+   * Key Learnings: <i>[Share any insights or lessons learned from the campaign]</i>
 2. Streamlined Lead Nurturing Workflow
-* Program Name: <i>[Workflow Name]</i>
-* Objective: <i>[Briefly describe the workflow's purpose, e.g., nurturing leads through the sales funnel, automating follow-ups, etc.]</i>
-* Results:
-* Increased Lead Engagement: <i>[Describe any improvements in lead engagement metrics, such as higher response rates, faster lead progression, etc.]</i>
-* Time Savings: <i>[Mention any time-saving benefits achieved through automation]</i>
-* Key Learnings: <i>[Share any insights gained from optimizing the workflow]</i>
+   * Program Name: <i>[Workflow Name]</i>
+   * Objective: <i>[Briefly describe the workflow's purpose, e.g., nurturing leads through the sales funnel, automating follow-ups, etc.]</i>
+   * Results:
+   * Increased Lead Engagement: <i>[Describe any improvements in lead engagement metrics, such as higher response rates, faster lead progression, etc.]</i>
+   * Time Savings: <i>[Mention any time-saving benefits achieved through automation]</i>
+   * Key Learnings: <i>[Share any insights gained from optimizing the workflow]</i>
 
 These successes are a testament to our team's dedication and Marketo Engage's capabilities in driving targeted engagement and efficient automation. They showcase the positive impact our efforts already are having on our marketing efforts.
 
