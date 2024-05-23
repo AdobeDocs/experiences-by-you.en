@@ -40,29 +40,29 @@ Take the information you laid out in the previous exercise and communicate speci
 <th>Sample Email</th>
 </tr>
 <tr>
-<td>Dear [NAME],
+<td>Dear <i>[NAME]</i>,
 
-Good news! As of this week, we have begun our onboarding of the Marketo Engage. Integrating this marketing automation technology into our MarTech stack will bring [COMPANY NAME] to a whole new level. With our focus on[MARKETING GOALS], Marketo Engage will allow us to orchestrate and execute cross-channel campaigns to acquire, nurture, expand, and retain customers.
+Good news! As of this week, we have begun our onboarding of the Marketo Engage. Integrating this marketing automation technology into our MarTech stack will bring <i>[COMPANY NAME]</i> to a whole new level. With our focus on <i>[MARKETING GOALS]</i>, Marketo Engage will allow us to orchestrate and execute cross-channel campaigns to acquire, nurture, expand, and retain customers.
 
-Our priorities during this implementation will be [ONBOARDING PRIORITIES]. While we anticipate a smooth process, we want to point out that [POTENTIAL ROADBLOCKS] may require some extra time and investment. In order to complete this process as efficiently and effectively as possible, my team would appreciate [ASKS OF SHAREHOLDERS]. Thank you for your continued support of this effort and your investment in [COMPANY NAME]'s success.
-
-Best,
-[YOUR NAME]</td>
-
-<td>Dear [Sales Executive],
-
-Good news! As of this week, we have begun our onboarding of the Marketo Engagement Platform. Integrating this marketing automation technology into our MarTech stack will bring [our company] to a whole new level. With our focus on [scaling our marketing efforts to bring sales reps more, higher quality leads], Marketo Engage will allow us to [automate many of our processes, create a custom lead/person scoring structure, and nurture leads to ensure they are ready to buy when they get to the sales team].
-
-Our priorities during this implementation will be [integrating our CRM and building out our lead/customer nurture programs]. While we anticipate a smooth process, [potential challenges e.g. shoring up our data hygiene and a lack of clear lead scoring strategy] may require some extra time and investment. To complete this process as efficiently and effectively as possible, my team would appreciate [your support in engaging sales operations to help us clean our data your sales leadership team to create a comprehensive lead/person scoring strategy]. Thank you for your continued support of this effort and your investment in [our business]'s success.
+Our priorities during this implementation will be <i>[ONBOARDING PRIORITIES]</i>. While we anticipate a smooth process, we want to point out that ,<i>[POTENTIAL ROADBLOCKS]</i> may require some extra time and investment. In order to complete this process as efficiently and effectively as possible, my team would appreciate [ASKS OF SHAREHOLDERS]. Thank you for your continued support of this effort and your investment in <i>[COMPANY NAME]</i>'s success.
 
 Best,
-[NAME/Marketing Operation]
+<i>[YOUR NAME]</i></td>
+
+<td>Dear <i>[Sales Executive]</i>,
+
+Good news! As of this week, we have begun our onboarding of the Marketo Engagement Platform. Integrating this marketing automation technology into our MarTech stack will bring <i>[our company]</i> to a whole new level. With our focus on <i>[scaling our marketing efforts to bring sales reps more, higher quality leads]</i>, Marketo Engage will allow us to <i>[automate many of our processes, create a custom lead/person scoring structure, and nurture leads to ensure they are ready to buy when they get to the sales team]</i>.
+
+Our priorities during this implementation will be [integrating our CRM and building out our lead/customer nurture programs]. While we anticipate a smooth process, <i>[potential challenges e.g. shoring up our data hygiene and a lack of clear lead scoring strategy]</i> may require some extra time and investment. To complete this process as efficiently and effectively as possible, my team would appreciate <i>[your support in engaging sales operations to help us clean our data your sales leadership team to create a comprehensive lead/person scoring strategy]</i>. Thank you for your continued support of this effort and your investment in <i>[our business]</i>'s success.
+
+Best,
+<i>[NAME/Marketing Operation]</i>
 </td> 
 </tr>
 </table>
 
 
-#### Action 3 - Demonstrate Early Wins
+### Action 3 - Demonstrate Early Wins
 
 Showcase quick wins or pilot projects to demonstrate the impact of Marketo Engage. This could be a targeted email campaign that drives significant engagement or an automated workflow that streamlines lead nurturing. Share these successes with stakeholders to reinforce their support and enthusiasm.
 
@@ -75,57 +75,58 @@ Showcase quick wins or pilot projects to demonstrate the impact of Marketo Engag
 </tr>
 <tr>
 <td>
-Dear [NAME],
+Dear <i>[NAME]</i>,
 
 I'm excited to share some fantastic news regarding our Marketo Engage implementation! Thanks to our collaborative efforts and strategic approach, we have achieved significant early wins that I believe demonstrate the immense value Marketo Engage brings to our organization.
 
 Here are the highlights of our success:
 
 1. Targeted Email Campaign Success
-* Program Name: [Campaign Name]
-* Objective: [Briefly describe the campaign objective, e.g., increasing webinar sign-ups, promoting a new product, etc.]
+* Program Name: <i>[Campaign Name]</i>
+* Objective: <i>[Briefly describe the campaign objective, e.g., increasing webinar sign-ups, promoting a new product, etc.]</i>
 * Results:
-* Open Rate: [Percentage]
-* Click-through Rate: [Percentage]
-* Conversion Rate: [Percentage or specific outcomes achieved]
-* Key Learnings: [Share any insights or lessons learned from the campaign]
+* Open Rate: <i>[Percentage]</i>
+* Click-through Rate: <i>[Percentage]</i>
+* Conversion Rate: <i>[Percentage or specific outcomes achieved]</i>
+* Key Learnings: <i>[Share any insights or lessons learned from the campaign]</i>
 
-1. Streamlined Lead Nurturing Workflow
-* Program Name: [Workflow Name]
-* Objective: [Briefly describe the workflow's purpose, e.g., nurturing leads through the sales funnel, automating follow-ups, etc.]
+2. Streamlined Lead Nurturing Workflow
+* Program Name: <i>[Workflow Name]</i>
+* Objective: <i>[Briefly describe the workflow's purpose, e.g., nurturing leads through the sales funnel, automating follow-ups, etc.]</i>
 * Results:
-* Increased Lead Engagement: [Describe any improvements in lead engagement metrics, such as higher response rates, faster lead progression, etc.]
-* Time Savings: [Mention any time-saving benefits achieved through automation]
-* Key Learnings: [Share any insights gained from optimizing the workflow]
+* Increased Lead Engagement: <i>[Describe any improvements in lead engagement metrics, such as higher response rates, faster lead progression, etc.]</i>
+* Time Savings: <i>[Mention any time-saving benefits achieved through automation]</i>
+* Key Learnings: <i>[Share any insights gained from optimizing the workflow]</i>
 
 These successes are a testament to our team's dedication and Marketo Engage's capabilities in driving targeted engagement and efficient automation. They showcase the positive impact our efforts already are having on our marketing efforts.
 
 I invite you to celebrate these achievements with us and look forward to your continued support as we further leverage Marketo Engage to achieve our strategic goals.
 
 Best,
-[Your Name] </td>
+<i>[Your Name]</i> </td>
 
-<td>Dear [NAME],
+<td>Dear <i>[NAME]</i>,
 
 I'm thrilled to share some exciting news regarding our Marketo Engage implementation! Our team has been hard at work crafting targeted strategies that have already yielded impressive results. These early wins showcase the power and potential of Marketo Engage in driving user engagement and streamlining lead nurturing processes.
 
 Here are the highlights of our recent successes:
 
-1. Targeted Email Campaign Success: Our recent email campaign [promoting a new product launch], deployed with Marketo Engage, has achieved a remarkable performance [with 50% open rate and 10% conversion rate]. This campaign not only engaged our audience effectively but also contributed significantly to our overall lead generation goals.
+1. Targeted Email Campaign Success: Our recent email campaign [promoting a new product launch], deployed with Marketo Engage, has achieved a remarkable performance <i>[with 50% open rate and 10% conversion rate]</i>. This campaign not only engaged our audience effectively but also contributed significantly to our overall lead generation goals.
 
-2. Automated Workflow Efficiency: By leveraging Marketo Engage's automation capabilities, we have streamlined our lead nurturing workflow, resulting in [a 3-day reduction in response time and a 10% increase in lead conversion rates]. This efficiency gain has had a tangible impact on our bottom line and customer satisfaction.
+2. Automated Workflow Efficiency: By leveraging Marketo Engage's automation capabilities, we have streamlined our lead nurturing workflow, resulting in <i>[a 3-day reduction in response time and a 10% increase in lead conversion rates]</i>. This efficiency gain has had a tangible impact on our bottom line and customer satisfaction.
 
 These achievements underscore the value that Marketo Engage brings to our organization and the potential for even greater success as we continue to explore its capabilities.
+
 Your ongoing support and engagement are invaluable as we navigate this journey of Marketo Engage implementation. If you have any questions or would like more details about our strategies and results, please don't hesitate to reach out.
 Thank you for your continued partnership in implementing Marketo Engage.
 
 Best,
-[Your Name]
+<i>[Your Name]</i>
 </td> 
 </tr>
 </table>
 
-#### Action 4 - Foster Ongoing Communication
+### Action 4 - Foster Ongoing Communication
 
 Maintain regular communication channels with stakeholders throughout the implementation process. Schedule check-in meetings or send progress updates using the provided email templates to keep them informed and involved. This also allows you to address any concerns or questions promptly to ensure ongoing buy-in from those teams.
 
@@ -138,34 +139,34 @@ Maintain regular communication channels with stakeholders throughout the impleme
 </tr>
 <tr>
 <td>
-Dear [NAME],
+Dear <i>[NAME]</i>,
 
 A few weeks ago, my team began the process of implementing the Marketo Engage Platform. I wanted to provide you with updates on our progress as well as a quick look at what's next and what this means for your team.
 
-[List relevant project milestones and task status. Update progress as needed.]
+<i>[List relevant project milestones and task status. Update progress as needed.]</i>
 
-Our sincere thanks to [TEAM] for their help with [CHALLENGE]. In order to complete our next steps in a timely manner, we will need [ASKS OF SHAREHOLDER].
+Our sincere thanks to <i>[TEAM]</i> for their help with <i>[CHALLENGE]</i>. In order to complete our next steps in a timely manner, we will need <i>[ASKS OF SHAREHOLDER]</i>.
 
-Thank you for your continued support of this effort and your investment in [COMPANY NAME]'s success.
+Thank you for your continued support of this effort and your investment in <i>[COMPANY NAME]</i>'s success.
 
 Best,
-[YOUR NAME] </td>
+<i>[YOUR NAME]</i> </td>
 
-<td>Dear [Sales Executive],
+<td>Dear <i>[Sales Executive]</i>,
 
 A few weeks ago, my team began the process of implementing Marketo Engage. I wanted to provide you with updates on our progress as well as a quick look at what's next and what this means for you and your team.
 
-Define lead/person scoring strategy - [Complete/In-progress/Not started]
- Map out CRM-Marketo Engage fields - [Complete/In-progress/Not started]
- Integrate Salesforce with Marketo Engage - [Complete/In-progress/Not started]
- Build first Marketo Engage program - [Complete/In-progress/Not started]
+Define lead/person scoring strategy - <i>[Complete/In-progress/Not started]</i>
+ Map out CRM-Marketo Engage fields - <i>[Complete/In-progress/Not started]</i>
+ Integrate Salesforce with Marketo Engage - <i>[Complete/In-progress/Not started]</i>
+ Build first Marketo Engage program - <i>[Complete/In-progress/Not started]</i>
 
 Our sincere thanks to [the Sales Operations team] for their help with [collaboration e.g. our Salesforce-Marketo Engage field mapping]. Our priorities moving forward will be finalizing our lead scoring strategy and beginning to build out a lead scoring strategy in Marketo, as well as integrating CRM and Marketo Engage.
 
-Thank you for your continued support of this effort and your investment in [our company's] success.
+Thank you for your continued support of this effort and your investment in <i>[our company's]</i> success.
 
 Best,
-[NAME/Marketing Operation]
+<i>[NAME/Marketing Operation]</i>
 </td> 
 </tr>
 </table>
@@ -174,7 +175,7 @@ By following these actionable tips and referencing the templates, you will be be
 
 ## What's Next?
 
-Download and use the [Onboarding Internal Communications Guide and Template](https://experienceleague.adobe.com){target="_blank} **LINK TO BE PROVIDED** craft regular updates and report progress for stakeholders. Include key metrics, achievements, and upcoming milestones to keep them informed and engaged.
+Download and use the [Onboarding Internal Communications Guide and Template](/help/marketo-tutorial-implementing-new-instance/assets/marketo-engage-new-instance-onboarding-internal-communications-guide-template.xlsx){target="_blank} craft regular updates and report progress for stakeholders. Include key metrics, achievements, and upcoming milestones to keep them informed and engaged.
 
 ### Authors
 
