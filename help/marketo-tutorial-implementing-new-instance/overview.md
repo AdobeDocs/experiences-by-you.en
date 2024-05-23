@@ -31,5 +31,5 @@ This 'Implementing A New Instance Tips and Tricks' series is sourced Adobe [!DNL
   * [Salesforce sync](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/integrations/salesforce-sync-setup.html?lang=en)
   * [Microsoft Dynamics sync](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/integrations/microsoft-dynamics-sync-setup.html?lang=en)
 * [Organizing a new instance and establishing naming conventions](/help/marketo-tutorial-implementing-new-instance/organizing-new-instance.md)
-* [Designing omnichannel conversational marketing with Dynamic Chat](/help/marketo-tutorial-implementing-new-instance/designing-omnichannel-conversational-marketing.mddesigning-omnichannel-conversational-marketing.md) 
+* [Designing omnichannel conversational marketing with Dynamic Chat](/help/marketo-tutorial-implementing-new-instance/designing-omnichannel-conversational-marketing.md) 
 * [Getting started on instance governance and documentation](/help/marketo-tutorial-implementing-new-instance/documenting-your-instance.md)
