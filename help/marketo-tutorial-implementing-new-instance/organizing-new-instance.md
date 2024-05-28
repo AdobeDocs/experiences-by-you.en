@@ -34,10 +34,6 @@ Here are some quick tips when structuring the folders in tree:
 
 Below are folder examples of putting these tips into practice.
 
->[!NOTE]
->
->**FOR THE BELOW TABLE** --> Please see the NOTE blocks in step 2 that reference the table options.  I will make this table match whatever you decide for step 2.spot
-
 **Folder Name in Tree**
 
 **Marketing Activities**
@@ -61,11 +57,11 @@ Below are folder examples of putting these tips into practice.
   * Interesting Moments - *Marketo Interesting Moment Program and Campaigns.*
   * Sales Request - *Program with Campaigns that sales can add a lead or contact to.*
   * Sales Email - *Program with Emails that sales can send through Sales Insight.*
-\_Archive - *Place where Programs got deactivated reside, after they are no longer interacting with your audience.*
-  * \_Learning - *Place where all Training Exercises would be stored - if you want to keep them.*
-  * \_Testing - *Place where the administrators can test and learn new things and all Test Programs would be stored - if you want to keep them.*
-  * \_2022
-  * \_2023
+* \_Archive - *Place where Programs got deactivated reside, after they are no longer interacting with your audience.*
+* \_Learning - *Place where all Training Exercises would be stored - if you want to keep them.*
+* \_Testing - *Place where the administrators can test and learn new things and all Test Programs would be stored - if you want to keep them.*
+* \_2022
+* \_2023
 
 **Design Studio**
 
@@ -110,17 +106,17 @@ Below are folder examples of putting these tips into practice.
 
 ### Step 2 - Building folders within the programs
 
-Now, let's apply the folder structure at the program level. As a best practice, housing the local assets in sub-folders will help you keep the programs tidy and allow internal users to modify or report on the programs efficiently. Common sub-folders include emails, landing pages, Smart Campaigns, Lists, Reports, etc.
+Now, let's apply the folder structure at the program level. As a best practice, housing the local assets in sub-folders will help you keep the programs tidy and allow internal users to modify or report on the programs efficiently. Common sub-folders include emails, landing pages, Smart Campaigns, Lists, Reports, etc..
 
 **Folder Name inside Programs**
 * Campaigns - *Folder for all campaigns managing interactions and status tracking.*
-* Local Assets - *Folder for all assets that are specific to this Program*
+* Local Assets - *Folder for all assets that are specific to this Program.*
   * Emails
   * Landing Pages
   * Smart Campaigns
-  * Lists - Only needed when there are Program specific Lists.
-  * Forms - Only needed when there are Program specific Forms; most Forms are Global Assets.
-  * Reports - Only needed when there are Program specific Reports.
+  * Lists - *Only needed when there are Program specific Lists.*
+  * Forms - *Only needed when there are Program specific Forms; most Forms are Global Assets.*
+  * Reports - *Only needed when there are Program specific Reports.*
 
 ### Step 3 - Create naming conventions for your programs and assets
 
