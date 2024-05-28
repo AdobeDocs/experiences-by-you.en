@@ -46,7 +46,7 @@ Guide your governance and documentation plan by starting with the sample outline
    * Subscription(s)
    * Workspaces and Partitions (if apply)
    * Technical Setup (DKIM/SPF/Munchkin)
-   * Roles* and Responsibilities
+   * Roles and Responsibilities*
    * Users*
    * Smart Campaign/Email/Program Settings
    * Communication Limits
@@ -61,7 +61,7 @@ Guide your governance and documentation plan by starting with the sample outline
    * Person Lifecycle
    * Data Management
 1. Building In Marketo Engage Instance
-   * [Center of Excellence (COE)](https://business.adobe.com/blog/perspectives/center-of-excellence-top-10-questions-to-ask-yourself)
+   * [Center of Excellence (COE)](https://business.adobe.com/blog/perspectives/center-of-excellence-top-10-questions-to-ask-yourself){target="_blank} 
    * Folder Structure
    * Naming Conventions
    * Program Organization
@@ -79,7 +79,7 @@ Guide your governance and documentation plan by starting with the sample outline
 1. Other Integrations
 1. GDPR & Compliance
 
-At minimum, your documentation should include the details of users and roles, program templates, and channels once the setup has been finished.
+\* At minimum, your documentation should include the details of users and roles, program templates, and channels once the setup has been finished.
 
 ### Step 2 - Create a Changelog
 
