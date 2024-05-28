@@ -39,3 +39,8 @@ Adobe Marketo Engage Champion (2023)
 
 **Julz James**, Sr Marketing Operations Manager, 6sense
 Adobe Marketo Engage Champion (2015)
+
+## Peter Livadas {#peter-livadas}
+![Peter Livadas](/help/marketo-tutorial-implementing-new-instance/assets/peter_livadas.png){width=150px}
+
+**Peter Livadas **, Marketo Engage Senior Technical Consultant at Adobe
