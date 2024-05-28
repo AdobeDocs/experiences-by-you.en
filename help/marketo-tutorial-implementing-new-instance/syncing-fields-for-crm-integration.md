@@ -16,7 +16,7 @@ Are you using Salesforce or Microsoft Dynamics within your organization? If so, 
 
 Learn more about how to conduct this exercise with best practices suggested by Adobe Professional Services. Follow along to understand Standard Fields and Custom Fields and document their relationships between Marketo Engage and your CRM. 
 
-##  Identify fields to sync before integrating your CRM with Marketo Engage
+## Identify fields to sync before integrating your CRM with Marketo Engage
 
 When integrating your CRM with Marketo Engage, you probably won't need to sync all your CRM fields to Marketo Engage. Being strategic about the fields you need can help your Marketo Engage instance process the data flow more efficiently.  
 
