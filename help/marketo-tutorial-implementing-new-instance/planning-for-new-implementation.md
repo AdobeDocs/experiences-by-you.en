@@ -166,7 +166,7 @@ You can also download the example for editing and tracking specific milestone ta
     </tr>
     <tr>
         <td rowspan=4>Adobe Admin Console & Admin Setup</td>
-        <td><em>EXAMPLE -</em> Create Marketo Engage users and roleso</td>
+        <td><em>EXAMPLE -</em> Create Marketo Engage users and roles</td>
         <td bgcolor="c6f0cf">Complete</td>
         <td>8/27/24</td>
         <td>9/15/24</td>
@@ -275,7 +275,7 @@ You can also download the example for editing and tracking specific milestone ta
         <td>Marketing Operations team to QA, schedule, and send.</td>
     </tr>
     <tr>
-        <td><em>EXAMPLE -</em> Pull first Email Metrics Report</td>
+        <td><em>EXAMPLE -</em> Pull the first Email Performance Report.</td>
         <td bgcolor="ffc7cf">Not Started</td>
         <td>12/16/24</td>
         <td>N/A</td>
@@ -287,7 +287,7 @@ You can also download the example for editing and tracking specific milestone ta
 >[!NOTE]
 >Examples provided are not based on a real implementation timeline. Do not rely on these as a standard timeline for your onboarding with Marketo Engage, as every implementation is unique with different milestones and requirements according to your organization's needs.
 
-For hand-in-hand assistance in implementing and customizing your Marketo Engage for your instance, please contact the Adobe Account Team or reach out to Adobe Professional Services. 
+For hand-in-hand assistance in implementing and customizing your Marketo Engage for your instance, please contact the Adobe Account Team or reach out to [Adobe Professional Services](https://business.adobe.com/customers/consulting-services/main.html){target="_blank"}. 
 
 ### Author
 
