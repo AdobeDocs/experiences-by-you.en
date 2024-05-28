@@ -44,7 +44,7 @@ Take the information you laid out in the previous exercise and communicate speci
 
 Good news! As of this week, we have begun our onboarding of the Marketo Engage. Integrating this marketing automation technology into our MarTech stack will bring <i>[COMPANY NAME]</i> to a whole new level. With our focus on <i>[MARKETING GOALS]</i>, Marketo Engage will allow us to orchestrate and execute cross-channel campaigns to acquire, nurture, expand, and retain customers.
 
-Our priorities during this implementation will be <i>[ONBOARDING PRIORITIES]</i>. While we anticipate a smooth process, we want to point out that ,<i>[POTENTIAL ROADBLOCKS]</i> may require some extra time and investment. In order to complete this process as efficiently and effectively as possible, my team would appreciate [ASKS OF SHAREHOLDERS]. Thank you for your continued support of this effort and your investment in <i>[COMPANY NAME]</i>'s success.
+Our priorities during this implementation will be <i>[ONBOARDING PRIORITIES]</i>. While we anticipate a smooth process, we want to point out that ,<i>[POTENTIAL ROADBLOCKS]</i> may require some extra time and investment. In order to complete this process as efficiently and effectively as possible, my team would appreciate <i>[ASKS OF SHAREHOLDERS]</i>. Thank you for your continued support of this effort and your investment in <i>[COMPANY NAME]</i>'s success.
 
 Best,
 <i>[YOUR NAME]</i></td>
@@ -53,7 +53,7 @@ Best,
 
 Good news! As of this week, we have begun our onboarding of the Marketo Engagement Platform. Integrating this marketing automation technology into our MarTech stack will bring <i>[our company]</i> to a whole new level. With our focus on <i>[scaling our marketing efforts to bring sales reps more, higher quality leads]</i>, Marketo Engage will allow us to <i>[automate many of our processes, create a custom lead/person scoring structure, and nurture leads to ensure they are ready to buy when they get to the sales team]</i>.
 
-Our priorities during this implementation will be [integrating our CRM and building out our lead/customer nurture programs]. While we anticipate a smooth process, <i>[potential challenges e.g. shoring up our data hygiene and a lack of clear lead scoring strategy]</i> may require some extra time and investment. To complete this process as efficiently and effectively as possible, my team would appreciate <i>[your support in engaging sales operations to help us clean our data your sales leadership team to create a comprehensive lead/person scoring strategy]</i>. Thank you for your continued support of this effort and your investment in <i>[our business]</i>'s success.
+Our priorities during this implementation will be <i>[integrating our CRM and building out our lead/customer nurture programs]</i>. While we anticipate a smooth process, <i>[potential challenges e.g. shoring up our data hygiene and a lack of clear lead scoring strategy]</i> may require some extra time and investment. To complete this process as efficiently and effectively as possible, my team would appreciate <i>[your support in engaging sales operations to help us clean our data your sales leadership team to create a comprehensive lead/person scoring strategy]</i>. Thank you for your continued support of this effort and your investment in <i>[our business]</i>'s success.
 
 Best,
 <i>[NAME/Marketing Operation]</i>
@@ -110,13 +110,14 @@ I'm thrilled to share some exciting news regarding our Marketo Engage implementa
 
 Here are the highlights of our recent successes:
 
-1. Targeted Email Campaign Success: Our recent email campaign [promoting a new product launch], deployed with Marketo Engage, has achieved a remarkable performance <i>[with 50% open rate and 10% conversion rate]</i>. This campaign not only engaged our audience effectively but also contributed significantly to our overall lead generation goals.
+1. Targeted Email Campaign Success: Our recent email campaign <i><[promoting a new product launch]></i>, deployed with Marketo Engage, has achieved a remarkable performance <i>[with 50% open rate and 10% conversion rate]</i>. This campaign not only engaged our audience effectively but also contributed significantly to our overall lead generation goals.
 
 2. Automated Workflow Efficiency: By leveraging Marketo Engage's automation capabilities, we have streamlined our lead nurturing workflow, resulting in <i>[a 3-day reduction in response time and a 10% increase in lead conversion rates]</i>. This efficiency gain has had a tangible impact on our bottom line and customer satisfaction.
 
 These achievements underscore the value that Marketo Engage brings to our organization and the potential for even greater success as we continue to explore its capabilities.
 
 Your ongoing support and engagement are invaluable as we navigate this journey of Marketo Engage implementation. If you have any questions or would like more details about our strategies and results, please don't hesitate to reach out.
+
 Thank you for your continued partnership in implementing Marketo Engage.
 
 Best,
@@ -176,6 +177,6 @@ By following these actionable tips and referencing the templates, you will be be
 
 Download and use the [Onboarding Internal Communications Guide and Template](/help/marketo-tutorial-implementing-new-instance/assets/marketo-engage-new-instance-onboarding-internal-communications-guide-template.xlsx){target="_blank} craft regular updates and report progress for stakeholders. Include key metrics, achievements, and upcoming milestones to keep them informed and engaged.
 
-### Authors
+### Author
 
 {{amy-chiu}}
