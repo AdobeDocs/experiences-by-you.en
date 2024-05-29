@@ -73,7 +73,6 @@ This Dialogue provides five initial options for site visitors to choose from, cr
 
 1. Re-test your tracking Smart Campaign when it is live. 
 
-
 >[!ENDTABS]
 
 #### Level up: Account-based marketing 
@@ -134,7 +133,6 @@ Create your tracking Smart Campaign within the webinar/event program template an
 
 Add your campaign name to the tracking Smart Campaign within Marketo Engage and test it. 
 
-
 >[!ENDTABS]
 
 
@@ -181,6 +179,8 @@ Extending Campaign Content Engagement - Configuration:
    * When web visitors came from your marketing channels and land on your webpage.
    * On the thank you page
    * Any visitors who return to your website within 45 days of engaging in the marketing campaign (retargeting)
+
+>[!ENDTABS]
 
 ## What's Next? 
 
