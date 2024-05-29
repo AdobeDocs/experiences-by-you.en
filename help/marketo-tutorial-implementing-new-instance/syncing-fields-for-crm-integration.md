@@ -23,8 +23,6 @@ When integrating your CRM with Marketo Engage, you probably won't need to sync a
 The initial sync between your Marketo Engage and CRM system will automatically make associations for most existing standard fields (i.e. Email, First/Last Name, Company, etc.). Additionally, the connector also syncs [Custom Fields](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/field-management/custom-field-type-glossary){target ="_blank"} for your Leads, Contacts, Accounts, and Opportunities by creating new fields in Marketo Engage that are automatically mapped to those fields from your CRM. 
  
 Identifying and organizing the fields that you'd like to sync from your CRM prior to performing the initial sync is a critical step in the Native Connector setup process. We refer to this as a Data Dictionary exercise, which helps you minimize the number of duplicate fields that get created and make any subsequent remapping steps go as smoothly as possible. This exercise typically involves input from the Marketing and Sales teams and your CRM Admin to ensure that only relevant fields are synced to your Marketo Engage instance. 
-
-**[DOWNLOADABLE FILE/SCREENSHOT] - To be provided by Amy Chiu**
  
 ## How to build your Data Dictionary
 

@@ -44,4 +44,10 @@ Adobe Marketo Engage Champion (2015)
 
 ![Peter Livadas](/help/marketo-tutorial-implementing-new-instance/assets/peter_livadas.png){width=150px}
 
-**Peter Livadas **, Marketo Engage Senior Technical Consultant at Adobe
+**Peter Livadas**, Marketo Engage Senior Technical Consultant at Adobe
+
+## Sara Barriuso {#sara-barriuso}
+
+![Sara Barriuso](/help/marketo-tutorial-implementing-new-instance/assets/sara_barriuso.png){width=150px}
+
+**Sara Barriuso**, Marketing Operations Manager at Cornerstone OnDemand 

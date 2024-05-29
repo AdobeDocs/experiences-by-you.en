@@ -36,73 +36,21 @@ Below are folder examples of putting these tips into practice.
 
 **Folder Name in Tree**
 
-**Marketing Activities**
+>[!BEGINTABS]
 
-* Active Marketing Programs - *Programs that are currently interacting with your audience or are currently being built to do so.*
-  * Emails
-  * Events
-    * Live Events / Roadshows
-    * Trade Shows
-    * Webinars
-    * Newsletters
-    * Nurture
-    * Web Content
-    * Web Forms
-* Program Template Library
-* Operational - *This folder is a centralized location for any of your on-going operational programs such as scoring, person source, etc.*
-  * Data Management - *Program with campaigns that normalize data or fix data issues.*
-  * Lead Lifecycle - *Program to track the progress of leads in the funnel.*
-  * Scoring - *Program to score leads on behavior and demographic attributes.*
-* Sales Insight
-  * Interesting Moments - *Marketo Interesting Moment Program and Campaigns.*
-  * Sales Request - *Program with Campaigns that sales can add a lead or contact to.*
-  * Sales Email - *Program with Emails that sales can send through Sales Insight.*
-* \_Archive - *Place where Programs got deactivated reside, after they are no longer interacting with your audience.*
-* \_Learning - *Place where all Training Exercises would be stored - if you want to keep them.*
-* \_Testing - *Place where the administrators can test and learn new things and all Test Programs would be stored - if you want to keep them.*
-* \_2022
-* \_2023
+>[!TAB Marketing Activities]
 
-**Design Studio**
+![Folders Marketing Activities](/help/marketo-tutorial-implementing-new-instance/assets/folders-marketing-activities.png)
 
-* Landing Pages
-  * Landing Page Templates
-      * \_Archive - *Place for landing page templates that are no longer in use.*
-  * Global Landing Pages - *Place for landing pages that are used in multiple programs or not associated with programs.*
-  * \_Archive - *Place for global landing pages that are no longer in use.*
-* Forms
-  * Global Forms - *Place for forms that are used in multiple programs or not associated with programs.*
-  * \_Archive - *Place for global forms that are no longer in use.*
-* Emails
-  * Email Templates
-    * \_Archive - *Place for email templates that are no longer in use*
-  * Global Emails - *Place for emails that are used in multiple programs or not associated with programs*
-  * \_Archive - *Place for global emails that are no longer in use*
+>[!Design Studio]
 
-* Snippets
+![Folder Design Studio](/help/marketo-tutorial-implementing-new-instance/assets/folders-design-studio.png)
 
-* Images and Files
-
-* Template Graphics
-
-* Logos
-
-* Downloadable Assets
-    * Case Studies
-    * Product Literature
-    * Whitepapers
-
-**Database**
+>[!TAB Database]
   
-* System Smart Lists
-* Group Smart Lists
-  * Exclusion Lists
-  * Operational Lists
-    * Email Deliverability
-  * \_Archive - *Place for Smart Lists that are no longer in use*
-* Group Lists
-  * Internal Lists
-  * \_Archive - *Place for Static Lists that are no longer in use*
+![Folder Database](/help/marketo-tutorial-implementing-new-instance/assets/folders-database.png)
+
+>[!ENDTABS]
 
 ### Step 2 - Building folders within the programs
 
