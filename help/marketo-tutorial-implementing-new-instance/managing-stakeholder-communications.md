@@ -110,7 +110,7 @@ I'm thrilled to share some exciting news regarding our Marketo Engage implementa
 
 Here are the highlights of our recent successes:
 
-1. Targeted Email Campaign Success: Our recent email campaign <i><[promoting a new product launch]></i>, deployed with Marketo Engage, has achieved a remarkable performance <i>[with 50% open rate and 10% conversion rate]</i>. This campaign not only engaged our audience effectively but also contributed significantly to our overall lead generation goals.
+1. Targeted Email Campaign Success: Our recent email campaign <i>[promoting a new product launch]</i>, deployed with Marketo Engage, has achieved a remarkable performance <i>[with 50% open rate and 10% conversion rate]</i>. This campaign not only engaged our audience effectively but also contributed significantly to our overall lead generation goals.
 
 2. Automated Workflow Efficiency: By leveraging Marketo Engage's automation capabilities, we have streamlined our lead nurturing workflow, resulting in <i>[a 3-day reduction in response time and a 10% increase in lead conversion rates]</i>. This efficiency gain has had a tangible impact on our bottom line and customer satisfaction.
 
@@ -175,7 +175,7 @@ By following these actionable tips and referencing the templates, you will be be
 
 ## What's Next?
 
-Download and use the [Onboarding Internal Communications Guide and Template](/help/marketo-tutorial-implementing-new-instance/assets/marketo-engage-new-instance-onboarding-internal-communications-guide-template.xlsx){target="_blank} craft regular updates and report progress for stakeholders. Include key metrics, achievements, and upcoming milestones to keep them informed and engaged.
+Download and use the [Onboarding Internal Communications Guide and Template](/help/marketo-tutorial-implementing-new-instance/assets/marketo-engage-new-instance-onboarding-internal-communications-guide-template.xlsx){target="_blank} to craft regular updates and report progress for stakeholders. Include key metrics, achievements, and upcoming milestones to keep them informed and engaged.
 
 ### Author
 
