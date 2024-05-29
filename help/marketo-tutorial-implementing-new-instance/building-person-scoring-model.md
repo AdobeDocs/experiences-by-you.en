@@ -25,8 +25,6 @@ By scoring people in your Marketo Engage database, you can measure how qualified
 
 Behavioral scoring is giving a numerical value to trackable actions a prospect takes that indicate interest in your products and services and intent to buy. For example, visiting the website shows interest, and visiting the pricing page may show intent. In contrast, visiting the careers page may indicate the person is not going to purchase.
 
->[!VIDEO](https://video.tv.adobe.com/v/3426914/?learn=on)
-
 **Step 1** - Make a list of prospect activities that matter to your sales process or are valuable to your organization. It can be helpful to work with your sales team to determine which activities indicate a lead has the intent to purchase, helping you align the criteria with sales and prioritize based on their observations of closed deals. Here are a few suggested questions that you can ask your sales team:
 
 * Which activities indicate a good or bad lead to you?
@@ -113,7 +111,9 @@ Now that you have defined the activities indicating buying intent, you should co
 
 With the basic behavioral and demographic scoring models you have completed, you could take it to the next level by allowing local flexibility. Business values may vary in different markets when an organization operates globally. In the following exercise, you will learn how to apply scores to reflect the real business value of the lead activities or characteristics in different situations.
 
-[Video]
+Do you prefer a video walk-through for this exercise? Tune in as Marketo Engage Champion Katja Keesom demonstrates building local flexibility into the scoring model.
+
+>[!VIDEO](https://video.tv.adobe.com/v/3426914/?learn=on)
 
 **Step 1** - Take the activities and characteristics from exercises 1 and 2 and determine for each item whether they vary by location or product line.
 
