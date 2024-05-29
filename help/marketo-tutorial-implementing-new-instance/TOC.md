@@ -13,10 +13,10 @@ auto-video-transcripts: true
 
 + [Tutorial - Overview](/help/marketo-tutorial-implementing-new-instance/overview.md)
 + [Managing stakeholders to implement Marketo Engage](./managing-stakeholder-communications.md)
-+ [Developing internal onboarding and training roadshow](./internal-training-roadshow.md)
 + [Planning for your Marketo Engage implementation](./planning-for-new-implementation.md)
-+ [Mapping fields for CRM integration](./syncing-fields-for-crm-integration.md)
++ [Developing internal onboarding and training roadshow](./internal-training-roadshow.md)
++ [Building lead/person scoring model](./building-person-scoring-model.md)
++ [Syncing Fields for the Native CRM Connectors](./syncing-fields-for-crm-integration.md)
 + [Organizing a new instance and establishing naming conventions](./organizing-new-instance.md)
-+ [Building person scoring models for Marketo Engage programs](./building-person-scoring-model.md)
 + [Designing omnichannel conversational marketing with Dynamic Chat](/help/marketo-tutorial-implementing-new-instance/designing-omnichannel-conversational-marketing.md)
 + [Getting started on instance governance and documentation](./documenting-your-instance.md)
