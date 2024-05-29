@@ -42,7 +42,7 @@ Below are folder examples of putting these tips into practice.
 
 ![Folders Marketing Activities](/help/marketo-tutorial-implementing-new-instance/assets/folders-marketing-activities.png)
 
->[!Design Studio]
+>[!TAB Design Studio]
 
 ![Folder Design Studio](/help/marketo-tutorial-implementing-new-instance/assets/folders-design-studio.png)
 

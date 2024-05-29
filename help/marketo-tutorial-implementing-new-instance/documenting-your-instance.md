@@ -100,6 +100,6 @@ Another critical way of instance governance is to create a Changelog and enforce
 * Store the documentation in an accessible platform where your organization prefers to reference and update regularly. For example, some Marketo Engage Champions use Confluence (by Atlassian) or Excel Spreadsheet.
 * Ensure every rule you make for governance has an owner to enforce it and adapt the documentation, keeping it up to date over time.  
 
-### Authors
+### Author
 
 {{amy-chiu}}
