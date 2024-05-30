@@ -115,14 +115,22 @@ Generally, the best practice is to only sync CRM fields that will be needed for 
 
 * Build your Data Dictionary to organize your fields for the CRM integration.   
 * Familiarize yourself with the initial sync process for your CRM 
+
+>[!BEGINTABS]
+
+>[!TAB Salesforce]
   
-  **Watch the Salesforce sync demo**:
-  
+Learn how Marketo Engage and Salesforce go together to keep your sales and marketing data in sync.
+
   >[!VIDEO](https://video.tv.adobe.com/v/3424719/?learn=on)
 
-  **Watch the Microsoft Dynamics demo**
+>[!TAB Microsoft Dynamics]
+
+Learn how the Microsoft Dynamics 365 sync works and configure the setup properly to allow the two systems to speak to each other.
 
   >[!VIDEO](https://video.tv.adobe.com/v/3424737/?learn=on)
+
+  >[!ENDTABS]
 
 ### Authors
 
