@@ -1,6 +1,6 @@
 ---
 title: Syncing Fields for the Native CRM Connectors
-description: Learn how to streamline your initial CRM integration by strategically selecting the essential CRM fields for Marketo Engage to use. Use our field mapping worksheet to map the necessary fields accurately for a smooth CRM sync that helps sales and marketing teams stay aligned.
+description: Learn how to streamline your initial CRM integration by strategically selecting the essential CRM fields for Marketo Engage to use. Conduct the Data Dictionary exercise to identify the fields you need for a smooth CRM sync that helps sales and marketing teams stay aligned.
 role: Admin
 level: Beginner
 doc-type: Article
@@ -115,8 +115,14 @@ Generally, the best practice is to only sync CRM fields that will be needed for 
 
 * Build your Data Dictionary to organize your fields for the CRM integration.   
 * Familiarize yourself with the initial sync process for your CRM 
-  * [Watch the Salesforce sync demo](https://experienceleague.adobe.com/en/docs/marketo-learn/tutorials/lead-and-data-management/salesforce-sync-setup){target ="_blank"}
-  * [Watch the Microsoft Dynamics demo]h(ttps://experienceleague.adobe.com/en/docs/marketo-learn/tutorials/lead-and-data-management/microsoft-dynamics-sync-setup){target ="_blank"}  
+  
+  **Watch the Salesforce sync demo**:
+  
+  >[!VIDEO](https://video.tv.adobe.com/v/3424719/?learn=on)
+
+  **Watch the Microsoft Dynamics demo**
+
+  >[!VIDEO](https://video.tv.adobe.com/v/3424737/?learn=on)
 
 ### Authors
 
