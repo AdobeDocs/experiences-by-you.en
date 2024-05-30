@@ -130,7 +130,7 @@ Learn how the Microsoft Dynamics 365 sync works and configure the setup properly
 
   >[!VIDEO](https://video.tv.adobe.com/v/3424737/?learn=on)
 
-  >[!ENDTABS]
+>[!ENDTABS]
 
 ### Authors
 
