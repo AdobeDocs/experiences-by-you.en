@@ -19,7 +19,7 @@ This tutorial outlines the thought process and primary use cases shared by Sara 
 
 Visitors browse your website for a reason. They might be seeking content on your product(s) or service(s) or looking for contact information to speak to your sales representatives. They could also be your customers looking for additional product information. Chat enables your website visitors to self-serve and self-qualify if they are ready to speak to your sales team.  
 
-When Sara Barriuso implemented Dynamic Chat, she was drawn by its seamless integration with Marketo Engage and the [prebuilt activity triggers](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/demand-generation/dynamic-chat/dynamic-chat-activities){target ="_blank"} that activate Marketo Engage programs and vice versa. She developed her conversational engagement strategies with three audience segments in mind:  
+When Sara Barriuso implemented Dynamic Chat, she was drawn by its seamless integration with Marketo Engage and the [prebuilt activity triggers](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/demand-generation/dynamic-chat/dynamic-chat-activities){target="_blank"} that activate Marketo Engage programs and vice versa. She developed her conversational engagement strategies with three audience segments in mind:  
 
 1. Unknown prospects: proactively offer demo calls to generate new leads.
 2. Known leads/customers: extend visitors' time spent browsing content and offer demo calls to generate upsell and cross-sell opportunities.
@@ -187,7 +187,7 @@ Extending Campaign Content Engagement - Configuration:
 
 ## What's Next? 
 
-* Map out your conversational flow in [Stream Designer](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/demand-generation/dynamic-chat/automated-chat/stream-designer){target ="_blank"} or a flow chart offline.
+* Map out your conversational flow in [Stream Designer](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/demand-generation/dynamic-chat/automated-chat/stream-designer){target="_blank"} or a flow chart offline.
 * Create a default catch-all Dialogue in Dynamic Chat. 
 * Activate the conversations post-campaign engagement by using automation triggers in Marketo Engage.
 
