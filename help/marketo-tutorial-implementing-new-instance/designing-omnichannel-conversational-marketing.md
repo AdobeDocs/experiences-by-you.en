@@ -127,11 +127,11 @@ Build a template for "event registration" Dialogue for ongoing campaign use.
 
 #### Phase 1
 
-Create your tracking Smart Campaign within the webinar/event program template and test it.
+1. Create your tracking Smart Campaign within the webinar/event program template and test it.
 
 #### Phase 2
 
-Add your campaign name to the tracking Smart Campaign within Marketo Engage and test it. 
+1. Add your campaign name to the tracking Smart Campaign within Marketo Engage and test it. 
 
 >[!ENDTABS]
 
@@ -139,6 +139,9 @@ Add your campaign name to the tracking Smart Campaign within Marketo Engage and 
 #### Level up: Register known people  
 
 You can offer an even better experience to website visitors by registering them for your events and webinars without having them fill out a form. Personalized experiences build trust and show visitors that you remember them. Let's see how to level up your event and webinar promotion Dialogue in action.
+
+>[!NOTE]
+>Please consider the potential security risk involved in certain protective states/countries and implement this personalization carefully by consulting with your Legal team. 
 
 >[!VIDEO](https://video.tv.adobe.com/v/3429197/?learn=on)
 
@@ -156,7 +159,7 @@ You can offer an even better experience to website visitors by registering them 
 
 >[!TAB Marketo Engage]
 
-Add this new Dialogue to the tracking Smart Campaign within Marketo Engage and test it. 
+1. Add this new Dialogue to the tracking Smart Campaign within Marketo Engage and test it. 
 
 >[!ENDTABS]
 
