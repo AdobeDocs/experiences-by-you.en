@@ -34,7 +34,7 @@ breadcrumb-title: Experiences by You
       + [Unlocking analytical insight; harnessing the power of annotations](../analytics/analysis-workspace/curate-and-share-projects/harnessing-the-power-of-annotations.md)
     + Tips and Tricks {#tips-and-tricks}
       + [Right-click tips & tricks for more efficient workflows](../analytics/analysis-workspace/tips-and-tricks/right-click-tips-and-tricks-for-more-efficient-workflows.md)
-      + [#Tags - your personal assistant](../analytics/analysis-workspace/tips-and-tricks/tags-your-personal-assistant.md)
+      + [Tags - your personal assistant](../analytics/analysis-workspace/tips-and-tricks/tags-your-personal-assistant.md)
   + Administration {#administration} 
     + Key Admin Skills {#key-admin-skills}
       + [Creating an empowered community](../analytics/administration/key-admin-skills/empowered-community.md)
