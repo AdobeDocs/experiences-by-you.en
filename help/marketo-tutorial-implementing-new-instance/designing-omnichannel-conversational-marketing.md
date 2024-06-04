@@ -150,12 +150,11 @@ You can offer an even better experience to website visitors by registering them 
 >[!TAB Dynamic Chat]
 
 1. Clone the Event/Webinar promotion Dialogue.
-2. In Stream Designer, after the user answers "Yes", add a question card "Is this your email address?"
+2. In Stream Designer, after the user answers "Yes", add a question card "You have previously shared your email address with us. Would you like to keep this for the event details?" 
 3. If they answer "Yes" – add a message card "You will receive a confirmation email in your email with the event/webinar details". 
 4. If they answer "No" –  add a message card "Please fill out the form on the registration page". 
 5. Create a testing link, click "Publish", and share it with the requestor. 
 6. In the Audience tab, add [email is not empty]. 
-
 
 >[!TAB Marketo Engage]
 
