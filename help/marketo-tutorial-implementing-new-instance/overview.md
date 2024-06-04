@@ -1,6 +1,6 @@
 ---
-title: Implementing a new [!DNL Marketo Engage] instance 
-description: Learn how to implement a new Marketo Engage instance to make the most out of its power. This 'Implementing a new Marketo Engage' Tips and Tricks series provides best practices proven by Adobe [!DNL Marketo Engage] Champions. Topics covered include stakeholder management, implementation project management, internal training, building lead/person scoring model, setting up initial CRM sync and more.
+title: Tips and Tricks of Implementing a new [!DNL Marketo Engage] instance  - Tutorial Overview
+description: Learn how to implement a new [!DNL Marketo Engage] instance to make the most out of its power. This 'Implementing a new Marketo Engage' Tips and Tricks series provides best practices proven by Adobe [!DNL Marketo Engage] Champions. Topics covered include stakeholder management, implementation project management, internal training, building lead/person scoring model, setting up initial CRM sync and more.
 solution: Marketo Engage
 role: Admin
 level: Beginner
@@ -10,7 +10,7 @@ last-substantial-update: 2024-03-01
 jira: KT-13204
 thumbnail: KT-13204.jpeg
 ---
-# Implementing a [!DNL Marketo Engage] instance - Tutorial Overview
+# Tips and Tricks for implementing a new [!DNL Marketo Engage] instance - Tutorial Overview
 
 Welcome to Adobe [!DNL Marketo Engage]! Setting a new instance up is the first step to uplift your digital marketing strategy with marketing automation. The key to a successful [!DNL Marketo Engage] implementation is documentation.  
 
