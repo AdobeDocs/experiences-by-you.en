@@ -18,7 +18,6 @@ auto-video-transcripts: true
 + [Develop an instance governance guide](/help/marketo-tutorial-inherited-instance/develop-an-instance-governance-guide.md)
 + [Map out your marketing tech stack visually](/help/marketo-tutorial-inherited-instance/create-a-visual-data-flow-diagram.md)
 + [Program Pre-launch Quality Assurance Process](/help/marketo-tutorial-inherited-instance/essential-program-pre-launch-qa.md)
-+ [[!DNL Marketo Engage] by You](/https://experienceleague.adobe.com/en/docs/experiences-by-you/experiences-by-you/marketo-engage/overview)
 + [[!DNL Marketo Engage] Tutorials](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/overview.html?lang=en)
 
 
