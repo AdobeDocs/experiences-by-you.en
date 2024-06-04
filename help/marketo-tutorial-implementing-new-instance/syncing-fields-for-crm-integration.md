@@ -4,6 +4,7 @@ description: Learn how to streamline your initial CRM integration by strategical
 role: Admin
 level: Beginner
 doc-type: Article
+solution: Marketo Engage
 duration: 0
 last-substantial-update: 2024-05-04
 jira: KT-14811

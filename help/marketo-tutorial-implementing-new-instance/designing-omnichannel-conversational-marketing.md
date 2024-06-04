@@ -4,6 +4,7 @@ description: Get a quick start to design conversational marketing with Adobe Dyn
 role: Admin
 level: Beginner
 doc-type: Article
+solution: Marketo Engage
 duration: 0
 last-substantial-update: 2024-05-23
 jira: KT-14814

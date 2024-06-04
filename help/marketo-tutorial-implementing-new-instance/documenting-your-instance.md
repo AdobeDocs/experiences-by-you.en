@@ -4,6 +4,7 @@ description: Learn essential strategies and best practices for getting started o
 role: Admin
 level: Beginner
 doc-type: Article
+solution: Marketo Engage
 duration: 0
 last-substantial-update: 2024-05-08
 jira: KT-14815

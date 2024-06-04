@@ -4,6 +4,7 @@ description: Learn how to set up a good organization within your Marketo Engage 
 role: Admin
 level: Beginner
 doc-type: Article
+solution: Marketo Engage
 duration: 0
 last-substantial-update: 2024-05-03
 jira: KT-14813

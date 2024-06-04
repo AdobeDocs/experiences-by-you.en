@@ -4,6 +4,7 @@ description: Learn more about the essential planning and cross-functional team c
 role: Admin
 level: Beginner
 doc-type: Article
+solution: Marketo Engage
 duration: 0
 last: substantial-update- 2024-05-01
 jira: KT-14808
