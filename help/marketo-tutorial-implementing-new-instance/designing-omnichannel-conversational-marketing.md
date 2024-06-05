@@ -113,7 +113,7 @@ Events and webinars are popular marketing tactics for B2B businesses to generate
 
 #### Phase 1
 
-Build a template for "event registration" Dialogue for ongoing campaign use. 
+1. Build a template for "event registration" Dialogue for ongoing campaign use. 
 
 #### Phase 2
 
