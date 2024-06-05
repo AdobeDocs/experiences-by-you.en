@@ -9,8 +9,8 @@ duration: 0
 last-substantial-update: 2024-05-08
 jira: KT-14815
 thumbnail: KT-14815.jpeg
+exl-id: b3dd05e1-c522-4631-a6b4-c0c6309f25d3
 ---
-
 # Getting started on instance governance and documentation
 
 Good documentation can be nearly as important as the actual instance implementation itself. A governance guide is a crucial resource that outlines your Marketo Engage instance setup details, covering topics such as program/folder structures, communication limits, and more. This living document is a reference for your Marketo Engage admin or power users, showcasing specific best practices and governing standards tailored to your Marketo Engage instance and organization.

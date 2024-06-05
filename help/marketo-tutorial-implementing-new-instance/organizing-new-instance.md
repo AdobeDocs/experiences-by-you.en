@@ -9,6 +9,7 @@ duration: 0
 last-substantial-update: 2024-05-03
 jira: KT-14813
 thumbnail: KT-14813.jpeg
+exl-id: 19b3de9e-53f3-4308-b46e-7b8f756c30a0
 ---
 # Organizing a new instance and establishing naming conventions
 

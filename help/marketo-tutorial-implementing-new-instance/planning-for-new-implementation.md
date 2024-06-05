@@ -9,8 +9,8 @@ duration: 0
 last: substantial-update- 2024-05-01
 jira: KT-14808
 thumbnail: KT-14808.jpeg
+exl-id: 65119abd-6f13-4acc-9e99-09843369ad28
 ---
-
 # Planning for a new Marketo Engage implementation
 
 Implementing a new Marketo Engage instance involves meticulous planning, collaboration across teams, and continuous optimization. While there's no perfect recipe for implementing a new instance, most Marketo Engage administrators who have gone through it can agree that planning ahead will make the process a lot smoother.

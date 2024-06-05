@@ -9,6 +9,7 @@ duration: 0
 last-substantial-update: 2024-03-01
 jira: KT-13204
 thumbnail: KT-13204.jpeg
+exl-id: 58816df0-03d2-4d2f-a11b-8809c51d6e4f
 ---
 # Tips and Tricks for implementing a new [!DNL Marketo Engage] instance - Tutorial Overview
 
