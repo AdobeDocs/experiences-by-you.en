@@ -1,6 +1,6 @@
 ---
-title: Developing internal onboarding and training roadshow 
-description: Learn how to establish a robust procedure for creating and maintaining documentation and changelog for your [!DNL Marketo Engage] instance. This will not only save time for your team's knowledge sharing but also enhance the health and efficiency of your instance.  
+title: Developing internal onboarding and training roadshow
+description: Learn how to establish a robust procedure for creating and maintaining documentation and changelog for your [!DNL Marketo Engage] instance. This will not only save time for your team's knowledge sharing but also enhance the health and efficiency of your instance.
 role: Admin
 level: Beginner
 doc-type: Article
@@ -9,8 +9,8 @@ duration: 0
 last-substantial-update: 2024-03-01
 jira: KT-14809
 thumbnail: KT-14809.jpeg
+exl-id: bd5d102b-0810-43e1-baac-fbef43817d50
 ---
-
 # Developing internal onboarding and training roadshow
 
 As you bring a new [!DNL Marketo Engage] instance live, it's time to bring the relevant teams up to speed to leverage [!DNL Marketo Engage] for their jobs.

@@ -9,8 +9,8 @@ duration: 0
 last-substantial-update: 2024-05-04
 jira: KT-14811
 thumbnail: KT-14811.jpeg
+exl-id: 42b7ca3d-e445-4c11-ad3d-d4e70c101c8e
 ---
-
 # Syncing Fields for the Native CRM Connectors
 
 Are you using Salesforce or Microsoft Dynamics within your organization? If so, with Marketo Engage's native CRM connectors (i.e. Salesforce, Microsoft Dynamics, and Veeva), you can coordinate marketing and sales activities by seamlessly sharing relevant information between Marketo Engage and CRM. Before you configure the initial CRM sync, make sure you identify the fields you'd like to sync between the two systems to keep your Marketo Engage database clean.  

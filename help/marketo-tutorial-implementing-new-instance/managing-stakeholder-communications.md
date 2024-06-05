@@ -9,8 +9,8 @@ duration: 0
 last-substantial-update: 2024-05-03
 jira: KT-13284
 thumbnail: KT-13284.jpeg
+exl-id: b5b8a5b6-83d4-48ae-ae83-32c9fbf64df8
 ---
-
 # Manage stakeholders to implement Marketo Engage
 
 Implementing Marketo Engage is a critical moment of growing your MarTech stack. It could involve various stakeholders that you need to bring along from marketing to sales to IT. Learn how to get support from your organization for your new Marketo Engage instance by asking the right questions and communicating updates and support needed regularly. Use the tutorial and templates (with downloadable versions) to guide your internal communications throughout implementation and user onboarding.

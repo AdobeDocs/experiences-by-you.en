@@ -8,8 +8,8 @@ solution: Marketo Engage
 duration: 0
 last-substantial-update: 2024-05-23
 jira: KT-14814
+exl-id: 160dfb25-9f54-4dce-a08a-4a8d3c4c5368
 ---
-
 # Designing omnichannel conversational marketing with Dynamic Chat
 
 Marketers, your website is essential for generating leads, boosting conversions, and accelerating sales cycles. Engaging with visitors in real-time on your website allows your sales team to qualify buyers more efficiently. Adobe Dynamic Chat, the native chat channel within your Adobe Marketo Engage subscription, enables you to automate conversations to extend Marketo Engage's capabilities. 
@@ -113,7 +113,7 @@ Events and webinars are popular marketing tactics for B2B businesses to generate
 
 #### Phase 1
 
-Build a template for "event registration" Dialogue for ongoing campaign use. 
+1. Build a template for "event registration" Dialogue for ongoing campaign use. 
 
 #### Phase 2
 

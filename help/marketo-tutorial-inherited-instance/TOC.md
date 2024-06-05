@@ -20,5 +20,3 @@ auto-video-transcripts: true
 + [Program Pre-launch Quality Assurance Process](/help/marketo-tutorial-inherited-instance/essential-program-pre-launch-qa.md)
 + [[!DNL Marketo Engage] Tutorials](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/overview.html?lang=en)
 + [[!DNL Marketo Engage] by You](https://experienceleague.adobe.com/en/docs/experiences-by-you/experiences-by-you/marketo-engage/overview)
-
-

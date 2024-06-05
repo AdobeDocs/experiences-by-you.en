@@ -9,6 +9,7 @@ duration: 0
 last-substantial-update: 2024-03-01
 jira: KT-13204
 thumbnail: KT-13204.jpeg
+exl-id: 58816df0-03d2-4d2f-a11b-8809c51d6e4f
 ---
 # Tips and Tricks for implementing a new [!DNL Marketo Engage] instance - Tutorial Overview
 
@@ -54,4 +55,3 @@ This 'Implementing A New Instance Tips and Tricks' series is sourced Adobe [!DNL
 
 * [Implementing a new Marketo Engage Instance with best practices checklists](https://experienceleague.adobe.com/en/docs/marketo/using/getting-started/implementing-a-new-marketo-engage-instance/where-to-start){target="_blank}
   *Each checklist provides valuable steps for you to keep track of your configuration progress. Use the downloadable checklists to document your work along the way for future instance audits and user onboarding.*
-  

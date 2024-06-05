@@ -9,6 +9,7 @@ duration: 0
 last-substantial-update: 2024-05-04
 jira: KT-14810
 thumbnail: KT-14810.jpeg
+exl-id: 73976144-f02b-4423-9b4b-410330117ba9
 ---
 # Building a person scoring model
 
