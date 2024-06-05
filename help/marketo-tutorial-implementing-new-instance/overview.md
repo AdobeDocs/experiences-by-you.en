@@ -54,3 +54,4 @@ This 'Implementing A New Instance Tips and Tricks' series is sourced Adobe [!DNL
 
 * [Implementing a new Marketo Engage Instance with best practices checklists](https://experienceleague.adobe.com/en/docs/marketo/using/getting-started/implementing-a-new-marketo-engage-instance/where-to-start){target="_blank}
   *Each checklist provides valuable steps for you to keep track of your configuration progress. Use the downloadable checklists to document your work along the way for future instance audits and user onboarding.*
+  
