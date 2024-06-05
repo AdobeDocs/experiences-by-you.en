@@ -85,7 +85,7 @@ breadcrumb-title: Experiences by You
   + [Overview](/help/marketo/overview.md)
   + Fundamentals {#fundamentals}
     + [Navigate the UI](/help/marketo/fundamentals/ui-navigation.md)
-    + [Tips and Tricks for implementing a new instance ](https://experienceleague.adobe.com/docs/experiences-by-you/implenting-new-instance/overview.html)
+    + [Tips and Tricks for implementing a new instance ](https://experienceleague.adobe.com/en/docs/experiences-by-you/implementing-new-instance/overview)
     + [Audit an inherited instance - Tutorial](https://experienceleague.adobe.com/docs/experiences-by-you/auditing-an-inherited-instance/overview.html)
   + Programs and campaigns {#programs-and-campaigns}
     + [Email programs](/help/marketo/programs/email-programs.md)
