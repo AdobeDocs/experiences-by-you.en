@@ -2,7 +2,7 @@
 user-guide-title: Tutorial - Tips and Tricks for implementing a new [!DNL Marketo Engage] instance 
 user-guide-description: Tutorial - Tips and Tricks for implementing a new [!DNL Marketo Engage] instance 
 breadcrumb-title: Tutorial - Tips and Tricks for implementing a new [!DNL Marketo Engage] instance 
-breadcrumb-url: /docs/experiences-by-you/experiences-by-you/marketo-engage/tutorial-tips-and-tricks-for-implementing-a-new-instance/overview.html 
+breadcrumb-url: /docs/experiences-by-you/experiences-by-you/implementing-new-instance/overview
 index: yes
 role: Admin
 level: Beginner
@@ -22,3 +22,4 @@ auto-video-transcripts: true
 + [Designing omnichannel conversational marketing with Dynamic Chat](./designing-omnichannel-conversational-marketing.md)
 + [Getting started on instance governance and documentation](./documenting-your-instance.md)
 + [[!DNL Marketo Engage] Tutorials](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/overview.html?lang=en)
++ [[!DNL Marketo Engage] by you](https://experienceleague.adobe.com/en/docs/experiences-by-you/experiences-by-you/marketo-engage/overview)
