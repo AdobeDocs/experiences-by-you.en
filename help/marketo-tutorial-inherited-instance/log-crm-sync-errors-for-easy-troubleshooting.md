@@ -36,7 +36,7 @@ Before you get started, download the [CRM Sync Errors Log template](/help/market
 
 **Step 5:** Note the email address of one person affected by the error. This makes it easy for you to reference and discuss the errors with the CRM administrator.   
 
-**Step 6:** Paste links to the person record in [!DNL [!DNL Marketo Engage]] and [!UICONTROL CRM Lead/Contact] record of that person.   
+**Step 6:** Paste links to the person record in [!DNL Marketo Engage] and [!UICONTROL CRM Lead/Contact] record of that person.   
 
 **Step 7:** In the last column, paste the actual text of the error.
 

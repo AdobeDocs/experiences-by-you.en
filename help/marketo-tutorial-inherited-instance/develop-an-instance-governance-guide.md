@@ -14,20 +14,20 @@ exl-id: e127b84d-ef92-4527-a0e6-a36af35b7ee0
 ---
 # Develop an instance governance guide with documentation
 
-As you step into a legacy [!DNL [!DNL Marketo Engage]] instance, it often comes with the challenge of lacking up-to-date functional and technical documentation. As an administrator, establishing guidelines to ensure proper instance governance is a core responsibility that you cannot overlook. It is one of the critical strategies to [drive efficiency as you work in an established [!DNL Marketo Engage] instance](https://nation.marketo.com/t5/champion-program-blogs/3-tips-to-increase-your-efficiency-in-an-inherited-instance/ba-p/247582). 
+As you step into a legacy [!DNL Marketo Engage] instance, it often comes with the challenge of lacking up-to-date functional and technical documentation. As an administrator, establishing guidelines to ensure proper instance governance is a core responsibility that you cannot overlook. It is one of the critical strategies to [drive efficiency as you work in an established [!DNL Marketo Engage] instance](https://nation.marketo.com/t5/champion-program-blogs/3-tips-to-increase-your-efficiency-in-an-inherited-instance/ba-p/247582). 
 
 This step-by-step tutorial sourced from [!DNL [!DNL Adobe] Marketo Champion] (2018), Nick Hajdin, will guide you through this process to outline your instance setup, document your primary operational programs, and maintain a [!DNL changelog] to enforce a strict governance policy. 
 
 ## Why develop an instance governance guide & documentation for your inherited instance? 
 
-Detailed documentation and a [!DNL changelog] are vital for efficient management and knowledge transfer within your [!DNL [!DNL Marketo Engage]] instance. Keeping track of changes and decisions you've made during your instance setup can help you: 
+Detailed documentation and a [!DNL changelog] are vital for efficient management and knowledge transfer within your [!DNL Marketo Engage] instance. Keeping track of changes and decisions you've made during your instance setup can help you: 
 
 1. Train internal users more easily in a scalable way. 
-2. Build more efficiently in [!DNL [!DNL Marketo Engage]] in the long-term. 
+2. Build more efficiently in [!DNL Marketo Engage] in the long-term. 
 3. Maintain the health and hygiene of your instance moving forward to save you from spending hours digging into emails, [audit trail](https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/audit-trail/audit-trail-overview.html), and [activity log](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/locate-the-activity-log-for-a-person.html) to get context.
-4. Save time on transferring [!DNL [!DNL Marketo Engage]] knowledge to a new [!DNL [!DNL Marketo Engage]] administrator if your team experiences any turnover. 
+4. Save time on transferring [!DNL Marketo Engage] knowledge to a new [!DNL Marketo Engage] administrator if your team experiences any turnover. 
 
-## [!DNL [!DNL Marketo Engage]] governance guide 101 
+## [!DNL Marketo Engage] governance guide 101 
 
 A governance guide serves as the source of truth of the instance setup and system design requirements. Key information that are recommended to include in this document are:
 
@@ -37,14 +37,14 @@ A governance guide serves as the source of truth of the instance setup and syste
 * Governance standards 
 * Internal user training before granting them access to the platform 
 
-## How to develop and maintain a governance guide for your [!DNL [!DNL Marketo Engage]] instance
+## How to develop and maintain a governance guide for your [!DNL Marketo Engage] instance
 
 ### Step 1: Identify your current state of governance guide and documentation
 
 * **I cannot locate any documentation for my inherited instance:** If you recently started a new role and cannot locate any documentation for your inherited instance, **go to step 2** and get started with a downloadable template that we provided. 
 * **I have documentation on file:** Congratulations, this is a good sign! Make sure to review their relevancy to see when the last change is being made. If it is not being actively maintained by your team members, it is recommended to refresh them and educate your internal users on how to keep it up to date.   
 
-### Step 2: Identify the elements to be included in your [!DNL [!DNL Marketo Engage]] Documentation & [!DNL Changelogs]
+### Step 2: Identify the elements to be included in your [!DNL Marketo Engage] Documentation & [!DNL Changelogs]
 
 The format varies from a cloud-based platform to a shared document. You can design the format that caters to your organization's needs. [Here's a simple documentation & changelog excel template](/help/marketo-tutorial-inherited-instance/_assets/downloads/Adobe_Marketo_Engage_Inherited_Instance_Documentation-Changlog.xlsx) covering the important elements that you can get started with. These include:  
 
@@ -74,13 +74,13 @@ For each identified operational program, document its current state. This includ
 
 ### Step 4: Enforce [!DNL Changelog] Maintenance
 
-The next step is to establish a strict governance policy for your [!DNL [!DNL Marketo Engage]] instance that mandates "[!DNL Changelog] maintenance." This policy ensures that any updates made to operational programs across the instance are thoroughly documented.
+The next step is to establish a strict governance policy for your [!DNL Marketo Engage] instance that mandates "[!DNL Changelog] maintenance." This policy ensures that any updates made to operational programs across the instance are thoroughly documented.
 
 Educate your team on the importance of these documents and how to access and update them properly. It could be helpful to assign responsibilities for maintaining the changelog, so a few designated Marketing Operation team members or administrators are consistently recording changes and provide signoffs.  
 
 ### Step 5: Centralize Documentation
 
-Establish a central location or repository for storing all documentation related to your [!DNL [!DNL Marketo Engage]] instance. This could be a shared drive, a dedicated folder, or a cloud-based system.  
+Establish a central location or repository for storing all documentation related to your [!DNL Marketo Engage] instance. This could be a shared drive, a dedicated folder, or a cloud-based system.  
 
 ### Step 6: Regularly Review and Update 
 
