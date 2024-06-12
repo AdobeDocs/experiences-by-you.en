@@ -195,7 +195,7 @@ There may be items that are missing or not applicable as your team runs this exe
 
 ## What's Next?
 
-Click [here](/help/marketo-tutorial-inherited-instance/_assets/downloads/[!DNL Adobe]_Marketo_Engage_Inherited_Instance_Program_Prelaunch_QA_Checklist.xlsx) to download the editable program pre-launch checklist for you to customize. Remember this should be adapted to suit your organization's workflow. Developing an effective QA process keeps you accountable and limit customer-facing mistakes.
+Click [here](/help/marketo-tutorial-inherited-instance/_assets/downloads/Adobe_Marketo_Engage_Inherited_Instance_Program_Prelaunch_QA_Checklist.xlsx) to download the editable program pre-launch checklist for you to customize. Remember this should be adapted to suit your organization's workflow. Developing an effective QA process keeps you accountable and limit customer-facing mistakes.
 
 ### Authors
 
