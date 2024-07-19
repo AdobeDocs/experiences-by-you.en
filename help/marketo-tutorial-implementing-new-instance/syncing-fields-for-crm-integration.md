@@ -184,4 +184,3 @@ Learn how the Microsoft Dynamics 365 sync works and configure the setup properly
 {{peter-livadas}}
 
 {{amy-chiu}}
-
