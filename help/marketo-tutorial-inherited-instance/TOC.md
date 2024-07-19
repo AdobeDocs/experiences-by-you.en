@@ -19,4 +19,4 @@ auto-video-transcripts: true
 + [Map out your marketing tech stack visually](/help/marketo-tutorial-inherited-instance/create-a-visual-data-flow-diagram.md)
 + [Program Pre-launch Quality Assurance Process](/help/marketo-tutorial-inherited-instance/essential-program-pre-launch-qa.md)
 + [[!DNL Marketo Engage] Tutorials](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/overview.html?lang=en)
-+ [[!DNL Marketo Engage] by You](https://experienceleague.adobe.com/en/docs/experiences-by-you/experiences-by-you/marketo-engage/overview)
++ [Back to Perspectives](https://experienceleague.adobe.com/en/perspectives?lang=en#f-el_product=Marketo%20Engage&aq=((%40el_contenttype%20NOT%20%22Community%7CUser%22)%20AND%20(%40el_contenttype%3D%22perspective%22)))
