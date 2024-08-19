@@ -60,7 +60,7 @@ Here's an example:
 
 There may be items that are missing or not applicable as your team runs this exercise a few times. Revisit this checklist (for example, quarterly) to update the review items and acceptance criteria to fine-tune your program QA process.
 
-## Example Template: Program Pre-launch Checklist {#pre-launch-checklist}
+## Example template: Program pre-launch checklist {#pre-launch-checklist}
 
 >[!NOTE]
 >If you are on a smaller screen, please be aware that you can scroll the tab below to see more.
@@ -193,7 +193,7 @@ There may be items that are missing or not applicable as your team runs this exe
 
 >[!ENDTABS]
 
-## What's Next?
+## What's next?
 
 Click [here](/help/marketo-tutorial-inherited-instance/_assets/downloads/[!DNL Adobe]_Marketo_Engage_Inherited_Instance_Program_Prelaunch_QA_Checklist.xlsx) to download the editable program pre-launch checklist for you to customize. Remember this should be adapted to suit your organization's workflow. Developing an effective QA process keeps you accountable and limit customer-facing mistakes.
 

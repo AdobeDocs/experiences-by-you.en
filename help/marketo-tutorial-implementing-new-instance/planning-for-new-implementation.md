@@ -1,5 +1,5 @@
 ---
-title: Planning for a new Marketo Engage implementation
+title: Plan for a New Marketo Engage Implementation
 description: Learn more about the essential planning and cross-functional team collaboration for successfully implementing a new Marketo Engage instance. This tutorial provides sample milestones, team engagements, and resource allocations for a seamless Marketo Engage implementation.
 role: Admin
 level: Beginner
@@ -11,7 +11,7 @@ jira: KT-14808
 thumbnail: KT-14808.jpeg
 exl-id: 65119abd-6f13-4acc-9e99-09843369ad28
 ---
-# Planning for a new Marketo Engage implementation
+# Plan for a new Marketo Engage implementation
 
 Implementing a new Marketo Engage instance involves meticulous planning, collaboration across teams, and continuous optimization. While there's no perfect recipe for implementing a new instance, most Marketo Engage administrators who have gone through it can agree that planning ahead will make the process a lot smoother.
 
@@ -124,7 +124,7 @@ Hear Marketo Engage Champion (2019), Kyle McCormick, about his onboarding and im
 
 >[!VIDEO](https://video.tv.adobe.com/v/3428771/?quality=12&learn=on)
 
-## What's Next?
+## What's next?
 
 Create a new implementation project plan and timeline. Below is a sample project timeline including sections for sample milestones, tasks, responsible teams, deadlines, and dependencies. Use it to streamline your Marketo Engage implementation journey and ensure a successful rollout across the organization.
 

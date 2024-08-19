@@ -1,5 +1,5 @@
 ---
-title: Organizing a new instance and establishing naming conventions
+title: Organize a New Instance and Establish Naming Conventions
 description: Learn how to set up a good organization within your Marketo Engage instance, allowing future marketers within your organization to easily navigate through the programs, modify the assets, and pull reports.
 role: Admin
 level: Beginner
@@ -11,7 +11,7 @@ jira: KT-14813
 thumbnail: KT-14813.jpeg
 exl-id: 19b3de9e-53f3-4308-b46e-7b8f756c30a0
 ---
-# Organizing a new instance and establishing naming conventions
+# Organize a new instance and establish naming conventions
 
 As an administrator implementing a new Marketo Engage instance, you are laying down the groundwork allowing future marketers within the organization to easily navigate through the instance. Getting familiar with the tree folder structure and naming conventions will keep your instance tidy and set up for long-term success. This tutorial encompasses examples recommended by Adobe and Marketo Engage Champion(2019-2020), Natalie Kremer, to help you [organize the folders and name assets consistently](https://nation.marketo.com/t5/champion-program-blogs/keep-marketo-engage-organized-with-folders-and-naming/ba-p/245630){target="_blank"}. 
 
@@ -170,7 +170,7 @@ With these in mind, we will apply these tips to the following assets and create 
 >
 >When naming files in the above examples, do not use spaces and avoid the use of underscores "\_"
 
-## What's Next?
+## What's next?
 
 * Download the Worksheet: [Marketo Engage Organization and Naming Conventions](./assets/adobe-marketo-engage-organization-and-naming-conventions.xlsx){target="_blank"} to support the creation of the folder structure and naming conventions.
 * Once you determine the necessary components in your standard naming convention, consider building formulas into a Google Sheet or Microsoft Excel. For future use, simply input your values in the spreadsheet to generate your Program names.

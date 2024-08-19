@@ -19,7 +19,7 @@ Check out these tips from your fellow technical lead, Rakesh Pasupuleti. Rakesh 
 
 >[!VIDEO](https://video.tv.adobe.com/v/3419297?quality=12&learn=on)
 
-## Additional Resources {#additional-resources}
+## Additional resources {#additional-resources}
 
 * [Managing Environments](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/implementing/using-cloud-manager/manage-environments.html) - Documentation on environment management in AEM as a Cloud Service
 * [Rapid Development Environments](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/implementing/developing/rapid-development-environments.html) - Documentation on RDEs in AEM as a Cloud Service

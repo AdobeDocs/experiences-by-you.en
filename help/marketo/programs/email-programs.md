@@ -12,7 +12,7 @@ feature-set: Marketo Engage
 feature: Programs
 exl-id: 27c41bdf-b808-4268-9299-9c9944c2ea8d
 ---
-# Email Programs
+# Email programs
 
 Watch this step-by-step tutorial to learn how to create an email program with an A/B test.
 

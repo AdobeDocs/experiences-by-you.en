@@ -11,7 +11,7 @@ jira: KT-14811
 thumbnail: KT-14811.jpeg
 exl-id: 42b7ca3d-e445-4c11-ad3d-d4e70c101c8e
 ---
-# Syncing Fields for the Native CRM Connectors
+# Sync fields for the native CRM connectors
 
 Are you using Salesforce or Microsoft Dynamics within your organization? If so, with Marketo Engage's native CRM connectors (i.e. Salesforce, Microsoft Dynamics, and Veeva), you can coordinate marketing and sales activities by seamlessly sharing relevant information between Marketo Engage and CRM. Before you configure the initial CRM sync, make sure you identify the fields you'd like to sync between the two systems to keep your Marketo Engage database clean.  
 
@@ -25,7 +25,7 @@ The initial sync between your Marketo Engage and CRM system will automatically m
  
 Identifying and organizing the fields that you'd like to sync from your CRM prior to performing the initial sync is a critical step in the Native Connector setup process. We refer to this as a Data Dictionary exercise, which helps you minimize the number of duplicate fields that get created and make any subsequent remapping steps go as smoothly as possible. This exercise typically involves input from the Marketing and Sales teams and your CRM Admin to ensure that only relevant fields are synced to your Marketo Engage instance. 
  
-## How to build your Data Dictionary
+## Build your data dictionary
 
 Generally, the best practice is to only sync CRM fields that will be needed for marketing purposes. Start with this exercise to organize the fields from your CRM that will need to be mapped to Marketo Engage and run the initial CRM sync correctly the first time.
 
@@ -112,7 +112,7 @@ Generally, the best practice is to only sync CRM fields that will be needed for 
   * Please refer to this example [HERE](https://nation.marketo.com/t5/knowledgebase/re-mapping-sfdc-marketo-fields/ta-p/299284){target="_blank"}. 
 * Once remapping is complete, review the API names for the remapped fields in Marketo Engage and update the values in your Data Dictionary's "API Name" column to ensure it contains the most accurate information. 
 
-## What's Next? 
+## What's next? 
 
 * Build your Data Dictionary to organize your fields for the CRM integration.   
 * Familiarize yourself with the initial sync process for your CRM 
