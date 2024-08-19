@@ -1,5 +1,5 @@
 ---
-title: Managing stakeholders to implement Marketo Engage
+title: Manage Stakeholders to Implement Marketo Engage
 description: Learn strategies for managing stakeholders effectively during the implementation of your Marketo Engage instance. This tutorial provides actionable tips to uncover your stakeholders needs, gain leadership buy-in, and communicate cross-functionally to seek implementation support.
 role: Admin
 level: Beginner
@@ -33,7 +33,7 @@ Kick off your implementation by aligning with your leaders and marketing and sal
 
 Take the information you laid out in the previous exercise and communicate specifically about how Marketo Engage will drive Return on Investment (ROI) and support strategic objectives for your stakeholders. Use the following initial outreach template to craft compelling messages that highlight Marketo Engage's value proposition for your organization.
 
-#### Template - Initial Outreach
+#### Template - Initial outreach
 
 <table>
 <tr>
@@ -63,11 +63,11 @@ Best,
 </table>
 
 
-### Action 3 - Demonstrate Early Wins
+### Action 3 - Demonstrate early wins
 
 Showcase quick wins or pilot projects to demonstrate the impact of Marketo Engage. This could be a targeted email campaign that drives significant engagement or an automated workflow that streamlines lead nurturing. Share these successes with stakeholders to reinforce their support and enthusiasm.
 
-#### Template - Early Wins
+#### Template - Early wins
 
 <table>
 <tr>
@@ -127,11 +127,11 @@ Best,
 </tr>
 </table>
 
-### Action 4 - Foster Ongoing Communication
+### Action 4 - Foster ongoing communication
 
 Maintain regular communication channels with stakeholders throughout the implementation process. Schedule check-in meetings or send progress updates using the provided email templates to keep them informed and involved. This also allows you to address any concerns or questions promptly to ensure ongoing buy-in from those teams.
 
-#### Template - Ongoing Updates
+#### Template - Ongoing updates
 
 <table>
 <tr>
@@ -174,7 +174,7 @@ Best,
 
 By following these actionable tips and referencing the templates, you will be better equipped to successfully implement Marketo Engage and secure strong support from your stakeholders throughout the onboarding process.
 
-## What's Next?
+## What's next?
 
 Download and use the [Onboarding Internal Communications Guide and Template](/help/marketo-tutorial-implementing-new-instance/assets/marketo-engage-new-instance-onboarding-internal-communications-guide-template.xlsx){target="_blank} to craft regular updates and report progress for stakeholders. Include key metrics, achievements, and upcoming milestones to keep them informed and engaged.
 

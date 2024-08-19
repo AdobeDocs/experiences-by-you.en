@@ -1,5 +1,5 @@
 ---
-title: Developing internal onboarding and training roadshow
+title: Develop Internal Onboarding and Training Roadshow
 description: Learn how to establish a robust procedure for creating and maintaining documentation and changelog for your [!DNL Marketo Engage] instance. This will not only save time for your team's knowledge sharing but also enhance the health and efficiency of your instance.
 role: Admin
 level: Beginner
@@ -56,7 +56,7 @@ Here's a sample of training curriculum suggested by Naomi Liu for you to customi
 |Reporting and Analytics  |<ul><li>Reporting walkthrough</li><li>Email, landing page and program performance</li><li>Building your own reports</li><li>Email and performance Insights</li></ul>  |Ongoing training, recorded videos for important sessions, regular reviews  |2h  |
 |Content AI  |<ul><li>Review Content AI functionality</li><li>Review assets eligible for Content AI (i.e., landing page, email, and dialogue)</li><li>Map out process (when/where) to use</li></ul> |Live session, walkthrough to review and how it works  |1h  |
 
-## What's Next? 
+## What's next? 
 
 * Download the [sample training curriculum](assets/adobe-marketo-engage-internal-training-roadshows.xlsx){_target="blank"} spreadsheet to develop your internal training modules.
 * Fill in the teams that are right for the session topic.  

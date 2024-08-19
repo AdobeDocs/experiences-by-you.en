@@ -1,6 +1,6 @@
 ---
-title: Building person scoring models for Marketo Engage programs
-description: Adobe Marketo Engage allows you to build your scoring model(s) from the ground up. Before you jump right in Marketo Engage to build your scoring programs, you will have to set up the essential score fields such as Demographic Score, Behavioral Score, and Total Person Score. Learn more about the strategies used by Marketo Engage Champions for developing Scoring Models that your business needs.
+title: Build Person Scoring Models for Marketo Engage Programs
+description: Learn about building your scoring models from the ground up.
 role: Admin
 level: Beginner
 doc-type: Article
@@ -15,7 +15,7 @@ exl-id: 73976144-f02b-4423-9b4b-410330117ba9
 
 Person scoring helps you identify the people who are most engaged with your company and are your Ideal Customer Profile so that you can share those leads with your sales team and close deals! Together with sales, you determine which leads you want to hand off to them by using a lead/person scoring program in Adobe Marketo Engage. This can either be determined by a minimum of behavioral scoring, demographic scoring, or both.
 
-In this tutorial, we will walk you through three exercises suggested by Marketo Engage Champions Christina Zuniga and Katja Keesom. Follow along to determine which activities and characteristics are important indicators that a prospect is interested in purchasing (behavioral scoring) and is the right fit for you (demographic scoring), and account for the nuances across markets.
+In this tutorial, we walk you through three exercises suggested by Marketo Engage Champions Christina Zuniga and Katja Keesom. Follow along to determine which activities and characteristics are important indicators that a prospect is interested in purchasing (behavioral scoring) and is the right fit for you (demographic scoring), and account for the nuances across markets.
 
 ## Why develop and use a person scoring model?
 
@@ -23,7 +23,7 @@ You may have many leads in your database, but how do you know which ones are rea
 
 By scoring people in your Marketo Engage database, you can measure how qualified your generated leads are and set criteria for when they are sales-ready. That allows your sales team to focus on the leads that are most likely to close while the marketing team continues to nurture the other people in the database via their marketing programs.
 
-## Exercise 1 - Determining Buyer Interest with Behavioral Scores
+## Exercise 1 - Determining buyer interest with behavioral scores
 
 Behavioral scoring is giving a numerical value to trackable actions a prospect takes that indicate interest in your products and services and intent to buy. For example, visiting the website shows interest, and visiting the pricing page may show intent. In contrast, visiting the careers page may indicate the person is not going to purchase.
 
@@ -50,7 +50,7 @@ Behavioral scoring is giving a numerical value to trackable actions a prospect t
 * Your threshold number should be large enough so that a person needs to complete multiple interactions with your brand to meet it. For example, one email open is unlikely to be a sufficient qualifier. If you just started, try working with a threshold of 100 and building out your person scoring from there.
 * Setting a high or low threshold depends on which leads your sales team is most interested in receiving and developing into business opportunities. If you have any existing data about your recent sales deals, analyze it and see what actions people took in successful deals. This can help you to determine how many touch points go into a qualified sales lead and help you extrapolate from there what your threshold number should be.
 
-**Example 1b – Threshold for sales handoff:**
+**Example 1b - Threshold for sales handoff:**
 
 | Average number of touchpoints for qualified lead | 4   |
 | --- | --- |
@@ -61,7 +61,7 @@ Behavioral scoring is giving a numerical value to trackable actions a prospect t
 * Use a positive behavior score for the activities that indicate interest to boost a prospect's overall lead score, and a negative score to indicate disinterest.
 * Using your threshold from 'Example 1b – Threshold for sales handoff' as a benchmark, determine your behavior scores relative to the importance of their actions. For example, prospects who request a demo should go straight to sales. Assigning that action a point value equal to your prospect handoff threshold will make the most sense. Meanwhile, downloading a white paper is not as strong an indicator of buying interest and therefore should be worth fewer points.
 
-**Example 1c – Scoring activities indicating intent to buy:**
+**Example 1c - Scoring activities indicating intent to buy:**
 
 | Threshold for sales handoff = 50 points |     |
 | --- | --- |
@@ -73,7 +73,7 @@ Behavioral scoring is giving a numerical value to trackable actions a prospect t
 
 **Step 5** - Remember, scoring is an iterative process! Continuously review and adjust scores and thresholds as you gather more data for analysis.
 
-## Exercise 2 - Identifying the right fit with Demographic Scores
+## Exercise 2 - Identify the right fit with demographic scores
 
 Now that you have defined the activities indicating buying intent, you should complete the scoring model with your Ideal Prospect Profiles. To identify whether a prospect is the right fit for further sales conversation, it's important to assign demographic scores in addition to behavioral scores so that the model helps determine the best leads in terms of fit and intent.
 
@@ -225,7 +225,7 @@ Do you prefer a video walk-through for this exercise? Tune in as Marketo Engage 
   </tr>
 </table>
 
-## What's Next?
+## What's next?
 
 * Download the [person scoring exercise sheet](./assets/build-person-scoring-model-and-local-flexibility-in-adobe-marketo-engage.docx){target="_blank} to develop your scoring model offline.
 * Build out your person scoring in Marketo Engage. Check this [tutorial](https://experienceleague.adobe.com/en/docs/marketo-learn/tutorials/lead-and-data-management/lead-scoring-watch){target="_blank} and [demo](https://experienceleague.adobe.com/en/docs/events/marketo-and-mochas-recordings/2023/lead-scoring){target="_blank} to get started. You can import a lead/person scoring program [template](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/core-marketo-concepts/programs/working-with-programs/import-a-program){target="_blank} from the Marketo Engage Reference Library to accelerate the program build.
