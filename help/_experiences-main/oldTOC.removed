@@ -6,6 +6,9 @@ breadcrumb-title: Experiences by You
 
 # Experiences by You {#experiences-by-you}
 
++ [Experience by You stub](stub-delete.md)
+
+<!--
 + [Experiences by You](/help/overview.md)
 
 + [!DNL Analytics] by You {#analytics}
@@ -92,4 +95,4 @@ breadcrumb-title: Experiences by You
     + [Engagement programs](/help/marketo/programs/engagement-programs.md)
   + Reporting and analytics {#reporting-and-analytics}
     + [Reporting and analytics](/help/marketo/reporting/reporting-and-analytics.md)
-  
+  -->

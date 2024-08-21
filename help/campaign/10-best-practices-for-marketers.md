@@ -4,7 +4,7 @@ description: Learn the ten best practices to help [!DNL Adobe] [!DNL Campaign] p
 doc-type: article
 solution: Campaign
 feature-set: Campaign
-feature: Personalization, [!DNL Campaign]s, Subscriptions, Deliverability
+feature: Personalization, Campaigns, Subscriptions, Deliverability
 role: User
 level: Beginner
 jira: KT-11772

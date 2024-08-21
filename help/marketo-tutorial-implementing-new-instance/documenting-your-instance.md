@@ -1,5 +1,5 @@
 ---
-title: Getting started on instance governance and documentation
+title: Get Started on Instance Governance and Documentation
 description: Learn essential strategies and best practices for getting started on your Marketo Engage governance and documentation. Discover how to create scalable documentation, streamline user training, and ensure building with a structure in your Marketo Engage instance.
 role: Admin
 level: Beginner
@@ -95,7 +95,7 @@ Another critical way of instance governance is to create a Changelog and enforce
 1. Reason for the change
 1. Who made the change
 
-## What's Next?
+## What's next?
 
 * Download the [sample documentation and Changelog](/help/marketo-tutorial-implementing-new-instance/assets/template-adobe-marketo-engage-instance-documentation.xlsx) and adapt them based on your organization's needs.
 * Store the documentation in an accessible platform where your organization prefers to reference and update regularly. For example, some Marketo Engage Champions use Confluence (by Atlassian) or Excel Spreadsheet.

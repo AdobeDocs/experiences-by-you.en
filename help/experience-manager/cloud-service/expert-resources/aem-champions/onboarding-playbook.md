@@ -25,6 +25,6 @@ Check out these tips from your fellow technical lead, Rakesh Pasupuleti. Rakesh 
 
 >[!VIDEO](https://video.tv.adobe.com/v/3419299?quality=12&learn=on)
 
-## Additional Resources {#additional-resources}
+## Additional resources {#additional-resources}
 
 * [AEM as a Cloud Service Onboarding Journey](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/onboarding/journey/overview.html) - A step-by-step guide for a new system administrator to initially provision cloud resources and assign users to roles based on their job responsibilities so each member of the team is able to login and access their new AEM as a Cloud Service resources

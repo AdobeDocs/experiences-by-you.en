@@ -1,5 +1,5 @@
 ---
-title: Navigate the [!DNL Marketo Engage] user interface
+title: Navigate the [!DNL Marketo Engage] User Interface
 description: Learn how to navigate the user interface and get familiar with your way around the [!DNL Marketo Engage] platform.
 role: User
 level: Beginner

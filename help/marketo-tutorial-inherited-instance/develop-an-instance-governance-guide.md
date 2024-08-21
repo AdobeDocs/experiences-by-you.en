@@ -1,6 +1,6 @@
 ---
-title: Develop an instance governance guide with documentation
-description: Learn how to establish a robust procedure for creating and maintaining documentation and changelog for your [!DNL Marketo Engage] instance. This will not only save time for your team's knowledge sharing but also enhance the health and efficiency of your instance.
+title: Develop an Instance Governance Guide with Documentation
+description: Learn how to establish a robust procedure for creating and maintaining documentation and changelog for your [!DNL Marketo Engage] instance.
 feature-set: Marketo Engage
 feature: Administration
 role: Admin
@@ -18,9 +18,9 @@ As you step into a legacy [!DNL Marketo Engage] instance, it often comes with th
 
 This step-by-step tutorial sourced from [!DNL [!DNL Adobe] Marketo Champion] (2018), Nick Hajdin, will guide you through this process to outline your instance setup, document your primary operational programs, and maintain a [!DNL changelog] to enforce a strict governance policy. 
 
-## Why develop an instance governance guide & documentation for your inherited instance? 
+## Develop an instance governance guide for your inherited instance 
 
-Detailed documentation and a [!DNL changelog] are vital for efficient management and knowledge transfer within your [!DNL Marketo Engage] instance. Keeping track of changes and decisions you've made during your instance setup can help you: 
+Detailed documentation and a [!UICONTROL Changelog] are vital for efficient management and knowledge transfer within your [!DNL Marketo Engage] instance. Keeping track of changes and decisions you've made during your instance setup can help you: 
 
 1. Train internal users more easily in a scalable way. 
 2. Build more efficiently in [!DNL Marketo Engage] in the long-term. 
@@ -72,21 +72,21 @@ Begin by identifying the key operational programs with impacts at the subscripti
 
 For each identified operational program, document its current state. This includes details about the program's purpose, setup, associated smart campaigns, and integration with other tools (if applicable).
 
-### Step 4: Enforce [!DNL Changelog] Maintenance
+### Step 4: Enforce [!UICONTROL Changelog] maintenance
 
-The next step is to establish a strict governance policy for your [!DNL Marketo Engage] instance that mandates "[!DNL Changelog] maintenance." This policy ensures that any updates made to operational programs across the instance are thoroughly documented.
+The next step is to establish a strict governance policy for your [!DNL Marketo Engage] instance that mandates "[!UICONTROL Changelog] maintenance." This policy ensures that any updates made to operational programs across the instance are thoroughly documented.
 
-Educate your team on the importance of these documents and how to access and update them properly. It could be helpful to assign responsibilities for maintaining the changelog, so a few designated Marketing Operation team members or administrators are consistently recording changes and provide signoffs.  
+Educate your team on the importance of these documents and how to access and update them properly. It could be helpful to assign responsibilities for maintaining the changelog, so a few designated Marketing Operation team members or administrators are consistently recording changes and provide sign-offs.  
 
-### Step 5: Centralize Documentation
+### Step 5: Centralize documentation
 
 Establish a central location or repository for storing all documentation related to your [!DNL Marketo Engage] instance. This could be a shared drive, a dedicated folder, or a cloud-based system.  
 
-### Step 6: Regularly Review and Update 
+### Step 6: Review and Update 
 
 Schedule regular reviews of your documentation to ensure it remains accurate and up to date. It can be overlooked easily during busy times. Proactively set up reminders on your calendar to ensure your team is regularly making updates to reflect any changes or optimizations in your operational programs.
 
-## What's Next?
+## What's next?
 
 Get Started by downloading this [simple template](/help/marketo-tutorial-inherited-instance/_assets/downloads/Adobe_Marketo_Engage_Inherited_Instance_Documentation-Changlog.xlsx). 
 

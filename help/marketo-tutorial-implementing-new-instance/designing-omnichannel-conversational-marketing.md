@@ -1,5 +1,5 @@
 ---
-title: Designing omnichannel conversational marketing with Dynamic Chat
+title: Design Omnichannel Conversational Marketing with Dynamic Chat
 description: Get a quick start to design conversational marketing with Adobe Dynamic Chat, the native conversational engagement channel within Adobe Marketo Engage. This tutorial offers actionable recipes to implement use cases such as sales meeting booking, website content engagement, and events/webinar promotion.
 role: Admin
 level: Beginner
@@ -27,7 +27,7 @@ When Sara Barriuso implemented Dynamic Chat, she was drawn by its seamless integ
 3. Prospects/customers: provide personalized experiences by extending the efforts of marketing campaigns.  
 
 
-## Key use cases to start building your Dialogues  
+## Key use cases to start building your dialogues  
 
 To implement these strategies, Sara built her Dynamic Chat Dialogues around the following use cases:  
 
@@ -185,7 +185,7 @@ Extending Campaign Content Engagement - Configuration:
 
 >[!ENDTABS]
 
-## What's Next? 
+## What's next? 
 
 * Map out your conversational flow in [Stream Designer](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/demand-generation/dynamic-chat/automated-chat/stream-designer){target="_blank"} or a flow chart offline.
 * Create a default catch-all Dialogue in Dynamic Chat. 
