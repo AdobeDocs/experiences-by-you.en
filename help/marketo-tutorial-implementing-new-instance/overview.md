@@ -15,7 +15,7 @@ exl-id: 58816df0-03d2-4d2f-a11b-8809c51d6e4f
 
 Welcome to Adobe [!DNL Marketo Engage]! Setting up a new instance is the first step to uplifting your digital marketing strategy with marketing automation. The key to a successful [!DNL Marketo Engage] implementation is documentation.  
 
-This ‘Implementing A New Instance Tips and Tricks’ series is sourced from Adobe [!DNL Marketo Engage] Champions who have conquered implementation before. The tutorial provides step-by-step guidance for new admins to manage the implementation project cross-functionally and configure technical settings independently. Selective topics also accompany downloadable checklists and templates for you to customize for your own needs without starting from scratch. Let’s dive into the wisdom of your peers! 
+This 'Implementing A New Instance Tips and Tricks' series is sourced from Adobe [!DNL Marketo Engage] Champions who have conquered implementation before. The tutorial provides step-by-step guidance for new admins to manage the implementation project cross-functionally and configure technical settings independently. Selective topics also accompany downloadable checklists and templates for you to customize for your own needs without starting from scratch. Let’s dive into the wisdom of your peers! 
 
 ## Topics and what you learn
   
