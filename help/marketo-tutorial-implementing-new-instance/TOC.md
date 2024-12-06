@@ -22,4 +22,4 @@ auto-video-transcripts: true
 + [Design omnichannel conversational marketing with Dynamic Chat](./designing-omnichannel-conversational-marketing.md)
 + [Get started on instance governance and documentation](./documenting-your-instance.md)
 + [[!DNL Marketo Engage] tutorials](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/overview.html?lang=en)
-+ [Back to perspectives](https://experienceleague.adobe.com/en/perspectives?lang=en#f-el_product=Marketo%20Engage&aq=((%40el_contenttype%20NOT%20%22Community%7CUser%22)%20AND%20(%40el_contenttype%3D%22perspective%22)))
++ [Back to perspectives](https://experienceleague.adobe.com/en/perspectives#f-el_product=Marketo%20Engage&aq=((%40el_contenttype%20NOT%20%22Community%7CUser%22)%20AND%20(%40el_contenttype%3D%22perspective%22)))
