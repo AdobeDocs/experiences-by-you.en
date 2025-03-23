@@ -1,7 +1,7 @@
 ---
 title: AEM Champion Best Practices and Tips - Post Migration
 description: Learn essential post-migration strategies and tips to optimize your transition to AEM as a Cloud Service.
-version: Cloud Service
+version: Experience Manager as a Cloud Service
 topic: Migration
 role: Admin, Developer
 level: Beginner, Intermediate

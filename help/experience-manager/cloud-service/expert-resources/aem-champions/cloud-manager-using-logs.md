@@ -1,7 +1,7 @@
 ---
 title: AEM Champion Tips and Tricks - Using Logs in Cloud Manager
 description: Check out these tips from your fellow AEM champion, Rami EL Gamal. In this video, Rami will walk you through how to download logs in Cloud Manager, while sharing best practice tips along the way.
-version: Cloud Service
+version: Experience Manager as a Cloud Service
 solution: Experience Manager Cloud Manager, Marketo Engage, Experience Manager
 feature-set: Experience Manager
 feature: Cloud Manager

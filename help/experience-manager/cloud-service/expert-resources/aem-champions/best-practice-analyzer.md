@@ -1,7 +1,7 @@
 ---
 title: Using the Best Practice Analyzer (BPA)
 description: Discover strategies for using the Best Practice Analyze (BPA) in readiness for your transition to AEM as a Cloud Service.
-version: Cloud Service
+version: Experience Manager as a Cloud Service
 feature: Migration
 topic: Migration
 role: Admin, Developer

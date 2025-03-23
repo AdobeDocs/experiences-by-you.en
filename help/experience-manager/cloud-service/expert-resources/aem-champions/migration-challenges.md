@@ -1,7 +1,7 @@
 ---
 title: AEM Champion - Address challenges when migrating to AEM as a Cloud Service
 description: Get expert advice on addressing common challenges when migrating to AEM as a Cloud Service from AEM champion, Wilson Faure.
-version: Cloud Service
+version: Experience Manager as a Cloud Service
 topic: Migration
 role: Admin, Developer
 level: Beginner
