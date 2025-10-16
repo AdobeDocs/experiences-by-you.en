@@ -21,7 +21,9 @@ Follow this step-by-step tutorial to build your first engagement program.
 ## Additional resources:
 
 See the related product guides for more information:
+
 * [Understanding Engagement Programs documentation](https://experienceleague.adobe.com/docs/marketo/using/product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/understanding-engagement-programs.html?lang=en)
 
 Learn from your peers on how to use Engagement Programs:
+
 * [Expert Customer Blog post: Engagement Programs](https://nation.marketo.com/t5/product-blogs/marketo-success-series-engagement-programs/ba-p/301712)

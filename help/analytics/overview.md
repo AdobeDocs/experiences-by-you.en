@@ -1,7 +1,7 @@
 ---
 title: Analytics by You
 description: Analytics by You features user generated content created by everyday users who have attained a level of expertise and influence with their knowledge of Adobe Analytics.
-role: User, Developer, Data Engineer, Architect, Data Architect, Admin, Leader
+role: User, Developer, Admin, Leader
 level: Beginner
 doc-type: overview
 solution: Analytics

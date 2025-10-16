@@ -45,6 +45,7 @@ And lastly, the Implementation Status column will serve as a status check as you
 
 **HOW:** Begin by listing all [!DNL Adobe] out-of-the-box variables (page, product, geo, etc.), as well as eVars, props, events, and list variables in an Excel doc. This should have one tab per site/report suite. 
 For each of those dimensions, I add the following columns:
+
 * **Name:** Provide a simple and short name that can be understood by most. This should be intuitive enough that a new user can pick it up and understand what the variable is intended to capture.
 * **Description:** More detail around what the variable is used for and what data it tracks. I keep this short and simple and have it match the description used in the interface. Ideally, I don't want my users to ever need to consult the tagging doc. So, when a new dimension is set up on the admin backend, I add the same description there. This way, the user can hit the information icon directly in Workspace to understand what a dimension is - no need to pull up an Excel doc!
 
@@ -84,6 +85,7 @@ This way your data is always clean, and you have a clear idea of your junk.
 
 **HOW:** Identify an owner of the doc to provide governance and a single source of responsibility for managing updates. 
 List the following on the properties tab:
+
 * **Property name:** This can be a domain, sub-domain, app name, etc. Even within the same domain, if some parts of it are managed separately (like by a different team, or a different technology), these should be separated out.
 * **Link (URL)** to property where available 
 * **Owner & Contacts:** List the main owner or contacts for the property

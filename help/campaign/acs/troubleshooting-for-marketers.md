@@ -58,11 +58,12 @@ Learn more about [reconciliation](https://experienceleague.adobe.com/docs/campai
 ## Common Field Dataset Error
 
 **Error Code:** 
-`The document types of inbound events (''and'') are incompatible (step 'Exclusion'). Unable to perform the operation. `
+
+`The document types of inbound events (''and'') are incompatible (step 'Exclusion'). Unable to perform the operation.`
 
 **Cause:** 
-This issue occurs while using the **exclusion activity** in ACS workflows, when performing an exclusion based on the ID, when the Primary set and the excluded set don't have the same field names. 
 
+This issue occurs while using the **exclusion activity** in ACS workflows, when performing an exclusion based on the ID, when the Primary set and the excluded set don't have the same field names. 
 
 ![Common Field Dataset Error](/help/_assets/kt-13256/dataset-error.png)
 
@@ -89,7 +90,7 @@ Failure points may occur in an **enrichment activity**. One of the most common i
 
 ![Field Name Dropped Error](/help/_assets/kt-13256/field-name-dropped-error.png)
 
-This happens when you manually edit an expression name in the activity. The image shows that the expression was modified from `name `to `i__name`. 
+This happens when you manually edit an expression name in the activity. The image shows that the expression was modified from `name` to `i__name`. 
 
 **Solution:**
 

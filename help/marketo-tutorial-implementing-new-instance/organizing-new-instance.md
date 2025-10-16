@@ -59,8 +59,10 @@ Below are folder examples of putting these tips into practice.
 Now, let's apply the folder structure at the program level. As a best practice, housing the local assets in sub-folders will help you keep the programs tidy and allow internal users to modify or report on the programs efficiently. Common sub-folders include emails, landing pages, Smart Campaigns, Lists, Reports, etc..
 
 **Folder Name inside Programs**
+
 * Campaigns - *Folder for all campaigns managing interactions and status tracking.*
 * Local Assets - *Folder for all assets that are specific to this Program.*
+
   * Emails
   * Landing Pages
   * Smart Campaigns
