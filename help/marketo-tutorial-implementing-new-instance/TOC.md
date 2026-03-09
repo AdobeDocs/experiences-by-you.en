@@ -2,7 +2,7 @@
 user-guide-title: Tutorial - Tips and Tricks for implementing a new [!DNL Marketo Engage] instance 
 user-guide-description: Tutorial - Tips and Tricks for implementing a new [!DNL Marketo Engage] instance 
 breadcrumb-title: Implementing a new [!DNL Marketo Engage] instance 
-index: yes
+index: true
 role: Admin
 level: Beginner
 solution: Marketo Engage

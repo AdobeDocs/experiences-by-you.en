@@ -3,7 +3,7 @@ user-guide-title: Tutorial - Tips and Tricks for Auditing an Inherited instance
 user-guide-description: Tips and Tricks for auditing an inherited [!DNL Marketo Engage] instance
 breadcrumb-title: Tutorial - Tips and Tricks for auditing an inherited [!DNL Marketo Engage] instance 
 breadcrumb-url: /docs/experiences-by-you/experiences-by-you/marketo-tutorial-inherited-instance/overview.html
-index: no
+index: false
 role: Admin
 level: Beginner
 solution: Marketo Engage
