@@ -127,4 +127,4 @@ These are a few tools that you can use: draw.io (Google Docs), [!DNL Adobe] XD, 
 **Amy Chiu**
 *Adoption & Retention Marketing Manager, [!DNL Adobe]*
 
-![Amy Chiu](/help/marketo-tutorial-inherited-instance/_assets/authors/[!DNL Adobe]_Author_Amy_Chiu.png){width=30%}
+![Amy Chiu](/help/marketo-tutorial-inherited-instance/_assets/authors/Adobe_Author_Amy_Chiu.png){width=30%}
