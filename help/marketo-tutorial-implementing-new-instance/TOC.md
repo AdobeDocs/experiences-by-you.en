@@ -20,5 +20,5 @@ auto-video-transcripts: true
 + [Organize a new instance and establishing naming conventions](./organizing-new-instance.md)
 + [Design omnichannel conversational marketing with Dynamic Chat](./designing-omnichannel-conversational-marketing.md)
 + [Get started on instance governance and documentation](./documenting-your-instance.md)
-+ [[!DNL Marketo Engage] tutorials](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/overview.html?lang=en)
-+ [Back to perspectives](https://experienceleague.adobe.com/en/perspectives#f-el_product=Marketo%20Engage&aq=((%40el_contenttype%20NOT%20%22Community%7CUser%22)%20AND%20(%40el_contenttype%3D%22perspective%22)))
++ [[!DNL Marketo Engage] tutorials](https://experienceleague.adobe.com/en/docs/marketo-learn/tutorials/overview)
++ [Back to perspectives](https://experienceleague.adobe.com/en/perspectives)
