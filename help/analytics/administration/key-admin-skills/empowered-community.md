@@ -47,7 +47,7 @@ You can create an empowered community within your organization. Here's how:
 
 * Define who is involved, roles, and responsibilities:
 
-  * **Administration project team:** The team managing the business' user group or community is typically responsible for defining the opportunity, such as via a project charter, creating the content plan (at least initially), and determining communication vehicles (for example, Microsoft® team, email distribution, quarterly call, and so on).
+  * **Administration project team:** The team managing the business' user group or community is typically responsible for defining the opportunity, such as via a project charter, creating the content plan (at least initially), and determining communication vehicles (for example, Microsoft&reg; team, email distribution, quarterly call, and so on).
   
   * **Executive sponsor:** It is key to have an executive sponsor to support the success of your business' internal user group or community. This role is key for supporting milestones, communication, ensuring prioritization across the broader team, and change management.
   
@@ -55,16 +55,16 @@ You can create an empowered community within your organization. Here's how:
   
   * **Tool users:** There is an opportunity for anyone that has the potential to impact data aligned to your business' [!DNL Adobe Analytics] implementation to get involved--regardless of title or role! 
 
-* Remember – “What’s in it for them?” Keeping your community focused on business use cases and priorities helps ensure engagement and success! 
+* Remember – "What's in it for them?" Keeping your community focused on business use cases and priorities helps ensure engagement and success! 
 
 ## 3. Use tools to start building your community
 
-* [Create a project charter](assets/[!DNL Adobe]-[!DNL Analytics]-Empowered-Community-Project-Charter-Template.pptx) (template download):
+* [Create a project charter](assets/Adobe-Analytics-Empowered-Community-Project-Charter-Template.pptx) (template download):
 
   A project charter is often a great way to align your business around the opportunity for an internal, empowered community. By answering the following questions, you have what you need to draft your charter:
 
   * What is the problem statement that you are trying to solve? What is your community goal, and what do you foresee as in scope or out of scope?
-  * “What’s in it for me?” What are the potential benefits or costs, how to measure success, and what are the risks?
+  * "What's in it for me?" What are the potential benefits or costs, how to measure success, and what are the risks?
   * What is the timeline for getting a community live? What setup work is needed from an enablement, tool, admin user groups, etc. perspective? It is typically best to have baseline enablement resources developed before launching a larger initiative. 
   * How effective will core team members be to the community's success, and who will be supported within the initiative?
   * Lastly, who is your executive sponsor? We cannot emphasize enough the value of a strong executive sponsor, someone to sign off on supporting the work and its value.
