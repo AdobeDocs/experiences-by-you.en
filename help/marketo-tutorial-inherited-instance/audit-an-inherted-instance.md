@@ -9,7 +9,6 @@ doc-type: Feature Video
 last-substantial-update: 2023-10-16
 jira: KT-13762
 thumbnail: 3422473.jpeg
-hide: no
 exl-id: e691d38f-34c2-4e46-908e-c96f82eb1399
 ---
 # Audit an inherited [!DNL Marketo Engage] instance
