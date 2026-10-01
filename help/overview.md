@@ -4,7 +4,7 @@ description: Learn from fellow Adobe customers about how they use Experience Clo
 role: User, Developer, Admin
 level: Beginner
 doc-type: overview
-solution: Experience Cloud
+solution: CX Enterprise
 exl-id: a3e976a1-8bf1-4c18-b5b5-831367a7e8a0
 ---
 # Experiences by You: Resources by users, for users.
