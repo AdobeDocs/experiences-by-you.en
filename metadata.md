@@ -1,6 +1,6 @@
 ---
 cloud: Experience Cloud
-solution: Experience Cloud, Experience Manager, Experience Manager Cloud Manager, Marketo Engage, Campaign
+solution: CX Enterprise, Experience Manager, Experience Manager Cloud Manager, Marketo Engage, Campaign
 product_v2:
   - id: d0a3eab4-7b10-4d96-a71e-6c0f8e7b7c87
     internal-label: "Experience Cloud"
