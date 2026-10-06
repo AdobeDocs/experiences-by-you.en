@@ -6,10 +6,19 @@ role: Admin
 level: Beginner
 doc-type: Tutorial
 duration: 0
-last-substantial-update: 2024-03-01
+last-substantial-update: 2024-03-01T00:00:00.000Z
 jira: KT-13204
 thumbnail: KT-13204.jpeg
 exl-id: 58816df0-03d2-4d2f-a11b-8809c51d6e4f
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+role_v2:
+  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+    internal-label: Admin
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
 ---
 # Tips and tricks for implementing a new [!DNL Marketo Engage] instance
 

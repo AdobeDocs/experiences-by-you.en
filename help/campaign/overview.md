@@ -5,8 +5,23 @@ role: User, Developer, Admin, Leader
 level: Beginner
 doc-type: overview
 solution: Campaign
-thumbnail: null
+thumbnail: 
 exl-id: cb9a03bd-8ce1-4681-929f-68f6ff435f6c
+product_v2:
+  - id: dfc56824-e8b9-499e-85d4-21aedb507314
+    internal-label: Campaign
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+  - id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
+    internal-label: Developer
+  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+    internal-label: Admin
+  - id: f8a45b24-4be7-4f1b-909b-60d06b483a20
+    internal-label: Leader
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
 ---
 # [!DNL Campaign] by You: Resources by users, for users.
 

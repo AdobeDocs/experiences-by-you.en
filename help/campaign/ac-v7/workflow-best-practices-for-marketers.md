@@ -11,8 +11,17 @@ activity: use
 team: TM
 role: User
 level: Beginner
-last-substantial-update: 2022-11-03
+last-substantial-update: 2022-11-03T00:00:00.000Z
 exl-id: 1c83cfef-c363-4cdc-838d-19e7110d4fd8
+product_v2:
+  - id: fd6e6e36-54e4-4f1a-96fc-1a750e400d50
+    internal-label: Campaign Classic v7
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
 ---
 # Top 5 Workflow Best Practices for Marketers from LoyaltyOne
 
