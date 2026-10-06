@@ -6,10 +6,19 @@ level: Beginner
 doc-type: Article
 solution: Marketo Engage
 duration: 0
-last-substantial-update: 2024-05-08
+last-substantial-update: 2024-05-08T00:00:00.000Z
 jira: KT-14815
 thumbnail: KT-14815.jpeg
 exl-id: b3dd05e1-c522-4631-a6b4-c0c6309f25d3
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+role_v2:
+  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+    internal-label: Admin
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
 ---
 # Getting started on instance governance and documentation
 

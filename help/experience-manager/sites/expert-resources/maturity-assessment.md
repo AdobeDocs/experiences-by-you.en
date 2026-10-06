@@ -7,8 +7,21 @@ audience: author, marketer, developer
 role: Admin
 level: Intermediate
 topic: Administration
-last-substantial-update: 2023-11-03
+last-substantial-update: 2023-11-03T00:00:00.000Z
 exl-id: 65a12916-27bb-4761-a1d3-da8ff4c51ef8
+product_v2:
+  - id: c68cd75e-5bca-4bc3-a60e-9e183f816441
+    internal-label: Experience Manager Cloud Manager
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+  - id: c45915cf-e157-4af7-a80d-97b905bcb3a5
+    internal-label: Experience Manager Sites
+role_v2:
+  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+    internal-label: Admin
+level_v2:
+  - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+    internal-label: Intermediate
 ---
 # Your AEM Sites Maturity Assessment Checklist
 

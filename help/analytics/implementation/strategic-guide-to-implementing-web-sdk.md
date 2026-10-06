@@ -7,10 +7,22 @@ role: User
 level: Experienced
 doc-type: Article
 duration: 72000
-last-substantial-update: 2024-05-14
+last-substantial-update: 2024-05-14T00:00:00.000Z
 jira: KT-15488
 thumbnail: KT-15488.jpeg
 exl-id: b0719779-f260-45b7-bdd6-1a3145bcb251
+product_v2:
+  - id: e55547f1-a1ff-40c6-8978-026e40ab7fa4
+    internal-label: Analytics
+feature_v2:
+  - id: b8734a57-d5fb-44a8-8ee1-65225cecaeae
+    internal-label: Data configuration and collection
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+level_v2:
+  - id: d378ca77-2da1-4f39-ad92-1917fe974a38
+    internal-label: Experienced
 ---
 # A strategic guide to implementing Web SDK
 

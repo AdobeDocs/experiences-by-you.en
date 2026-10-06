@@ -7,10 +7,22 @@ feature: Administration
 role: Admin
 level: Beginner
 doc-type: Tutorial
-last-substantial-update: 2023-10-16
+last-substantial-update: 2023-10-16T00:00:00.000Z
 jira: KT-13890
 thumbnail: KT-13890.jpeg
 exl-id: 3125e813-7d39-4403-922f-5a55bcbbbf95
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: d1d0a9cd-295d-4976-8c39-ddae266f240e
+    internal-label: Administration
+role_v2:
+  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+    internal-label: Admin
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
 ---
 # Tips and tricks for auditing an inherited [!DNL Marketo Engage] instance
 
